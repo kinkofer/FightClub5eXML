@@ -1,0 +1,449 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="compendium" type="compendiumType"/>
+    
+    <!-- Restrictions -->
+    
+    <xs:simpleType name="empty">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="roll">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="SPELL|([\(]*[0-9]*((d[0-9])+)*([+-][0-9]+)*([+-](S[Tt][Rr]|D[Ee][Xx]|C[Oo][Nn]|I[Nn][Tt]|W[Ii][Ss]|C[Hh][Aa]|PROF|%0|LVL|W|W[Oo]|SPELL)?)*[\)]*)*[+-]?"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="rollFormula">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="SPELL|([\(]*[0-9]*((d[0-9])+)*([+-x/][0-9]+)*([+-x/](S[Tt][Rr]|D[Ee][Xx]|C[Oo][Nn]|I[Nn][Tt]|W[Ii][Ss]|C[Hh][Aa]|PROF|LVL|W|W[Oo]|SPELL)?)*[\)]*)*[+-x/]?"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="integer">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="double">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]*[.]?[0-9]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="boolean">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(YES|NO|[01])*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="acType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]+( [(].*[)])*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="hpType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]+( [(][0-9]*(d[0-9]+)*([+-][0-9]+)*[)])*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="crType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([0-9]+|(1/[248]))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="integerList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9 ]*(, ?[0-9 ]*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="propertyList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(A|F|H|L|LD|R|S|T|2H|V|M)*(, ?(A|F|H|L|LD|R|S|T|2H|V|M)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="abilityBonusList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="((S[Tt][Rr]|D[Ee][Xx]|C[Oo][Nn]|I[Nn][Tt]|W[Ii][Ss]|C[Hh][Aa]) [+-]?[0-9]+)*(, ?((S[Tt][Rr]|D[Ee][Xx]|C[Oo][Nn]|I[Nn][Tt]|W[Ii][Ss]|C[Hh][Aa]) [+-]?[0-9]+))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="abilityList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma)*(, ?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="skillList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="skillBonusList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*(, ?(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="abilityAndSkillList">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="itemEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="LA"/>
+            <xs:enumeration value="MA"/>
+            <xs:enumeration value="HA"/>
+            <xs:enumeration value="S"/>
+            <xs:enumeration value="M"/>
+            <xs:enumeration value="R"/>
+            <xs:enumeration value="A"/>
+            <xs:enumeration value="RD"/>
+            <xs:enumeration value="ST"/>
+            <xs:enumeration value="WD"/>
+            <xs:enumeration value="RG"/>
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="SC"/>
+            <xs:enumeration value="W"/>
+            <xs:enumeration value="G"/>
+            <xs:enumeration value="$"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="damageEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="B"/>
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="S"/>
+            <xs:enumeration value="A"/>
+            <xs:enumeration value="C"/>
+            <xs:enumeration value="F"/>
+            <xs:enumeration value="FC"/>
+            <xs:enumeration value="L"/>
+            <xs:enumeration value="N"/>
+            <xs:enumeration value="PS"/>
+            <xs:enumeration value="R"/>
+            <xs:enumeration value="T"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="sizeEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="T"/>
+            <xs:enumeration value="S"/>
+            <xs:enumeration value="M"/>
+            <xs:enumeration value="L"/>
+            <xs:enumeration value="H"/>
+            <xs:enumeration value="G"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="abilityEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Strength"/>
+            <xs:enumeration value="Dexterity"/>
+            <xs:enumeration value="Constitution"/>
+            <xs:enumeration value="Intelligence"/>
+            <xs:enumeration value="Wisdom"/>
+            <xs:enumeration value="Charisma"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="skillEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Athletics"/>
+            <xs:enumeration value="Acrobatics"/>
+            <xs:enumeration value="Animal Handling"/>
+            <xs:enumeration value="Arcana"/>
+            <xs:enumeration value="Deception"/>
+            <xs:enumeration value="History"/>
+            <xs:enumeration value="Insight"/>
+            <xs:enumeration value="Intimidation"/>
+            <xs:enumeration value="Investigation"/>
+            <xs:enumeration value="Medicine"/>
+            <xs:enumeration value="Nature"/>
+            <xs:enumeration value="Perception"/>
+            <xs:enumeration value="Performance"/>
+            <xs:enumeration value="Persuasion"/>
+            <xs:enumeration value="Religion"/>
+            <xs:enumeration value="Sleight of Hand"/>
+            <xs:enumeration value="Stealth"/>
+            <xs:enumeration value="Survival"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="categoryEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="bonus"/>
+            <xs:enumeration value="ability score"/>
+            <xs:enumeration value="ability modifier"/>
+            <xs:enumeration value="saving throw"/>
+            <xs:enumeration value="skills"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="schoolEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="A"/>
+            <xs:enumeration value="C"/>
+            <xs:enumeration value="D"/>
+            <xs:enumeration value="EN"/>
+            <xs:enumeration value="EV"/>
+            <xs:enumeration value="I"/>
+            <xs:enumeration value="N"/>
+            <xs:enumeration value="T"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="modifierValue">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([Pp]assive )?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Hh][Pp]) ?[+-]? ?([0-9]*|%0|prof)"/>
+            <xs:pattern value="([Mm]elee damage|[Mm]elee attacks|[Ww]eapon damage|[Ww]eapon attacks|[Rr]anged damage|[Rr]anged attacks|[Ss]pell attack|[Ss]pell [Dd][Cc]|[Ss]aving throws|[Aa][Cc]|[Ss]peed|[Pp]roficiency bonus|[Ii]nitiative) ?[+-]? ?([0-9]*|%0|prof)"/>
+            <xs:pattern value="([Aa]thletics|[Aa]crobatics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) ?[+-]? ?([0-9]*|%0|prof)"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="attackType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(.*[|]([ ]|[0-9]*)[|]([0-9]*(d[0-9]+)*([+-][0-9]+)*)*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!-- End Restrictions -->
+    
+    <!-- Shared Types -->
+    
+    <xs:complexType name="modifierType">
+        <xs:simpleContent>
+            <xs:extension base="modifierValue">
+                <xs:attribute type="categoryEnum" name="category"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:complexType name="traitType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="attackType" name="attack" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="xs:string" name="special" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="slotsType">
+        <xs:simpleContent>
+            <xs:extension base="integerList">
+                <xs:attribute type="boolean" name="optional" use="optional"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <!-- End Shared Types -->
+    
+    <!-- Monster -->
+    
+    <xs:complexType name="monsterType">
+      <xs:choice maxOccurs="unbounded" minOccurs="0">
+        <xs:element type="xs:string" name="name"/>
+        <xs:element type="sizeEnum" name="size"/>
+        <xs:element type="xs:string" name="type"/>
+        <xs:element type="xs:string" name="alignment"/>
+        <xs:element type="acType" name="ac"/>
+        <xs:element type="hpType" name="hp"/>
+        <xs:element type="xs:string" name="speed"/>
+        <xs:element type="xs:integer" name="str"/>
+        <xs:element type="xs:integer" name="dex"/>
+        <xs:element type="xs:integer" name="con"/>
+        <xs:element type="xs:integer" name="int"/>
+        <xs:element type="xs:integer" name="wis"/>
+        <xs:element type="xs:integer" name="cha"/>
+        <xs:element type="abilityBonusList" name="save"/>
+        <xs:element type="skillBonusList" name="skill"/>
+        <xs:element type="xs:string" name="resist"/>
+        <xs:element type="xs:string" name="vulnerable"/>
+        <xs:element type="xs:string" name="immune"/>
+        <xs:element type="xs:string" name="conditionImmune"/>
+        <xs:element type="xs:string" name="senses"/>
+        <xs:element type="xs:integer" name="passive"/>
+        <xs:element type="xs:string" name="languages"/>
+        <xs:element type="crType" name="cr"/>
+        <xs:element type="traitType" name="trait"/>
+        <xs:element type="traitType" name="action"/>
+        <xs:element type="traitType" name="legendary"/>
+        <xs:element type="traitType" name="reaction"/>
+        <xs:element type="xs:string" name="spells"/>
+        <xs:element type="slotsType" name="slots"/>
+        <xs:element type="xs:string" name="environment"/>
+      </xs:choice>
+    </xs:complexType>
+    
+    <!-- End Monster -->
+    
+    <!-- Spell -->
+    
+    <xs:complexType name="spellType">
+      <xs:sequence>
+        <xs:element type="xs:string" name="name"/>
+        <xs:element type="xs:integer" name="level"/>
+        <xs:element type="schoolEnum" name="school" minOccurs="0"/>
+        <xs:element type="boolean" name="ritual"/>
+        <xs:element type="xs:string" name="time"/>
+        <xs:element type="xs:string" name="range"/>
+        <xs:element type="xs:string" name="components"/>
+        <xs:element type="xs:string" name="duration"/>
+        <xs:element type="xs:string" name="classes"/>
+        <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element type="roll" name="roll" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+    
+    <!-- End Spell -->
+    
+    <!-- Background -->
+    
+    <xs:complexType name="backgroundType">
+      <xs:sequence>
+        <xs:element type="xs:string" name="name"/>
+        <xs:element type="skillList" name="proficiency"/>
+        <xs:element type="traitType" name="trait" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+    
+    <!-- End Background -->
+    
+    <!-- Feat -->
+    
+    <xs:complexType name="featType">
+      <xs:sequence>
+        <xs:element type="xs:string" name="name"/>
+        <xs:element type="xs:string" name="prerequisite"/>
+        <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element type="abilityAndSkillList" name="proficiency" minOccurs="0"/>
+        <xs:element type="modifierType" name="modifier" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+    
+    <!-- End Feat -->
+    
+    <!-- Class -->
+    
+    <xs:complexType name="featureType">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:string" name="text"/>
+            <xs:element type="xs:string" name="special"/>
+            <xs:element type="modifierType" name="modifier"/>
+            <xs:element type="xs:string" name="proficiency"/>
+        </xs:choice>
+        <xs:attribute type="boolean" name="optional" use="optional"/>
+    </xs:complexType>
+    
+    <xs:complexType name="autolevelType" mixed="true">
+        <xs:sequence>
+            <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="slotsType" name="slots" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute type="xs:integer" name="level" use="optional"/>
+        <xs:attribute type="boolean" name="scoreImprovement" use="optional"/>
+    </xs:complexType>
+    
+    <xs:complexType name="classType">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:integer" name="hd"/>
+            <xs:element type="abilityAndSkillList" name="proficiency"/>
+            <xs:element type="abilityEnum" name="spellAbility"/>
+            <xs:element type="integer" name="numSkills"/>
+            <xs:element type="autolevelType" name="autolevel"/>
+            <xs:element type="xs:string" name="armor"/>
+            <xs:element type="xs:string" name="weapons"/>
+            
+            <xs:element name="tools">
+                <xs:complexType mixed="true">
+                    <xs:sequence>
+                        <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
+                        <xs:element type="slotsType" name="slots" minOccurs="0"/>
+                    </xs:sequence>
+                    <xs:attribute type="xs:integer" name="level" use="optional"/>
+                    <xs:attribute type="xs:string" name="scoreImprovement" use="optional"/>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element type="rollFormula" name="wealth"/>
+        </xs:choice>
+    </xs:complexType>
+    
+    <!-- End Class -->
+    
+    <!-- Item -->
+    
+    <xs:complexType name="itemType">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="itemEnum" name="type"/>
+            <xs:element type="boolean" name="magic"/>
+            <xs:element type="xs:string" name="detail"/>
+            <xs:element type="double" name="weight"/>
+            <xs:element type="xs:string" name="text"/>
+            <xs:element type="roll" name="roll"/>
+            <xs:element type="double" name="value"/>
+            <xs:element type="modifierType" name="modifier"/>
+            <xs:element type="xs:integer" name="ac"/>
+            <xs:element type="integer" name="strength"/>
+            <xs:element type="boolean" name="stealth"/>
+            <xs:element type="roll" name="dmg1"/>
+            <xs:element type="roll" name="dmg2"/>
+            <xs:element type="damageEnum" name="dmgType"/>
+            <xs:element type="propertyList" name="property"/>
+            <xs:element type="xs:string" name="range"/>
+        </xs:choice>
+    </xs:complexType>
+    
+    <!-- End Item -->
+    
+    <!-- Race -->
+    
+    <xs:complexType name="raceType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="sizeEnum" name="size"/>
+            <xs:element type="xs:integer" name="speed"/>
+            <xs:element type="abilityBonusList" name="ability"/>
+            <xs:element type="abilityEnum" name="spellAbility"/>
+            <xs:element type="skillList" name="proficiency"/>
+            <xs:element type="traitType" name="trait" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="modifierType" name="modifier" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <!-- End Race -->
+    
+    <!-- Compendium -->
+    
+    <xs:complexType name="compendiumType">
+        <xs:sequence>
+            <xs:element type="itemType" name="item" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="raceType" name="race" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="classType" name="class" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="featType" name="feat" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="backgroundType" name="background" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="spellType" name="spell" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="monsterType" name="monster" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute type="xs:byte" name="version"/>
+        <xs:attribute type="xs:string" name="auto_indent"/>
+    </xs:complexType>
+</xs:schema>
