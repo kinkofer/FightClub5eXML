@@ -59,3 +59,7 @@ Added more ghosts of saltmarsh merfolk salvager, minotaur living statue, monstro
 2019-09-08 
 
 Updated more from Ghosts of Saltmarsh, additional pirates, sahuagin.
+
+2019-09-08
+
+Updated cast-off armor, this was incorrectly showing the AC as +1 more than usual
