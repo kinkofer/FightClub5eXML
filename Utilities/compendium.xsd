@@ -235,12 +235,12 @@
     </xs:complexType>
     
     <xs:complexType name="traitType">
-        <xs:sequence>
-            <xs:element type="xs:string" name="name"/>
+        <xs:choice maxOccurs="unbounded">
+            <xs:element type="xs:string" name="name" minOccurs="0"/>
             <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="attackType" name="attack" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="xs:string" name="special" minOccurs="0"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="slotsType">
@@ -295,7 +295,7 @@
     <!-- Spell -->
     
     <xs:complexType name="spellType">
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element type="xs:string" name="name"/>
         <xs:element type="xs:integer" name="level"/>
         <xs:element type="schoolEnum" name="school" minOccurs="0"/>
@@ -307,7 +307,7 @@
         <xs:element type="xs:string" name="classes"/>
         <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
         <xs:element type="roll" name="roll" maxOccurs="unbounded" minOccurs="0"/>
-      </xs:sequence>
+      </xs:choice>
     </xs:complexType>
     
     <!-- End Spell -->
@@ -315,11 +315,11 @@
     <!-- Background -->
     
     <xs:complexType name="backgroundType">
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element type="xs:string" name="name"/>
         <xs:element type="skillList" name="proficiency"/>
         <xs:element type="traitType" name="trait" maxOccurs="unbounded" minOccurs="0"/>
-      </xs:sequence>
+      </xs:choice>
     </xs:complexType>
     
     <!-- End Background -->
@@ -327,13 +327,13 @@
     <!-- Feat -->
     
     <xs:complexType name="featType">
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element type="xs:string" name="name"/>
         <xs:element type="xs:string" name="prerequisite"/>
         <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
         <xs:element type="abilityAndSkillList" name="proficiency" minOccurs="0"/>
         <xs:element type="modifierType" name="modifier" maxOccurs="unbounded" minOccurs="0"/>
-      </xs:sequence>
+      </xs:choice>
     </xs:complexType>
     
     <!-- End Feat -->
@@ -352,10 +352,10 @@
     </xs:complexType>
     
     <xs:complexType name="autolevelType" mixed="true">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="slotsType" name="slots" minOccurs="0"/>
-        </xs:sequence>
+        </xs:choice>
         <xs:attribute type="xs:integer" name="level" use="optional"/>
         <xs:attribute type="boolean" name="scoreImprovement" use="optional"/>
     </xs:complexType>
@@ -373,10 +373,10 @@
             
             <xs:element name="tools">
                 <xs:complexType mixed="true">
-                    <xs:sequence>
+                    <xs:choice maxOccurs="unbounded">
                         <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
                         <xs:element type="slotsType" name="slots" minOccurs="0"/>
-                    </xs:sequence>
+                    </xs:choice>
                     <xs:attribute type="xs:integer" name="level" use="optional"/>
                     <xs:attribute type="xs:string" name="scoreImprovement" use="optional"/>
                 </xs:complexType>
@@ -417,7 +417,7 @@
     <!-- Race -->
     
     <xs:complexType name="raceType">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element type="xs:string" name="name"/>
             <xs:element type="sizeEnum" name="size"/>
             <xs:element type="xs:integer" name="speed"/>
@@ -426,7 +426,7 @@
             <xs:element type="skillList" name="proficiency"/>
             <xs:element type="traitType" name="trait" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="modifierType" name="modifier" minOccurs="0"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <!-- End Race -->
@@ -434,7 +434,7 @@
     <!-- Compendium -->
     
     <xs:complexType name="compendiumType">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element type="itemType" name="item" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="raceType" name="race" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="classType" name="class" maxOccurs="unbounded" minOccurs="0"/>
@@ -442,7 +442,7 @@
             <xs:element type="backgroundType" name="background" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="spellType" name="spell" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="monsterType" name="monster" maxOccurs="unbounded" minOccurs="0"/>
-        </xs:sequence>
+        </xs:choice>
         <xs:attribute type="xs:byte" name="version"/>
         <xs:attribute type="xs:string" name="auto_indent"/>
     </xs:complexType>
