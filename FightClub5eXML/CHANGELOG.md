@@ -63,3 +63,11 @@ Updated more from Ghosts of Saltmarsh, additional pirates, sahuagin.
 2019-09-08
 
 Updated cast-off armor, this was incorrectly showing the AC as +1 more than usual
+
+2019-09-09
+
+amended some spell slots for spellcasters to have proper number
+
+2019-09-14
+
+Couple of fixes to the XML.
