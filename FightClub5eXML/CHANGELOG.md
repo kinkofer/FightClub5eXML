@@ -68,6 +68,6 @@ Updated cast-off armor, this was incorrectly showing the AC as +1 more than usua
 
 amended some spell slots for spellcasters to have proper number
 
-2019-09-14
+2019-09-22
 
-Couple of fixes to the XML.
+Completed Ghosts of Saltmarsh
