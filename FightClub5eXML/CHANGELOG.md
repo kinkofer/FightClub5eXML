@@ -70,4 +70,8 @@ amended some spell slots for spellcasters to have proper number
 
 2019-09-22
 
-Completed Ghosts of Saltmarsh
+Completed Ghosts of saltmarsh
+
+2019-10-01
+
+Updated with magical items from Baldur’s Gate Descent into Avernus 

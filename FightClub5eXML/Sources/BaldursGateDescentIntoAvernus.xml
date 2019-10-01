@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+	<item>
+  		<name>Battle Standard of Infernal Power</name>
+  		<type>W</type>
+  		<detail>very rare (requires attunement)</detail>
+  		<text>This hell-forged battle standard is made of infernal iron and fitted with a small, unopenable cage containing a quasit. The trapped quasit is incapacitated, and its cage has AC 19, 10 hit points, and immunity to all types of damage except force damage. If killed or somehow released, the quasit disappears in a cloud of smoke, and a new one appears in the cage, provided the cage is intact.</text>
+  		<text>While you hold the banner, your weapon attacks and those of all allied creatures within 300 feet of you count as magical for the purposes of overcoming damage immunities and resistances.</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus, p. 223</text>
+	</item>
+	<item>
+  		<name>Gauntlets of Flaming Fury</name>
+  		<type>W</type>
+  		<detail>rare (requires attunement)</detail>
+  		<magic>YES</magic>
+  		<text>While you wear both of these steel gauntlets, any non-magical weapon you grasp with either gauntlet is treated as a magic weapon. As a bonus action, you can use the gauntlets to cause magical flames to envelop one or two melee weapons in your grasp. Each flaming weapon deals an extra 1d6 fire damage on a hit. The flames last until you sheath or let go of either weapon. Once used, this property can't be used again until the next dawn.</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus, p. 223</text>
+	</item>
+	<item>
+  		<name>Fane-Eater</name>
+  		<type>M</type>
+  		<detail>legendary (requires attunement by an evil cleric or paladin)</detail>
+  		<magic>YES</magic>
+  		<text>Fane-Eater is a battleaxe belonging to Arkhan the Cruel.</text>
+  		<text>You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra 2d8 necrotic damage, and you regain a number of hit points equal to the necrotic damage taken.</text>
+  		<text />
+  		<text>Proficiency: martial</text>
+  		<text>Source: Baldur’s Gate - Descent into Avernus, p. 223</text>
+  		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>M,V</property>
+		<range></range>
+  		<modifier category="bonus">melee damage +3</modifier>
+  		<modifier category="bonus">melee attacks +3</modifier>
+	</item>
+	<item>
+  		<name>Hellfire Weapon</name>
+  		<type>M</type>
+  		<detail>uncommon</detail>
+  		<magic>YES</magic>
+  		<text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.</text>
+  		<text>Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a lemure devil (described in the Monster Manual).</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus, p. 223</text>
+	</item>
+	<item>
+		<name>Helm of Devil Command</name>
+  		<type>W</type>
+  		<detail>very rare (requires attunement by a creature that can speak Infernal)</detail>
+  		<magic>YES</magic>
+  		<text>This bulky, eyeless helmet is made for a pit fiend but magically resizes to fit the heads of other wearers. While wearing the helm, you can see out of it as though you weren't wearing it. In addition, you know the exact location and type of all devils within 1,000 feet of you. You can telepathically communicate with a devil within range, or you can broadcast your thoughts to all devils within range. The devils receiving your broadcasted thoughts have no special means of replying to them.</text>
+  		<text>The helm has 3 charges. As an action, you can expend 1 charge to cast dominate monster (save DC 21), which affects devils only. (The spell fails and the charge is wasted if you target any creature that's not a devil.) If a devil can see you when you cast this spell on it, the devil knows you tried to charm it. The helm regains all its charges 24 hours after its last charge is expended.</text>
+  		<text>If you are not a devil, using the helm's dominate monster property in the Nine Hells has a 20 percent chance of attracting a narzugon, which arrives on the back of a nightmare mount in 1d4 hours. The narzugon tries to recover the helm, killing you if necessary to obtain it. If it gets the helm, the narzugon tries to deliver it to its infernal master.</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus</text>
+	</item>
+	<item>
+  		<name>Internal Puzzle Box</name>
+  		<type>W</type>
+  		<detail>uncommon</detail>
+  		<weight>3</weight>
+		<magic>YES</magic>
+  		<text>An infernal puzzle box is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. Infernal puzzle boxes are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty infernal puzzle box weighs 3 pounds regardless of the materials used to fashion it.</text>
+  		<text>When an object small enough to fit inside an infernal puzzle box is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every infernal puzzle box is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular infernal puzzle box, that creature can open the box as an action, allowing access to the box's contents.</text>
+  		<text>A creature that spends 1 hour holding an infernal puzzle box while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the creature must make a DC 18 Wisdom saving throw, taking 42 (12d6) psychic damage on a failed save, or half as much damage on a successful one.</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus</text>
+	</item>
+	<item>
+  		<name>Infernal Tack</name>
+  		<type>W</type>
+  		<detail>legendary (requires attunement by a creature of evil alignment)</detail>
+  		<magic>YES</magic>
+  		<text>A narzugon devil binds a nightmare (described in the Monster Manual) to its service with infernal tack, which consists ofa bridle, bit, reins, saddle, stirrups, and spurs. A nightmare equ.ipped with infernal tack must serve whoever wears the spires until the wearer dies or the tack is removed.</text>
+  		<text>You can use an action to call the nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet ofyou. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again.</text>
+  		<text>The tack doesn’t conjure a nightmare from thin air: one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become partners in evil.</text>
+  		<text />
+  		<text>Source: Baldur’s Gate - Descent into Avernus</text>
+	</item>
+	<item>
+		<name>Matalotok</name>
+  		<type>M</type>
+  		<detail>Legendary</detail>
+  		<magic>YES</magic>
+  		<text>Matalotok, the Frost Father, is an ancient hammer fashioned by Thrym, the god of frost giants. The favored weapon of the demon lord Kostchtchie, Matalotok is frigid to the touch and wreathed in mist.</text>
+  		<text>You are immune to cold damage while holding Matalotok. Whenever it deals damage to a creature, the hammer radiates a burst of intense cold in a 30-foot-radius sphere. Each creature in that area takes 10 (3d6) cold damage.</text>
+  		<text />
+  		<text>Proficiency: martial, warhammer</text>
+  		<text>Source: Baldur’s Gate - Descent into Avernus</text>
+  		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>B</dmgType>
+		<property>M,V</property>
+		<range></range>
+	</item>
+</compendium>
