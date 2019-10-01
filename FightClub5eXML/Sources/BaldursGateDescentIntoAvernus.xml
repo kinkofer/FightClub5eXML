@@ -33,8 +33,8 @@
 		<dmgType>S</dmgType>
 		<property>M,V</property>
 		<range></range>
-  		<modifier category="Bonuses">weapon damage +3</modifier>
-  		<modifier category="Bonuses">weapon attacks +3</modifier>
+  		<modifier category="bonus">melee damage +3</modifier>
+  		<modifier category="bonus">melee attacks +3</modifier>
 	</item>
 	<item>
   		<name>Hellfire Weapon</name>
