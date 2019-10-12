@@ -61,7 +61,7 @@
 	  <action>
 	    <name>Raking Scythes</name>
 	    <text>When the Tormentor moves within 5 feet of a creature that isn't prone or another  vehicle for the first time on a turn, it can rake the creature or  vehicle with its protruding blades for 13 (2d10+2) slashing damage. A creature moves out of the way and takes no damage if it succeeds on a DC 13 Dexterity saving throw. A vehicle moves out of the way and takes no damage if its driver succeeds on the saving throw.</text>
-	    <attack>Raking Scythes|2d10+2</attack>
+	    <attack>Raking Scythes|0|2d10+2</attack>
 	  </action>
 	  <trait>
 	    <name>Helm (Requires 1 Crew and Grants Three Quarters Cover)</name>
