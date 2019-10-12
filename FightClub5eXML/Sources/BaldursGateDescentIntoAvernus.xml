@@ -12,7 +12,7 @@
 		<immune>fire, poison, psychic</immune>
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
 	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text> 
-	<trait>
+	<trait> 
 		<name>Jump</name>
 	    <text>If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement.</text>
 	</trait>
@@ -262,7 +262,7 @@
   		<text>You gain +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end grappled condition on yourself.</text>
   		<text />	
 		<text>Source: Baldur's Gate Descent into Avernus, p. 224</text>
-  		<modifier category="Bonus">Armor Class +2</modifier>
+  		<modifier category="bonus">ac +2</modifier>
 	</item>
 	<item>
 		<name>Shield of the Hidden Lord</name>
@@ -282,7 +282,7 @@
 		<text>Freeing Gargauth. Casting dispel evil and good on the shield has a 1 percent chance of freeing the pit fiend, or automatically succeeds if the spell is cast by a solar, a planetar, or an archdevil. A god can release the pit fiend by touching the shield and speaking Gargauth's name. When released, Gargauth appears in a random, unoccupied space as close to the shield as possible.</text>
 		<text />
 		<text>Source: Baldur's Gate Descent into Avernus, p. 225</text>
-		<modifier category="Bonus">Armor Class +2</modifier>
+		<modifier category="bonus">ac +2</modifier>
 	</item>
 	<item>
 		<name>Soul Coin</name>
