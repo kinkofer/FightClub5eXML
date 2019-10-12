@@ -1,5 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
+
+	<monster>
+		<name>Devil’s Ride</name>
+		<size>L</size>
+		<type>infernal vehicle</type>
+		<speed>120</speed>
+		<ac>23 (19 while motionless)</ac>
+		<str>14</str><dex>18</dex><con>12</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>30</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+	</trait>
+	<trait> 
+		<name>Jump</name>
+	    <text>If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement.</text>
+	</trait>
+	<trait>
+	    <name>Prone Deficiency</name>
+	    <text>If the Devil's Ride falls prone, it can't right itself and is incapacitated until pulled upright.</text>
+	</trait>
+	<trait>
+	    <name>Stunt</name>
+	    <text>On its turn, the driver ofthe Devil's Ride can expend 10 feet of movement to perform one free infernal vehicle stunt, such as a wheelie or a burnout. Before the stunt can be performed, the Devil's Ride must move at least l0 feet in a straight line. If the driver succeeds on DC 10 Dexterity check using the bike's Dexterity, the stunt is successful. Otherwise, the driver is unable to perform the stunt and can't attempt another stunt until the start of its next turn. If the check fails by 5 or more, the Devil's Ride and all creatures riding it immediately fall prone as the bike wipes out and comes to a dead stop.</text>
+	</trait>
+	<trait>
+	    <name>Helm (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Drive and steer the Devil’s Ride.</text>
+	</trait>
+	<environment>underdark</environment>
+	</monster>
+	
+	<monster>
+		<name>Tormenter</name>
+		<size>H</size>
+		<type>infernal vehicle</type>
+		<speed>100</speed>
+		<ac>21 (19 while motionless)</ac>
+		<str>16</str><dex>14</dex><con>14</con><wis>0</wis><int>0</int><cha>0</cha>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+		<trait>
+			<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+		</trait>	  
+		<trait>
+	    	<name>Prone Deficiency</name>
+	    	<text>If the Tormentor rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+	  	</trait>
+		<trait>
+	    	<name>Magic Weapons</name>
+	    	<text>The Tormenter’s weapon attacks are magical.</text>
+		</trait>
+		<action>
+	    <name>Crushing Wheels</name>
+	    <text>The Tormentor can move through the space of any Medium or smaller creature. When it does, the creature must succeed on a DC 13 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 11 (2d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+	    <attack>2d10</attack>
+	  </action>
+	  <action>
+	    <name>Raking Scythes</name>
+	    <text>When the Tormentor moves within 5 feet of a creature that isn't prone or another  vehicle for the first time on a turn, it can rake the creature or  vehicle with its protruding blades for 13 (2d10+2) slashing damage. A creature moves out of the way and takes no damage if it succeeds on a DC 13 Dexterity saving throw. A vehicle moves out of the way and takes no damage if its driver succeeds on the saving throw.</text>
+	    <attack>Raking Scythes|0|2d10+2</attack>
+	  </action>
+	  <trait>
+	    <name>Helm (Requires 1 Crew and Grants Three Quarters Cover)</name>
+	    <text>Drive and steer the Tormentor.</text>
+	  </trait>
+	  <action>
+	    <name>Harpoon Flinger (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Ammunition: 10 harpoons. Ranged Weapon Attack: +7 to hit, range 120 ft., one target. Hit 11 (2d8+2) piercing damage. </text>
+	    <attack>Harpoon Flinger|7|2d8+2</attack>
+	  </action>
+	  <reaction>
+	    <name>Juke</name>
+	    <text>If the Tormentor is able to move, the driver can use its reaction to grant the Tormentor advantage on a Dexterity saving throw.</text>
+	  </reaction>
+	  <environment>underdark</environment>
+	</monster>
+	
+	<monster>
+		<name>Demon Grinder</name>
+		<size>G</size>
+		<type>infernal vehicle</type>
+		<speed>100</speed>
+		<ac>19</ac>
+		<str>18</str><dex>10</dex><con>18</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>200</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+	</trait>  
+	<action>
+	    <name>Crushing Wheels</name>
+	    <text>The Demon Grinder can move through the space ofany Large or smaller creature. When it does, the creature must succeed on a DC 11 Dexterity saving throw or take 22 (4d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 22 (4dl0) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+	    <attack>Crushing Wheels|0|4d10</attack>
+	</action>
+	  <trait>
+	    <name>Magic Weapon</name>
+	    <text>The Demon Grinder’s weapon attacks are magical.</text>
+	  </trait>
+	  <trait>
+    	<name>Prone Deficiency</name>
+    	<text>If the Demon Grinder rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+  	</trait>
+	<trait>
+	    <name>Helm (Requires 1 Crew and Grants Three-Quarters Cover)</name>
+	    <text>Drive and steer the Demon Grinder.</text>
+	 </trait>
+	 <action>
+	    <name>Chomper (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 25 (6d6+4) piercing damage. A target reduced to 0 hit points by this damage is ground to bits and spit out through pipes on both sides of the Demon Grinder. Any nonmagical items the target was holding or carrying are destroyed as well.</text>
+	    <attack>Chomper|9|6d6+4</attack>
+	  </action>
+	  <action>
+	    <name>Wrecking Ball (Requires 1 Crew and Grants Half-Cover)</name>
+	    <text>Melee Weapon Attack:+9 to hit, reach 15 ft., one target. Hit: 40 (8d8+4) bludgeoning damage. Double the damage if the target is an object or a structure.</text>
+	    <attack>Wrecking Ball|9|8d8+4</attack>
+	  </action>
+	  <action>
+	    <name>2 Harpoon Flingers (Each Station Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Ammunition: 10 harpoons per station. Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 9 (2d8) piercing damage.</text>
+	    <attack>Harpoon Flinger|5|2d8</attack>
+	  </action>
+	  <environment>underdark</environment>
+	</monster>
+
+	<monster>
+		<name>Scavenger</name>
+		<size>H</size>
+		<type>infernal vehicle</type>
+		<speed>100</speed>
+		<ac>20</ac>
+		<str>20</str><dex>12</dex><con>20</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>150</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 219</text>
+	</trait>
+	<action>
+    	<name>Crushing Wheels</name>
+    	<text>The Scavenger can move through the space of any Large or smaller creature. When it does, the creature must succeed on a DC 12 Dexterity saving throw or take 16 (3d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 16 (3d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+    	<attack>Crushing Wheels|0|3d10</attack>
+  	</action>
+  	<trait>
+    	<name>Magic Weapons</name>
+    	<text>The Scavenger’s weapon attacks are magical.</text>
+	</trait>
+  	<trait>
+    	<name>Prone Deficiency</name>
+ 		<text>If the Scavenger rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+  	</trait>
+  <trait>
+ 	   <name>Helm (Requires 1 Crew and Grants Three-Quarter Cover)</name>
+ 	   <text>Drive and steer the Scavenger.</text>
+  </trait>
+  <action>
+    	<name>Grappling Claw (Requires 1 Crew and Grants Half Cover)</name>
+    	<text>Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: The tar- get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
+    	The grappling claw can grapple only one target at a time, and the claw's operator can use a bonus action to make the claw release whatever it's holding.</text>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
 	<item>
   		<name>Battle Standard of Infernal Power</name>
   		<type>W</type>
@@ -96,4 +261,125 @@
 		<property>M,V</property>
 		<range></range>
 	</item>
+	<item>
+		<name>Obsidian Flint Dragon Plate</name>
+  		<type>HA</type>
+  		<detail>legendary</detail>
+  		<magic>YES</magic>
+  		<ac>18</ac>
+  		<text>You gain +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end grappled condition on yourself.</text>
+  		<text />	
+		<text>Source: Baldur's Gate Descent into Avernus, p. 224</text>
+  		<modifier category="bonus">ac +2</modifier>
+	</item>
+	<item>
+		<name>Shield of the Hidden Lord</name>
+		<type>S</type>
+  		<detail>legendary (requires attunement)</detail>
+  		<magic>YES</magic>
+  		<ac>2</ac>
+  		<text>The Shield of the Hidden Lord is of celestial origin and serves as a prison for the pit fiend Gargauth, whose mortal followers revere it as a god. Over time, Gargauth's evil has warped the shield's appearance, so that its celestial motif and designs have become twisted into a fiendish face that subtly moves in disturbing ways. While holding this shield, you gain a +2 bonus to AC and resistance to fire damage.</text>
+		<text>Sentience. The Shield ofthe Hidden Lord is sentient as long as it imprisons Gargauth. While sentient, the shield has the following properties:
+	• The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
+	• The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
+	• The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall offire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
+	Anytime during your turn, the shield can choose to radiate an aura of dread for 1 minute. (This is not a power of the shield that you control.) Any creature hostile to you that starts its turn within 20 feet of the shield must make a DC 18 Wisdom saving throw. On a failed save, the creature is frightened until the start of its next turn. On a successful save, the creature is im- mune to this power of the shield for the next 24 hours. Once the shield uses this power, it can't use it again until the next dawn.</text>
+		<text>Gargauth's Personality. Gargauth desperately seeks freedom but can't escape on its own. The pit fiend won't reveal its true nature, referring to itself only as the Hidden Lord. It drops hints and subtle suggestions that it is an angel trapped in an unholy prison. If released from the shield, the pit fiend honors the terms of whatever bargain it struck to facilitate its escape.
+		While trapped in the shield, Gargauth carefully steers the shield's current owner toward committing acts of cruelty and domination, hoping to condemn the individual's soul to the Nine Hells. Conflict occurs if the shield's owner does anything that would make it more difficult for Gargauth to escape its prison, such as leaving the shield in a place where others are unlikely to find it.
+		Gargauth doesn't know how to escape from the shield. The pit fiend believes (incorrectly) that it can break free of the shield if it's brought to the Nine Hells, for it's convinced that the shield's powers are weaker there.</text>
+		<text>Freeing Gargauth. Casting dispel evil and good on the shield has a 1 percent chance of freeing the pit fiend, or automatically succeeds if the spell is cast by a solar, a planetar, or an archdevil. A god can release the pit fiend by touching the shield and speaking Gargauth's name. When released, Gargauth appears in a random, unoccupied space as close to the shield as possible.</text>
+		<text />
+		<text>Source: Baldur's Gate Descent into Avernus, p. 225</text>
+		<modifier category="bonus">ac +2</modifier>
+	</item>
+	<item>
+		<name>Soul Coin</name>
+		<type>W</type>
+		<detail>uncommon</detail>
+		<magic>YES</magic>
+		<text>Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one- third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while an- other might be the victim of a night hag's curse.</text>
+		<text>Carrying Soul Coins. To hold a soul coin is to feel the soul bound within it overcome with rage or fraught with despair.</text>
+		<text>An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.</text>
+		<text>Using a Soul Coin. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
+	• Drain Life. You siphon away some of the soul's essence and gain 1dlO temporary hit points.
+	• Query. You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows on ly what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.</text>
+		<text>Freeing a Soul. Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.</text>
+		<text>A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage ex- cept that which is dealt by a hellfire weapon (page 223) or an infernal war machine's furnace (page 217).
+		Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
+		Hellish Currency. Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.</text>
+		<text>Soul coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.</text>
+		<text />
+		<text>Source: Baldur's Gate Descent into Avernus, p. 225</text>
+	</item>
+	<item>
+		<name>Sword of Zariel</name>
+		<type>M</type>
+		<detail>artifact (requires attunement by a creature the sword deems worthy)</detail>
+		<text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can't. It desires a wielder who em- bodies bravery and heroism.</text>
+		<text>Attunement. The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits:
+	• Angelic Language. You can speak, read. and write Celestial.
+	• Celestial Resistance. You have resistance to necrotic and radiant damage.
+	• Divine Presence. Your Charisma score becomes 20, unless it is already 20 or higher.
+	• Feathered Wings. You sprout a beautiful pair of feathered wings that grant you a flying speed of 90 feet and the ability to hover. If you already have a different kind of wings, these new wings replace the old ones, which fall off.
+	• Truesight. Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within 60 feet.</text>
+		<text>New Personality. You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond or flaw.</text>
+	<text>Personality Traits:
+		
+	d8 Personality Trait
+	1 treat all beings, even enemies, with respect.
+	2 I won't tell a lie.
+	3 I enjoy sharing my philosophical worldview and experiences with others.
+	4 I cut right to the chase in every conversation.
+	5 I often quote (or misquote) religious texts.
+	6 I anger quickly when I witness cruelty or injustice.
+	7 My praise and trust are earned and never given freely.
+	8 I like everything clean and organized.</text>
+		<text>Ideals:
+		
+	d6 Ideal
+	1 Charity. I always help those in need. (Good)
+	2 Faith. I choose to follow the tenets of a particular law- ful good deity to the letter. (Lawful)
+	3 Responsibility. It is the duty ofthe strong to protect the weak. (Lawful)
+	4 Respect. All people deserve to be treated with dignity. (Good)
+	5 Honor. The way I conduct myself determines my reward in the afterlife. (Lawful)
+	6 Redemption. All creatures are capable of change for the better. (Good)</text>
+	<text>Bonds: 
+		
+	d6 Bond
+	1 I have a favorite religious hymn that I constantly hum. 
+	2 I must keep a written record of my beliefs and the sins that I witness. When finished, this book will be my gift to the multiverse.
+	3 I have cherished memories ofldyllglen, though I've only seen this bucolic town in dreams.
+	4 I would die for those who fight beside me, regardless of their faults.
+	5 I seek to honor the angel Zariel by destroying fiends and other evildoers wherever I find them. 
+	6 The Sword of Zariel has chosen me. I shall not fail to wield it justly.</text>
+		<text>Flaws:
+		
+	d6 Flaws
+	1 I am too quick to judge others.
+	2 I offer forgiveness too readily.
+	3 I will sacrifice innocent lives for the greater good. 
+	4 Flaw? What flaw? I am flawless. Utter perfection!
+	5 I allow nothing to stand in the way of my crusade to eradicate evi l from the multiverse.
+	6 I ignore those who do not support my plans, for my calling is higher than all others.</text>
+	<text />
+		<text>Holy Light. The sword sheds bright light in a 5-foot radius and dim light for an additional 5 feet. Fiends find the sword's light disconcerting and painful, even if they can't see it, and have disadvantage on attack rolls made within the weapon's radius of bright light.
+	As a bonus action, you can intensify the sword's light, causing it to shed bright light in a 15-foot radius and dim light for an additional 15 feet. or reduce its glow to its normal intensity.</text>
+	<text />
+		<text>Random Properties. The sword has 2 minor beneficial properties, each determined by rolling on the Minor Beneficial Properties table in chapter 7 of the Dungeon Master's Guide.</text>
+			<text />
+		<text>Searing Radiance. The sword deals an extra 9 (2d8) radiant damage to any creature it hits, or 16 (3d10) radiant damage if you're wielding the weapon with two hands. An evil creature that takes this radiant damage must succeed on a DC 17 Constitution saving throw or be blinded until the end of its next turn.</text>
+			<text />
+		<text>Sentience. The Sword of Zariel is a sentient, lawful good item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 18. It has hearing and normal vision out to a range of 30 feet.
+		The sword communicates by transmitting emotion to the creature carrying or wielding it.</text>
+			<text />
+		<text>Truth Seer. While holding the sword, you gain advan- tage on all Wisdom (Insight) checks.</text>
+			<text />
+		<text>Destroying the Sword. Zariel can destroy the sword simply by grasping it. She couldn't bring herself to do so when she was an angel, but as an archdevil she has no compunction about ridding the multiverse of the weapon. The sword is also destroyed if it's used to shatter the Companion (see "Shattering the Companion," page 154), unless the blade is wielded by an angel of challenge rating 15 or higher, or a good-aligned cleric or paladin of at least 10th level.
+		If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.</text>
+		<text>Source: Baldur's Gate Descent into Avernus, p. 226</text>		
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+</item>
 </compendium>

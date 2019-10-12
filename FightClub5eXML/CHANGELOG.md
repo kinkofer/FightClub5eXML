@@ -1,5 +1,7 @@
 ## CHANGE LOG 
 
+All of this
+
 
 2019-08-05
 
@@ -75,3 +77,8 @@ Completed Ghosts of saltmarsh
 2019-10-01
 
 Updated with magical items from Baldur’s Gate Descent into Avernus 
+
+2019-10-12
+
+Updated and completed the magical items from Baldur’s Gate Descent into Avernus
+Updated and added all Infernal Vehicles stats, these can be added as companions in your character sheet. Details on mounted combat and infernal vehicles should be consulted with your DM who is running Avernus.
