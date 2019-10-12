@@ -4,7 +4,7 @@
 	<monster>
 		<name>Devil’s Ride</name>
 		<size>L</size>
-		<type>vehicle</type>
+		<type>infernal vehicle</type>
 		<speed>120</speed>
 		<ac>23 (19 while motionless)</ac>
 		<str>14</str><dex>18</dex><con>12</con><wis>0</wis><int>0</int><cha>0</cha>
@@ -22,7 +22,7 @@
 	</trait>
 	<trait>
 	    <name>Stunt</name>
-	    <text>On its turn, the driver ofthe Devil's Ride can expend 10 feet of movement to perform one free vehicle stunt, such as a wheelie or a burnout. Before the stunt can be performed, the Devil's Ride must move at least l0 feet in a straight line. If the driver succeeds on DC 10 Dexterity check using the bike's Dex- terity, the stunt is successful. Otherwise, the driver is unable to perform the stunt and can't attempt another stunt until the start of its next turn. Ifthe check fails by 5or more, the Devil's Ride and all creatures riding it immediately fall prone as the bike wipes out and comes to a dead stop.</text>
+	    <text>On its turn, the driver ofthe Devil's Ride can expend 10 feet of movement to perform one free infernal vehicle stunt, such as a wheelie or a burnout. Before the stunt can be performed, the Devil's Ride must move at least l0 feet in a straight line. If the driver succeeds on DC 10 Dexterity check using the bike's Dexterity, the stunt is successful. Otherwise, the driver is unable to perform the stunt and can't attempt another stunt until the start of its next turn. If the check fails by 5 or more, the Devil's Ride and all creatures riding it immediately fall prone as the bike wipes out and comes to a dead stop.</text>
 	</trait>
 	<trait>
 	    <name>Helm (Requires 1 Crew and Grants Half Cover)</name>
@@ -34,7 +34,7 @@
 	<monster>
 		<name>Tormenter</name>
 		<size>H</size>
-		<type>vehicle</type>
+		<type>infernal vehicle</type>
 		<speed>100</speed>
 		<ac>21 (19 while motionless)</ac>
 		<str>16</str><dex>14</dex><con>14</con><wis>0</wis><int>0</int><cha>0</cha>
@@ -56,7 +56,7 @@
 	  </action>
 	  <action>
 	    <name>Raking Scythes</name>
-	    <text>When the Tormentor moves within 5 feet of a creature that isn't prone or another vehicle for the first time on a turn, it can rake the creature or vehicle with its protruding blades for 13 (2d10+2) slashing damage. A creature moves out of the way and takes no damage if it succeeds on a DC 13 Dexterity saving throw. Avehicle moves out of the way and takes no damage if its driver succeeds on the saving throw.</text>
+	    <text>When the Tormentor moves within 5 feet of a creature that isn't prone or another  vehicle for the first time on a turn, it can rake the creature or  vehicle with its protruding blades for 13 (2d10+2) slashing damage. A creature moves out of the way and takes no damage if it succeeds on a DC 13 Dexterity saving throw. A vehicle moves out of the way and takes no damage if its driver succeeds on the saving throw.</text>
 	    <attack>Raking Scythes|2d10+2</attack>
 	  </action>
 	  <trait>
@@ -78,7 +78,7 @@
 	<monster>
 		<name>Demon Grinder</name>
 		<size>G</size>
-		<type>vehicle</type>
+		<type>infernal vehicle</type>
 		<speed>100</speed>
 		<ac>19</ac>
 		<str>18</str><dex>10</dex><con>18</con><wis>0</wis><int>0</int><cha>0</cha>
@@ -124,7 +124,7 @@
 	<monster>
 		<name>Scavenger</name>
 		<size>H</size>
-		<type>vehicle</type>
+		<type>infernal vehicle</type>
 		<speed>100</speed>
 		<ac>20</ac>
 		<str>20</str><dex>12</dex><con>20</con><wis>0</wis><int>0</int><cha>0</cha>
