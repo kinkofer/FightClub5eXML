@@ -75,3 +75,7 @@ Completed Ghosts of saltmarsh
 2019-10-01
 
 Updated with magical items from Baldur’s Gate Descent into Avernus 
+
+2019-10-12
+
+Updated and completed the magical items from Baldur’s Gate Descent into Avernus
