@@ -11,7 +11,9 @@
 		<hp>30</hp>
 		<immune>fire, poison, psychic</immune>
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
-	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text> 
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+	</trait>
 	<trait> 
 		<name>Jump</name>
 	    <text>If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement.</text>
@@ -40,7 +42,9 @@
 		<str>16</str><dex>14</dex><con>14</con><wis>0</wis><int>0</int><cha>0</cha>
 		<immune>fire, poison, psychic</immune>
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
-	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>  
+		<trait>
+			<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+		</trait>	  
 		<trait>
 	    	<name>Prone Deficiency</name>
 	    	<text>If the Tormentor rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
@@ -85,7 +89,9 @@
 		<hp>200</hp>
 		<immune>fire, poison, psychic</immune>
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
-	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>  
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
+	</trait>  
 	<action>
 	    <name>Crushing Wheels</name>
 	    <text>The Demon Grinder can move through the space ofany Large or smaller creature. When it does, the creature must succeed on a DC 11 Dexterity saving throw or take 22 (4d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 22 (4dl0) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
@@ -131,7 +137,9 @@
 		<hp>150</hp>
 		<immune>fire, poison, psychic</immune>
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
-	<text>Source: Baldur’s Gate Descent into Avernus, p. 219</text>
+	<trait>
+		<text>Source: Baldur’s Gate Descent into Avernus, p. 219</text>
+	</trait>
 	<action>
     	<name>Crushing Wheels</name>
     	<text>The Scavenger can move through the space of any Large or smaller creature. When it does, the creature must succeed on a DC 12 Dexterity saving throw or take 16 (3d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 16 (3d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
