@@ -7,3 +7,10 @@ Unfortunately he seems to have deleted his twitter account so I am picking up wh
 Will take a few weeks but will be making my way through each book and adding the items and monsters to bring it up to date.
 
 Any questions hit me up on twitter [@dragonahcas](http://twitter.com/dragonahcas).
+
+
+Additional Contributions:
+
+@kinkofer: for XML generation systems to allow github collections to be auto generated
+
+@felix_mil_: for xml creation tools https://felixmil.shinyapps.io/compendiumbuildr/

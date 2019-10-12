@@ -1,5 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
+
+	<monster>
+		<name>Devil’s Ride</name>
+		<size>L</size>
+		<type>vehicle</type>
+		<speed>120</speed>
+		<ac>23 (19 while motionless)</ac>
+		<str>14</str><dex>18</dex><con>12</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>30</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text> 
+	<trait>
+		<name>Jump</name>
+	    <text>If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement.</text>
+	</trait>
+	<trait>
+	    <name>Prone Deficiency</name>
+	    <text>If the Devil's Ride falls prone, it can't right itself and is incapacitated until pulled upright.</text>
+	</trait>
+	<trait>
+	    <name>Stunt</name>
+	    <text>On its turn, the driver ofthe Devil's Ride can expend 10 feet of movement to perform one free vehicle stunt, such as a wheelie or a burnout. Before the stunt can be performed, the Devil's Ride must move at least l0 feet in a straight line. If the driver succeeds on DC 10 Dexterity check using the bike's Dex- terity, the stunt is successful. Otherwise, the driver is unable to perform the stunt and can't attempt another stunt until the start of its next turn. Ifthe check fails by 5or more, the Devil's Ride and all creatures riding it immediately fall prone as the bike wipes out and comes to a dead stop.</text>
+	</trait>
+	<trait>
+	    <name>Helm (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Drive and steer the Devil’s Ride.</text>
+	</trait>
+	<environment>underdark</environment>
+	</monster>
+	
+	<monster>
+		<name>Tormenter</name>
+		<size>H</size>
+		<type>vehicle</type>
+		<speed>100</speed>
+		<ac>21 (19 while motionless)</ac>
+		<str>16</str><dex>14</dex><con>14</con><wis>0</wis><int>0</int><cha>0</cha>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>  
+		<trait>
+	    	<name>Prone Deficiency</name>
+	    	<text>If the Tormentor rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+	  	</trait>
+		<trait>
+	    	<name>Magic Weapons</name>
+	    	<text>The Tormenter’s weapon attacks are magical.</text>
+		</trait>
+		<action>
+	    <name>Crushing Wheels</name>
+	    <text>The Tormentor can move through the space of any Medium or smaller creature. When it does, the creature must succeed on a DC 13 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 11 (2d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+	    <attack>2d10</attack>
+	  </action>
+	  <action>
+	    <name>Raking Scythes</name>
+	    <text>When the Tormentor moves within 5 feet of a creature that isn't prone or another vehicle for the first time on a turn, it can rake the creature or vehicle with its protruding blades for 13 (2d10+2) slashing damage. A creature moves out of the way and takes no damage if it succeeds on a DC 13 Dexterity saving throw. Avehicle moves out of the way and takes no damage if its driver succeeds on the saving throw.</text>
+	    <attack>Raking Scythes|2d10+2</attack>
+	  </action>
+	  <trait>
+	    <name>Helm (Requires 1 Crew and Grants Three Quarters Cover)</name>
+	    <text>Drive and steer the Tormentor.</text>
+	  </trait>
+	  <action>
+	    <name>Harpoon Flinger (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Ammunition: 10 harpoons. Ranged Weapon Attack: +7 to hit, range 120 ft., one target. Hit 11 (2d8+2) piercing damage. </text>
+	    <attack>Harpoon Flinger|7|2d8+2</attack>
+	  </action>
+	  <reaction>
+	    <name>Juke</name>
+	    <text>If the Tormentor is able to move, the driver can use its reaction to grant the Tormentor advantage on a Dexterity saving throw.</text>
+	  </reaction>
+	  <environment>underdark</environment>
+	</monster>
+	
+	<monster>
+		<name>Demon Grinder</name>
+		<size>G</size>
+		<type>vehicle</type>
+		<speed>100</speed>
+		<ac>19</ac>
+		<str>18</str><dex>10</dex><con>18</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>200</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>  
+	<action>
+	    <name>Crushing Wheels</name>
+	    <text>The Demon Grinder can move through the space ofany Large or smaller creature. When it does, the creature must succeed on a DC 11 Dexterity saving throw or take 22 (4d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 22 (4dl0) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+	    <attack>Crushing Wheels|0|4d10</attack>
+	</action>
+	  <trait>
+	    <name>Magic Weapon</name>
+	    <text>The Demon Grinder’s weapon attacks are magical.</text>
+	  </trait>
+	  <trait>
+    	<name>Prone Deficiency</name>
+    	<text>If the Demon Grinder rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+  	</trait>
+	<trait>
+	    <name>Helm (Requires 1 Crew and Grants Three-Quarters Cover)</name>
+	    <text>Drive and steer the Demon Grinder.</text>
+	 </trait>
+	 <action>
+	    <name>Chomper (Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 25 (6d6+4) piercing damage. A target reduced to 0 hit points by this damage is ground to bits and spit out through pipes on both sides of the Demon Grinder. Any nonmagical items the target was holding or carrying are destroyed as well.</text>
+	    <attack>Chomper|9|6d6+4</attack>
+	  </action>
+	  <action>
+	    <name>Wrecking Ball (Requires 1 Crew and Grants Half-Cover)</name>
+	    <text>Melee Weapon Attack:+9 to hit, reach 15 ft., one target. Hit: 40 (8d8+4) bludgeoning damage. Double the damage if the target is an object or a structure.</text>
+	    <attack>Wrecking Ball|9|8d8+4</attack>
+	  </action>
+	  <action>
+	    <name>2 Harpoon Flingers (Each Station Requires 1 Crew and Grants Half Cover)</name>
+	    <text>Ammunition: 10 harpoons per station. Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 9 (2d8) piercing damage.</text>
+	    <attack>Harpoon Flinger|5|2d8</attack>
+	  </action>
+	  <environment>underdark</environment>
+	</monster>
+
+	<monster>
+		<name>Scavenger</name>
+		<size>H</size>
+		<type>vehicle</type>
+		<speed>100</speed>
+		<ac>20</ac>
+		<str>20</str><dex>12</dex><con>20</con><wis>0</wis><int>0</int><cha>0</cha>
+		<hp>150</hp>
+		<immune>fire, poison, psychic</immune>
+		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
+	<text>Source: Baldur’s Gate Descent into Avernus, p. 219</text>
+	<action>
+    	<name>Crushing Wheels</name>
+    	<text>The Scavenger can move through the space of any Large or smaller creature. When it does, the creature must succeed on a DC 12 Dexterity saving throw or take 16 (3d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 16 (3d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
+    	<attack>Crushing Wheels|0|3d10</attack>
+  	</action>
+  	<trait>
+    	<name>Magic Weapons</name>
+    	<text>The Scavenger’s weapon attacks are magical.</text>
+	</trait>
+  	<trait>
+    	<name>Prone Deficiency</name>
+ 		<text>If the Scavenger rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
+  	</trait>
+  <trait>
+ 	   <name>Helm (Requires 1 Crew and Grants Three-Quarter Cover)</name>
+ 	   <text>Drive and steer the Scavenger.</text>
+  </trait>
+  <action>
+    	<name>Grappling Claw (Requires 1 Crew and Grants Half Cover)</name>
+    	<text>Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: The tar- get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
+    	The grappling claw can grapple only one target at a time, and the claw's operator can use a bonus action to make the claw release whatever it's holding.</text>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
 	<item>
   		<name>Battle Standard of Infernal Power</name>
   		<type>W</type>
@@ -217,5 +374,4 @@
 		<dmgType>S</dmgType>
 		<property>V</property>
 </item>
-	
 </compendium>
