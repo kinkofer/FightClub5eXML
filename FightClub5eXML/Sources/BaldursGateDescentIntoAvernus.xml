@@ -382,4 +382,248 @@
 		<dmgType>S</dmgType>
 		<property>V</property>
 </item>
+
+
+<monster>
+<name>Crokek’toeck (chaotic evil)</name>
+	  <size>G</size>
+	  <type>fiend</type>
+	  <speed>60 ft, swim 60 ft.</speed>
+	  <ac>15 (natural armor)</ac>
+	  <cr>14</cr>
+	  <str>28</str><dex>10</dex><con>24</con><wis>10</wis><int>6</int><cha>13</cha>
+	  <passive>10</passive>
+	  <hp>297 (17d20+119)</hp>
+	  <resist>cold, fire, lightning, bludgeoning, piercing and slashing that is nonmagical</resist>
+	  <immune>poison</immune>
+	  <conditionImmune>charmed, frightened, poisoned</conditionImmune>
+	  <senses>darkvision 120 ft</senses>
+	  <languages>understands Abyssal but can’t speak</languages>
+	  <save>Con +12, Wis +5</save>
+	<trait>
+	<name>Source</name>
+	<text>Baldur's Gate Descent Into Avernus, p. 230</text>
+  	</trait>
+    <trait>
+    	<name>Amphibious</name>
+    	<text>Crokek'toeck can breathe air and water.</text>
+ 	</trait>
+  	<trait>
+    	<name>Magic Resistance</name>
+    	<text>Crokek'toeck has advantage on saving throws against spells and other magical effects.</text>
+  	</trait>
+  	<trait>
+    	<name>Secure Memory</name>
+    	<text>Crokek'toeck is immune to the waters of the River Styx as well as any effect that would steal or modify its memories or detect or read its thoughts.</text>
+  	</trait>
+  	<trait>
+    	<name>Standing Leap</name>
+    	<text>Crokek'toeck's long jump is up to 60 feet and its high jump is up to 30 feet, with or without a running start.</text>
+  	</trait>
+  	<action>
+    	<name>Bite</name>
+    	<text>Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit 44 (10d6 + 9) piercing damage.</text>
+    	<attack>Bite|14|10d6+9</attack>
+  	</action>
+  	<action>
+    	<name>Disgorge Allies (Recharge 6)</name>
+    	<text>Crokek'toeck opens its mouth and disgorges 1d4 barlguras, 3d6 gnolls led by 1 gnoll fang of Yeenoghu, 6d6 drenches, or 1d3 vrocks (see the Monster Manual for these creatures' stat blocks). Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the closest next unoccupied space.</text>
+  	</action>
+  	<environment>underdark</environment>
+</monster>
+
+<monster>
+  <name>Fist of Bane</name>
+  <size>M</size>
+  <type>humanoid (lawful evil)</type>
+  <speed>30 ft.</speed>
+  <ac>18 (chain mail, shield)</ac>
+  <cr>1/2</cr>
+  <str>16</str><dex>11</dex><con>13</con><wis>12</wis><int>10</int><cha>11</cha>
+  <passive>11</passive>
+  <hp>22 (4d8+4)</hp>
+  <conditionImmune>Frightened</conditionImmune>
+  <languages>common</languages>
+  <trait>
+  	<name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 232</text>
+  </trait>
+  <trait>
+    <name>Tactical Discipline</name>
+    <text>The fist of Bane has advantage on all ability checks and saving throws made during combat.</text>
+  </trait>
+  <action>
+    <name>Mace</name>
+    <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 6 (1d6+3) bludgeoning damage.</text>
+    <attack>Mace|5|1d6+3</attack>
+  </action>
+  <action>
+    <name>Longbow</name>
+    <text>Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. Hit 4 (1d8) piercing damage.</text>
+    <attack>Longbow|2|1d8</attack>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
+<monster>
+  <name>Iron Consul</name>
+  <size>M</size>
+  <type>humanoid (lawful evil)</type>
+  <speed>30 ft.</speed>
+  <ac>16 (chain mail)</ac>
+  <cr>2</cr>
+  <str>17</str><dex>11</dex><con>16</con><wis>15</wis><int>12</int><cha>16</cha>
+  <passive>14</passive>
+  <hp>45 (6d8+18)</hp>
+  <conditionImmune>Frightened</conditionImmune>
+  <languages>Common</languages>
+  <save>Wis +4</save>
+  <skill>Intimidation +5,Perception +5</skill>
+  <trait>
+  	<name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 232</text>
+  </trait>
+  <trait>
+    <name>Tactical Discipline</name>
+    <text>The iron consul has advantage on all ability checks and saving throws made during combat.</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The iron consul makes one attack with its spear and can use its Voice of Command ability.</text>
+  </action>
+  <action>
+    <name>Spear</name>
+    <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 6 (1d6+3) piercing damage, or 7 (1d8+3) piercing damage when used with two hands to make a melee attack.</text>
+    <attack>Spear|5|1d6+3</attack>
+    <attack>Spear|7|1d8+3</attack>
+  </action>
+  <action>
+    <name>Voice of Command</name>
+    <text>The iron consul selects up to two allies within 90 feet of it that can hear its commands. Each ally can immediately use its reaction to make one melee attack.</text>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
+<monster>
+  <name>Black Gauntlet of Bane</name>
+  <size>M</size>
+  <type>humanoid (lawful evil)</type>
+  <speed>30 ft.</speed>
+  <ac>16 (chain mail)</ac>
+  <cr>6</cr>
+  <str>18</str><dex>11</dex><con>18</con><wis>15</wis><int>12</int><cha>18</cha>
+  <passive>15</passive>
+  <hp>51 (6d8+24)</hp>
+  <conditionImmune>Frightened</conditionImmune>
+  <languages>Common</languages>
+  <save>Wis +5</save>
+  <skill>Intimidation +7,Perception +5</skill>
+  <trait>
+  	<name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 232</text>
+  </trait>
+  <trait>
+    <name>Aura of Terror</name>
+    <text>When a hostile creature within 5 feet of the black gauntlet makes an attack roll or a saving throw, it has disadvantage on the roll. Creatures that are immune to the frightened condition are immune to this trait.</text>
+  </trait>
+  <trait>
+    <name>Spellcasting</name>
+    <text>The black gauntlet is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
+
+Cantrips (at will): guidance, sacred flame, thaumaturgy
+1st level (4 slots): bane, bless, cure wounds, guiding bolt (see Actions below)
+2nd level (3 slots): blindness/deafness, hold person, silence
+3rd level (2 slots): sending, spirit guardians</text>
+  </trait>
+  <trait>
+    <name>Tactical Disciple</name>
+    <text>The black gauntlet has advantage on all ability checks and saving throws made during combat.</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The black gauntlet makes two attacks with its mace.</text>
+  </action>
+  <action>
+    <name>Mace</name>
+    <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 7 (1d6+4) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
+    <attack>Mace|7|1d6+4+3d8</attack>
+  </action>
+  <action>
+    <name>Guiding Bolt (1st-Level Spell; Requires a Spell Slot)</name>
+    <text>Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 14 (4d6) radiant damage, and the next attack roll made against the target before the end of the black gauntlet’s next turn has advantage. If the black gauntlet casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each level above 1st.</text>
+  </action>
+  <spells>guidance,sacred flame,thaumaturgy,bane,bless,cure wounds,guiding bolt,blindness/deafness,hold person,silence,sending,spirit guardians</spells>
+  <environment>underdark</environment>
+</monster>
+
+<monster>
+  <name>Night Blade</name>
+  <size>M</size>
+  <type>humanoid (chaotic evil)</type>
+  <speed>40 ft.</speed>
+  <ac>12</ac>
+  <cr>1/4</cr>
+  <str>11</str><dex>15</dex><con>12</con><wis>11</wis><int>10</int><cha>14</cha>
+  <hp>11 (2d8+2)</hp>
+  <passive>10</passive>
+  <languages>Common</languages>
+  <skill>Intimidation +4,Stealth +6</skill>
+  <trait>
+    <name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 233</text>
+  </trait>
+  <trait>
+    <name>Aura of Murder</name>
+    <text>As long as the night blade is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+  </trait>
+  <action>
+    <name>Dagger</name>
+    <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 4 (1d4+2) piercing damage,</text>
+    <attack>Dagger|4|1d4+2</attack>
+  </action>
+</monster>
+
+<monster>
+  <name>Reaper of Bhaal</name>
+  <size>M</size>
+  <type>humanoid (human, chaotic evil)</type>
+  <speed>40 ft.</speed>
+  <ac>12</ac>
+  <cr>2</cr>
+  <str>11</str><dex>20</dex><con>13</con><wis>12</wis><int>15</int><cha>16</cha>
+  <passive>13</passive>
+  <hp>11 (2d8+2)</hp>
+  <senses>Darkvision 60 ft.</senses>
+  <languages>Common</languages>
+  <skill>Intimidation +5,Perception +3,Persuasion +5,Stealth +9</skill>
+  <trait>
+  	<name>Source</name>
+  	<text>Baldur’s Gate Descent Into Avernus, p. 233</text>
+  </trait>	
+  <trait>
+    <name>Aura of Murder</name>
+    <text>As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gains vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+  </trait>
+  <trait>
+    <name>Innate Spellcasting</name>
+    <text>The reaper’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
+
+1/day each: charm person, disguise self, sanctuary</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The reaper makes two dagger attacks and uses Shroud Self.</text>
+  </action>
+  <action>
+    <name>Dagger</name>
+    <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 7 (1d4+5) piercing damage.</text>
+    <attack>Dagger|7|1d4+5</attack>
+  </action>
+  <action>
+    <name>Shroud Self</name>
+    <text>The reaper magically turns invisible until the start of its next turn. This invisibility ends if the reaper makes an attack roll, makes a damage roll, or casts a spell.</text>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
 </compendium>
