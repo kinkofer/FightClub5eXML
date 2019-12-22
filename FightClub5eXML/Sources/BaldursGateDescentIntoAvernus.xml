@@ -14,7 +14,7 @@
 	<trait>
 		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
 	</trait>
-	<trait>
+	<trait> 
 		<name>Jump</name>
 	    <text>If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement.</text>
 	</trait>
@@ -32,7 +32,7 @@
 	</trait>
 	<environment>underdark</environment>
 	</monster>
-
+	
 	<monster>
 		<name>Tormenter</name>
 		<size>H</size>
@@ -44,7 +44,7 @@
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
 		<trait>
 			<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
-		</trait>
+		</trait>	  
 		<trait>
 	    	<name>Prone Deficiency</name>
 	    	<text>If the Tormentor rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.</text>
@@ -78,7 +78,7 @@
 	  </reaction>
 	  <environment>underdark</environment>
 	</monster>
-
+	
 	<monster>
 		<name>Demon Grinder</name>
 		<size>G</size>
@@ -91,7 +91,7 @@
 		<conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
 	<trait>
 		<text>Source: Baldur’s Gate Descent into Avernus, p. 218</text>
-	</trait>
+	</trait>  
 	<action>
 	    <name>Crushing Wheels</name>
 	    <text>The Demon Grinder can move through the space ofany Large or smaller creature. When it does, the creature must succeed on a DC 11 Dexterity saving throw or take 22 (4d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 22 (4dl0) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
@@ -268,7 +268,7 @@
   		<magic>YES</magic>
   		<ac>18</ac>
   		<text>You gain +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end grappled condition on yourself.</text>
-  		<text />
+  		<text />	
 		<text>Source: Baldur's Gate Descent into Avernus, p. 224</text>
   		<modifier category="bonus">ac +2</modifier>
 	</item>
@@ -324,7 +324,7 @@
 	• Truesight. Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within 60 feet.</text>
 		<text>New Personality. You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond or flaw.</text>
 	<text>Personality Traits:
-
+		
 	d8 Personality Trait
 	1 treat all beings, even enemies, with respect.
 	2 I won't tell a lie.
@@ -335,7 +335,7 @@
 	7 My praise and trust are earned and never given freely.
 	8 I like everything clean and organized.</text>
 		<text>Ideals:
-
+		
 	d6 Ideal
 	1 Charity. I always help those in need. (Good)
 	2 Faith. I choose to follow the tenets of a particular law- ful good deity to the letter. (Lawful)
@@ -343,21 +343,21 @@
 	4 Respect. All people deserve to be treated with dignity. (Good)
 	5 Honor. The way I conduct myself determines my reward in the afterlife. (Lawful)
 	6 Redemption. All creatures are capable of change for the better. (Good)</text>
-	<text>Bonds:
-
+	<text>Bonds: 
+		
 	d6 Bond
-	1 I have a favorite religious hymn that I constantly hum.
+	1 I have a favorite religious hymn that I constantly hum. 
 	2 I must keep a written record of my beliefs and the sins that I witness. When finished, this book will be my gift to the multiverse.
 	3 I have cherished memories ofldyllglen, though I've only seen this bucolic town in dreams.
 	4 I would die for those who fight beside me, regardless of their faults.
-	5 I seek to honor the angel Zariel by destroying fiends and other evildoers wherever I find them.
+	5 I seek to honor the angel Zariel by destroying fiends and other evildoers wherever I find them. 
 	6 The Sword of Zariel has chosen me. I shall not fail to wield it justly.</text>
 		<text>Flaws:
-
+		
 	d6 Flaws
 	1 I am too quick to judge others.
 	2 I offer forgiveness too readily.
-	3 I will sacrifice innocent lives for the greater good.
+	3 I will sacrifice innocent lives for the greater good. 
 	4 Flaw? What flaw? I am flawless. Utter perfection!
 	5 I allow nothing to stand in the way of my crusade to eradicate evi l from the multiverse.
 	6 I ignore those who do not support my plans, for my calling is higher than all others.</text>
@@ -376,7 +376,7 @@
 			<text />
 		<text>Destroying the Sword. Zariel can destroy the sword simply by grasping it. She couldn't bring herself to do so when she was an angel, but as an archdevil she has no compunction about ridding the multiverse of the weapon. The sword is also destroyed if it's used to shatter the Companion (see "Shattering the Companion," page 154), unless the blade is wielded by an angel of challenge rating 15 or higher, or a good-aligned cleric or paladin of at least 10th level.
 		If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.</text>
-		<text>Source: Baldur's Gate Descent into Avernus, p. 226</text>
+		<text>Source: Baldur's Gate Descent into Avernus, p. 226</text>		
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
 		<dmgType>S</dmgType>
@@ -553,6 +553,7 @@ Cantrips (at will): guidance, sacred flame, thaumaturgy
     <text>Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 14 (4d6) radiant damage, and the next attack roll made against the target before the end of the black gauntlet’s next turn has advantage. If the black gauntlet casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each level above 1st.</text>
   </action>
   <spells>guidance,sacred flame,thaumaturgy,bane,bless,cure wounds,guiding bolt,blindness/deafness,hold person,silence,sending,spirit guardians</spells>
+  <slots>4,3,2</slots>
   <environment>underdark</environment>
 </monster>
 
@@ -581,7 +582,6 @@ Cantrips (at will): guidance, sacred flame, thaumaturgy
     <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 4 (1d4+2) piercing damage,</text>
     <attack>Dagger|4|1d4+2</attack>
   </action>
-  <environment>underdark</environment>
 </monster>
 
 <monster>
@@ -600,7 +600,7 @@ Cantrips (at will): guidance, sacred flame, thaumaturgy
   <trait>
   	<name>Source</name>
   	<text>Baldur’s Gate Descent Into Avernus, p. 233</text>
-  </trait>
+  </trait>	
   <trait>
     <name>Aura of Murder</name>
     <text>As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gains vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
@@ -628,111 +628,272 @@ Cantrips (at will): guidance, sacred flame, thaumaturgy
 </monster>
 
 <monster>
-	<name>Death's Head of Bhaal</name>
-	<size>M</size>
-	<type>humanoid (chaotic evil)</type>
-	<speed>50</speed>
-	<ac>15</ac>
-	<cr>5</cr><str>20</str><dex>20</dex><con>20</con><wis>13</wis><int>14</int><cha>16</cha>
-	<passive>14</passive>
-	<hp>76 (8d8+40)</hp>
-	<senses>darkvision 60 ft.</senses>
-	<languages>common</languages>
-	<skill>Intimidation +6,Perception +4,Persuasion +6</skill>
-	<trait>
-		<name>Source</name>
-		<text>Baldur's Gate Descent Into Avernus, p. 233</text>
-	</trait>
-	<trait>
-		<name>Aura of Murder</name>
-		<text>As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gains vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
-	</trait>
-	<trait>
-		<name>Magic Resistance</name>
-		<text>The death's head has advantage on saving throws against spells and other magical effects.</text>
-	</trait>
-	<action>
-		<name>Multiattack</name>
-		<text>The death's head uses Stunning Gaze and makes two dagger attacks.</text>
-	</action>
-	<action>
-		<name>Dagger</name>
-		<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 7 (1d4+5) piercing damage.</text>
-		<attack>Dagger|7|1d4+5</attack>
-	</action>
-	<action>
-		<name>Stunning Gaze</name>
-		<text>The death's head targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its next turn.</text>
-	</action>
-	<reaction>
-		<name>Unstoppable (3/Day)</name>
-		<text>The death's head reduces the damage it takes from an attack to 0.</text>
-	</reaction>
-	<environment>underdark</environment>
+  <name>Death’s Head of Bhaal</name>
+  <size>M</size>
+  <type>humanoid (human, chaotic evil)</type>
+  <speed>50 ft,</speed>
+  <ac>15</ac>
+  <cr>5</cr>
+  <str>20</str><dex>20</dex><con>20</con><wis>13</wis><int>14</int><cha>16</cha>
+  <passive>14</passive>
+  <hp>76 (8d8+40)</hp>
+  <senses>darkvision 60 ft.</senses>
+  <languages>common</languages>
+  <skill>Intimidation +6,Perception +6,Stealth +11</skill>
+  <trait>
+    <name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 233</text>
+  </trait>
+  <trait>
+    <name>Aura of Murder</name>
+    <text>As long as the death's head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+  </trait>
+  <trait>
+    <name>Magic Resistance</name>
+    <text>The death's head has advantage on saving throws against spells and other magical effects.</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The death's head uses Stunning Gaze and makes two dagger attacks.</text>
+  </action>
+  <action>
+    <name>Dagger</name>
+    <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft. one target. Hit 7 (1d4+5) piercing damage.</text>
+    <attack>Dagger|7|1d4+5</attack>
+  </action>
+  <action>
+    <name>Stunning Gaze</name>
+    <text>The death's head targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its next turn.</text>
+  </action>
+  <reaction>
+    <name>Unstoppable (3/Day)</name>
+    <text>The death's head reduces the damage it takes from an attack to 0.</text>
+  </reaction>
+  <environment>underdark</environment>
 </monster>
 
 <monster>
-	<name>Necromite of Myrkul</name>
-	<size>M</size>
-	<type>humanoid (neutral evil)</type>
-	<speed>30 ft.</speed>
-	<ac>11</ac>
-	<cr>1/2</cr>
-	<str>10</str><dex>13</dex><con>15</con><wis>11</wis><int>16</int><cha>10</cha>
-	<passive>10</passive>
-	<hp>13 (2d8+4)</hp>
-	<languages>abyssal, common, infernal</languages>
-	<skill>Arcana +5,Religion +5</skill>
-	<trait>
-		<name>Source</name>
-		<text>Baldur's Gate Descent Into Avernus, p. 234</text>
-	</trait>
-	<action>
-		<name>Skull Flail</name>
-		<text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 4 (1d8) bludgeoning damage.</text>
-		<attack>Skull Flail|2|1d8</attack>
-	</action>
+  <name>Necromite of Myrkul</name>
+  <size>M</size>
+  <type>humanoid (neutral evil)</type>
+  <speed>30 ft.</speed>
+  <ac>11</ac>
+  <cr>1/2</cr>
+  <str>10</str><dex>13</dex><con>15</con><wis>11</wis><int>16</int><cha>10</cha>
+  <passive>10</passive>
+  <hp>13 (2d8+4)</hp>
+  <languages>abyssal, common, infernal</languages>
+  <skill>Arcana +5,Religion +5</skill>
+  <trait>
+    <name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 234</text>
+  </trait>
+  <action>
+    <name>Skull Flail</name>
+    <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 4 (1d8) bludgeoning damage.</text>
+    <attack>Skull Flail|2|1d8</attack>
+  </action>
+  <action>
+    <name>Claws of the Grave</name>
+    <text>Ranged Spell Attack: +5 to hit, reach 5 ft., one target. Hit 8 (2d4+3) necrotic damage.</text>
+    <attack>Claws|5|2d4+3</attack>
+  </action>
+  <environment>underdark</environment>
 </monster>
+
 <monster>
-	<name>Skull Lasher of Myrkul</name>
-	<size>M</size>
-	<type>humanoid (neutral evil)</type>
-	<speed>30 ft.</speed>
-	<ac>12</ac>
-	<cr>1</cr>
-	<str>10</str><dex>14</dex><con>15</con><wis>13</wis><int>16</int><cha>10</cha>
-	<passive>11</passive>
-	<languages>abyssal, common, infernal</languages>
-	<save>Wis +5</save>
-	<skill>Arcana +5,Religion +5</skill>
-	<trait>
-		<name>Source</name>
-		<text>Baldur's Gate Descent Into Avernus, p. 234</text>
-	</trait>
-	<trait>
-		<name>Spellcasting</name>
-		<text>The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+  <name>Skull Lasher of Myrkul</name>
+  <size>M</size>
+  <type>humanoid (neutral evil)</type>
+  <speed>30 ft.</speed>
+  <ac>12</ac>
+  <cr>1</cr>
+  <str>10</str><dex>14</dex><con>15</con><wis>13</wis><int>16</int><cha>10</cha>
+  <passive>11</passive>
+  <hp>32 (5d8+10)</hp>
+  <languages>Abyssal, common, infernal</languages>
+  <save>Wis +3</save>
+  <skill>Arcana +5,Religion +5</skill>
+  <trait>
+    <name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 234</text>
+  </trait>
+  <trait>
+    <name>Spellcasting</name>
+    <text> The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 
 Cantrips (at will): mage hand, message, prestidigitation
-1st level (4 slots): detect magic, protection from evil and good, ray of sickness (see "Actions" below), shield
-2nd level (2 slots): darkness, misty step </text>
-	</trait>
-	<action>
-		<name>Multiattack</name>
-		<text>The skull lasher makes two attacks with its flail. </text>
-	</action>
-	<trait>
-		<name>Iron Skull Flail</name>
-		<text>Melee Weapon Attack: +2 to hit, reach 5 ft., onetarget. Hit: 4 (ld8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher's next turn. </text>
-		<attack>Flail|2|1d8+2d6</attack>
-	</trait>
-	<action>
-		<name>Ray of Sickness (1st-Level Spell; Requires a Spell Slot)</name>
-		<text>Ranged Spell Attack: +5 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the skull lasher's next turn. If the skull lasher casts this spell using a
-spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st. </text>
-		<attack>Ray of Sickness|5|2d8</attack>
-	</action>
-	<spells>mage hand, message, prestidigitation,detect magic,protection from evil and good,ray of sickness,shield,darkness,misty step</spells>
-<environment>underdark</environment>
+1st level (4 slots): detect magic, protection from evil and good,
+ray of sickness (see "Actions" below), shield 
+2nd level (2 slots): darkness, misty step</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The skull lasher makes two attacks with its flail.</text>
+  </action>
+  <action>
+    <name>Iron Skull Flail</name>
+    <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher's next turn.</text>
+    <attack>Skull Flail|2|1d8+2d6</attack>
+  </action>
+  <action>
+    <name>Ray of Sickness (1st-level spell; Requires a Spell Slot)</name>
+    <text>Ranged Spell Attack: +5 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the skull lasher's next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+    <attack>Ray of Sickness|5|2d8</attack>
+  </action>
+  <spells>mage hand,message,prestidigitation,detect magic,protection from evil and good,ray of sickness,darkness,misty steps</spells>
+  <slots>4,2</slots>
+  <environment>underdark</environment>
 </monster>
+
+<monster>
+  <name>Master of Souls</name>
+  <size>M</size>
+  <type>humanoid (neutral evil)</type>
+  <speed>30 ft.</speed>
+  <ac>12</ac>
+  <cr>4</cr>
+  <str>10</str><dex>14</dex><con>17</con><wis>14</wis><int>19</int><cha>13</cha>
+  <passive>12</passive>
+  <hp>45 (6d8+18)</hp>
+  <languages>abyssal, common, infernal</languages>
+  <save>Wis +4</save>
+  <skill>Arcana +6,Religion +6</skill>
+  <trait>
+    <name>Source</name>
+    <text>Baldur’s Gate Descent Into Avernus, p. 234</text>
+  </trait>
+  <trait>
+    <name>Grave Magic</name>
+    <text>When the master of souls cast a spell that deals damage, it can change the spell's damage type to necrotic.</text>
+  </trait>
+  <trait>
+    <name>Spellcasting</name>
+    <text>The master of souls is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared:
+
+Cantrips (at will): chill touch (see "Actions" below), mage hand, message, prestidigitation
+1st level (4 slots): burning hands, detect magic, ray of sickness (see "Actions" below), shield
+2nd level (3 slots): darkness, misty step, scorching ray (see "Actions" below)
+3rd level (2 slots): animate dead, fireball</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The master of souls attacks twice with its flail.</text>
+  </action>
+  <action>
+    <name>Silver Skull Flail</name>
+    <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 14 (4d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the master of souls' next turn.</text>
+    <attack>Skull Flail|2|1d8+4d6</attack>
+  </action>
+  <action>
+    <name>Chill Touch (Cantrip)</name>
+    <text>Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (2d8) necrotic damage, and the target can't regain hit points until the start of the master of souls' next turn. If the target is undead, it has disadvantage on attack rolls against the master of souls for the same duration.</text>
+    <attack>Chill Touch|6|2d8</attack>
+  </action>
+  <action>
+    <name>Ray of Sickness (1st-level Spell; Requires a Spell Slot)</name>
+    <text>Ranged Spell Attack: +6 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned until the end ofthe master of souls' next turn. Ifthe master ofsouls casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+    <attack>Ray of Sickness|6|2d8</attack>
+  </action>
+  <action>
+    <name>Scorching Ray (2nd-level Spell; Requires a Spell Slot)</name>
+    <text>Ranged Spell Attack: +6 to hit, range 120 ft., one target per ray (3 rays if a 2nd-level spell slot is used, 4 rays if a 3rd-level spell slot is used). Hit: 7 (2d6) fire damage per ray.</text>
+    <attack>Scorching Ray|6|2d6</attack>
+  </action>
+  <spells>chill touch,mage hand,message,prestidigitation,burning hands,detect magic,ray of sickness,shield,darkness,misty step,scorching ray,animate dead,fireball</spells>
+  <slots>4,3,2</slots>
+  <environment>underdark</environment> 
+</monster>
+
+<monster>
+  <name>Fiendish Flesh Golem</name>
+  <size>L</size>
+  <type>construct (unaligned)</type>
+  <speed>30 ft., fly 30 ft. (Hover)</speed>
+  <ac>12 (natural armor)</ac>
+  <cr>8</cr>
+  <str>20</str><dex>9</dex><con>20</con><wis>10</wis><int>7</int><cha>5</cha>
+  <passive>10</passive>
+  <hp>210 (20d10+100)</hp>
+  <resist>Cold, fire</resist>
+  <immune>lightning, poison, bludgeoning, piercing, sand slashing from non-magical attacks that aren't adamantine or silvered</immune>
+  <conditionImmune>charmed, exhaustion, frightened, paralysed, petrified, poisoned</conditionImmune>
+  <senses>Darkvision 60 ft.</senses>
+  <languages>Understands the languages of its creator but cant speak.</languages>
+  <trait>
+    <name>Source</name>
+    <text>Baldur's Gate Descent Into Avernus, p. 236.</text>
+  </trait>
+  <trait>
+    <name>Berserk</name>
+    <text>Whenever the golem starts its turn with 100 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points. If the golem's creator is within 60 feet of the berserk golem, the creator can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 100 hit points or fewer, the golem might go berserk again.</text>
+  </trait>
+  <trait>
+    <name>Immutable Form</name>
+    <text>The golem is immune to any spell or effect that would alter its form.</text>
+  </trait>
+  <trait>
+    <name>Lightning Absorption</name>
+    <text>Whenever the golem is subjected to lightning damage, it takes no damage and instead gains a number of hit points equal to the lightning damage dealt.</text>
+  </trait>
+  <trait>
+    <name>Magic Resistance</name>
+    <text>The golem has advantage on saving throws against spells and other magical effects.</text>
+  </trait>
+  <trait>
+    <name>Magic Weapons</name>
+    <text>The golem's weapon attacks are magical.</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The golem makes two slam attacks. </text>
+  </action>
+  <action>
+    <name>Slam</name>
+    <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 16 (2d10+5) bludgeoning damage.</text>
+    <attack>Slam|8|2d10+5</attack>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
+<monster>
+  <name>Hellwasp</name>
+  <size>L</size>
+  <type>fiend (lawful evil)</type>
+  <speed>10 ft., fly 60 ft. (Hover)</speed>
+  <ac>19 (natural armor)</ac>
+  <cr>5</cr>
+  <str>18</str><dex>15</dex><con>12</con><wis>10</wis><int>10</int><cha>7</cha>
+  <passive>10</passive>
+  <hp>52 (8d10+8)</hp>
+  <vulnerable>cold</vulnerable>
+  <immune>fire</immune>
+  <senses>darkvision 60 ft.</senses>
+  <languages>infernal, telepathy 300 ft. (with other hellwasps only)</languages>
+  <save>Dex +5, Wis +3</save>
+  <trait>
+    <name>Source</name>
+    <text>Baldur's Gate Descent Into Avernus, p. 236.</text>
+  </trait>
+  <trait>
+    <name>Magic Weapons</name>
+    <text>The hellwasp's weapon attacks are magical.</text>
+  </trait>
+  <action>
+    <name>Multiattack</name>
+    <text>The hellwasp makes two attacks: one with its sting and one with its sword talons.</text>
+  </action>
+  <action>
+    <name>Sting</name>
+    <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit:8 (1d8 + 4) piercing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end ofeach of its turns, ending the effect on itself on a success.</text>
+    <attack>Sting|7|1d8+4+2d6</attack>
+  </action>
+  <action>
+    <name>Sword Talons</name>
+    <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 11 (2d6+4) piercing damage.</text>
+    <attack>Sword Talons|7|2d6+4</attack>
+  </action>
+  <environment>underdark</environment>
+</monster>
+
 </compendium>

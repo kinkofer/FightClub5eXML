@@ -95,3 +95,14 @@ Night Blade
 Reaper of Bhaal
 
 Some typo fixes
+
+2019-12-21
+
+Updated more monsters for descent into avernus
+
+Death’s Head of Bhaal
+Necromite of Myrkul
+Skull Lash of Myrkul
+Master of Souls
+Fiendish Flesh Golem
+Hellwasp
