@@ -20839,4 +20839,1000 @@
 		<range>150/600</range>
 		<roll>2d6</roll>
 	</item>
+    
+    <race>
+        <name>Aasimar (Variant)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Cha 2, Wis 1</ability>
+        <spellAbility>Charisma</spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 287</text>
+        </trait>
+        <trait>
+            <name>Celestial Resistance</name>
+            <text>You have resistance to necrotic damage and radiant damage.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 287</text>
+        </trait>
+        <trait>
+            <name>Celestial Legacy</name>
+            <text>You know the light cantrip. Once you reach 3rd level, you can cast the lesser restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 287</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Celestial.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 287</text>
+        </trait>
+    </race>
+    <race>
+        <name>Elf, Dark</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Dex 2, Cha 1</ability>
+        <spellAbility>Charisma</spellAbility>
+        <proficiency>Perception</proficiency>
+        <trait>
+            <name>Superior Darkvision</name>
+            <text>Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>You have proficiency in the Perception skill.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Trance</name>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Sunlight Sensitivity</name>
+            <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+        <trait>
+            <name>Drow Magic</name>
+            <text>You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+        <trait>
+            <name>Drow Weapon Training</name>
+            <text>You have proficiency with rapiers, shortswords, and hand crossbows.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Black)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have black dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 5 foot by 30 foot line of acid.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to acid damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Blue)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have blue dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 5 foot by 30 foot line of lightning.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to lightning damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Brass)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have brass dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 5 foot by 30 foot line of fire.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to fire damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Bronze)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have bronze dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 5 foot by 30 foot line of lightning.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to lightning damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Copper)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have copper dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 5 foot by 30 foot line of acid.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to acid damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Gold)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have gold dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 15 foot cone of fire.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to fire damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Green)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have green dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 15 foot cone of poison.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to poison damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Red)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have red dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 15 foot cone of fire.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to fire damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Silver)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have silver dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 15 foot cone of cold.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to cold damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (White)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have white dragon ancestry.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale a 15 foot cone of cold.</text>
+            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier+your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Damage Resistance</name>
+            <text>You have resistance to cold damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 34</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dwarf, Hill</name>
+        <size>M</size>
+        <speed>25</speed>
+        <ability>Con 2, Wis 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Resilience</name>
+            <text>You have advantage on saving throws against poison, and you have resistance against poison damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Combat Training</name>
+            <text>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Tool Proficiency</name>
+            <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Stonecunning</name>
+            <text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Toughness</name>
+            <text>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <modifier category="bonus">hp +1</modifier>
+    </race>
+    <race>
+        <name>Dwarf, Mountain</name>
+        <size>M</size>
+        <speed>25</speed>
+        <ability>Con 2, Str 2</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Resilience</name>
+            <text>You have advantage on saving throws against poison, and you have resistance against poison damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Combat Training</name>
+            <text>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Tool Proficiency</name>
+            <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Stonecunning</name>
+            <text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+        <trait>
+            <name>Dwarven Armor Training</name>
+            <text>You have proficiency with light and medium armor.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 20</text>
+        </trait>
+    </race>
+    <race>
+        <name>Elf, Eladrin (Variant)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Dex 2, Int 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency>Perception</proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>You have proficiency in the Perception skill.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Trance</name>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Elf Weapon Training</name>
+            <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 286</text>
+        </trait>
+        <trait>
+            <name>Fey Step</name>
+            <text>You can cast the misty step spell once using this trait. You regain the ability to do so when you finish a short or long rest.</text>
+            <text> </text>
+            <text>Source: Dungeon Master's Guide, p. 286</text>
+        </trait>
+    </race>
+    <race>
+        <name>Elf, High</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Dex 2, Int 1</ability>
+        <spellAbility>Intelligence</spellAbility>
+        <proficiency>Perception</proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>You have proficiency in the Perception skill.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Trance</name>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common, Elvish, and one extra language of your choice. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+        <trait>
+            <name>Elf Weapon Training</name>
+            <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Cantrip</name>
+            <text>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+    </race>
+    <race>
+        <name>Elf, Wood</name>
+        <size>M</size>
+        <speed>35</speed>
+        <ability>Dex 2, Wis 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency>Perception</proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>You have proficiency in the Perception skill.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Trance</name>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 23</text>
+        </trait>
+        <trait>
+            <name>Elf Weapon Training</name>
+            <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+        <trait>
+            <name>Fleet of Foot</name>
+            <text>Your base walking speed increases to 35 feet.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+        <trait>
+            <name>Mask of the Wild</name>
+            <text>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 24</text>
+        </trait>
+    </race>
+    <race>
+        <name>Gnome, Forest</name>
+        <size>S</size>
+        <speed>25</speed>
+        <ability>Int 2, Dex 1</ability>
+        <spellAbility>Intelligence</spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Gnome Cunning</name>
+            <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Natural Illusionist</name>
+            <text>You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Speak with Small Beasts</name>
+            <text>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+    </race>
+    <race>
+        <name>Gnome, Rock</name>
+        <size>S</size>
+        <speed>25</speed>
+        <ability>Int 2, Con 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Gnome Cunning</name>
+            <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Artificer's Lore</name>
+            <text>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+        <trait>
+            <name>Tinker</name>
+            <text>You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.</text>
+            <text>    When you create a device, choose one of the following options:</text>
+            <text>    Clockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.</text>
+            <text>    Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.</text>
+            <text>    Music Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 37</text>
+        </trait>
+    </race>
+    <race>
+        <name>Halfling, Lightfoot</name>
+        <size>S</size>
+        <speed>25</speed>
+        <ability>Dex 2, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Lucky</name>
+            <text>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Brave</name>
+            <text>You have advantage on saving throws against being frightened.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Halfling Nimbleness</name>
+            <text>You can move through the space of any creature that is of a size larger than yours.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Naturally Stealthy</name>
+            <text>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+    </race>
+    <race>
+        <name>Halfling, Stout</name>
+        <size>S</size>
+        <speed>25</speed>
+        <ability>Dex 2, Con 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Lucky</name>
+            <text>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Brave</name>
+            <text>You have advantage on saving throws against being frightened.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Halfling Nimbleness</name>
+            <text>You can move through the space of any creature that is of a size larger than yours.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+        <trait>
+            <name>Stout Resilience</name>
+            <text>You have advantage on saving throws against poison, and you have resistance against poison damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 28</text>
+        </trait>
+    </race>
+    <race>
+        <name>Half-Elf</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Cha 2</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Ability Score Increase</name>
+            <text>Two different ability scores of your choice increase by 1.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 39</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 39</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 39</text>
+        </trait>
+        <trait>
+            <name>Skill Versatility</name>
+            <text>You gain proficiency in two skills of your choice.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 39</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common, Elvish, and one extra language of your choice.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 39</text>
+        </trait>
+    </race>
+    <race>
+        <name>Half-Orc</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Con 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency>Intimidation</proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 41</text>
+        </trait>
+        <trait>
+            <name>Menacing</name>
+            <text>You gain proficiency in the Intimidation skill.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 41</text>
+        </trait>
+        <trait>
+            <name>Relentless Endurance</name>
+            <text>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 41</text>
+        </trait>
+        <trait>
+            <name>Savage Attacks</name>
+            <text>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 41</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 41</text>
+        </trait>
+    </race>
+    <race>
+        <name>Human</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 31</text>
+        </trait>
+    </race>
+    <race>
+        <name>Human (Variant)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability></ability>
+        <spellAbility></spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Ability Score Increase</name>
+            <text>Two different ability scores of your choice increase by 1.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 31</text>
+        </trait>
+        <trait>
+            <name>Skills</name>
+            <text>You gain proficiency in one skill of your choice.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 31</text>
+        </trait>
+        <trait>
+            <name>Feat</name>
+            <text>You gain one feat of your choice.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 31</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 31</text>
+        </trait>
+    </race>
+    <race>
+        <name>Tiefling</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Cha 2, Int 1</ability>
+        <spellAbility>Charisma</spellAbility>
+        <proficiency></proficiency>
+        <trait>
+            <name>Darkvision</name>
+            <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 43</text>
+        </trait>
+        <trait>
+            <name>Hellish Resistance</name>
+            <text>You have resistance to fire damage.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 43</text>
+        </trait>
+        <trait>
+            <name>Infernal Legacy</name>
+            <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 43</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Infernal.</text>
+            <text> </text>
+            <text>Source: Player's Handbook, p. 43</text>
+        </trait>
+    </race>
 </compendium>
