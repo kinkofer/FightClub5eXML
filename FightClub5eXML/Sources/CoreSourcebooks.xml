@@ -25909,4 +25909,762 @@
             </feature>
         </autolevel>
     </class>
+    
+    <!-- Feats -->
+    <feat>
+        <name>Actor</name>
+        <prerequisite></prerequisite>
+        <text>Skilled at mimicry and dramatics, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Charisma score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.</text>
+        <text>    </text>
+        <text>&#8226; You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+        <modifier category="ability score">charisma +1</modifier>
+    </feat>
+    <feat>
+        <name>Alert</name>
+        <prerequisite></prerequisite>
+        <text>Always on the lookout for danger, you gain the following </text>
+        <text>    </text>
+        <text>&#8226; You gain a +5 bonus to initiative.</text>
+        <text>    </text>
+        <text>&#8226; You can't be surprised while you are conscious.</text>
+        <text>    </text>
+        <text>&#8226; Other creatures don&#8217;t gain advantage on attack rolls against you as a result of being unseen by you.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+        <modifier category="bonus">initiative +5</modifier>
+    </feat>
+    <feat>
+        <name>Athlete (Dexterity)</name>
+        <prerequisite></prerequisite>
+        <text>You have undergone extensive physical training to gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; When you are prone, standing up uses only 5 feet of your movement.</text>
+        <text>    </text>
+        <text>&#8226; Climbing doesn't cost you extra movement.</text>
+        <text>    </text>
+        <text>&#8226; You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+        <modifier category="ability score">dexterity +1</modifier>
+    </feat>
+    <feat>
+        <name>Athlete (Strength)</name>
+        <prerequisite></prerequisite>
+        <text>You have undergone extensive physical training to gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; When you are prone, standing up uses only 5 feet of your movement.</text>
+        <text>    </text>
+        <text>&#8226; Climbing doesn't cost you extra movement.</text>
+        <text>    </text>
+        <text>&#8226; You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Charger</name>
+        <prerequisite></prerequisite>
+        <text>When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.</text>
+        <text>    If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+    </feat>
+    <feat>
+        <name>Crossbow Expert</name>
+        <prerequisite></prerequisite>
+        <text>Thanks to extensive practice with the crossbow, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You ignore the loading quality of crossbows with which you are proficient.</text>
+        <text>    </text>
+        <text>&#8226; Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+    </feat>
+    <feat>
+        <name>Defensive Duelist</name>
+        <prerequisite>Dexterity 13 or higher</prerequisite>
+        <text>When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+    </feat>
+    <feat>
+        <name>Dual Wielder</name>
+        <prerequisite></prerequisite>
+        <text>You master fighting with two weapons, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.</text>
+        <text>    </text>
+        <text>&#8226; You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.</text>
+        <text>    </text>
+        <text>&#8226; You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 165</text>
+    </feat>
+    <feat>
+        <name>Dungeon Delver</name>
+        <prerequisite></prerequisite>
+        <text>Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on saving throws made to avoid or resist traps.</text>
+        <text>    </text>
+        <text>&#8226; You have resistance to the damage dealt by traps.</text>
+        <text>    </text>
+        <text>&#8226; You can search for traps while traveling at a normal pace, instead of only at a slow pace.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Durable</name>
+        <prerequisite></prerequisite>
+        <text>Hardy and resilient, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Constitution score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+        <modifier category="ability score">constitution +1</modifier>
+    </feat>
+    <feat>
+        <name>Elemental Adept (Acid)</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>Spells you cast ignore acid resistance. In addition, when you roll damage for a spell you cast that deals acid damage, you can treat any 1 on a damage die as a 2.</text>
+        <text>    You can select this feat multiple times. Each time you do so, you must choose a different damage type.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Elemental Adept (Cold)</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>Spells you cast ignore cold resistance. In addition, when you roll damage for a spell you cast that deals cold damage, you can treat any 1 on a damage die as a 2.</text>
+        <text>    You can select this feat multiple times. Each time you do so, you must choose a different damage type.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Elemental Adept (Fire)</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>Spells you cast ignore fire resistance. In addition, when you roll damage for a spell you cast that deals fire damage, you can treat any 1 on a damage die as a 2.</text>
+        <text>    You can select this feat multiple times. Each time you do so, you must choose a different damage type.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Elemental Adept (Lightning)</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>Spells you cast ignore lightning resistance. In addition, when you roll damage for a spell you cast that deals lightning damage, you can treat any 1 on a damage die as a 2.</text>
+        <text>    You can select this feat multiple times. Each time you do so, you must choose a different damage type.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Elemental Adept (Thunder)</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>Spells you cast ignore thunder resistance. In addition, when you roll damage for a spell you cast that deals thunder damage, you can treat any 1 on a damage die as a 2.</text>
+        <text>    You can select this feat multiple times. Each time you do so, you must choose a different damage type.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 166</text>
+    </feat>
+    <feat>
+        <name>Grappler</name>
+        <prerequisite>Strength 13 or higher</prerequisite>
+        <text>You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on attack rolls against a creature you are grappling.</text>
+        <text>    </text>
+        <text>&#8226; You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.</text>
+        <text>     </text>
+        <text>Restrained:</text>
+        <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+    </feat>
+    <feat>
+        <name>Great Weapon Master</name>
+        <prerequisite></prerequisite>
+        <text>You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.</text>
+        <text>    </text>
+        <text>&#8226; Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+    </feat>
+    <feat>
+        <name>Healer</name>
+        <prerequisite></prerequisite>
+        <text>You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.</text>
+        <text>    </text>
+        <text>&#8226; As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6+4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+    </feat>
+    <feat>
+        <name>Heavily Armored</name>
+        <prerequisite>Proficiency with medium armor</prerequisite>
+        <text>You have trained to master the use of heavy armor, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with heavy armor.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Heavy Armor Master</name>
+        <prerequisite>Proficiency with heavy armor</prerequisite>
+        <text>You can use your armor to deflect strikes that would kill others. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Inspiring Leader</name>
+        <prerequisite>Charisma 13 or higher</prerequisite>
+        <text>You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+    </feat>
+    <feat>
+        <name>Keen Mind</name>
+        <prerequisite></prerequisite>
+        <text>You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Intelligence score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You always know which way is north.</text>
+        <text>    </text>
+        <text>&#8226; You always know the number of hours left before the next sunrise or sunset.</text>
+        <text>    </text>
+        <text>&#8226; You can accurately recall anything you have seen or heard within the past month.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">intelligence +1</modifier>
+    </feat>
+    <feat>
+        <name>Lightly Armored (Dexterity)</name>
+        <prerequisite></prerequisite>
+        <text>You have trained to master the use of light armor, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with light armor.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">dexterity +1</modifier>
+    </feat>
+    <feat>
+        <name>Lightly Armored (Strength)</name>
+        <prerequisite></prerequisite>
+        <text>You have trained to master the use of light armor, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with light armor.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Linguist</name>
+        <prerequisite></prerequisite>
+        <text>You have studied languages and codes, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Intelligence score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You learn three languages of your choice.</text>
+        <text>    </text>
+        <text>&#8226; You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+        <modifier category="ability score">intelligence +1</modifier>
+    </feat>
+    <feat>
+        <name>Lucky</name>
+        <prerequisite></prerequisite>
+        <text>You have inexplicable luck that seems to kick in at just the right moment.</text>
+        <text>    You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.</text>
+        <text>    You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.</text>
+        <text>    You regain your expended luck points when you finish a long rest.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 167</text>
+    </feat>
+    <feat>
+        <name>Mage Slayer</name>
+        <prerequisite></prerequisite>
+        <text>You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.</text>
+        <text>    </text>
+        <text>&#8226; When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on saving throws against spells cast by creatures within 5 feet of you.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Bard)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two bard cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level bard spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Charisma.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Cleric)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two cleric cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level cleric spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Wisdom.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Druid)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two druid cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level druid spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Wisdom.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Sorcerer)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two sorcerer cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level sorcerer spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Charisma.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Warlock)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two warlock cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level warlock spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Charisma.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Magic Initiate (Wizard)</name>
+        <prerequisite></prerequisite>
+        <text>You learn two wizard cantrips of your choice.</text>
+        <text>    In addition, choose one 1st-level wizard spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</text>
+        <text>    Your spellcasting ability for these spells is Intelligence.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Martial Adept</name>
+        <prerequisite></prerequisite>
+        <text>You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:</text>
+        <text>     </text>
+        <text>&#8226; You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver&#8217;s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</text>
+        <text>     </text>
+        <text>&#8226; You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Medium Armor Master</name>
+        <prerequisite>Proficiency with medium armor</prerequisite>
+        <text>You have practiced moving in medium armor to gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.</text>
+        <text>    </text>
+        <text>&#8226; When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Mobile</name>
+        <prerequisite></prerequisite>
+        <text>You are exceptionally speedy and agile. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Your speed increases by 10 feet.</text>
+        <text>    </text>
+        <text>&#8226; When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.</text>
+        <text>    </text>
+        <text>&#8226; When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <modifier category="bonus">speed +10</modifier>
+    </feat>
+    <feat>
+        <name>Moderately Armored (Dexterity)</name>
+        <prerequisite>Proficiency with light armor</prerequisite>
+        <text>You have trained to master the use of medium armor and shields, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with medium armor and shields.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <modifier category="ability score">dexterity +1</modifier>
+    </feat>
+    <feat>
+        <name>Moderately Armored (Strength)</name>
+        <prerequisite>Proficiency with light armor</prerequisite>
+        <text>You have trained to master the use of medium armor and shields, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with medium armor and shields.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Mounted Combatant</name>
+        <prerequisite></prerequisite>
+        <text>You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.</text>
+        <text>    </text>
+        <text>&#8226; You can force an attack targeted at your mount to target you instead.</text>
+        <text>    </text>
+        <text>&#8226; If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Observant (Intelligence)</name>
+        <prerequisite></prerequisite>
+        <text>Quick to notice details of your environment, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Intelligence or Wisdom score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.</text>
+        <text>    </text>
+        <text>&#8226; You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <modifier category="bonus">passive wisdom +5</modifier>
+        <modifier category="ability score">intelligence +1</modifier>
+    </feat>
+    <feat>
+        <name>Observant (Wisdom)</name>
+        <prerequisite></prerequisite>
+        <text>Quick to notice details of your environment, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Intelligence or Wisdom score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.</text>
+        <text>    </text>
+        <text>&#8226; You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <modifier category="bonus">passive wisdom +5</modifier>
+        <modifier category="ability score">wisdom +1</modifier>
+    </feat>
+    <feat>
+        <name>Polearm Master</name>
+        <prerequisite></prerequisite>
+        <text>You can keep your enemies at bay with reach weapons. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon&#8217;s damage die for this attack is a d4, and it deals bludgeoning damage.</text>
+        <text>    </text>
+        <text>&#8226; While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+    </feat>
+    <feat>
+        <name>Resilient (Charisma)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>charisma</proficiency>
+        <modifier category="ability score">charisma +1</modifier>
+    </feat>
+    <feat>
+        <name>Resilient (Constitution)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>constitution</proficiency>
+        <modifier category="ability score">constitution +1</modifier>
+    </feat>
+    <feat>
+        <name>Resilient (Dexterity)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>dexterity</proficiency>
+        <modifier category="ability score">dexterity +1</modifier>
+    </feat>
+    <feat>
+        <name>Resilient (Intelligence)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>intelligence</proficiency>
+        <modifier category="ability score">intelligence +1</modifier>
+    </feat>
+    <feat>
+        <name>Resilient (Strength)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>strength</proficiency>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    <feat>
+        <name>Resilient (Wisdom)</name>
+        <prerequisite></prerequisite>
+        <text>Choose one ability score. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase the chosen ability score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency in saving throws using the chosen ability.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 168</text>
+        <proficiency>wisdom</proficiency>
+        <modifier category="ability score">wisdom +1</modifier>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Bard)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level bard spells of your choice. The spells you choose must have the ritual tag. Charisma is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the bard spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Cleric)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level cleric spells of your choice. The spells you choose must have the ritual tag. Wisdom is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the cleric spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Druid)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level druid spells of your choice. The spells you choose must have the ritual tag. Wisdom is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the druid spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Sorcerer)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level sorcerer spells of your choice. The spells you choose must have the ritual tag. Charisma is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the sorcerer spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Warlock)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level warlock spells of your choice. The spells you choose must have the ritual tag. Charisma is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the warlock spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Ritual Caster (Wizard)</name>
+        <prerequisite>Intelligence or Wisdom 13 or higher</prerequisite>
+        <text>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</text>
+        <text>    When you choose this feat, you acquire a ritual book holding two 1st-level wizard spells of your choice. The spells you choose must have the ritual tag. Intelligence is your spellcasting ability for these spells.</text>
+        <text>    If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the wizard spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Savage Attacker</name>
+        <prerequisite></prerequisite>
+        <text>Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Sentinel</name>
+        <prerequisite></prerequisite>
+        <text>You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.</text>
+        <text>    </text>
+        <text>&#8226; Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</text>
+        <text>    </text>
+        <text>&#8226; When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 169</text>
+    </feat>
+    <feat>
+        <name>Sharpshooter</name>
+        <prerequisite></prerequisite>
+        <text>You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; Your ranged weapon attacks ignore half cover and three-quarters cover.</text>
+        <text>    </text>
+        <text>&#8226; Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Shield Master</name>
+        <prerequisite></prerequisite>
+        <text>You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield.</text>
+        <text>    </text>
+        <text>&#8226; If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.</text>
+        <text>    </text>
+        <text>&#8226; If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.</text>
+        <text>    </text>
+        <text>&#8226; If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Skilled</name>
+        <prerequisite></prerequisite>
+        <text>You gain proficiency in any combination of three skills or tools of your choice.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Skulker</name>
+        <prerequisite>Dexterity 13 or higher</prerequisite>
+        <text>You are expert at slinking through shadows. You gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You can try to hide when you are lightly obscured from the creature from which you are hiding.</text>
+        <text>    </text>
+        <text>&#8226; When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.</text>
+        <text>    </text>
+        <text>&#8226; Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Spell Sniper</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; When you cast a spell that requires you to make an attack roll, the spell's range is doubled.</text>
+        <text>    </text>
+        <text>&#8226; Your ranged spell attacks ignore half cover and three-quarters cover.</text>
+        <text>    </text>
+        <text>&#8226; You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Tavern Brawler</name>
+        <prerequisite></prerequisite>
+        <text>Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Constitution score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You are proficient with improvised weapons.</text>
+        <text>    </text>
+        <text>&#8226; Your unarmed strike uses a d4 for damage.</text>
+        <text>    </text>
+        <text>&#8226; When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Tough</name>
+        <prerequisite></prerequisite>
+        <text>Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>War Caster</name>
+        <prerequisite>The ability to cast at least one spell</prerequisite>
+        <text>You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.</text>
+        <text>    </text>
+        <text>&#8226; You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.</text>
+        <text>    </text>
+        <text>&#8226; When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+    </feat>
+    <feat>
+        <name>Weapon Master (Dexterity)</name>
+        <prerequisite></prerequisite>
+        <text>You have practiced extensively with a variety of weapons, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+        <modifier category="ability score">dexterity +1</modifier>
+    </feat>
+    <feat>
+        <name>Weapon Master (Strength)</name>
+        <prerequisite></prerequisite>
+        <text>You have practiced extensively with a variety of weapons, gaining the following benefits.</text>
+        <text>    </text>
+        <text>&#8226; Increase your Strength or Dexterity score by 1, to a maximum of 20.</text>
+        <text>    </text>
+        <text>&#8226; You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.</text>
+        <text> </text>
+        <text>Source: Player's Handbook, p. 170</text>
+        <modifier category="ability score">strength +1</modifier>
+    </feat>
+    
+    <!-- Backgrounds -->
 </compendium>
