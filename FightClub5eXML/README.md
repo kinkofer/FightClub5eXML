@@ -1,16 +1,34 @@
 # README
 
+
+## About
+
 Being a big fan of Lion Den’s Fight Club 5e and Game Master 5e apps for iOS and Android I was happy to see a kind soul (@fightclub5exml on twitter) had picked up the mantle of updating the compendium with content.
 
 Unfortunately he seems to have deleted his twitter account so I am picking up where he left off by expanding on his work by adding Waterdeep Dragon Heist, Waterdeep Dungeon of the Mad Mage and Ghosts of Saltmarsh content to the XML.
 
-Will take a few weeks but will be making my way through each book and adding the items and monsters to bring it up to date.
+Will take some time but will be making my way through each book and adding the items and monsters to bring it up to date.
 
 Any questions hit me up on twitter [@dragonahcas](http://twitter.com/dragonahcas).
 
 
-Additional Contributions:
+## How-To
+
+Import one of the Collection files into the Fight Club app.
+
+**CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
+**CoreOnly**: _CoreRulebooks_ plus Rulebook Supplements and Adventures
+**CorePlusUA-NoHomebrew**: _CoreOnly_ plus Unearthed Arcana
+**Complete**: _CorePlusUA-NoHomebrew_ plus homebrew content
+
+
+## Additional Contributors
 
 @kinkofer: for XML generation systems to allow github collections to be auto generated
 
 @felix_mil_: for xml creation tools https://felixmil.shinyapps.io/compendiumbuildr/
+
+
+## Contribute
+
+Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.
