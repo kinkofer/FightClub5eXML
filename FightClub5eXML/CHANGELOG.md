@@ -106,3 +106,9 @@ Skull Lash of Myrkul
 Master of Souls
 Fiendish Flesh Golem
 Hellwasp
+
+
+2020-01-21
+
+Separated out Core Rulebooks (PHB, DMG, MM) from other supplement rulebooks and adventures.
+Added "CoreRulebooks" collection.

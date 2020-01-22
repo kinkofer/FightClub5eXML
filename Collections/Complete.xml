@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
-    <doc href="../FightClub5eXML/Sources/Core.xml" />
+    <doc href="../FightClub5eXML/Sources/CoreRulebooks.xml" />
+    <doc href="../FightClub5eXML/Sources/RulesSupplementsAndAdventures.xml" />
     <doc href="../FightClub5eXML/Sources/BaldursGateDescentIntoAvernus.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana.xml" />
     <doc href="../FightClub5eXML/Sources/Homebrew.xml" />
