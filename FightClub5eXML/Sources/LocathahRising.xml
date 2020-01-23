@@ -7,7 +7,7 @@
         <type>humanoid (tortle)</type>
         <alignment>Lawful Good</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>90 (12d8 + 36)</hp>
+        <hp>90 (12d8+36)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>10</dex>
@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Locathah Rising p. 15</source>
         <trait>
             <name>Hearth of Moonlight and Shadow</name>
             <text>At the start of a short or long rest, Amble can touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.</text>
@@ -83,7 +82,7 @@
         <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>144 (17d8 + 68)</hp>
+        <hp>144 (17d8+68)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>16</str>
         <dex>16</dex>
@@ -101,7 +100,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Locathah Rising p. 18</source>
         <trait>
             <name>Amphibious</name>
             <text>Gar can breathe air and water.</text>
@@ -189,7 +187,7 @@
         <type>monstrosity (titan)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>207 (18d12 + 90)</hp>
+        <hp>207 (18d12+90)</hp>
         <speed>walk 20 ft., swim 50 ft.</speed>
         <str>24</str>
         <dex>11</dex>
@@ -207,7 +205,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>frightened, paralyzed</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Locathah Rising p. 21</source>
         <trait>
             <name>Amphibious</name>
             <text>The kraken can breathe air and water.</text>
@@ -245,7 +242,7 @@
         <type>humanoid (water genasi)</type>
         <alignment>Lawful Evil</alignment>
         <ac>11, 14 (with mage armor)</ac>
-        <hp>75 (10d8 + 30)</hp>
+        <hp>75 (10d8+30)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>12</str>
         <dex>12</dex>
@@ -263,7 +260,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Locathah Rising p. 23</source>
         <trait>
             <name>Amphibious</name>
             <text>Shoalar can breathe air and water.</text>
@@ -299,7 +295,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any Evil Alignment</alignment>
         <ac>10</ac>
-        <hp>75 (10d8 + 30)</hp>
+        <hp>75 (10d8+30)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>12</str>
         <dex>10</dex>
@@ -317,7 +313,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Locathah Rising p. 20</source>
         <trait>
             <name>Amphibious</name>
             <text>Whymsee can breathe air and water.</text>
@@ -348,7 +343,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any Evil Alignment</alignment>
         <ac>10</ac>
-        <hp>75 (10d8 + 30)</hp>
+        <hp>75 (10d8+30)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>12</str>
         <dex>10</dex>
@@ -366,7 +361,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Locathah Rising p. 20</source>
         <trait>
             <name>Amphibious</name>
             <text>Fhenimore can breathe air and water.</text>

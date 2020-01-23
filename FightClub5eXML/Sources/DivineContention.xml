@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Divine Contention</source>
         <trait>
             <name>Ethereal Sight</name>
             <text>Ebondeath can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.</text>

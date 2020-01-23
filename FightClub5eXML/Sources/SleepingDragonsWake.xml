@@ -7,7 +7,7 @@
         <type>undead</type>
         <alignment>Unaligned</alignment>
         <ac>13 (natural armor)</ac>
-        <hp>126 (11d12 + 55)</hp>
+        <hp>126 (11d12+55)</hp>
         <speed>walk 20 ft., swim 50 ft.</speed>
         <str>23</str>
         <dex>11</dex>
@@ -25,7 +25,6 @@
         <vulnerable>bludgeoning</vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>blindsight 60 ft.</senses>
-        <source>Sleeping Dragon's Wake</source>
         <trait>
             <name>Blood Frenzy</name>
             <text>The giant shark skeleton has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
@@ -46,7 +45,7 @@
         <type>dragon</type>
         <alignment>Lawful Good</alignment>
         <ac>19 (natural armor)</ac>
-        <hp>212 (17d12 + 102)</hp>
+        <hp>212 (17d12+102)</hp>
         <speed>walk 40 ft., fly 80 ft., swim 40 ft.</speed>
         <str>25</str>
         <dex>10</dex>
@@ -64,7 +63,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 60 ft., darkvision 120 ft.</senses>
-        <source>Sleeping Dragon's Wake</source>
         <trait>
             <name>Amphibious</name>
             <text>Lhammaruntosz can breathe air and water.</text>

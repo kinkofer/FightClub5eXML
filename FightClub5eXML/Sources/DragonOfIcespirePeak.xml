@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Magical Role</name>
             <text>Choose a role for the spellcaster: healer or mage. Your choice determines which Spellcasting trait to use below.</text>
@@ -59,7 +58,7 @@
         <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>14 (studded leather armor)</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -77,7 +76,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Helpful</name>
             <text>The expert can take the Help action as a bonus action.</text>
@@ -110,7 +108,7 @@
         <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>16 (chain shirt)</ac>
-        <hp>13 (2d8 + 4)</hp>
+        <hp>13 (2d8+4)</hp>
         <speed>walk 30 ft.</speed>
         <str>15</str>
         <dex>13</dex>
@@ -128,7 +126,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Martial Role</name>
             <text>The warrior has one of the following traits of your choice:</text>
@@ -158,7 +155,7 @@
         <type>humanoid (half-orc, shapechanger)</type>
         <alignment>Neutral Evil</alignment>
         <ac>13 (hide armor)</ac>
-        <hp>58 (9d8 + 18)</hp>
+        <hp>58 (9d8+18)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>13</dex>
@@ -176,7 +173,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Dragon of Icespire Peak, Divine Contention, Sleeping Dragon's Wake</source>
         <trait>
             <name>Shapechanger</name>
             <text>The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
@@ -208,7 +204,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral</alignment>
         <ac>10</ac>
-        <hp>44 (8d8 + 8)</hp>
+        <hp>44 (8d8+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>10</dex>
@@ -226,7 +222,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Brave</name>
             <text>Don-Jon has advantage on saving throws against being frightened.</text>
@@ -259,7 +254,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral Good</alignment>
         <ac>14 (studded leather armor)</ac>
-        <hp>112 (15d8 + 45)</hp>
+        <hp>112 (15d8+45)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>15</dex>
@@ -277,7 +272,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Archer</name>
             <text>A longbow or shortbow deals one extra die of its damage when Falcon hits with it (included in his longbow attack).</text>
@@ -310,7 +304,7 @@
         <type>monstrosity</type>
         <alignment>Chaotic Evil</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>73 (7d12 + 28)</hp>
+        <hp>73 (7d12+28)</hp>
         <speed>walk 50 ft.</speed>
         <str>20</str>
         <dex>11</dex>
@@ -328,7 +322,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Relentless (Recharges after a Short or Long Rest)</name>
             <text>If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</text>
@@ -379,7 +372,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Dragon of Icespire Peak</source>
         <trait>
             <name>Gnome Cunning</name>
             <text>The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</text>

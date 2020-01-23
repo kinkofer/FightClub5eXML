@@ -7,7 +7,7 @@
         <type>elemental</type>
         <alignment>Chaotic Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>147 (14d10 + 70)</hp>
+        <hp>147 (14d10+70)</hp>
         <speed>walk 30 ft., fly 60 ft.</speed>
         <str>19</str>
         <dex>11</dex>
@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Storm Lord's Wrath</source>
         <trait>
             <name>False Appearance</name>
             <text>While the statue remains motionless, it is indistinguishable from an inanimate statue.</text>
@@ -71,7 +70,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Storm Lord's Wrath</source>
         <action>
             <name>Sting</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
@@ -86,7 +84,7 @@
         <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>45 (7d8 + 14)</hp>
+        <hp>45 (7d8+14)</hp>
         <speed>walk 50 ft.</speed>
         <str>17</str>
         <dex>12</dex>
@@ -104,7 +102,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Storm Lord's Wrath</source>
         <trait>
             <name>Keen Hearing and Smell</name>
             <text>Tooth-N-Claw has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>

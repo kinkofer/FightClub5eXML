@@ -11,7 +11,6 @@
         <components>V</components>
         <duration>8 hours</duration>
         <classes>Bard, Sorcerer, Wizard, Warlock</classes>
-        <source>Acquisitions Incorporated p. 75</source>
         <text>Do you need to squeeze a few more gold pieces out of a merchant as you try to sell that weird octopus statue you liberated from the chaos temple? Do you need to downplay the worth of some magical assets when the tax collector stops by? Distort value has you covered.
             You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence (Investigation) check against your spell save DC.
             At Higher Levels:
@@ -29,7 +28,6 @@
         <components>V</components>
         <duration>Concentration, up to 1 hour</duration>
         <classes>Bard, Cleric, Wizard</classes>
-        <source>Acquisitions Incorporated p. 75</source>
         <text>When you need to make sure something gets done, you can't rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.
             You can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another Wisdom saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.
             When the spell ends, the creature knows it was charmed by you.
@@ -48,7 +46,6 @@
         <components>V, S, R</components>
         <duration>Instantaneous</duration>
         <classes>Bard, Wizard</classes>
-        <source>Acquisitions Incorporated p. 76</source>
         <text>When I met Jim Darkmagic, I wondered how he got anything done in that outfit. I have since learned that most of his talents involve standing and talking. His outfit is perfect for that.
             Jim Darkmagic is said to have invented this spell, originally calling it I said what?! Have you ever been talking to the local monarch and accidentally mentioned how their son looks like your favorite hog from when you were growing up on the family farm? We've all been there! But rather than being beheaded for an honest slip of the tongue, you can pretend it never happened—by ensuring that no one knows it happened.
             When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within 5 feet of you forgets everything you said within the last 6 seconds. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.
@@ -65,7 +62,6 @@
         <components>V, S, M (a gem worth at least 50 gp)</components>
         <duration>Concentration, up to 1 minute</duration>
         <classes>Cleric, Wizard, Warlock</classes>
-        <source>Acquisitions Incorporated p. 76</source>
         <text>When you cast this spell, you present the gem used as the material component and choose any number of creatures within range that can see you. Each target must succeed on a Wisdom saving throw or be charmed by you until the spell ends, or until you or your companions do anything harmful to it. While charmed in this way, a creature can do nothing but use its movement to approach you in a safe manner. While an affected creature is within 5 feet of you, it cannot move, but simply stares greedily at the gem you present.
             At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
             Source: Acquisitions Incorporated p. 76
@@ -81,7 +77,6 @@
         <components>S, M (a coin), R</components>
         <duration>1 minute</duration>
         <classes>Wizard</classes>
-        <source>Acquisitions Incorporated p. 76</source>
         <text>Of the many tactics employed by master magician and renowned adventurer Jim Darkmagic, the old glowing coin trick is a time-honored classic. When you cast the spell, you hurl the coin that is the spell's material component to any spot within range. The coin lights up as if under the effect of a light spell. Each creature of your choice that you can see within 30 feet of the coin must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom (Perception) checks and initiative rolls.
             Source: Acquisitions Incorporated p. 76
         </text>
@@ -96,7 +91,6 @@
         <components>V, S, R</components>
         <duration>Instantaneous</duration>
         <classes>Wizard</classes>
-        <source>Acquisitions Incorporated p. 76</source>
         <text>Jim's magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy.
             Any apprentice wizard can cast a boring old magic missile. Sure, it always strikes its target. Yawn. Do away with the drudgery of your grandfather's magic with this improved version of the spell, as used by Jim Darkmagic!
             You create three twisting, whistling, hypoallergenic, gluten-free darts of magical force. Each dart targets a creature of your choice that you can see within range. Make a ranged spell attack for each missile. On a hit, a missile deals 2d4 force damage to its target.
@@ -116,7 +110,6 @@
         <components>V</components>
         <duration>1 hour</duration>
         <classes>Bard, Cleric</classes>
-        <source>Acquisitions Incorporated p. 77</source>
         <text>I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?
             You address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on Wisdom saving throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.
             At Higher Levels:
@@ -132,7 +125,7 @@
         <type>aberration</type>
         <alignment>Chaotic Evil</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>52 (7d10 + 14)</hp>
+        <hp>52 (7d10+14)</hp>
         <speed>walk 40 ft., climb 40 ft.</speed>
         <str>18</str>
         <dex>13</dex>
@@ -150,7 +143,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 120 ft. (blind beyond this radius)</senses>
-        <source>Acquisitions Incorporated p. 209</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The chaos quadrapod has advantage on saving throws against spells and other magical effects.</text>
@@ -178,7 +170,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 30 ft., fly 60 ft.</speed>
         <str>14</str>
         <dex>10</dex>
@@ -196,7 +188,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>blindsight 60 ft., darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 209</source>
         <trait>
             <name>False Appearance</name>
             <text>While the clockwork dragon remains motionless, it is indistinguishable from a metal statue.</text>
@@ -221,7 +212,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>39 (6d8 + 12)</hp>
+        <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>16</dex>
@@ -239,7 +230,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 212</source>
         <trait>
             <name>Customizable Storage</name>
             <text>A keg robot can hold up to three types of liquid payload totaling 12 gallons within its hollow, barrel-shaped body. A full keg robot can make one liquid attack per gallon before the liquid must be refilled. Filling a keg robot takes 2 rounds per gallon. Differing payloads can alter the keg robot's attacks from those presented here.</text>
@@ -277,7 +267,7 @@
         <type>humanoid (goblinoid)</type>
         <alignment>Neutral Evil</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>27 (6d6 + 6)</hp>
+        <hp>27 (6d6+6)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>14</dex>
@@ -295,7 +285,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 213</source>
         <trait>
             <name>Defensive Advantage</name>
             <text>As long as two or more of Splugoth's allies are within 5 feet of him and are not incapacitated, attack rolls against him are made with disadvantage.</text>
@@ -337,7 +326,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>187 (15d12 + 90)</hp>
+        <hp>187 (15d12+90)</hp>
         <speed>walk 20 ft., fly 80 ft.</speed>
         <str>23</str>
         <dex>16</dex>
@@ -355,7 +344,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 60 ft., darkvision 120 ft.</senses>
-        <source>Acquisitions Incorporated p. 211</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The ancient deep crow has advantage on saving throws against spells and other magical effects.</text>
@@ -414,7 +402,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>133 (14d10 + 56)</hp>
+        <hp>133 (14d10+56)</hp>
         <speed>walk 20 ft., fly 80 ft.</speed>
         <str>20</str>
         <dex>16</dex>
@@ -432,7 +420,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 30 ft., darkvision 120 ft.</senses>
-        <source>Acquisitions Incorporated p. 210</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The deep crow has advantage on saving throws against spells and other magical effects.</text>
@@ -476,7 +463,7 @@
         <type>humanoid (dragonborn)</type>
         <alignment>Chaotic Good</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>45 (7d8 + 14)</hp>
+        <hp>45 (7d8+14)</hp>
         <speed>walk 30 ft.</speed>
         <str>17</str>
         <dex>8</dex>
@@ -494,7 +481,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 201</source>
         <trait>
             <name>Champion Challenge (Recharges after a Short or Long Rest)</name>
             <text>As a bonus action, Donaar causes each creature of his choice that he can see within 30 feet of him to make a DC 13 Wisdom saving throw. On a failure, a creature can't willingly move more than 30 feet away from Donaar. This effect ends on the creature if Donaar is incapacitated or dies, or if the creature is moved more than 30 feet away from him.</text>
@@ -539,7 +525,7 @@
         <type>humanoid (elf)</type>
         <alignment>Neutral</alignment>
         <ac>12</ac>
-        <hp>33 (6d8 + 6)</hp>
+        <hp>33 (6d8+6)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>15</dex>
@@ -557,7 +543,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 205</source>
         <trait>
             <name>Fey Ancestry</name>
             <text>Brahma has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
@@ -595,7 +580,7 @@
         <type>humanoid (elf)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (studded leather armor)</ac>
-        <hp>44 (8d8 + 8)</hp>
+        <hp>44 (8d8+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>8</str>
         <dex>14</dex>
@@ -613,7 +598,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Acquisitions Incorporated p. 202</source>
         <trait>
             <name>Special Equipment</name>
             <text>K'thriss wears a robe of stars (accounted for in his statistics). The robe allows him to cast the following spells: 6/day: magic missile (7 missiles)</text>
@@ -661,7 +645,7 @@
         <type>humanoid (elf)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>16 (studded leather armor)</ac>
-        <hp>66 (12d8 + 12)</hp>
+        <hp>66 (12d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>18</dex>
@@ -679,7 +663,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 199</source>
         <trait>
             <name>Fey Ancestry</name>
             <text>Môrgæn has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
@@ -724,7 +707,7 @@
         <type>humanoid (elf)</type>
         <alignment>Neutral Good Neutral Evil</alignment>
         <ac>15 (studded leather armor)</ac>
-        <hp>32 (5d8 + 10)</hp>
+        <hp>32 (5d8+10)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>16</dex>
@@ -742,7 +725,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 205</source>
         <trait>
             <name>Fey Ancestry</name>
             <text>Oak has advantage on saving throws against being charmed, and magic can't put him to sleep.</text>
@@ -780,7 +762,7 @@
         <type>humanoid (elf)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>14 (leather armor)</ac>
-        <hp>52 (8d8 + 16)</hp>
+        <hp>52 (8d8+16)</hp>
         <speed>walk 35 ft.</speed>
         <str>8</str>
         <dex>16</dex>
@@ -798,7 +780,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 204</source>
         <trait>
             <name>Fey Ancestry</name>
             <text>Walnut has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
@@ -851,7 +832,7 @@
         <type>humanoid (half-elf)</type>
         <alignment>Neutral Good</alignment>
         <ac>15 (chain shirt)</ac>
-        <hp>52 (8d8 + 16)</hp>
+        <hp>52 (8d8+16)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>14</dex>
@@ -869,7 +850,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 208</source>
         <action>
             <name>Multiattack</name>
             <text>Auspicia makes two attacks.</text>
@@ -902,7 +882,7 @@
         <type>humanoid (half-elf)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>65 (10d8 + 20)</hp>
+        <hp>65 (10d8+20)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>8</dex>
@@ -920,7 +900,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 196</source>
         <trait>
             <name>Divine Strike</name>
             <text>Once on each of his turns when he hits a creature with a weapon attack, Omin can cause the attack to deal an extra 4 (1d8) damage of the same type dealt by the weapon.</text>
@@ -966,7 +945,7 @@
         <type>humanoid (halfling)</type>
         <alignment>Chaotic Good</alignment>
         <ac>15 (Unarmored Defense)</ac>
-        <hp>45 (10d6 + 10)</hp>
+        <hp>45 (10d6+10)</hp>
         <speed>walk 40 ft.</speed>
         <str>8</str>
         <dex>16</dex>
@@ -984,7 +963,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 203</source>
         <trait>
             <name>Brave</name>
             <text>Rosie has advantage on saving throws against being frightened.</text>
@@ -1056,7 +1034,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 200</source>
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
@@ -1105,7 +1082,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 197</source>
         <trait>
             <name>Special Equipment</name>
             <text>Jim carries a wand of wonder. Benign Transportation (Recharges after Jim Casts a Conjuration Spell of 1st Level or Higher). As a bonus action, Jim teleports up to 30 feet to a space he can see. The space must be unoccupied or occupied by a willing Small or Medium creature. If the latter, Jim and the willing creature both teleport, swapping places.</text>
@@ -1144,7 +1120,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral Evil</alignment>
         <ac>12, 15 (with mage armor)</ac>
-        <hp>27 (5d8 + 5)</hp>
+        <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>14</dex>
@@ -1162,7 +1138,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 206</source>
         <trait>
             <name>Echo Spell (1/day)</name>
             <text>Pendragon can cast the spell he cast on his last turn, whose casting time becomes 1 bonus action. This bonus casting uses a spell slot as normal.</text>
@@ -1192,7 +1167,7 @@
         <type>humanoid (human)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>18 (chain mail)</ac>
-        <hp>27 (5d8 + 5)</hp>
+        <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft.</speed>
         <str>15</str>
         <dex>10</dex>
@@ -1210,7 +1185,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 206</source>
         <trait>
             <name>Divine Display (1/day)</name>
             <text>As a bonus action, Phoenix causes his shield to flare with divine light. Each creature of his choice within 30 feet of him must succeed on a DC 13 Wisdom saving throw or be blinded for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself with a success.</text>
@@ -1244,7 +1218,7 @@
         <type>humanoid (human)</type>
         <alignment>Chaotic Good</alignment>
         <ac>18 (studded leather armor +1), 19 (studded leather armor +1)</ac>
-        <hp>65 (10d8 + 20)</hp>
+        <hp>65 (10d8+20)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>20</dex>
@@ -1262,7 +1236,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Acquisitions Incorporated p. 198</source>
         <trait>
             <name>Evasion</name>
             <text>If Viari is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's incapacitated.</text>
@@ -1310,7 +1283,7 @@
         <type>monstrosity (shapechanger)</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (chain shirt)</ac>
-        <hp>45 (6d8 + 18)</hp>
+        <hp>45 (6d8+18)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>18</dex>
@@ -1328,7 +1301,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 208</source>
         <trait>
             <name>Sneak Attack (1/Turn)</name>
             <text>Portentia deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Portentia that isn't incapacitated and Portentia doesn't have disadvantage on the attack roll.</text>
@@ -1358,7 +1330,7 @@
         <type>humanoid (elf)</type>
         <alignment>Lawful Good</alignment>
         <ac>14 (breastplate)</ac>
-        <hp>27 (5d8 + 5)</hp>
+        <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>10</dex>
@@ -1376,7 +1348,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Acquisitions Incorporated p. 208</source>
         <trait>
             <name>Divine Eminence</name>
             <text>As a bonus action, Prophetess can expend a spell slot to cause her melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Prophetess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</text>

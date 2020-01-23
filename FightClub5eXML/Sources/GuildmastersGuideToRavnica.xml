@@ -11,7 +11,6 @@
         <components>S</components>
         <duration>8 hours</duration>
         <classes></classes>
-        <source>Guildmasters' Guide to Ravnica p. 47</source>
         <text>Putting a finger to your head, you pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.
             If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as detect thoughts or modify memory), you can transform the thoughts or memories you read, rather than your own, into a thought strand.
             Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)
@@ -26,7 +25,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>49 (9d8 + 9)</hp>
+        <hp>49 (9d8+9)</hp>
         <speed>walk 30 ft., fly 60 ft.</speed>
         <str>9</str>
         <dex>20</dex>
@@ -44,7 +43,6 @@
         <vulnerable>radiant</vulnerable>
         <conditionImmune>frightened</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 203</source>
         <trait>
             <name>Fear Frenzy</name>
             <text>The horror has advantage on attack rolls against frightened creatures.</text>
@@ -98,7 +96,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>13</ac>
-        <hp>120 (16d10 + 32)</hp>
+        <hp>120 (16d10+32)</hp>
         <speed>walk 40 ft.</speed>
         <str>12</str>
         <dex>16</dex>
@@ -116,7 +114,6 @@
         <vulnerable>radiant</vulnerable>
         <conditionImmune>frightened</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 205</source>
         <trait>
             <name>Incorporeal Movement</name>
             <text>The horror can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</text>
@@ -186,7 +183,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>228 (24d12 + 72)</hp>
+        <hp>228 (24d12+72)</hp>
         <speed>walk 40 ft., climb 40 ft.</speed>
         <str>22</str>
         <dex>16</dex>
@@ -204,7 +201,6 @@
         <vulnerable>radiant</vulnerable>
         <conditionImmune>frightened</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 205</source>
         <trait>
             <name>Spider Climb</name>
             <text>The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
@@ -266,7 +262,7 @@
         <type>celestial</type>
         <alignment>Lawful Neutral</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>144 (17d8 + 68)</hp>
+        <hp>144 (17d8+68)</hp>
         <speed>walk 30 ft.</speed>
         <str>20</str>
         <dex>15</dex>
@@ -284,7 +280,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 192</source>
         <trait>
             <name>Eye of the Law</name>
             <text>As a bonus action, the archon can target a creature it can see within 120 feet of it and determine which laws that creature has broken in the last 24 hours.</text>
@@ -340,7 +335,7 @@
         <type>celestial</type>
         <alignment>Lawful Good</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>66 (12d8 + 12)</hp>
+        <hp>66 (12d8+12)</hp>
         <speed>walk 30 ft., fly 90 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -358,7 +353,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>darkvision 120 ft., truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 189</source>
         <trait>
             <name>Flyby</name>
             <text>The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.</text>
@@ -392,7 +386,7 @@
         <type>celestial</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>175 (27d8 + 54)</hp>
+        <hp>175 (27d8+54)</hp>
         <speed>walk 30 ft., fly 90 ft.</speed>
         <str>16</str>
         <dex>18</dex>
@@ -410,7 +404,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 192</source>
         <trait>
             <name>Exploitation of the Debtors</name>
             <text>As a bonus action, the angel targets a creature charmed by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.</text>
@@ -461,7 +454,7 @@
         <type>celestial</type>
         <alignment>Lawful Neutral</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>93 (11d10 + 33)</hp>
+        <hp>93 (11d10+33)</hp>
         <speed>walk 40 ft.</speed>
         <str>19</str>
         <dex>16</dex>
@@ -479,7 +472,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 199</source>
         <trait>
             <name>Bonding</name>
             <text>The felidar can magically bond with one creature it can see, right after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the felidar bonds with a different creature or until the bonded creature dies. This bond has the following effects: The felidar and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet. The felidar can sense the direction and distance to the bonded creature if they're on the same plane of existence. As an action, the felidar or the bonded creature can sense what the other sees and hears, during which time it loses its own sight and hearing. This effect lasts until the start of its next turn.</text>
@@ -521,7 +513,7 @@
         <type>celestial</type>
         <alignment>Chaotic Good</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>135 (18d8 + 54)</hp>
+        <hp>135 (18d8+54)</hp>
         <speed>walk 40 ft., fly 120 ft.</speed>
         <str>22</str>
         <dex>15</dex>
@@ -539,7 +531,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 190</source>
         <trait>
             <name>Flyby</name>
             <text>The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.</text>
@@ -581,7 +572,7 @@
         <type>celestial (angel)</type>
         <alignment>Lawful Good</alignment>
         <ac>22 (natural armor)</ac>
-        <hp>287 (25d8 + 175)</hp>
+        <hp>287 (25d8+175)</hp>
         <speed>walk 50 ft., fly 150 ft.</speed>
         <str>26</str>
         <dex>24</dex>
@@ -599,7 +590,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 230</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Aurelia fails a saving throw, she can choose to succeed instead.</text>
@@ -660,7 +650,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>11</ac>
-        <hp>22 (4d6 + 8)</hp>
+        <hp>22 (4d6+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>13</dex>
@@ -678,7 +668,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 221</source>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
@@ -700,7 +689,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>12</ac>
-        <hp>31 (7d6 + 7)</hp>
+        <hp>31 (7d6+7)</hp>
         <speed>walk 30 ft., fly 30 ft.</speed>
         <str>9</str>
         <dex>15</dex>
@@ -718,7 +707,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 221</source>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) slashing damage.</text>
@@ -745,7 +733,7 @@
         <type>dragon</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>22 (natural armor)</ac>
-        <hp>370 (19d20 + 171)</hp>
+        <hp>370 (19d20+171)</hp>
         <speed>walk 40 ft., climb 30 ft., fly 80 ft.</speed>
         <str>29</str>
         <dex>14</dex>
@@ -763,7 +751,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed</conditionImmune>
         <senses>blindsight 60 ft., darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 241</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Niv-Mizzet fails a saving throw, he can choose to succeed instead.</text>
@@ -849,7 +836,7 @@
         <type>elemental</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>16</ac>
-        <hp>142 (19d8 + 57)</hp>
+        <hp>142 (19d8+57)</hp>
         <speed>walk 0 ft., fly 120 ft.</speed>
         <str>15</str>
         <dex>22</dex>
@@ -867,7 +854,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 193</source>
         <trait>
             <name>Flyby</name>
             <text>The arclight phoenix doesn't provoke an opportunity attack when it flies out of an enemy's reach.</text>
@@ -904,7 +890,7 @@
         <type>elemental</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13</ac>
-        <hp>45 (7d8 + 14)</hp>
+        <hp>45 (7d8+14)</hp>
         <speed>walk 40 ft., swim 60 ft.</speed>
         <str>16</str>
         <dex>16</dex>
@@ -922,7 +908,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 207</source>
         <trait>
             <name>Feed on Fire</name>
             <text>If the weird takes fire damage from a spell or other magical effect, its size increases by one category. If there isn't enough room for the weird to increase in size, it attains the maximum size possible in the space available. While the weird is Large or bigger, it makes Strength checks and saving throws with advantage. If the weird starts its turn at Gargantuan size, the weird releases energy in an explosion. Each creature within 30 feet of the weird must make a DC 12 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in the area that aren't being worn or carried. The weird's size then becomes Medium.</text>
@@ -956,7 +941,7 @@
         <type>elemental</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>60 (8d10 + 16)</hp>
+        <hp>60 (8d10+16)</hp>
         <speed>walk 0 ft., fly 60 ft.</speed>
         <str>15</str>
         <dex>18</dex>
@@ -974,7 +959,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 208</source>
         <trait>
             <name>Amplify Lightning</name>
             <text>Whenever a spell that deals lightning damage includes one or more fluxchargers in its area, the spell deals an extra 9 (2d8) lightning damage.</text>
@@ -1006,7 +990,7 @@
         <type>elemental</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>12 (natural armor)</ac>
-        <hp>22 (3d8 + 9)</hp>
+        <hp>22 (3d8+9)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>10</dex>
@@ -1024,7 +1008,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 209</source>
         <trait>
             <name>Death Burst</name>
             <text>When the galvanice weird dies, it explodes in a burst of ice and lightning. Each creature within 10 feet of the exploding weird must make a DC 13 Dexterity saving throw, taking 7 (2d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
@@ -1046,7 +1029,7 @@
         <type>fey</type>
         <alignment>Lawful Good</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>143 (22d8 + 44)</hp>
+        <hp>143 (22d8+44)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>19</dex>
@@ -1064,7 +1047,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 194</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The dryad has advantage on saving throws against spells and other magical effects.</text>
@@ -1114,7 +1096,7 @@
         <type>fey</type>
         <alignment>Neutral Good</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>252 (24d10 + 120)</hp>
+        <hp>252 (24d10+120)</hp>
         <speed>walk 30 ft.</speed>
         <str>19</str>
         <dex>14</dex>
@@ -1132,7 +1114,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, grappled</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 252</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Trostani fails a saving throw, she can choose to succeed instead.</text>
@@ -1231,7 +1212,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 195</source>
         <trait>
             <name>Last Laugh</name>
             <text>When the cackler dies, it releases a dying laugh that scars the minds of other nearby creatures. Each creature within 10 feet of the cackler must succeed on a DC 11 Wisdom saving throw or take 2 (1d4) psychic damage.</text>
@@ -1271,7 +1251,7 @@
         <type>fiend (demon)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>127 (15d10 + 45)</hp>
+        <hp>127 (15d10+45)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>17</dex>
@@ -1289,7 +1269,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 196</source>
         <trait>
             <name>Aura of Blood Lust</name>
             <text>When any other creature starts its turn within 30 feet of the master, that creature must succeed on a DC 17 Wisdom saving throw, or it must immediately take the Attack action, making one melee attack against a random creature within reach. If no creatures are within reach, it makes a ranged attack against a random creature within range, throwing its weapon if necessary.</text>
@@ -1337,7 +1316,7 @@
         <type>fiend (demon)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>20 (natural armor)</ac>
-        <hp>300 (24d12 + 144)</hp>
+        <hp>300 (24d12+144)</hp>
         <speed>walk 40 ft., fly 80 ft.</speed>
         <str>26</str>
         <dex>15</dex>
@@ -1355,7 +1334,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 247</source>
         <trait>
             <name>Captivating Presence</name>
             <text>Any creature that starts its turn within 30 feet of Rakdos must make a DC 25 Wisdom saving throw. On a failed save, the creature becomes charmed by Rakdos for 1 minute or until the creature is farther than 30 feet away from him. On a successful save, the creature becomes immune to Rakdos's Captivating Presence for 24 hours.</text>
@@ -1422,7 +1400,7 @@
         <type>fiend (demon)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>157 (15d12 + 60)</hp>
+        <hp>157 (15d12+60)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>6</dex>
@@ -1440,7 +1418,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 197</source>
         <trait>
             <name>Aura of Mind Erosion</name>
             <text>Any creature that starts its turn within 30 feet of the sire must make a DC 18 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage for 1 minute on Wisdom and Charisma checks and on Wisdom and Charisma saves. At the start of each of its turns, the sire can suppress this aura until the start of its next turn.</text>
@@ -1485,7 +1462,7 @@
         <type>giant</type>
         <alignment>Chaotic Evil</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>103 (9d12 + 45)</hp>
+        <hp>103 (9d12+45)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>9</dex>
@@ -1503,7 +1480,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 200</source>
         <action>
             <name>Chain</name>
             <text>Melee Weapon Attack: +9 to hit, reach 20 ft., one target. 16 (3d6 + 6) bludgeoning damage. If the target is a creature, it is grappled (escape DC 17). Until the grapple ends, the target is restrained, and the giant can't use this attack on anyone else.</text>
@@ -1530,7 +1506,7 @@
         <type>giant</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>270 (20d12 + 140)</hp>
+        <hp>270 (20d12+140)</hp>
         <speed>walk 40 ft.</speed>
         <str>24</str>
         <dex>11</dex>
@@ -1548,7 +1524,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses>tremorsense 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 238</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Borborygmos fails a saving throw, he can choose to succeed instead.</text>
@@ -1611,7 +1586,7 @@
         <type>giant</type>
         <alignment>Lawful Neutral</alignment>
         <ac>19 (half plate armor)</ac>
-        <hp>137 (11d12 + 66)</hp>
+        <hp>137 (11d12+66)</hp>
         <speed>walk 40 ft.</speed>
         <str>24</str>
         <dex>17</dex>
@@ -1629,7 +1604,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 201</source>
         <trait>
             <name>Vigilant</name>
             <text>The giant can't be surprised.</text>
@@ -1660,7 +1634,7 @@
         <type>giant</type>
         <alignment>Unaligned</alignment>
         <ac>14 (half plate armor)</ac>
-        <hp>115 (10d10 + 60)</hp>
+        <hp>115 (10d10+60)</hp>
         <speed>walk 30 ft.</speed>
         <str>24</str>
         <dex>9</dex>
@@ -1678,7 +1652,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 216</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The cyclops has advantage on saving throws against spells and other magical effects.</text>
@@ -1707,7 +1680,7 @@
         <type>giant</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>84 (8d10 + 40)</hp>
+        <hp>84 (8d10+40)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>13</dex>
@@ -1725,7 +1698,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 202</source>
         <trait>
             <name>Focus</name>
             <text>As a bonus action, the giant can target a creature it can see within 30 feet of it and make that creature its focus. The target remains the giant's focus for 1 minute, or until either the target or the giant drops to 0 hit points. When the giant makes an attack roll against its focus, it adds a d4 to its attack roll. If the giant attacks a different target while it has a focus, it subtracts a d4 from its attack roll.</text>
@@ -1756,7 +1728,7 @@
         <type>giant</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>20 (stone armor)</ac>
-        <hp>138 (12d12 + 60)</hp>
+        <hp>138 (12d12+60)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>15</dex>
@@ -1774,7 +1746,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 202</source>
         <trait>
             <name>Reckless</name>
             <text>At the start of its turn, the giant can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</text>
@@ -1814,7 +1785,7 @@
         <type>humanoid (Simic hybrid)</type>
         <alignment>Neutral Good</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>52 (8d8 + 16)</hp>
+        <hp>52 (8d8+16)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>11</dex>
@@ -1832,7 +1803,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 217</source>
         <trait>
             <name>Amphibious</name>
             <text>The hybrid can breathe air and water.</text>
@@ -1857,7 +1827,7 @@
         <type>humanoid (Simic hybrid)</type>
         <alignment>Neutral Good</alignment>
         <ac>13</ac>
-        <hp>39 (6d8 + 12)</hp>
+        <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft., fly 40 ft.</speed>
         <str>12</str>
         <dex>16</dex>
@@ -1875,7 +1845,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 217</source>
         <action>
             <name>Multiattack</name>
             <text>The hybrid makes two javelin attacks. It can replace one javelin attack with Spit Acid.</text>
@@ -1901,7 +1870,7 @@
         <type>humanoid (Simic hybrid)</type>
         <alignment>Neutral Good</alignment>
         <ac>14</ac>
-        <hp>26 (4d8 + 8)</hp>
+        <hp>26 (4d8+8)</hp>
         <speed>walk 40 ft.</speed>
         <str>12</str>
         <dex>19</dex>
@@ -1919,7 +1888,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>darkvision 30 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 217</source>
         <trait>
             <name>Assassinate</name>
             <text>During its first turn, the hybrid poisoner has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the hybrid scores against a surprised creature is a critical hit.</text>
@@ -1944,7 +1912,7 @@
         <type>humanoid (Simic hybrid)</type>
         <alignment>Neutral Good</alignment>
         <ac>12</ac>
-        <hp>39 (6d8 + 12)</hp>
+        <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>14</dex>
@@ -1962,7 +1930,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 218</source>
         <trait>
             <name>Electrified Body</name>
             <text>Any creature that touches the hybrid or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage.</text>
@@ -1996,7 +1963,7 @@
         <type>humanoid (Simic hybrid)</type>
         <alignment>Neutral Good</alignment>
         <ac>13</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 30 ft., climb 30 ft.</speed>
         <str>11</str>
         <dex>17</dex>
@@ -2014,7 +1981,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 218</source>
         <trait>
             <name>Chameleon Skin</name>
             <text>The hybrid has advantage on Dexterity (Stealth) checks made to hide.</text>
@@ -2043,7 +2009,7 @@
         <type>humanoid (any race)</type>
         <alignment>Neutral Good</alignment>
         <ac>17 (splint armor)</ac>
-        <hp>110 (17d8 + 34)</hp>
+        <hp>110 (17d8+34)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -2061,7 +2027,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 256</source>
         <trait>
             <name>Bolstering Presence</name>
             <text>The biomancer magically emanates life-giving energy within 30 feet of itself. Any ally of the biomancer that starts its turn there regains 5 (1d10) hit points.</text>
@@ -2100,7 +2065,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>12, 15 (with mage armor)</ac>
-        <hp>78 (12d8 + 24)</hp>
+        <hp>78 (12d8+24)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>14</dex>
@@ -2118,7 +2083,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 248</source>
         <trait>
             <name>Blood Witch Dance</name>
             <text>The witch can use a bonus action to control the movement of one creature cursed by its hex spell that it can see within 30 feet of it. The creature must succeed on a DC 15 Charisma saving throw or use its reaction to move up to 30 feet in a direction of the witch's choice.</text>
@@ -2160,7 +2124,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>15 (chain shirt)</ac>
-        <hp>37 (5d8 + 15)</hp>
+        <hp>37 (5d8+15)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>15</dex>
@@ -2178,7 +2142,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 242</source>
         <trait>
             <name>Empowered Spell (3/Day)</name>
             <text>When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice.</text>
@@ -2209,7 +2172,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13, 16 (with mage armor)</ac>
-        <hp>39 (6d8 + 12)</hp>
+        <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>16</dex>
@@ -2227,7 +2190,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 242</source>
         <trait>
             <name>Counterflux Overcast (Recharge 5-6)</name>
             <text>The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have disadvantage on saving throws against spells and other magical effects. 4-6. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have advantage on saving throws against spells and other magical effects.</text>
@@ -2254,7 +2216,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (hide armor)</ac>
-        <hp>90 (12d8 + 36)</hp>
+        <hp>90 (12d8+36)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>15</dex>
@@ -2272,7 +2234,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 239</source>
         <trait>
             <name>Siege Monster</name>
             <text>The druid deals double damage to objects and structures.</text>
@@ -2310,7 +2271,7 @@
         <type>humanoid (any race)</type>
         <alignment>Lawful Good</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>117 (18d8 + 36)</hp>
+        <hp>117 (18d8+36)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>10</dex>
@@ -2328,7 +2289,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 231</source>
         <action>
             <name>Multiattack</name>
             <text>The firefist makes two greatsword attacks.</text>
@@ -2364,7 +2324,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>12, 15 (with mage armor)</ac>
-        <hp>55 (10d8 + 10)</hp>
+        <hp>55 (10d8+10)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -2382,7 +2342,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 242</source>
         <trait>
             <name>Fluxbending Overcast (Recharge 5-6)</name>
             <text>The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker teleports, swapping places with a creature it can see within 30 feet of it. 4-6. The blastseeker and each creature within 10 feet of it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) thunder damage.</text>
@@ -2409,7 +2368,7 @@
         <type>humanoid (any race)</type>
         <alignment>Lawful Good</alignment>
         <ac>20 (plate armor)</ac>
-        <hp>19 (3d8 + 6)</hp>
+        <hp>19 (3d8+6)</hp>
         <speed>walk 30 ft.</speed>
         <str>15</str>
         <dex>10</dex>
@@ -2427,7 +2386,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 231</source>
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</text>
@@ -2452,7 +2410,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13</ac>
-        <hp>52 (8d8 + 16)</hp>
+        <hp>52 (8d8+16)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>17</dex>
@@ -2470,7 +2428,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 243</source>
         <trait>
             <name>Galvanic Overcast (Recharge 5-6)</name>
             <text>When the blastseeker casts lightning bolt or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 (2d8) force damage. On an even number, the spell also deals 9 (2d8) lightning damage to each target that fails its saving throw.</text>
@@ -2505,7 +2462,7 @@
         <type>humanoid (any race)</type>
         <alignment>Lawful Good</alignment>
         <ac>13 (hide armor)</ac>
-        <hp>39 (6d8 + 12)</hp>
+        <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>12</dex>
@@ -2523,7 +2480,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 253</source>
         <trait>
             <name>Speak with Beasts</name>
             <text>The horncaller can communicate with beasts as if they shared a language.</text>
@@ -2557,7 +2513,7 @@
         <type>humanoid (any race)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>15 (breastplate)</ac>
-        <hp>84 (13d8 + 26)</hp>
+        <hp>84 (13d8+26)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>12</dex>
@@ -2575,7 +2531,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 228</source>
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.</text>
@@ -2620,7 +2575,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 233</source>
         <trait>
             <name>Special Equipment</name>
             <text>The mage wears a Spies' Murmur (see chapter 5).</text>
@@ -2666,7 +2620,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 228</source>
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.</text>
@@ -2697,7 +2650,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>12 (leather armor)</ac>
-        <hp>27 (5d8 + 5)</hp>
+        <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>12</dex>
@@ -2715,7 +2668,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 248</source>
         <action>
             <name>Club</name>
             <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
@@ -2740,7 +2692,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>13</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 40 ft., climb 30 ft.</speed>
         <str>13</str>
         <dex>17</dex>
@@ -2758,7 +2710,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 249</source>
         <trait>
             <name>Nimble</name>
             <text>The performer can take the Disengage action as a bonus action on each of its turns.</text>
@@ -2782,7 +2733,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>13</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 40 ft., climb 30 ft.</speed>
         <str>13</str>
         <dex>17</dex>
@@ -2800,7 +2751,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 249</source>
         <trait>
             <name>Nimble</name>
             <text>The performer can take the Disengage action as a bonus action on each of its turns.</text>
@@ -2828,7 +2778,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>13</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 40 ft., climb 30 ft.</speed>
         <str>13</str>
         <dex>17</dex>
@@ -2846,7 +2796,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 249</source>
         <trait>
             <name>Nimble</name>
             <text>The performer can take the Disengage action as a bonus action on each of its turns.</text>
@@ -2870,7 +2819,7 @@
         <type>humanoid (any race)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>52 (8d8 + 16)</hp>
+        <hp>52 (8d8+16)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -2888,7 +2837,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 231</source>
         <trait>
             <name>First Strike</name>
             <text>The reckoner has advantage on initiative rolls.</text>
@@ -2922,7 +2870,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (piecemeal armor)</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 30 ft., climb 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -2940,7 +2888,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 239</source>
         <trait>
             <name>Ambusher</name>
             <text>In the first round of a combat, the stalker has advantage on attack rolls against any creature that hasn't taken a turn yet.</text>
@@ -2976,7 +2923,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>16 (breastplate)</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>14</dex>
@@ -2994,7 +2941,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 243</source>
         <trait>
             <name>Explosive Tank</name>
             <text>When the guard dies, or if it rolls a 1 when checking whether its Scorchbringer action recharges, the tank on its back explodes in a 10-foot radius sphere. Each creature in that area must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects that aren't being worn or carried, and it destroys the scorchbringer.</text>
@@ -3018,7 +2964,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any alignment</alignment>
         <ac>18 (chain mail)</ac>
-        <hp>16 (3d8 + 3)</hp>
+        <hp>16 (3d8+3)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>12</dex>
@@ -3036,7 +2982,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 226</source>
         <trait>
             <name>Formation Tactics</name>
             <text>The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally.</text>
@@ -3078,7 +3023,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 30 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 233</source>
         <trait>
             <name>Cunning Action</name>
             <text>On each of its turns, the thought spy can use a bonus action to take the Dash, Disengage, or Hide action.</text>
@@ -3114,7 +3058,7 @@
         <type>humanoid (elf)</type>
         <alignment>Lawful Evil</alignment>
         <ac>14 (hide armor)</ac>
-        <hp>88 (16d8 + 16)</hp>
+        <hp>88 (16d8+16)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>15</dex>
@@ -3132,7 +3076,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 236</source>
         <trait>
             <name>Fey Ancestry</name>
             <text>The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep.</text>
@@ -3175,7 +3118,7 @@
         <type>humanoid (kraul)</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>65 (10d8 + 20)</hp>
+        <hp>65 (10d8+20)</hp>
         <speed>walk 30 ft., climb 30 ft., fly 40 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -3193,7 +3136,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 214</source>
         <trait>
             <name>Feed on Death</name>
             <text>When a creature within 30 feet of the kraul drops to 0 hit points, the kraul or another creature of its choice within 30 feet of it gains 5 (1d10) temporary hit points, provided the kraul isn't incapacitated.</text>
@@ -3240,7 +3182,7 @@
         <type>humanoid (kraul)</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>27 (5d8 + 5)</hp>
+        <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft., climb 30 ft.</speed>
         <str>15</str>
         <dex>12</dex>
@@ -3258,7 +3200,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 213</source>
         <trait>
             <name>Hive Mind</name>
             <text>The kraul is immune to the charmed and frightened conditions while within 30 feet of at least one other kraul.</text>
@@ -3292,7 +3233,7 @@
         <type>humanoid (merfolk)</type>
         <alignment>Lawful Neutral</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>130 (20d8 + 40)</hp>
+        <hp>130 (20d8+40)</hp>
         <speed>walk 30 ft., swim 40 ft.</speed>
         <str>11</str>
         <dex>14</dex>
@@ -3310,7 +3251,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 255</source>
         <trait>
             <name>Amphibious</name>
             <text>Zegana can breathe air and water.</text>
@@ -3376,7 +3316,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>19 (3d8 + 6)</hp>
+        <hp>19 (3d8+6)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>15</dex>
@@ -3394,7 +3334,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 210</source>
         <trait>
             <name>Amphibious</name>
             <text>The krasis can breathe air and water.</text>
@@ -3447,7 +3386,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>136 (16d10 + 48)</hp>
+        <hp>136 (16d10+48)</hp>
         <speed>walk 40 ft.</speed>
         <str>18</str>
         <dex>14</dex>
@@ -3465,7 +3404,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 211</source>
         <trait>
             <name>Amphibious</name>
             <text>The krasis can breathe air and water.</text>
@@ -3518,7 +3456,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>287 (25d12 + 125)</hp>
+        <hp>287 (25d12+125)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>12</dex>
@@ -3536,7 +3474,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 212</source>
         <trait>
             <name>Amphibious</name>
             <text>The krasis can breathe air and water.</text>
@@ -3594,7 +3531,7 @@
         <type>monstrosity</type>
         <alignment>Lawful Neutral</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>261 (18d20 + 72)</hp>
+        <hp>261 (18d20+72)</hp>
         <speed>walk 40 ft., fly 60 ft.</speed>
         <str>20</str>
         <dex>14</dex>
@@ -3612,7 +3549,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 227</source>
         <trait>
             <name>Inscrutable</name>
             <text>Isperia is immune to any effect that would sense her emotions or read her thoughts, as well as any divination spell that she refuses. Wisdom (Insight) checks made to ascertain her intentions or sincerity have disadvantage.</text>
@@ -3685,7 +3621,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>15 (breastplate)</ac>
-        <hp>37 (5d10 + 10)</hp>
+        <hp>37 (5d10+10)</hp>
         <speed>walk 20 ft., fly 90 ft.</speed>
         <str>20</str>
         <dex>13</dex>
@@ -3703,7 +3639,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 219</source>
         <trait>
             <name>Keen Sight</name>
             <text>The roc has advantage on Wisdom (Perception) checks that rely on sight.</text>
@@ -3734,7 +3669,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>216 (16d20 + 48)</hp>
+        <hp>216 (16d20+48)</hp>
         <speed>walk 10 ft., fly 60 ft.</speed>
         <str>23</str>
         <dex>15</dex>
@@ -3752,7 +3687,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 220</source>
         <trait>
             <name>Amphibious</name>
             <text>The skyswimmer can breathe air and water.</text>
@@ -3781,7 +3715,7 @@
         <type>monstrosity</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>120 (16d8 + 48)</hp>
+        <hp>120 (16d8+48)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>18</dex>
@@ -3799,7 +3733,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 222</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The medusa has advantage on saving throws against spells and other magical effects.</text>
@@ -3840,7 +3773,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>200 (16d12 + 96)</hp>
+        <hp>200 (16d12+96)</hp>
         <speed>walk 50 ft., burrow 30 ft.</speed>
         <str>24</str>
         <dex>10</dex>
@@ -3858,7 +3791,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 60 ft., tremorsense 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 225</source>
         <trait>
             <name>Siege Monster</name>
             <text>The wurm deals double damage to objects and structures.</text>
@@ -3886,7 +3818,7 @@
         <type>monstrosity (shapechanger)</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>204 (24d8 + 96)</hp>
+        <hp>204 (24d8+96)</hp>
         <speed>walk 40 ft.</speed>
         <str>16</str>
         <dex>24</dex>
@@ -3904,7 +3836,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 232</source>
         <trait>
             <name>Elusive</name>
             <text>No attack roll has advantage against Lazav unless he is incapacitated.</text>
@@ -3963,7 +3894,7 @@
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13 (hide armor)</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>13</dex>
@@ -3981,7 +3912,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 239</source>
         <trait>
             <name>Aggressive</name>
             <text>As a bonus action, the anarch can move up to its speed toward a hostile creature it can see.</text>
@@ -4005,7 +3935,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>90 (12d8 + 36)</hp>
+        <hp>90 (12d8+36)</hp>
         <speed>walk 40 ft., fly 40 ft.</speed>
         <str>16</str>
         <dex>18</dex>
@@ -4023,7 +3953,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 223</source>
         <action>
             <name>Multiattack</name>
             <text>The vampire makes three melee attacks, only one of which can be a bite attack.</text>
@@ -4063,7 +3992,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>97 (15d8 + 30)</hp>
+        <hp>97 (15d8+30)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>16</dex>
@@ -4081,7 +4010,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 198</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If the lich fails a saving throw, it can choose to succeed instead.</text>
@@ -4143,7 +4071,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>136 (16d10 + 48)</hp>
+        <hp>136 (16d10+48)</hp>
         <speed>walk 30 ft., fly 60 ft.</speed>
         <str>20</str>
         <dex>16</dex>
@@ -4161,7 +4089,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 215</source>
         <trait>
             <name>Death Link</name>
             <text>If its specter rider is reduced to 0 hit points, the gloamwing is destroyed.</text>
@@ -4216,7 +4143,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 206</source>
         <trait>
             <name>Incorporeal Movement</name>
             <text>The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</text>
@@ -4237,7 +4163,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>180 (24d8 + 72)</hp>
+        <hp>180 (24d8+72)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>16</dex>
@@ -4255,7 +4181,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 235</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Jarad fails a saving throw, he can choose to succeed instead.</text>
@@ -4334,7 +4259,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>14</ac>
-        <hp>55 (10d8 + 10)</hp>
+        <hp>55 (10d8+10)</hp>
         <speed>walk 30 ft., fly 30 ft.</speed>
         <str>16</str>
         <dex>18</dex>
@@ -4352,7 +4277,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 224</source>
         <trait>
             <name>Shadow Stealth</name>
             <text>While in dim light or darkness, the vampire can take the Hide action as a bonus action.</text>
@@ -4403,7 +4327,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>105 (14d8 + 42)</hp>
+        <hp>105 (14d8+42)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>19</dex>
@@ -4421,7 +4345,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 215</source>
         <trait>
             <name>Mount</name>
             <text>If the specter isn't mounted, it can use a bonus action to magically teleport onto its gloamwing mount, provided the specter and the gloamwing are on the same plane of existence. When it teleports, the specter appears astride the gloamwing along with any equipment it is wearing or carrying. While mounted and not incapacitated, the specter can't be surprised, and both it and its mount gain advantage on Dexterity saving throws.</text>
@@ -4459,7 +4382,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>110 (20d8 + 20)</hp>
+        <hp>110 (20d8+20)</hp>
         <speed>walk 0 ft., fly 30 ft.</speed>
         <str>10</str>
         <dex>10</dex>
@@ -4477,7 +4400,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 245</source>
         <trait>
             <name>Council of Five</name>
             <text>The ghost has a trait based on who it is, as shown below:</text>
@@ -4545,7 +4467,7 @@
         <type>humanoid (merfolk)</type>
         <alignment>Neutral</alignment>
         <ac>11</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 10 ft., swim 40 ft.</speed>
         <str>10</str>
         <dex>13</dex>
@@ -4563,7 +4485,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Guildmasters' Guide to Ravnica p. 187</source>
         <trait>
             <name>Amphibious</name>
             <text>The merfolk can breathe air and water.</text>
@@ -4582,7 +4503,7 @@
         <type>monstrosity</type>
         <alignment>Lawful Neutral</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>136 (16d10 + 48)</hp>
+        <hp>136 (16d10+48)</hp>
         <speed>walk 40 ft., fly 60 ft.</speed>
         <str>18</str>
         <dex>15</dex>
@@ -4600,7 +4521,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Guildmasters' Guide to Ravnica p. 183</source>
         <trait>
             <name>Inscrutable</name>
             <text>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</text>

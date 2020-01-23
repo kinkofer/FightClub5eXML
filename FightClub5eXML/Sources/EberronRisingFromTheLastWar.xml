@@ -7,7 +7,7 @@
         <type>aberration</type>
         <alignment>Chaotic Evil</alignment>
         <ac>19 (natural armor)</ac>
-        <hp>304 (32d8 + 160)</hp>
+        <hp>304 (32d8+160)</hp>
         <speed>walk 40 ft., fly 40 ft.</speed>
         <str>24</str>
         <dex>21</dex>
@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, exhaustion, frightened, poisoned, prone</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 286</source>
         <trait>
             <name>Alien Mind</name>
             <text>If a creature tries to read Belashyrra's thoughts or deals psychic damage to it, that creature must succeed on a DC 22 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
@@ -128,7 +127,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>20 (bonecraft armour)</ac>
-        <hp>84 (13d8 + 26)</hp>
+        <hp>84 (13d8+26)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>13</dex>
@@ -146,7 +145,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 316</source>
         <trait>
             <name>Commander of Bones</name>
             <text>As a bonus action, the knight can target one skeleton or zombie it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw. On a failed save, the target must obey the knight's commands until the knight dies or until the knight releases it as a bonus action. The knight can command up to twelve undead at a time this way.</text>
@@ -192,7 +190,7 @@
         <type>humanoid (changeling, shapechanger)</type>
         <alignment>Any alignment</alignment>
         <ac>13 (leather armor)</ac>
-        <hp>22 (4d8 + 4)</hp>
+        <hp>22 (4d8+4)</hp>
         <speed>walk 30 ft.</speed>
         <str>8</str>
         <dex>15</dex>
@@ -210,7 +208,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 317</source>
         <trait>
             <name>Change Appearance</name>
             <text>The changeling can use its action to polymorph into a Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
@@ -238,7 +235,7 @@
         <type>beast</type>
         <alignment>Unaligned</alignment>
         <ac>13</ac>
-        <hp>19 (3d8 + 6)</hp>
+        <hp>19 (3d8+6)</hp>
         <speed>walk 40 ft.</speed>
         <str>12</str>
         <dex>16</dex>
@@ -256,7 +253,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 289, Wayfinder's Guide to Eberron p. 81</source>
         <trait>
             <name>Pack Tactics</name>
             <text>The clawfoot has advantage on an attack roll against a creature if at least one of the clawfoot's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
@@ -309,7 +305,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 271</source>
         <trait>
             <name>Cunning Action</name>
             <text>On each of its turns, Corrin can use a bonus action to take the Dash, Disengage, or Hide action.</text>
@@ -341,7 +336,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (Unarmored Defense)</ac>
-        <hp>33 (6d8 + 6)</hp>
+        <hp>33 (6d8+6)</hp>
         <speed>walk 40 ft.</speed>
         <str>14</str>
         <dex>18</dex>
@@ -359,7 +354,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded</conditionImmune>
         <senses>blindsight 120 ft. (blind beyond this radius)</senses>
-        <source>Eberron: Rising from the Last War p. 290</source>
         <trait>
             <name>Evasion</name>
             <text>If the dolgaunt is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the dolgaunt instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.</text>
@@ -399,7 +393,7 @@
         <type>aberration</type>
         <alignment>Chaotic Evil</alignment>
         <ac>15 (natural armour)</ac>
-        <hp>13 (3d6 + 3)</hp>
+        <hp>13 (3d6+3)</hp>
         <speed>walk 30 ft.</speed>
         <str>15</str>
         <dex>14</dex>
@@ -417,7 +411,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 291</source>
         <trait>
             <name>Dual Consciousness</name>
             <text>The dolgrim has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</text>
@@ -452,7 +445,7 @@
         <type>fey</type>
         <alignment>Neutral Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>82 (15d8 + 15)</hp>
+        <hp>82 (15d8+15)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>14</dex>
@@ -470,7 +463,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, frightened</conditionImmune>
         <senses>blindsight 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 292</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The hag has advantage on saving throws against spells and other magical effects.</text>
@@ -511,7 +503,7 @@
         <type>aberration</type>
         <alignment>Chaotic Evil</alignment>
         <ac>21 (natural armor)</ac>
-        <hp>325 (31d8 + 186)</hp>
+        <hp>325 (31d8+186)</hp>
         <speed>walk 40 ft., fly 40 ft.</speed>
         <str>26</str>
         <dex>21</dex>
@@ -529,7 +521,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, exhaustion, frightened, poisoned, prone</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 288</source>
         <trait>
             <name>Alien Mind</name>
             <text>If a creature tries to read Dyrrn's thoughts or deals psychic damage to it, that creature must succeed on a DC 23 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
@@ -618,7 +609,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>13</ac>
-        <hp>7 (2d4 + 2)</hp>
+        <hp>7 (2d4+2)</hp>
         <speed>walk 25 ft., fly 60 ft.</speed>
         <str>6</str>
         <dex>16</dex>
@@ -636,7 +627,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 293</source>
         <trait>
             <name>Flyby</name>
             <text>The messenger doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
@@ -665,7 +655,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>30 (4d8 + 12)</hp>
+        <hp>30 (4d8+12)</hp>
         <speed>walk 40 ft.</speed>
         <str>16</str>
         <dex>14</dex>
@@ -683,7 +673,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 293</source>
         <trait>
             <name>Keen Senses</name>
             <text>The defender has advantage on Wisdom (Perception) checks.</text>
@@ -729,7 +718,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 289</source>
         <trait>
             <name>Quickness (Recharge 5-6)</name>
             <text>The fastieth can take the Dodge action as a bonus action.</text>
@@ -751,7 +739,7 @@
         <type>giant</type>
         <alignment>Any Chaotic Alignment</alignment>
         <ac>12 (hide armor)</ac>
-        <hp>30 (4d10 + 8)</hp>
+        <hp>30 (4d10+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>17</str>
         <dex>10</dex>
@@ -769,7 +757,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 272</source>
         <action>
             <name>Battleaxe</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.</text>
@@ -789,7 +776,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any alignment</alignment>
         <ac>16 (chain shirt)</ac>
-        <hp>11 (2d8 + 2)</hp>
+        <hp>11 (2d8+2)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
         <dex>12</dex>
@@ -807,7 +794,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Waterdeep: Dragon Heist p. 197</source>
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
@@ -822,7 +808,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>99 (18d8 + 18)</hp>
+        <hp>99 (18d8+18)</hp>
         <speed>walk 40 ft.</speed>
         <str>12</str>
         <dex>14</dex>
@@ -840,7 +826,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 305</source>
         <action>
             <name>Multiattack</name>
             <text>The quori uses its Mind Thrust twice.</text>
@@ -904,7 +889,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 294</source>
         <trait>
             <name>Dual Mind</name>
             <text>The Inspired has advantage on Wisdom saving throws.</text>
@@ -961,7 +945,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>161 (19d8 + 76)</hp>
+        <hp>161 (19d8+76)</hp>
         <speed>walk 30 ft., fly 60 ft.</speed>
         <str>12</str>
         <dex>21</dex>
@@ -979,7 +963,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 306</source>
         <trait>
             <name>All-Around Vision</name>
             <text>The quori can't be surprised while it isn't incapacitated.</text>
@@ -1039,7 +1022,7 @@
         <type>humanoid (kalashtar)</type>
         <alignment>Any alignment</alignment>
         <ac>12</ac>
-        <hp>16 (3d8 + 3)</hp>
+        <hp>16 (3d8+3)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>14</dex>
@@ -1057,7 +1040,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 317</source>
         <trait>
             <name>Dual Mind</name>
             <text>The kalashtar has advantage on Wisdom saving throws.</text>
@@ -1081,7 +1063,7 @@
         <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (half plate armor)</ac>
-        <hp>52 (7d8 + 21)</hp>
+        <hp>52 (7d8+21)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>14</dex>
@@ -1099,7 +1081,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 295</source>
         <trait>
             <name>Pack Tactics</name>
             <text>The soldier has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
@@ -1146,7 +1127,7 @@
         <type>undead</type>
         <alignment>Neutral Evil</alignment>
         <ac>19 (natural armor)</ac>
-        <hp>199 (21d8 + 105)</hp>
+        <hp>199 (21d8+105)</hp>
         <speed>walk 30 ft., fly 40 ft.</speed>
         <str>16</str>
         <dex>16</dex>
@@ -1164,7 +1145,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 296</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Illmarrow fails a saving throw, she can choose to succeed instead.</text>
@@ -1249,7 +1229,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>15 (2d8 + 6)</hp>
+        <hp>15 (2d8+6)</hp>
         <speed>walk 25 ft., fly 25 ft.</speed>
         <str>10</str>
         <dex>12</dex>
@@ -1267,7 +1247,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 298</source>
         <trait>
             <name>Amorphous</name>
             <text>The living spell can move through a space as narrow as 1 inch wide without squeezing.</text>
@@ -1310,7 +1289,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>73 (7d10 + 35)</hp>
+        <hp>73 (7d10+35)</hp>
         <speed>walk 25 ft., fly 25 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -1328,7 +1307,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 299</source>
         <trait>
             <name>Amorphous</name>
             <text>The living spell can move through a space as narrow as 1 inch wide without squeezing.</text>
@@ -1375,7 +1353,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>57 (6d10 + 24)</hp>
+        <hp>57 (6d10+24)</hp>
         <speed>walk 25 ft., fly 25 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -1393,7 +1371,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 299</source>
         <trait>
             <name>Amorphous</name>
             <text>The living spell can move through a space as narrow as 1 inch wide without squeezing.</text>
@@ -1458,7 +1435,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 318</source>
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
@@ -1494,7 +1470,7 @@
         <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (plate armor)</ac>
-        <hp>170 (20d8 + 80)</hp>
+        <hp>170 (20d8+80)</hp>
         <speed>walk 40 ft.</speed>
         <str>20</str>
         <dex>16</dex>
@@ -1512,7 +1488,6 @@
         <vulnerable>piercing from magic weapons wielded by good creatures</vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 301</source>
         <trait>
             <name>Limited Magic Immunity</name>
             <text>Mordakhesh can't be affected or detected by spells of 6th level or lower unless he wishes to be. Mordakhesh has advantage on saving throws against all other spells and magical effects.</text>
@@ -1564,7 +1539,7 @@
         <type>celestial</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
-        <hp>142 (15d10 + 60)</hp>
+        <hp>142 (15d10+60)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>18</dex>
@@ -1582,7 +1557,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 308</source>
         <trait>
             <name>Aura of False Divinity</name>
             <text>A creature that starts its turn within 30 feet of the radiant idol must make a DC 17 Wisdom saving throw, provided the radiant idol isn't incapacitated. On a failed save, the creature is charmed by the radiant idol. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, a creature is immune to this radiant idol's Aura of False Divinity for 24 hours.</text>
@@ -1627,7 +1601,7 @@
         <type>fiend</type>
         <alignment>Neutral Evil</alignment>
         <ac>23 (natural armor)</ac>
-        <hp>478 (33d12 + 264)</hp>
+        <hp>478 (33d12+264)</hp>
         <speed>walk 40 ft., climb 40 ft., fly 80 ft.</speed>
         <str>29</str>
         <dex>19</dex>
@@ -1645,7 +1619,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, stunned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 303</source>
         <trait>
             <name>Deadly Critical</name>
             <text>Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the damage dice three times, instead of twice.</text>
@@ -1724,7 +1697,7 @@
         <type>humanoid (shifter)</type>
         <alignment>Any alignment</alignment>
         <ac>14 (leather armor)</ac>
-        <hp>19 (3d8 + 6)</hp>
+        <hp>19 (3d8+6)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>16</dex>
@@ -1742,7 +1715,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 319</source>
         <trait>
             <name>Shifting (Recharges after a Short or Long Rest)</name>
             <text>As a bonus action, the shifter takes on a more bestial form for 1 minute or until it dies. The shifter gains 5 temporary hit points. It can make a bite attack when it activates this trait and also as a bonus action on each of its turns while in its bestial form.</text>
@@ -1767,7 +1739,7 @@
         <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>22 (natural armor)</ac>
-        <hp>475 (50d10 + 200)</hp>
+        <hp>475 (50d10+200)</hp>
         <speed>walk 40 ft., fly 40 ft.</speed>
         <str>18</str>
         <dex>21</dex>
@@ -1785,7 +1757,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 304</source>
         <trait>
             <name>Legendary Resistance (3/Day)</name>
             <text>If Sul Khatesh fails a saving throw, she can choose to succeed instead.</text>
@@ -1865,7 +1836,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>15 (studded leather armor)</ac>
-        <hp>45 (7d8 + 14)</hp>
+        <hp>45 (7d8+14)</hp>
         <speed>walk 30 ft.</speed>
         <str>12</str>
         <dex>16</dex>
@@ -1883,7 +1854,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 320</source>
         <trait>
             <name>Unstable Mark</name>
             <text>When the assassin casts an innate spell, each creature within 10 feet of the assassin must make a DC 12 Constitution saving throw, taking 4 (1d8) force damage on a failed save, or half as much damage on a successful one.</text>
@@ -1933,7 +1903,7 @@
         <type>humanoid (warforged)</type>
         <alignment>Lawful Evil</alignment>
         <ac>19 (natural armor)</ac>
-        <hp>195 (23d8 + 92)</hp>
+        <hp>195 (23d8+92)</hp>
         <speed>walk 40 ft.</speed>
         <str>20</str>
         <dex>15</dex>
@@ -1951,7 +1921,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 300</source>
         <trait>
             <name>Adamantine Plating</name>
             <text>Any critical hit against the Lord of Blades becomes a normal hit.</text>
@@ -2031,7 +2000,7 @@
         <type>aberration</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>68 (8d8 + 32)</hp>
+        <hp>68 (8d8+32)</hp>
         <speed>walk 40 ft.</speed>
         <str>17</str>
         <dex>14</dex>
@@ -2049,7 +2018,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 307</source>
         <action>
             <name>Multiattack</name>
             <text>The quori makes three attacks: one pincer attack, one attack with its claws, and one stinger attack.</text>
@@ -2096,7 +2064,7 @@
         <type>undead</type>
         <alignment>Neutral Good</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>104 (16d8 + 32)</hp>
+        <hp>104 (16d8+32)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>10</dex>
@@ -2114,7 +2082,6 @@
         <vulnerable>necrotic</vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 311</source>
         <trait>
             <name>Aura of Radiance</name>
             <text>The councilor magically sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The councilor can extinguish or restore this light as a bonus action. If the bright light overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created that darkness is dispelled.</text>
@@ -2187,7 +2154,7 @@
         <type>undead</type>
         <alignment>Neutral Good</alignment>
         <ac>17 (breastplate)</ac>
-        <hp>26 (4d8 + 8)</hp>
+        <hp>26 (4d8+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -2205,7 +2172,6 @@
         <vulnerable>necrotic</vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 311</source>
         <trait>
             <name>Illumination</name>
             <text>The soldier magically sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The soldier can extinguish or restore this light as a bonus action.</text>
@@ -2263,7 +2229,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 312</source>
         <trait>
             <name>Bonding</name>
             <text>The hawk can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the hawk bonds with a different creature or until the bonded creature dies. While bonded, the hawk and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet.</text>
@@ -2301,7 +2266,7 @@
         <type>fey</type>
         <alignment>Neutral</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>19 (3d8 + 6)</hp>
+        <hp>19 (3d8+6)</hp>
         <speed>walk 40 ft.</speed>
         <str>17</str>
         <dex>15</dex>
@@ -2319,7 +2284,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 312</source>
         <trait>
             <name>Bonding</name>
             <text>The hound can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the hound bonds with a different creature or until the bonded creature dies. While bonded, the hound and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet.</text>
@@ -2357,7 +2321,7 @@
         <type>fey</type>
         <alignment>Neutral</alignment>
         <ac>13</ac>
-        <hp>22 (3d10 + 6)</hp>
+        <hp>22 (3d10+6)</hp>
         <speed>walk 60 ft.</speed>
         <str>14</str>
         <dex>16</dex>
@@ -2375,7 +2339,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 313</source>
         <trait>
             <name>Bonding</name>
             <text>The steed can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the steed bonds with a different creature or until the bonded creature dies. While bonded, the steed and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet.</text>
@@ -2409,7 +2372,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>23 (natural armor)</ac>
-        <hp>410 (20d20 + 200)</hp>
+        <hp>410 (20d20+200)</hp>
         <speed>walk 60 ft.</speed>
         <str>30</str>
         <dex>11</dex>
@@ -2427,7 +2390,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned</conditionImmune>
         <senses>truesight 150 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 314</source>
         <trait>
             <name>Immutable Form</name>
             <text>The colossus is immune to any spell or effect that would alter its form.</text>
@@ -2493,7 +2455,7 @@
         <type>humanoid (warforged)</type>
         <alignment>Any alignment</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>30 (4d8 + 12)</hp>
+        <hp>30 (4d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -2511,7 +2473,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Eberron: Rising from the Last War p. 320</source>
         <trait>
             <name>Warforged Resilience</name>
             <text>The warforged has advantage on saving throws against being poisoned and is immune to disease. Magic can't put it to sleep.</text>
@@ -2545,7 +2506,7 @@
         <type>construct</type>
         <alignment>Lawful Neutral</alignment>
         <ac>20 (natural armor)</ac>
-        <hp>125 (10d12 + 60)</hp>
+        <hp>125 (10d12+60)</hp>
         <speed>walk 40 ft.</speed>
         <str>23</str>
         <dex>8</dex>
@@ -2563,7 +2524,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 315</source>
         <trait>
             <name>Platforms</name>
             <text>The warforged titan has two platforms built into its chassis. One Medium or smaller creature can ride on each platform without squeezing. To make a melee attack against a target within 5 feet of the warforged, they must use spears or weapons with reach and the target must be Large or larger.</text>
@@ -2602,7 +2562,7 @@
         <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (scale mail)</ac>
-        <hp>59 (7d8 + 28)</hp>
+        <hp>59 (7d8+28)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>14</dex>
@@ -2620,7 +2580,6 @@
         <vulnerable>piercing from magic weapons wielded by good creatures</vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 309</source>
         <trait>
             <name>Limited Magic Immunity</name>
             <text>The rakshasa can't be affected or detected by spells of 1st level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.</text>
@@ -2684,7 +2643,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 61</source>
         <trait>
             <name>Might of the Master</name>
             <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).</text>
@@ -2732,7 +2690,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Eberron: Rising from the Last War p. 62</source>
         <trait>
             <name>Evasion</name>
             <text>If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.</text>

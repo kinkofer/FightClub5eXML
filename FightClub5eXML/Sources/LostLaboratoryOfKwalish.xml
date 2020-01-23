@@ -11,7 +11,6 @@
         <components>V, S</components>
         <duration>Concentration, up to 1 hour</duration>
         <classes>Warlock, Wizard</classes>
-        <source>Lost Laboratory of Kwalish p. 57</source>
         <text>You temporarily summon three familiars—spirits that take animal forms of your choice. Each familiar uses the same rules and options for a familiar conjured by the find familiar spell. All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice). If you already have a familiar conjured by the find familiar spell or similar means, then one fewer familiars are conjured by this spell.
             Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.
             When you cast a spell with a range of touch, one of the familiars conjured by this spell can deliver the spell, as normal. However, you can cast a touch spell through only one familiar per turn.
@@ -30,7 +29,6 @@
         <components>V, S, M (25 gold pieces, or mineral goods of equivalent value, which the spell consumes)</components>
         <duration>10 minutes</duration>
         <classes>Warlock, Wizard</classes>
-        <source>Lost Laboratory of Kwalish p. 57</source>
         <text>You summon a Small air elemental to a spot within range. The air elemental is formless, nearly transparent, immune to all damage, and cannot interact with other creatures or objects. It carries an open, empty chest whose interior dimensions are 3 feet on each side. While the spell lasts, you can deposit as many items inside the chest as will fit. You can then name a living creature you have met and seen at least once before, or any creature for which you possess a body part, lock of hair, clipping from a nail, or similar portion of the creature's body.
             As soon as the lid of the chest is closed, the elemental and the chest disappear, then reappear adjacent to the target creature. If the target creature is on another plane, or if it is proofed against magical detection or location, the contents of the chest reappear on the ground at your feet.
             The target creature is made aware of the chest's contents before it chooses whether or not to open it, and knows how much of the spell's duration remains in which it can retrieve them. No other creature can open the chest and retrieve its contents. When the spell expires or when all the contents of the chest have been removed, the elemental and the chest disappear. The elemental also disappears if the target creature orders it to return the items to you. When the elemental disappears, any items not taken from the chest reappear on the ground at your feet.
@@ -49,7 +47,6 @@
         <components>V, S, M (a fragment of stone, wood, or other building material)</components>
         <duration>24 hours</duration>
         <classes>Wizard</classes>
-        <source>Lost Laboratory of Kwalish p. 57</source>
         <text>You conjure a two-story tower made of stone, wood, or similar suitably sturdy materials. The tower can be round or square in shape. Each level of the tower is 10 feet tall and has an area of up to 100 square feet. Access between levels consists of a simple ladder and hatch. Each level takes one of the following forms, chosen by you when you cast the spell:
             • A bedroom with a bed, chairs, chest, and magical fireplace
             • A study with desks, books, bookshelves, parchments, ink, and ink pens
@@ -74,7 +71,7 @@
         <type>undead</type>
         <alignment>Any alignment</alignment>
         <ac>11 (natural armor)</ac>
-        <hp>58 (9d8 + 18)</hp>
+        <hp>58 (9d8+18)</hp>
         <speed>walk 0 ft.</speed>
         <str>1</str>
         <dex>1</dex>
@@ -92,7 +89,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Lost Laboratory of Kwalish p. 38, Infernal Machine Rebuild</source>
         <trait>
             <name>Detect Sentience</name>
             <text>The brain in a jar can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.</text>
@@ -122,7 +118,7 @@
         <type>construct</type>
         <alignment>Unaligned</alignment>
         <ac>17 (natural armor)</ac>
-        <hp>142 (15d10 + 60)</hp>
+        <hp>142 (15d10+60)</hp>
         <speed>walk 30 ft.</speed>
         <str>20</str>
         <dex>12</dex>
@@ -140,7 +136,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Lost Laboratory of Kwalish p. 38</source>
         <trait>
             <name>Magic Resistance</name>
             <text>The clockwork kraken has advantage on saving throws against spells and other magical effects.</text>
@@ -168,7 +163,7 @@
         <type>humanoid</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>44 (8d8 + 8)</hp>
+        <hp>44 (8d8+8)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>14</dex>
@@ -186,7 +181,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Lost Laboratory of Kwalish p. 41</source>
         <trait>
             <name>Special Equipment</name>
             <text>Garret wears a Ring of Warmth (included in his statistics) and wields a Gambler's Blade longsword.</text>
@@ -225,7 +219,7 @@
         <type>humanoid</type>
         <alignment>Neutral</alignment>
         <ac>12 (Bracers of Defense)</ac>
-        <hp>45 (7d8 + 14)</hp>
+        <hp>45 (7d8+14)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>12</dex>
@@ -243,7 +237,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Lost Laboratory of Kwalish p. 41</source>
         <trait>
             <name>Special Equipment</name>
             <text>Mary wears Bracers of Defense and a Ring of Protection, and carries a Deck of Several Things</text>
@@ -278,7 +271,7 @@
         <type>ooze</type>
         <alignment>Unaligned</alignment>
         <ac>10 (natural armor)</ac>
-        <hp>19 (2d8 + 10)</hp>
+        <hp>19 (2d8+10)</hp>
         <speed>walk 30 ft.</speed>
         <str>14</str>
         <dex>3</dex>
@@ -296,7 +289,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, prone</conditionImmune>
         <senses>blindsight 60 ft.</senses>
-        <source>Lost Laboratory of Kwalish p. 46</source>
         <trait>
             <name>Transparent</name>
             <text>Even when an ooze-folk is in plain sight, it takes a DC 12 Wisdom (Perception) check to spot an ooze-folk that has neither moved nor attacked. A creature that tries to enter the ooze-folk's space while unaware of the ooze-folk is surprised by the ooze-folk.</text>
@@ -328,7 +320,7 @@
         <type>monstrosity</type>
         <alignment>Lawful Evil</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>127 (17d8 + 51)</hp>
+        <hp>127 (17d8+51)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -346,7 +338,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 23</source>
         <trait>
             <name>Petrifying Gaze</name>
             <text>When a creature that can see Gloine's eyes starts its turn within 30 feet of Gloine, Gloine can force it to make a DC 14 Constitution saving throw if Gloine isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  greater restoration spell or other magic.</text>

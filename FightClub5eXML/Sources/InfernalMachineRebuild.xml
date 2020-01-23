@@ -7,7 +7,7 @@
         <type>giant</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>123 (13d12 + 39)</hp>
+        <hp>123 (13d12+39)</hp>
         <speed>walk 40 ft.</speed>
         <str>21</str>
         <dex>8</dex>
@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 53</source>
         <trait>
             <name>Two Heads</name>
             <text>The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</text>
@@ -82,7 +81,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral Evil</alignment>
         <ac>15 (studded leather armor)</ac>
-        <hp>78 (12d8 + 24)</hp>
+        <hp>78 (12d8+24)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>16</dex>
@@ -100,7 +99,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 52</source>
         <trait>
             <name>Rust Monster Cloak</name>
             <text>Any nonmagical weapon made of metal that hits Barbatos corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits Barbatos is destroyed after dealing damage.</text>
@@ -145,7 +143,7 @@
         <type>undead (tiefling)</type>
         <alignment>Lawful Evil</alignment>
         <ac>13 (leather armor)</ac>
-        <hp>136 (16d8 + 64)</hp>
+        <hp>136 (16d8+64)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>14</dex>
@@ -163,7 +161,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, stunned</conditionImmune>
         <senses>darkvision 60ft.</senses>
-        <source>Infernal Machine Rebuild p. 54</source>
         <trait>
             <name>Special Equipment</name>
             <text>Lynx's crystal eye is a magically shrunken crystal ball of true seeing. One of her teeth is a refashioned ring of mind shielding, while another has been magicked to place her under a permanent Nystul's magic aura spell, concealing the magic of these items and hiding her true nature from magic or features that can detect undead.</text>
@@ -212,7 +209,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral Evil</alignment>
         <ac>14 (breastplate)</ac>
-        <hp>104 (19d8 + 19)</hp>
+        <hp>104 (19d8+19)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>12</dex>
@@ -230,7 +227,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 55</source>
         <trait>
             <name>Special Equipment</name>
             <text>Moghadam wields Ruinblade (see appendix C).</text>
@@ -281,7 +277,7 @@
         <type>humanoid (human)</type>
         <alignment>Lawful Evil</alignment>
         <ac>20 (plate armor)</ac>
-        <hp>112 (15d8 + 45)</hp>
+        <hp>112 (15d8+45)</hp>
         <speed>walk 30 ft.</speed>
         <str>18</str>
         <dex>15</dex>
@@ -299,7 +295,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 56</source>
         <trait>
             <name>Special Equipment</name>
             <text>Sir Ursas wears a ring of mind shielding and plate armor of fire resistance.</text>
@@ -346,7 +341,7 @@
         <type>humanoid (human)</type>
         <alignment>Neutral Evil</alignment>
         <ac>14 (breastplate)</ac>
-        <hp>104 (7d10 + 14)</hp>
+        <hp>104 (7d10+14)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>12</dex>
@@ -364,7 +359,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 57</source>
         <trait>
             <name>Special Equipment</name>
             <text>Thessalar wields a +1 dagger coated with thessaltoxin poison (see appendix C).</text>
@@ -410,7 +404,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>7 (2d4 + 2)</hp>
+        <hp>7 (2d4+2)</hp>
         <speed>walk 40 ft., climb 40 ft.</speed>
         <str>4</str>
         <dex>15</dex>
@@ -428,7 +422,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, poisoned</conditionImmune>
         <senses>darkvision 60</senses>
-        <source>Infernal Machine Rebuild p. 86</source>
         <trait>
             <name>Telepathic Bond</name>
             <text>While the construct is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</text>
@@ -447,7 +440,7 @@
         <type>monstrosity (titan)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>207 (18d12 + 90)</hp>
+        <hp>207 (18d12+90)</hp>
         <speed>walk 20 ft., swim 60 ft.</speed>
         <str>24</str>
         <dex>11</dex>
@@ -465,7 +458,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened, paralyzed</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Infernal Machine Rebuild p. 87</source>
         <trait>
             <name>Amphibious</name>
             <text>The thessalkraken can breathe air and water.</text>
@@ -530,7 +522,7 @@
         <type>beast</type>
         <alignment>Unaligned</alignment>
         <ac>12 (natural armor)</ac>
-        <hp>19 (3d10 + 3)</hp>
+        <hp>19 (3d10+3)</hp>
         <speed>walk 20 ft., swim 30 ft.</speed>
         <str>15</str>
         <dex>10</dex>
@@ -548,7 +540,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 89</source>
         <trait>
             <name>Hold Breath</name>
             <text>The two-headed crocodile can hold its breath for 15 minutes.</text>
@@ -579,7 +570,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>13 (natural armor)</ac>
-        <hp>59 (7d10 + 21)</hp>
+        <hp>59 (7d10+21)</hp>
         <speed>walk 40 ft.</speed>
         <str>20</str>
         <dex>12</dex>
@@ -597,7 +588,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60</senses>
-        <source>Infernal Machine Rebuild p. 90</source>
         <trait>
             <name>Two Heads</name>
             <text>The two-headed owlbear has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</text>
@@ -629,7 +619,7 @@
         <type>aberration</type>
         <alignment>Neutral</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>150 (12d12 + 72)</hp>
+        <hp>150 (12d12+72)</hp>
         <speed>walk 30 ft.</speed>
         <str>20</str>
         <dex>11</dex>
@@ -647,7 +637,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Infernal Machine Rebuild p. 75</source>
         <trait>
             <name>Limited Telepathy</name>
             <text>The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.</text>
@@ -687,7 +676,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>15 (studded leather armor)</ac>
-        <hp>78 (12d8 + 24)</hp>
+        <hp>78 (12d8+24)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
         <dex>16</dex>
@@ -705,7 +694,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 31</source>
         <trait>
             <name>Assassinate</name>
             <text>During its first turn, Andras has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Andras scores against a surprised creature is a critical hit.</text>
@@ -741,7 +729,7 @@
         <type>undead</type>
         <alignment>Any alignment</alignment>
         <ac>11 (natural armor)</ac>
-        <hp>58 (9d8 + 18)</hp>
+        <hp>58 (9d8+18)</hp>
         <speed>walk 0 ft.</speed>
         <str>1</str>
         <dex>1</dex>
@@ -759,7 +747,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 48</source>
         <trait>
             <name>Detect Sentience</name>
             <text>The brain in iron can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.</text>
@@ -807,7 +794,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 15</source>
         <trait>
             <name>Dark Devotion</name>
             <text>The worker has advantage on saving throws against being charmed or frightened.</text>
@@ -826,7 +812,7 @@
         <type>monstrosity</type>
         <alignment>Lawful Evil</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>127 (17d8 + 51)</hp>
+        <hp>127 (17d8+51)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
         <dex>15</dex>
@@ -844,7 +830,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 47</source>
         <trait>
             <name>Petrifying Gaze</name>
             <text>When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  greater restoration spell or other magic.</text>
@@ -879,7 +864,7 @@
         <type>plant</type>
         <alignment>Chaotic Good</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>138 (12d12 + 60)</hp>
+        <hp>138 (12d12+60)</hp>
         <speed>walk 30 ft.</speed>
         <str>23</str>
         <dex>8</dex>
@@ -897,7 +882,6 @@
         <vulnerable>fire</vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 5</source>
         <trait>
             <name>False Appearance</name>
             <text>While Grandfather Oak remains motionless, it is indistinguishable from a normal tree.</text>
@@ -951,7 +935,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 41</source>
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) piercing damage.</text>
@@ -970,7 +953,7 @@
         <type>beast</type>
         <alignment>Neutral</alignment>
         <ac>12</ac>
-        <hp>19 (3d10 + 3)</hp>
+        <hp>19 (3d10+3)</hp>
         <speed>walk 5 ft., fly 60 ft.</speed>
         <str>13</str>
         <dex>15</dex>
@@ -988,7 +971,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 120 ft.</senses>
-        <source>Infernal Machine Rebuild p. 33</source>
         <trait>
             <name>Flyby</name>
             <text>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
@@ -1011,7 +993,7 @@
         <type>beast</type>
         <alignment>Unaligned</alignment>
         <ac>12 (natural armor)</ac>
-        <hp>42 (5d10 + 15)</hp>
+        <hp>42 (5d10+15)</hp>
         <speed>walk 40 ft., swim 30 ft.</speed>
         <str>20</str>
         <dex>10</dex>
@@ -1029,7 +1011,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses></senses>
-        <source>Infernal Machine Rebuild p. 34</source>
         <trait>
             <name>Keen Smell</name>
             <text>The bear has advantage on Wisdom (Perception) checks that rely on smell.</text>
@@ -1057,7 +1038,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>13 (natural armor)</ac>
-        <hp>59 (7d10 + 21)</hp>
+        <hp>59 (7d10+21)</hp>
         <speed>walk 40 ft.</speed>
         <str>20</str>
         <dex>12</dex>
@@ -1075,7 +1056,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 36</source>
         <trait>
             <name>Keen Sight and Smell</name>
             <text>The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.</text>
@@ -1103,7 +1083,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>13 (natural armor)</ac>
-        <hp>59 (7d10 + 21)</hp>
+        <hp>59 (7d10+21)</hp>
         <speed>walk 40 ft.</speed>
         <str>20</str>
         <dex>12</dex>
@@ -1121,7 +1101,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60</senses>
-        <source>Infernal Machine Rebuild p. 36</source>
         <trait>
             <name>Two Heads</name>
             <text>The two-headed owlbear has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</text>
@@ -1153,7 +1132,7 @@
         <type>humanoid (any race)</type>
         <alignment>Any alignment</alignment>
         <ac>12, 15 (with mage armor)</ac>
-        <hp>91 (14d8 + 28)</hp>
+        <hp>91 (14d8+28)</hp>
         <speed>walk 30 ft.</speed>
         <str>9</str>
         <dex>14</dex>
@@ -1171,7 +1150,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 33</source>
         <trait>
             <name>Whispering Aura</name>
             <text>At the start of each of Stolos's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage, provided that Stolos isn't incapacitated.</text>
@@ -1204,7 +1182,7 @@
         <type>fiend (demon)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>19 (natural armor)</ac>
-        <hp>262 (21d12 + 126)</hp>
+        <hp>262 (21d12+126)</hp>
         <speed>walk 40 ft., fly 80 ft.</speed>
         <str>26</str>
         <dex>15</dex>
@@ -1222,7 +1200,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
-        <source>Infernal Machine Rebuild p. 19</source>
         <trait>
             <name>Death Throes</name>
             <text>When Tarnhem dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys Tarnhem's weapons.</text>
@@ -1290,7 +1267,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>charmed, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 35</source>
         <trait>
             <name>Telepathic Bond</name>
             <text>While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</text>
@@ -1326,7 +1302,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Infernal Machine Rebuild p. 17</source>
         <trait>
             <name>Dark Devotion</name>
             <text>The muralist has advantage on saving throws against being charmed or frightened.</text>

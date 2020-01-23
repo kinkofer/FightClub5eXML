@@ -7,7 +7,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>60 (8d8 + 24)</hp>
+        <hp>60 (8d8+24)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
         <dex>12</dex>
@@ -25,7 +25,6 @@
         <vulnerable></vulnerable>
         <conditionImmune></conditionImmune>
         <senses>blindsight 60 ft.</senses>
-        <source>Hunt for the Thessalhydra</source>
         <trait>
             <name>Keen Smell</name>
             <text>The demogorgon has advantage on Wisdom (Perception) checks that rely on smell.</text>
@@ -61,7 +60,7 @@
         <type>monstrosity</type>
         <alignment>Unaligned</alignment>
         <ac>14 (natural armor)</ac>
-        <hp>69 (6d12 + 30)</hp>
+        <hp>69 (6d12+30)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>19</str>
         <dex>12</dex>
@@ -79,7 +78,6 @@
         <vulnerable></vulnerable>
         <conditionImmune>blinded, charmed, deafened, frightened, stunned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
-        <source>Hunt for the Thessalhydra, Infernal Machine Rebuild</source>
         <action>
             <name>Multiattack</name>
             <text>The thessalhydra makes one maw attack and one Flurry of Bites.</text>
