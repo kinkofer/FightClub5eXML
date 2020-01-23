@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Monsters -->
+    <monster>
+        <name>Amble</name>
+        <size>M</size>
+        <type>humanoid (tortle)</type>
+        <alignment>Lawful Good</alignment>
+        <ac>18 (natural armor)</ac>
+        <hp>90 (12d8+36)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>14</str>
+        <dex>10</dex>
+        <con>16</con>
+        <int>10</int>
+        <wis>18</wis>
+        <cha>14</cha>
+        <save>Str +6, Dex +4, Con +7, Int +4, Wis +8, Cha +6</save>
+        <skill>Animal handling +8, Insight +8, Medicine +8, Perception +8, Survival +8</skill>
+        <passive>18</passive>
+        <languages>Aquan, Common, Druidic</languages>
+        <cr>10</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Hearth of Moonlight and Shadow</name>
+            <text>At the start of a short or long rest, Amble can touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.</text>
+            <text>While within the sphere, Amble and their allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere isn't visible outside it.</text>
+            <text>The sphere vanishes at the end of the rest or when Amble leaves the sphere.</text>
+        </trait>
+        <trait>
+            <name>Hold Breath</name>
+            <text>Amble can hold their breath for up to 1 hour at a time.</text>
+        </trait>
+        <trait>
+            <name>Balm of the Summer Court (12d6)</name>
+            <text>(As a Bonus Action) Amble can choose one creature they can see within 120 feet of them and spend up to 6d6 of their die pool. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent. Amble regains all expended dice when they finish a long rest.</text>
+        </trait>
+        <trait>
+            <name>Hidden Paths (4/Day)</name>
+            <text>(As a Bonus Action) Amble may teleport up to 60 feet to an unoccupied space they can see.</text>
+        </trait>
+        <action>
+            <name>Change Shape (2/Day)</name>
+            <text>Amble magically polymorphs into a beast with a challenge rating of 1 or less, and can remain in this form for up to 6 hours. Amble's equipment melds with their new form. Amble reverts to their true form if they die or fall unconscious. Amble can revert to their true form using a bonus action on their turn.</text>
+            <text>Amble's game statistics are replaced by the statistics of the beast, but they retain their alignment, personality, and Intelligence, Wisdom, and Charisma scores. Amble also retains all their skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as Amble and the bonus in its stat block is higher, use the creature's bonus instead of Amble's.</text>
+            <text>When Amble transforms, they assume the beast's hit points and Hit Dice. When Amble reverts to their normal form, they return to the number of hit points they had before they transformed. However, if Amble reverts as a result of dropping to 0 hit points, any excess damage carries over their normal form.</text>
+            <text>Amble can't cast spells, and their ability to speak or take any action that requires hands is limited to the capabilities of their beast form. Transforming doesn't break Amble's concentration on a spell they've already cast however, or prevent them from taking actions that are part of a spell.</text>
+        </action>
+        <action>
+            <name>Claws</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+            <attack>Claws|6|1d4+2</attack>
+        </action>
+        <action>
+            <name>Club</name>
+            <text>Melee Weapon Attack: +6 to hit (+8 to hit with shillelagh), reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.</text>
+            <attack>Club|6|1d6+2</attack>
+        </action>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Amble is a 12th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). Amble has the following druid spells prepared:</text>
+            <text>Cantrips (at will): guidance, mending, shape water, shillelagh</text>
+            <text>• 1st level (4 slots): absorb elements, cure wounds, entangle, speak with animals</text>
+            <text>• 2nd level (3 slots): darkvision, hold person, lesser restoration, moonbeam</text>
+            <text>• 3rd level (3 slots): conjure animals, dispel magic, water breathing</text>
+            <text>• 4th level (3 slots): charm monster, freedom of movement</text>
+            <text>• 5th level (2 slots): greater restoration, mass cure wounds</text>
+            <text>• 6th level (1 slots): conjure fey</text>
+        </trait>
+        <slots>4, 3, 3, 3, 2, 1</slots>
+        <spells>guidance, mending, shape water, shillelagh, absorb elements, cure wounds, entangle, speak with animals, darkvision, hold person, lesser restoration, moonbeam, conjure animals, dispel magic, water breathing, charm monster, freedom of movement, greater restoration, mass cure wounds, conjure fey</spells>
+        <description>Source: Locathah Rising p. 15</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Gar Shatterkeel–Locathah Rising</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Neutral Evil</alignment>
+        <ac>17 (natural armor)</ac>
+        <hp>144 (17d8+68)</hp>
+        <speed>walk 30 ft., swim 30 ft.</speed>
+        <str>16</str>
+        <dex>16</dex>
+        <con>18</con>
+        <int>12</int>
+        <wis>20</wis>
+        <cha>14</cha>
+        <save></save>
+        <skill>Nature +11, Perception +10, Survival +10</skill>
+        <passive>20</passive>
+        <languages>Aquan, Common</languages>
+        <cr>15</cr>
+        <resist>cold</resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>Gar can breathe air and water.</text>
+        </trait>
+        <trait>
+            <name>Legendary Resistance (3/Day)</name>
+            <text>If Gar fails a saving throw, he can choose to succeed instead.</text>
+        </trait>
+        <trait>
+            <name>Water Walk</name>
+            <text>Gar can stand and move on liquid surfaces as if they were solid ground.</text>
+        </trait>
+        <trait>
+            <name>Watery Fall</name>
+            <text>When Gar drops to 0 hit points, his body collapses into a pool of inky water that rapidly disperses. Except for Wave and his claw, anything he was wearing or carrying is left behind.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Gar makes two melee attacks, one with his claw and one with Wave.</text>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 16). Until the grapple ends, Gar can't attack other creatures with his claw.</text>
+            <attack>Claw|8|2d6+3</attack>
+        </action>
+        <action>
+            <name>Wave</name>
+            <text>Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. 9 (1d6 + 6) piercing damage or 10 (1d8 + 6) piercing damage when used with two hands. If Gar scores a critical hit with this weapon, the target takes extra necrotic damage equal to half its hit point maximum.</text>
+            <attack>Wave|11|1d6+6</attack>
+        </action>
+        <action>
+            <name>Umberlee's Wake (Recharge 5-6)</name>
+            <text>Power ripples out in a 60-foot radius sphere from a point within range (150 ft.) as the will of Umberlee affects all in her watery embrace. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. This only affects targets that are submerged or floating in water. Gar Shatterkeel and any undead serving him are immune to this effect.</text>
+        </action>
+        <legendary>
+            <text>The humanoid can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The humanoid regains spent legendary actions at the start of its turn.</text>
+        </legendary>
+        <legendary>
+            <name>Move</name>
+            <text>Gar moves up to his speed without provoking opportunity attacks.</text>
+        </legendary>
+        <legendary>
+            <name>Claw</name>
+            <text>Gar makes one attack with his claw.</text>
+        </legendary>
+        <legendary>
+            <name>Wave (Costs 2 Actions)</name>
+            <text>Gar makes one attack with Wave with advantage.</text>
+        </legendary>
+        <legendary>
+            <name>Lair Actions</name>
+            <text>If Gar is in the water node while Olhydra isn't, he can take lair actions. On initiative count 20 (losing initiative ties), Gar uses a lair action to use his Multiattack or cast one of his spells, up to 3rd level, without using components or a spell slot. He can't cast the same spell two rounds in a row, but he can continue to concentrate on a spell he previously cast using a lair action. He can take no other lair actions while concentrating on a spell cast as a lair action. His favorite use of this capability is casting inflict wounds or call lightning.</text>
+            <text>If Gar casts cure wounds using this lair action, he regains the maximum number of hit points from the spell (28).</text>
+        </legendary>
+        <legendary>
+            <name>Lair Actions</name>
+            <text>Gar can employ lair actions while he's within the coral mountain.</text>
+            <text>On initiative count 20 (losing initiative ties), Gar Shatterkeel takes a lair action to cause one of the following effects; Gar can't use the same effect two rounds in a row.</text>
+            <text>• Gar may teleport anywhere within the coral mountain, bringing up to five willing creatures with him.</text>
+            <text>• The coral in a 60-foot radius grows rapidly around creatures inside the coral mountain. Each creature must succeed on a DC 18 Strength saving throw or become restrained. Restrained creatures can take an action on their turn to make a DC 18 Strength (Athletics) or Dexterity (Acrobatics) check to free themselves. This effect lasts for 1 minute unless dispelled (it counts as a 6th level spell), and doesn't require Gar to maintain concentration. Gar Shatterkeel and any creatures he designates are immune to this effect.</text>
+            <text>• Up to five corpses that Gar can see within 60 feet rise up as drowned blade and attack anyone Gar directs them to on his turn.</text>
+        </legendary>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Gar is a 13th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). He has the following druid spells prepared:</text>
+            <text>Cantrips (at will): frostbite, mending, resistance, shape water, thunderclap*</text>
+            <text>• 1st level (4 slots): create or destroy water, charm person, cure wounds, thunderwave</text>
+            <text>• 2nd level (3 slots): darkvision, hold person, mirror image*, misty step*, pass without trace, protection from poison</text>
+            <text>• 3rd level (3 slots): conjure animals, dispel magic, tidal wave, water breathing*, water walk*</text>
+            <text>• 4th level (3 slots): charm monster, control water*, dominate beast, freedom of movement*, watery sphere</text>
+            <text>• 5th level (2 slots): conjure elemental*, maelstrom, scrying*, tree stride</text>
+            <text>• 6th level (1 slots): heal</text>
+            <text>• 7th level (1 slots): plane shift</text>
+            <text>scrying*, tree stride</text>
+            <text>*Circle spells don't count against spells prepared.</text>
+        </trait>
+        <slots>4, 3, 3, 3, 2, 1, 1</slots>
+        <spells>frostbite, mending, resistance, shape water, thunderclap, create or destroy water, charm person, cure wounds, thunderwave, darkvision, hold person, mirror image, misty step, pass without trace, protection from poison, conjure animals, dispel magic, tidal wave, water breathing, water walk, charm monster, control water, dominate beast, freedom of movement, watery sphere, conjure elemental, maelstrom, scrying, tree stride, heal, plane shift</spells>
+        <description>Source: Locathah Rising p. 18</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Young Kraken</name>
+        <size>H</size>
+        <type>monstrosity (titan)</type>
+        <alignment>Chaotic Evil</alignment>
+        <ac>16 (natural armor)</ac>
+        <hp>207 (18d12+90)</hp>
+        <speed>walk 20 ft., swim 50 ft.</speed>
+        <str>24</str>
+        <dex>11</dex>
+        <con>20</con>
+        <int>19</int>
+        <wis>15</wis>
+        <cha>17</cha>
+        <save>Str +12, Dex +5, Con +10, Int +9, Wis +7</save>
+        <skill></skill>
+        <passive>14</passive>
+        <languages>Abyssal, Celestial, Infernal, Primordial, telepathy 60 ft. but can't speak</languages>
+        <cr>14</cr>
+        <resist></resist>
+        <immune>lightning; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>frightened, paralyzed</conditionImmune>
+        <senses>truesight 120 ft.</senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>The kraken can breathe air and water.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The kraken makes two tentacle attacks, each of which it can replace with one use of Fling.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) piercing damage.</text>
+            <attack>Bite|12|3d8+7</attack>
+            <text>If the target is a Medium or smaller creature grappled by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken's turns. One Medium or two smaller creatures can be swallowed at the same time.</text>
+            <text>If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in spaces within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
+        </action>
+        <action>
+            <name>Tentacle</name>
+            <text>Melee Weapon Attack: +12 to hit, reach 20 ft., one target. 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20). Until the grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.</text>
+            <attack>Tentacle|12|3d6+7</attack>
+        </action>
+        <action>
+            <name>Fling</name>
+            <text>One Medium or smaller object held or creature grappled by the kraken is thrown up to 40 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.</text>
+        </action>
+        <action>
+            <name>Lightning Strike</name>
+            <text>The kraken magically create a bolt of lightning, which can strike a target the kraken can see within 90 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+        </action>
+        <description>Source: Locathah Rising p. 21</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Shoalar Quanderil–Locathah Rising</name>
+        <size>M</size>
+        <type>humanoid (water genasi)</type>
+        <alignment>Lawful Evil</alignment>
+        <ac>11 (14 with mage armor)</ac>
+        <hp>75 (10d8+30)</hp>
+        <speed>walk 30 ft., swim 30 ft.</speed>
+        <str>12</str>
+        <dex>12</dex>
+        <con>16</con>
+        <int>14</int>
+        <wis>10</wis>
+        <cha>18</cha>
+        <save></save>
+        <skill>Arcana +5, Deception +7, Insight +3, Persuasion +7</skill>
+        <passive>10</passive>
+        <languages>Aquan, Common</languages>
+        <cr>4</cr>
+        <resist>acid, lightning, thunder</resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>Shoalar can breathe air and water.</text>
+        </trait>
+        <action>
+            <name>Dagger</name>
+            <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or ranged 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
+            <attack>Dagger|4|1d4+1</attack>
+        </action>
+        <trait>
+            <name>Innate Spellcasting</name>
+            <text>Shoalar's innate spellcasting ability is Constitution (spell save DC 14, +6 to hit with spell attacks). He can innately cast the following spells:</text>
+            <text>At will: shape water</text>
+            <text>1/day: create or destroy water</text>
+        </trait>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Shoalar is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:</text>
+            <text>Cantrips (at will): acid splash, chill touch, light, prestidigitation, ray of frost</text>
+            <text>• 1st level (4 slots): disguise self, mage armor, shield</text>
+            <text>• 2nd level (3 slots): hold person, misty step</text>
+            <text>• 3rd level (2 slots): lightning bolt, tidal wave</text>
+            <text>• 4th level (1 slots): watery sphere</text>
+        </trait>
+        <slots>4, 3, 2, 1</slots>
+        <spells>shape water, create or destroy water, acid splash, chill touch, light, prestidigitation, ray of frost, disguise self, mage armor, shield, hold person, misty step, lightning bolt, tidal wave, watery sphere</spells>
+        <description>Source: Locathah Rising p. 23</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Whymsee</name>
+        <size>M</size>
+        <type>humanoid (any race)</type>
+        <alignment>Any Evil Alignment</alignment>
+        <ac>10</ac>
+        <hp>75 (10d8+30)</hp>
+        <speed>walk 30 ft., swim 30 ft.</speed>
+        <str>12</str>
+        <dex>10</dex>
+        <con>16</con>
+        <int>10</int>
+        <wis>15</wis>
+        <cha>14</cha>
+        <save></save>
+        <skill>Perception +5</skill>
+        <passive>15</passive>
+        <languages>any two languages</languages>
+        <cr>5</cr>
+        <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>Whymsee can breathe air and water.</text>
+        </trait>
+        <action>
+            <name>Thunderous Touch</name>
+            <text>Melee Spell Attack: +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
+            <attack>Thunderous Touch|5|5d10</attack>
+        </action>
+        <action>
+            <name>Voice of the Kraken (Recharges after a Short or Long Rest)</name>
+            <text>A kraken speaks through Whymsee with a thunderous voice audible within 300 feet. Creatures of Whymsee's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        </action>
+        <trait>
+            <name>Innate Spellcasting</name>
+            <text>Whymsee's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
+            <text>At will: command, create or destroy water</text>
+            <text>3/day each: control water, darkness, water breathing, water walk</text>
+            <text>1/day each: call lightning, Evard's black tentacles</text>
+        </trait>
+        <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard's black tentacles</spells>
+        <description>Source: Locathah Rising p. 20</description>
+        <environment>coastal, underwater</environment>
+    </monster>
+    <monster>
+        <name>Fhenimore</name>
+        <size>M</size>
+        <type>humanoid (any race)</type>
+        <alignment>Any Evil Alignment</alignment>
+        <ac>10</ac>
+        <hp>75 (10d8+30)</hp>
+        <speed>walk 30 ft., swim 30 ft.</speed>
+        <str>12</str>
+        <dex>10</dex>
+        <con>16</con>
+        <int>10</int>
+        <wis>15</wis>
+        <cha>14</cha>
+        <save></save>
+        <skill>Perception +5</skill>
+        <passive>15</passive>
+        <languages>any two languages</languages>
+        <cr>5</cr>
+        <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>Fhenimore can breathe air and water.</text>
+        </trait>
+        <action>
+            <name>Thunderous Touch</name>
+            <text>Melee Spell Attack: +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
+            <attack>Thunderous Touch|5|5d10</attack>
+        </action>
+        <action>
+            <name>Voice of the Kraken (Recharges after a Short or Long Rest)</name>
+            <text>A kraken speaks through Fhenimore with a thunderous voice audible within 300 feet. Creatures of Fhenimore's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        </action>
+        <trait>
+            <name>Innate Spellcasting</name>
+            <text>Fhenimore's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
+            <text>At will: command, create or destroy water</text>
+            <text>3/day each: control water, darkness, water breathing, water walk</text>
+            <text>1/day each: call lightning, Evard's black tentacles</text>
+        </trait>
+        <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard's black tentacles</spells>
+        <description>Source: Locathah Rising p. 20</description>
+        <environment>coastal, underwater</environment>
+    </monster>
+</compendium>

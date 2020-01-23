@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Monsters -->
+    <monster>
+        <name>Statue of Talos</name>
+        <size>L</size>
+        <type>elemental</type>
+        <alignment>Chaotic Evil</alignment>
+        <ac>17 (natural armor)</ac>
+        <hp>147 (14d10+70)</hp>
+        <speed>walk 30 ft., fly 60 ft.</speed>
+        <str>19</str>
+        <dex>11</dex>
+        <con>20</con>
+        <int>6</int>
+        <wis>11</wis>
+        <cha>9</cha>
+        <save>Wis +4</save>
+        <skill>Perception +4</skill>
+        <passive>14</passive>
+        <languages>Terran</languages>
+        <cr>10</cr>
+        <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+        <immune>poison</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>False Appearance</name>
+            <text>While the statue remains motionless, it is indistinguishable from an inanimate statue.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The statue makes five attacks: one with its headbutt and four with its lightning bolt blades.</text>
+        </action>
+        <action>
+            <name>Headbutt</name>
+            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+            <attack>Headbutt|8|2d6+4</attack>
+        </action>
+        <action>
+            <name>Lightning Bolt Blades</name>
+            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (2d4 + 4) slashing damage.</text>
+            <attack>Lightning Bolt Blades|8|2d4+4</attack>
+        </action>
+        <description>Source: Storm Lord's Wrath</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Skull Flier</name>
+        <size>M</size>
+        <type>construct</type>
+        <alignment>Unaligned</alignment>
+        <ac>16 (natural armor)</ac>
+        <hp>24 (3d8)</hp>
+        <speed>walk 10 ft., fly 50 ft.</speed>
+        <str>10</str>
+        <dex>14</dex>
+        <con>10</con>
+        <int>1</int>
+        <wis>10</wis>
+        <cha>3</cha>
+        <save></save>
+        <skill></skill>
+        <passive>10</passive>
+        <languages></languages>
+        <cr>1/2</cr>
+        <resist></resist>
+        <immune>poison, psychic</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>charmed, frightened, paralyzed, petrified, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <action>
+            <name>Sting</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
+            <attack>Sting|4|1d6+2</attack>
+        </action>
+        <description>Source: Storm Lord's Wrath</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Tooth-N-Claw</name>
+        <size>M</size>
+        <type>fiend</type>
+        <alignment>Lawful Evil</alignment>
+        <ac>15 (natural armor)</ac>
+        <hp>45 (7d8+14)</hp>
+        <speed>walk 50 ft.</speed>
+        <str>17</str>
+        <dex>12</dex>
+        <con>14</con>
+        <int>6</int>
+        <wis>13</wis>
+        <cha>6</cha>
+        <save></save>
+        <skill>Perception +5</skill>
+        <passive>15</passive>
+        <languages>understands Infernal but can't speak it</languages>
+        <cr>3</cr>
+        <resist></resist>
+        <immune>cold</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Keen Hearing and Smell</name>
+            <text>Tooth-N-Claw has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+        </trait>
+        <trait>
+            <name>Pack Tactics</name>
+            <text>Tooth-N-Claw has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage plus 7 (2d6) cold damage.</text>
+            <attack>Bite|5|1d8+3</attack>
+        </action>
+        <action>
+            <name>Freezing Breath (Recharge 5-6)</name>
+            <text>Tooth-N-Claw exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.</text>
+        </action>
+        <description>Source: Storm Lord's Wrath</description>
+        <environment></environment>
+    </monster>
+</compendium>

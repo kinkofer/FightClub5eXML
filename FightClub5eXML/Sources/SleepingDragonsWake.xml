@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Monsters -->
+    <monster>
+        <name>Giant Shark Skeleton</name>
+        <size>H</size>
+        <type>undead</type>
+        <alignment>Unaligned</alignment>
+        <ac>13 (natural armor)</ac>
+        <hp>126 (11d12+55)</hp>
+        <speed>walk 20 ft., swim 50 ft.</speed>
+        <str>23</str>
+        <dex>11</dex>
+        <con>21</con>
+        <int>1</int>
+        <wis>10</wis>
+        <cha>5</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <passive>13</passive>
+        <languages></languages>
+        <cr>5</cr>
+        <resist></resist>
+        <immune>poison</immune>
+        <vulnerable>bludgeoning</vulnerable>
+        <conditionImmune>exhaustion, poisoned</conditionImmune>
+        <senses>blindsight 60 ft.</senses>
+        <trait>
+            <name>Blood Frenzy</name>
+            <text>The giant shark skeleton has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 22 (3d10 + 6) piercing damage.</text>
+            <attack>Bite|9|3d10+6</attack>
+        </action>
+        <description>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
+            The giant shark skeleton doesn't require air, food, drink, or sleep. The shark has had skeletal feet attached by some demented necromancer.
+            Source: Sleeping Dragon's Wake</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Lhammaruntosz</name>
+        <size>H</size>
+        <type>dragon</type>
+        <alignment>Lawful Good</alignment>
+        <ac>19 (natural armor)</ac>
+        <hp>212 (17d12+102)</hp>
+        <speed>walk 40 ft., fly 80 ft., swim 40 ft.</speed>
+        <str>25</str>
+        <dex>10</dex>
+        <con>23</con>
+        <int>16</int>
+        <wis>15</wis>
+        <cha>19</cha>
+        <save>Dex +5, Con +11, Wis +7, Cha +9</save>
+        <skill>Insight +7, Perception +12, Stealth +5</skill>
+        <passive>22</passive>
+        <languages>Common, Draconic</languages>
+        <cr>16</cr>
+        <resist></resist>
+        <immune>lightning</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+        <trait>
+            <name>Amphibious</name>
+            <text>Lhammaruntosz can breathe air and water.</text>
+        </trait>
+        <trait>
+            <name>Legendary Resistance (3/Day)</name>
+            <text>If Lhammaruntosz fails a saving throw, she can choose to succeed instead.</text>
+        </trait>
+        <trait>
+            <name>Regeneration</name>
+            <text>Lhammaruntosz regains 5 hit points at the start of her turn.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Lhammaruntosz can use her Frightful Presence. She then makes three attacks: one with her bite and two with her claws.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 18 (2d10 + 7) piercing damage.</text>
+            <attack>Bite|12|2d10+7</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage.</text>
+            <attack>Claw|12|2d6+7</attack>
+        </action>
+        <action>
+            <name>Tail</name>
+            <text>Melee Weapon Attack: +12 to hit, reach 15 ft., one target. 16 (2d8 + 7) bludgeoning damage.</text>
+            <attack>Tail|12|2d8+7</attack>
+        </action>
+        <action>
+            <name>Frightful Presence</name>
+            <text>Each creature of Lhammaruntosz's choice that is within 120 feet of her and aware of her must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Lhammaruntosz's Frightful Presence for the next 24 hours.</text>
+        </action>
+        <action>
+            <name>Breath Weapons (Recharge 5-6)</name>
+            <text>Lhammaruntosz uses one of the following breath weapons.</text>
+        </action>
+        <action>
+            <name>Lightning Breath</name>
+            <text>Lhammaruntosz exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+        </action>
+        <action>
+            <name>Repulsion Breath</name>
+            <text>Lhammaruntosz exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.</text>
+        </action>
+        <action>
+            <name>Change Shape</name>
+            <text>Lhammaruntosz magically polymorphs into a humanoid or beast that has a challenge rating no higher than her own, or back into her true form. She reverts to her true form if she dies. Any equipment she is wearing or carrying is absorbed or borne by the new form (Lhammaruntosz's choice).</text>
+            <text>In a new form, Lhammaruntosz retains her alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Her statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</text>
+        </action>
+        <legendary>
+            <text>Lhammaruntosz can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lhammaruntosz regains spent legendary actions at the start of its turn.</text>
+        </legendary>
+        <legendary>
+            <name>Detect</name>
+            <text>Lhammaruntosz makes a Wisdom (Perception) check.</text>
+        </legendary>
+        <legendary>
+            <name>Tail Attack</name>
+            <text>Lhammaruntosz makes a tail attack.</text>
+        </legendary>
+        <legendary>
+            <name>Wing Attack (Costs 2 Actions)</name>
+            <text>Lhammaruntosz beats its wings. Each creature within 10 feet of Lhammaruntosz must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Lhammaruntosz can then fly up to half her flying speed.</text>
+        </legendary>
+        <legendary>
+            <name>Lair Actions</name>
+            <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
+            <text>• The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
+            <text>• A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
+        </legendary>
+        <legendary>
+            <name>Regional Effects</name>
+            <text>The region containing a legendary bronze dragon's lair is warped by the dragon's magic.</text>
+            <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
+            <text>• Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.</text>
+            <text>• Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.</text>
+            <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
+        </legendary>
+        <trait>
+            <name>Innate Spellcasting</name>
+            <text>Lhammaruntosz's spellcasting ability is Charisma (spell save DC 17). She can innately cast the following spells, requiring no material components:</text>
+            <text>1/day each: create food and water, detect thoughts, fog cloud, speak with animals</text>
+        </trait>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Lhammaruntosz is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17; +9 to hit with spell attacks). She has the following sorcerer spells prepared:</text>
+            <text>Cantrips (at will): light, mage hand, mending</text>
+            <text>• 1st level (4 slots): charm person, detect magic, expeditious retreat, sleep</text>
+            <text>• 2nd level (3 slots): darkness, invisibility, suggestion</text>
+            <text>• 3rd level (3 slots): dispel magic, protection from energy</text>
+            <text>• 4th level (2 slots): dimension door, stoneskin</text>
+        </trait>
+        <slots>4, 3, 3, 2</slots>
+        <spells>create food and water, detect thoughts, fog cloud, speak with animals, light, mage hand, mending, charm person, detect magic, expeditious retreat, sleep, darkness, invisibility, suggestion, dispel magic, protection from energy, dimension door, stoneskin</spells>
+        <description>Lhammaruntosz, a bronze dragon with the ability to heal quickly, spent decades defending Leilon and the surrounding area as the captain of the Scaly Eye, a fleet that battled pirates and other threats. To honor her deeds, the Swords of Leilon constructed the Bronze Shrine, a massive temple to Bahamut, god of metallic dragons, in a cliff overlooking the sea. The shrine's face is carved in Lhammaruntosz's likeness and includes quarters for the rest of the Scaly Eye and a magic statue of Bahamut, which the dragon can use to commune with the deity.
+            In recent decades Lhammaruntosz has retreated inside the shrine, becoming reclusive due to a attack by a disguised demon which has driven her mad. She leaves on rare occasions to hunt for food, returning as soon as possible. Members of the Scaly Eye still live within the Bronze Shrine, as Lhammaruntosz has ordered them to stay on as her guardians.
+            Source: Sleeping Dragon's Wake</description>
+        <environment></environment>
+    </monster>
+</compendium>

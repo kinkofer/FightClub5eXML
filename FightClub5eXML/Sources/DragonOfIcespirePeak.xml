@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Monsters -->
+    <monster>
+        <name>Spellcaster</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Any alignment</alignment>
+        <ac>12 (leather armor)</ac>
+        <hp>9 (2d8)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>10</str>
+        <dex>12</dex>
+        <con>10</con>
+        <int>15</int>
+        <wis>14</wis>
+        <cha>13</cha>
+        <save>Wis +4</save>
+        <skill>Arcana +4, Investigation +4, Religion +4</skill>
+        <passive>12</passive>
+        <languages>Common, plus one of your choice</languages>
+        <cr></cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Magical Role</name>
+            <text>Choose a role for the spellcaster: healer or mage. Your choice determines which Spellcasting trait to use below.</text>
+        </trait>
+        <action>
+            <name>Quarterstaff</name>
+            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.</text>
+            <attack>Quarterstaff|2|1d6</attack>
+        </action>
+        <trait>
+            <name>Spellcasting (Healer)</name>
+            <text>The spellcaster's spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following cleric spells prepared:</text>
+            <text>Cantrips (at will): guidance, sacred flame</text>
+            <text>• 1st level (2 slots): cure wounds</text>
+        </trait>
+        <slots>2</slots>
+        <trait>
+            <name>Spellcasting (Mage)</name>
+            <text>The spellcaster's spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following wizard spells prepared:</text>
+            <text>Cantrips (at will): fire bolt, light</text>
+            <text>• 1st level (2 slots): sleep</text>
+        </trait>
+        <slots>2</slots>
+        <spells>guidance, sacred flame, cure wounds, fire bolt, light, sleep</spells>
+        <description>Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Expert</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Any alignment</alignment>
+        <ac>14 (studded leather armor)</ac>
+        <hp>11 (2d8+2)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>10</str>
+        <dex>15</dex>
+        <con>12</con>
+        <int>13</int>
+        <wis>10</wis>
+        <cha>14</cha>
+        <save>Dex +4</save>
+        <skill>Acrobatics +4, Performance +4, Persuasion +4, Sleight of hand +4, Stealth +4</skill>
+        <passive>10</passive>
+        <languages>Common, plus one of your choice</languages>
+        <cr></cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Helpful</name>
+            <text>The expert can take the Help action as a bonus action.</text>
+        </trait>
+        <trait>
+            <name>Tools</name>
+            <text>The expert has thieves' tools and a musical instrument.</text>
+        </trait>
+        <action>
+            <name>Shortsword</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+            <attack>Shortsword|4|1d6+2</attack>
+        </action>
+        <action>
+            <name>Dagger</name>
+            <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+            <attack>Dagger|4|1d4+2</attack>
+        </action>
+        <action>
+            <name>Shortbow</name>
+            <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+            <attack>Shortbow|4|1d8+2</attack>
+        </action>
+        <description>Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Warrior</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Any alignment</alignment>
+        <ac>16 (chain shirt)</ac>
+        <hp>13 (2d8+4)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>15</str>
+        <dex>13</dex>
+        <con>14</con>
+        <int>10</int>
+        <wis>12</wis>
+        <cha>10</cha>
+        <save>Con +4</save>
+        <skill>Athletics +4, Perception +3, Survival +3</skill>
+        <passive>13</passive>
+        <languages>Common, plus one of your choice</languages>
+        <cr></cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Martial Role</name>
+            <text>The warrior has one of the following traits of your choice:</text>
+            <text>• Attacker: The warrior gains a +2 bonus to attack rolls.</text>
+            <text>• Defender: The warrior gains the Protection reaction below.</text>
+        </trait>
+        <action>
+            <name>Longsword</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
+            <attack>Longsword|4|1d8+2</attack>
+        </action>
+        <action>
+            <name>Longbow</name>
+            <text>Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage.</text>
+            <attack>Longbow|3|1d8+1</attack>
+        </action>
+        <reaction>
+            <name>Protection (Defender Only)</name>
+            <text>The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker.</text>
+        </reaction>
+        <description>Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Anchorite of Talos</name>
+        <size>M</size>
+        <type>humanoid (half-orc, shapechanger)</type>
+        <alignment>Neutral Evil</alignment>
+        <ac>13 (hide armor)</ac>
+        <hp>58 (9d8+18)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>16</str>
+        <dex>13</dex>
+        <con>14</con>
+        <int>9</int>
+        <wis>15</wis>
+        <cha>12</cha>
+        <save></save>
+        <skill>Nature +1, Stealth +3, Survival +4</skill>
+        <passive>12</passive>
+        <languages>Common, Orc</languages>
+        <cr>3</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Shapechanger</name>
+            <text>The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+        </trait>
+        <action>
+            <name>Clawed Gauntlet (Humanoid Form Only)</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) slashing damage.</text>
+            <attack>Clawed Gauntlet (Humanoid Form Only)|5|1d4+3</attack>
+        </action>
+        <action>
+            <name>Tusk (Boar Form Only)</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
+            <attack>Tusk (Boar Form Only)|5|1d6+3</attack>
+        </action>
+        <trait>
+            <name>Innate Spellcasting</name>
+            <text>The anchorite's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:</text>
+            <text>3/day: thunderwave (2d8 damage)</text>
+            <text>1/day each: augury, bless, lightning bolt (8d6 damage), revivify</text>
+        </trait>
+        <spells>thunderwave, augury, bless, lightning bolt, revivify</spells>
+        <description>These religious recluses are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.
+            Source: Dragon of Icespire Peak, Divine Contention, Sleeping Dragon's Wake</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Don-Jon Raskin</name>
+        <size>M</size>
+        <type>humanoid (human)</type>
+        <alignment>Neutral</alignment>
+        <ac>10</ac>
+        <hp>44 (8d8+8)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>11</str>
+        <dex>10</dex>
+        <con>13</con>
+        <int>12</int>
+        <wis>10</wis>
+        <cha>14</cha>
+        <save>Dex +2, Con +3</save>
+        <skill>Deception +4, Persuasion +4</skill>
+        <passive>10</passive>
+        <languages>Common, Dwarvish</languages>
+        <cr>1/2</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Brave</name>
+            <text>Don-Jon has advantage on saving throws against being frightened.</text>
+        </trait>
+        <trait>
+            <name>Not Dead Yet (Recharges after a Long Rest)</name>
+            <text>If damage reduces Don-Jon to 0 hit points, he drops to 1 hit point instead and gains advantage on attack rolls until the end of his next turn.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Don-Jon makes three melee attacks.</text>
+        </action>
+        <action>
+            <name>Dagger</name>
+            <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
+            <attack>Dagger|2|1d4</attack>
+        </action>
+        <action>
+            <name>Sling</name>
+            <text>Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. 2 (1d4) bludgeoning damage.</text>
+            <attack>Sling|2|1d4</attack>
+        </action>
+        <description>Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.
+            Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Falcon the Hunter</name>
+        <size>M</size>
+        <type>humanoid (human)</type>
+        <alignment>Neutral Good</alignment>
+        <ac>14 (studded leather armor)</ac>
+        <hp>112 (15d8+45)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>14</str>
+        <dex>15</dex>
+        <con>16</con>
+        <int>11</int>
+        <wis>16</wis>
+        <cha>15</cha>
+        <save>Dex +4, Wis +5</save>
+        <skill>Athletics +4, Perception +7, Survival +5</skill>
+        <passive>17</passive>
+        <languages>Common</languages>
+        <cr>4</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Archer</name>
+            <text>A longbow or shortbow deals one extra die of its damage when Falcon hits with it (included in his longbow attack).</text>
+        </trait>
+        <trait>
+            <name>Sharpshooter</name>
+            <text>Falcon's ranged weapon attacks ignore half cover and three-quarters cover.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Falcon makes three melee attacks or two ranged attacks.</text>
+        </action>
+        <action>
+            <name>Longsword</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
+            <attack>Longsword|4|1d8+2</attack>
+        </action>
+        <action>
+            <name>Longbow</name>
+            <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 11 (2d8 + 2) piercing damage.</text>
+            <attack>Longbow|4|2d8+2</attack>
+        </action>
+        <description>Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Neverwinter Wood.
+            Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Gorthok the Thunder Boar</name>
+        <size>H</size>
+        <type>monstrosity</type>
+        <alignment>Chaotic Evil</alignment>
+        <ac>15 (natural armor)</ac>
+        <hp>73 (7d12+28)</hp>
+        <speed>walk 50 ft.</speed>
+        <str>20</str>
+        <dex>11</dex>
+        <con>19</con>
+        <int>6</int>
+        <wis>10</wis>
+        <cha>14</cha>
+        <save></save>
+        <skill></skill>
+        <passive>10</passive>
+        <languages></languages>
+        <cr>6</cr>
+        <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+        <immune>lightning, thunder</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Relentless (Recharges after a Short or Long Rest)</name>
+            <text>If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Gorthok makes two melee attacks: one with its lightning tusks and one with its thunder hooves.</text>
+        </action>
+        <action>
+            <name>Lightning Tusks</name>
+            <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.</text>
+            <attack>Lightning Tusks|8|2d6+5</attack>
+        </action>
+        <action>
+            <name>Thunder Hooves</name>
+            <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage.</text>
+            <attack>Thunder Hooves|8|2d6+5</attack>
+        </action>
+        <action>
+            <name>Lightning Bolt (Recharge 6)</name>
+            <text>Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.</text>
+        </action>
+        <description>Gorthok is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.
+            Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Rock Gnome Recluse</name>
+        <size>S</size>
+        <type>humanoid (gnome)</type>
+        <alignment>Chaotic Neutral</alignment>
+        <ac>10 (13 with mage armor)</ac>
+        <hp>7 (2d6)</hp>
+        <speed>walk 25 ft.</speed>
+        <str>6</str>
+        <dex>11</dex>
+        <con>10</con>
+        <int>15</int>
+        <wis>10</wis>
+        <cha>13</cha>
+        <save></save>
+        <skill>Arcana +4, History +4</skill>
+        <passive>10</passive>
+        <languages>Common, Gnomish</languages>
+        <cr>1/4</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Gnome Cunning</name>
+            <text>The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</text>
+        </trait>
+        <action>
+            <name>Magic Missile (Expends a 1st-Level Spell Slot)</name>
+            <text>The gnome creates three magical darts. Each dart hits a creature the gnome chooses within 120 feet of it and deals 3 (1d4 + 1) force damage.</text>
+        </action>
+        <action>
+            <name>Ray of Frost</name>
+            <text>Ranged Spell Attack: +4 to hit, range 60 ft., one creature. 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until the start of the gnome's next turn.</text>
+            <attack>Ray of Frost|4|1d8</attack>
+        </action>
+        <trait>
+            <name>Spellcasting</name>
+            <text>The gnome is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:</text>
+            <text>Cantrips (at will): mage hand, prestidigitation, ray of frost (see "Actions" below)</text>
+            <text>• 1st level (3 slots): detect magic, mage armor, magic missile (see "Actions" below), shield</text>
+        </trait>
+        <slots>3</slots>
+        <spells>mage hand, prestidigitation, ray of frost, detect magic, mage armor, magic missile, shield</spells>
+        <description>Rock gnome recluses are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.
+            Source: Dragon of Icespire Peak</description>
+        <environment></environment>
+    </monster>
+</compendium>

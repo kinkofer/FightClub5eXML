@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Monsters -->
+    <monster>
+        <name>Demogorgon (monstrosity)</name>
+        <size>M</size>
+        <type>monstrosity</type>
+        <alignment>Unaligned</alignment>
+        <ac>15 (natural armor)</ac>
+        <hp>60 (8d8+24)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>16</str>
+        <dex>12</dex>
+        <con>16</con>
+        <int>3</int>
+        <wis>12</wis>
+        <cha>5</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +5</skill>
+        <passive>13</passive>
+        <languages></languages>
+        <cr>4</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>blindsight 60 ft.</senses>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The demogorgon has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <trait>
+            <name>Blood Frenzy</name>
+            <text>The demogorgon has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+        </trait>
+        <trait>
+            <name>Regeneration</name>
+            <text>The demogorgon regains 10 hit points at the start of its turn. If the demogorgon takes acid or fire damage, this trait doesn't function at the start of the demogorgon's next turn. The demogorgon dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The demogorgon makes three attacks: one with its bite and two with its claws.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
+            <attack>Bite|5|1d8+3</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 12 (2d8 + 3) slashing damage.</text>
+            <attack>Claw|5|2d8+3</attack>
+        </action>
+        <description>Source: Hunt for the Thessalhydra</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Thessalhydra</name>
+        <size>H</size>
+        <type>monstrosity</type>
+        <alignment>Unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>69 (6d12+30)</hp>
+        <speed>walk 30 ft., swim 30 ft.</speed>
+        <str>19</str>
+        <dex>12</dex>
+        <con>20</con>
+        <int>5</int>
+        <wis>10</wis>
+        <cha>7</cha>
+        <save></save>
+        <skill>Perception +4</skill>
+        <passive>14</passive>
+        <languages></languages>
+        <cr>4</cr>
+        <resist></resist>
+        <immune>acid</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>blinded, charmed, deafened, frightened, stunned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <action>
+            <name>Multiattack</name>
+            <text>The thessalhydra makes one maw attack and one Flurry of Bites.</text>
+        </action>
+        <action>
+            <name>Flurry of Bites</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 7 (1d6 + 4) piercing damage plus 10 (4d4) poison damage.</text>
+            <attack>Flurry of Bites|7|1d6+4</attack>
+        </action>
+        <action>
+            <name>Maw</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (1d10 + 4) piercing damage plus 5 (1d10) acid damage.</text>
+            <attack>Maw|7|1d10+4</attack>
+        </action>
+        <action>
+            <name>Tail Pincer</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 10 (1d12 + 4) slashing damage, and the target is grappled. As an action, the target can escape the grapple by succeeding on a DC 14 Strength (Athletics) or Dexterity (Acrobatics) check (its choice). Until this grapple ends, the thessalhydra can't use its tail pincer.</text>
+            <attack>Tail Pincer|7|1d12+4</attack>
+        </action>
+        <action>
+            <name>Acid Saliva (Recharge 5-6)</name>
+            <text>The thessalhydra spits a glob of acid at a point it can see within 30 feet of it. Each creature within 10 feet of that point must make a DC 15 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+        </action>
+        <legendary>
+            <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+        </legendary>
+        <legendary>
+            <name>Detect</name>
+            <text>The thessalhydra makes a Wisdom (Perception) check with advantage.</text>
+        </legendary>
+        <legendary>
+            <name>Tail Swipe</name>
+            <text>The thessalhydra makes a tail pincer attack.</text>
+        </legendary>
+        <description>The thessalhydra is a strange and terrible creature with eight heads surrounding a large, circular mouth rimmed with jagged teeth. Its maw drips with acid, and its tail ends with a pair of sharp pincers. The thessalhydra is gluttonous and damaging to any environment.
+            Source: Hunt for the Thessalhydra, Infernal Machine Rebuild</description>
+        <environment></environment>
+    </monster>
+</compendium>

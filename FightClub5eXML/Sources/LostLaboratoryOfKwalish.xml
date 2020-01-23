@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Spells -->
+    <spell>
+        <name>Flock of Familiars</name>
+        <level>2</level>
+        <school>C</school>
+        <ritual>NO</ritual>
+        <time>1 minute</time>
+        <range>Touch</range>
+        <components>V, S</components>
+        <duration>Concentration, up to 1 hour</duration>
+        <classes>Warlock, Wizard</classes>
+        <text>You temporarily summon three familiars—spirits that take animal forms of your choice. Each familiar uses the same rules and options for a familiar conjured by the find familiar spell. All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice). If you already have a familiar conjured by the find familiar spell or similar means, then one fewer familiars are conjured by this spell.
+            Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.
+            When you cast a spell with a range of touch, one of the familiars conjured by this spell can deliver the spell, as normal. However, you can cast a touch spell through only one familiar per turn.
+            At Higher Levels:
+            When you cast this spell using a spell slot of 3rd level or higher, you conjure an additional familiar for each slot level above 2nd.
+            Source: Lost Laboratory of Kwalish p. 57
+        </text>
+    </spell>
+    <spell>
+        <name>Galder's Speedy Courier</name>
+        <level>4</level>
+        <school>C</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>10 feet</range>
+        <components>V, S, M (25 gold pieces, or mineral goods of equivalent value, which the spell consumes)</components>
+        <duration>10 minutes</duration>
+        <classes>Warlock, Wizard</classes>
+        <text>You summon a Small air elemental to a spot within range. The air elemental is formless, nearly transparent, immune to all damage, and cannot interact with other creatures or objects. It carries an open, empty chest whose interior dimensions are 3 feet on each side. While the spell lasts, you can deposit as many items inside the chest as will fit. You can then name a living creature you have met and seen at least once before, or any creature for which you possess a body part, lock of hair, clipping from a nail, or similar portion of the creature's body.
+            As soon as the lid of the chest is closed, the elemental and the chest disappear, then reappear adjacent to the target creature. If the target creature is on another plane, or if it is proofed against magical detection or location, the contents of the chest reappear on the ground at your feet.
+            The target creature is made aware of the chest's contents before it chooses whether or not to open it, and knows how much of the spell's duration remains in which it can retrieve them. No other creature can open the chest and retrieve its contents. When the spell expires or when all the contents of the chest have been removed, the elemental and the chest disappear. The elemental also disappears if the target creature orders it to return the items to you. When the elemental disappears, any items not taken from the chest reappear on the ground at your feet.
+            At Higher Levels:
+            When you cast this spell using an 8th-level spell slot, you can send the chest to a creature on a different plane of existence from you.
+            Source: Lost Laboratory of Kwalish p. 57
+        </text>
+    </spell>
+    <spell>
+        <name>Galder's Tower</name>
+        <level>3</level>
+        <school>C</school>
+        <ritual>NO</ritual>
+        <time>10 minutes</time>
+        <range>30 feet</range>
+        <components>V, S, M (a fragment of stone, wood, or other building material)</components>
+        <duration>24 hours</duration>
+        <classes>Wizard</classes>
+        <text>You conjure a two-story tower made of stone, wood, or similar suitably sturdy materials. The tower can be round or square in shape. Each level of the tower is 10 feet tall and has an area of up to 100 square feet. Access between levels consists of a simple ladder and hatch. Each level takes one of the following forms, chosen by you when you cast the spell:
+            • A bedroom with a bed, chairs, chest, and magical fireplace
+            • A study with desks, books, bookshelves, parchments, ink, and ink pens
+            • A dining space with a table, chairs, magical fireplace, containers, and cooking utensils
+            • A lounge with couches, armchairs, side tables and footstools
+            • A washroom with toilets, washtubs, a magical brazier, and sauna benches
+            • An observatory with a telescope and maps of the night sky
+            • An unfurnished, empty room
+            The interior of the tower is warm and dry, regardless of conditions outside. Any equipment or furnishings conjured with the tower dissipate into smoke if removed from it. At the end of the spell's duration, all creatures and objects within the tower that were not created by the spell appear safely outside on the ground, and all traces of the tower and its furnishings disappear.
+            You can cast this spell again while it is active to maintain the tower's existence for another 24 hours. You can create a permanent tower by casting this spell in the same location and with the same configuration every day for one year.
+            At Higher Levels:
+            When you cast this spell using a spell slot of 4th level or higher, the tower can have one additional story for each slot level beyond 3rd.
+            Source: Lost Laboratory of Kwalish p. 57
+        </text>
+    </spell>
+
+    
+    <!-- Monsters -->
+    <monster>
+        <name>Brain in a Jar</name>
+        <size>M</size>
+        <type>undead</type>
+        <alignment>Any alignment</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>58 (9d8+18)</hp>
+        <speed>walk 0 ft.</speed>
+        <str>1</str>
+        <dex>1</dex>
+        <con>15</con>
+        <int>19</int>
+        <wis>10</wis>
+        <cha>15</cha>
+        <save>Int +7, Cha +5</save>
+        <skill></skill>
+        <passive>10</passive>
+        <languages></languages>
+        <cr>6</cr>
+        <resist></resist>
+        <immune>necrotic, poison, psychic</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Detect Sentience</name>
+            <text>The brain in a jar can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.</text>
+        </trait>
+        <trait>
+            <name>Magic Resistance</name>
+            <text>The brain in a jar has advantage on saving throws against spells and other magical effects.</text>
+        </trait>
+        <action>
+            <name>Mind Blast (Recharge 5-6)</name>
+            <text>The brain in a jar magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 13 (2d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        </action>
+        <trait>
+            <name>Innate Spellcasting (Psionics)</name>
+            <text>The brain in a jar's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
+            <text>At will: detect thoughts, mage hand, zone of truth</text>
+            <text>3/day each: charm person, command, hold person</text>
+            <text>1/day each: compulsion, hold monster, sleep (cast at 3rd level), Tasha's hideous laughter</text>
+        </trait>
+        <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha's hideous laughter</spells>
+        <description>Source: Lost Laboratory of Kwalish p. 38, Infernal Machine Rebuild</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Clockwork Kraken</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>Unaligned</alignment>
+        <ac>17 (natural armor)</ac>
+        <hp>142 (15d10+60)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>20</str>
+        <dex>12</dex>
+        <con>18</con>
+        <int>3</int>
+        <wis>11</wis>
+        <cha>1</cha>
+        <save></save>
+        <skill></skill>
+        <passive>10</passive>
+        <languages>understands the languages of its creator but can't speak</languages>
+        <cr>10</cr>
+        <resist>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+        <immune>poison, psychic</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+        <senses>darkvision 120 ft.</senses>
+        <trait>
+            <name>Magic Resistance</name>
+            <text>The clockwork kraken has advantage on saving throws against spells and other magical effects.</text>
+        </trait>
+        <trait>
+            <name>Independent Tentacles</name>
+            <text>The clockwork kraken has eight tentacles, each of which is treated as a Medium creature, moves independently on the construct's turn, and has a flying speed of 40 feet. The clockwork kraken's senses operate through its tentacles as well as its main body. Each tentacle can be attacked independently, with damage dealt to tentacles applied to the clockwork kraken's hit point total. A tentacle is destroyed if it takes more than 20 damage.</text>
+            <text>Reducing the construct to three or fewer tentacles reduces its attacks accordingly. A clockwork kraken can regrow any destroyed tentacles at the end of a long rest.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The clockwork kraken makes four tentacle slam attacks.</text>
+        </action>
+        <action>
+            <name>Tentacle Slam</name>
+            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage.</text>
+            <attack>Tentacle Slam|9|2d6+5</attack>
+        </action>
+        <description>Source: Lost Laboratory of Kwalish p. 38</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Garret Levistusson</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Chaotic Neutral</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>44 (8d8+8)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>11</str>
+        <dex>14</dex>
+        <con>12</con>
+        <int>11</int>
+        <wis>12</wis>
+        <cha>17</cha>
+        <save></save>
+        <skill>Deception +7, Investigation +4, Performance +5, Persuasion +5</skill>
+        <passive>11</passive>
+        <languages>Abyssal, Common, Infernal, Thieves' cant</languages>
+        <cr>2</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Special Equipment</name>
+            <text>Garret wears a Ring of Warmth (included in his statistics) and wields a Gambler's Blade longsword.</text>
+        </trait>
+        <trait>
+            <name>Bardic Inspiration (3/Day)</name>
+            <text>As a bonus action, Garret can give one chosen creature (other than him) a d6 inspiration die. The chosen creature must be within 60 feet of Garret and able to hear him. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can use the inspiration die after the roll is made but before the DM says whether it succeeds or fails. Once the inspiration die is rolled, it is lost. A creature can have only one inspiration die at a time.</text>
+        </trait>
+        <trait>
+            <name>Cunning Action</name>
+            <text>On each of his turns, Garret can use a bonus action to take the Dash, Disengage, or Hide action.</text>
+        </trait>
+        <trait>
+            <name>Sneak Attack (1/Turn)</name>
+            <text>Garret deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Garret that isn't incapacitated and Garret doesn't have disadvantage on the attack roll.</text>
+        </trait>
+        <action>
+            <name>Shortsword</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+            <attack>Shortsword|4|1d6+2</attack>
+        </action>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Garret is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He has the following bard spells prepared:</text>
+            <text>Cantrips (at will): blade ward, vicious mockery</text>
+            <text>• 1st level (3 slots): charm person, detect magic, disguise self, identify, Tasha's hideous laughter</text>
+        </trait>
+        <slots>3</slots>
+        <spells>blade ward, vicious mockery, charm person, detect magic, disguise self, identify, Tasha's hideous laughter</spells>
+        <description>Source: Lost Laboratory of Kwalish p. 41</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Mary Greymalkin</name>
+        <size>M</size>
+        <type>humanoid</type>
+        <alignment>Neutral</alignment>
+        <ac>12 (Bracers of Defense)</ac>
+        <hp>45 (7d8+14)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>10</str>
+        <dex>12</dex>
+        <con>10</con>
+        <int>14</int>
+        <wis>14</wis>
+        <cha>15</cha>
+        <save>Wis +4, Cha +4</save>
+        <skill>Arcana +4, Medicine +4, Nature +4, Religion +4</skill>
+        <passive>12</passive>
+        <languages>Abyssal, Celestial, Common, Elvish, Infernal, Sylvan</languages>
+        <cr>2</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses></senses>
+        <trait>
+            <name>Special Equipment</name>
+            <text>Mary wears Bracers of Defense and a Ring of Protection, and carries a Deck of Several Things</text>
+        </trait>
+        <trait>
+            <name>Fey Presence (Recharges after a Short Rest)</name>
+            <text>Mary can cause each creature within 10 feet of her to succeed on a DC 12 Wisdom saving throw or become charmed or frightened by her (Mary's choice) until the end of her next turn.</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>Mary has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
+        </trait>
+        <action>
+            <name>Quarterstaff</name>
+            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage.</text>
+            <attack>Quarterstaff|2|1d6</attack>
+        </action>
+        <trait>
+            <name>Spellcasting</name>
+            <text>Mary is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She regains her expended spell slots when she finishes a short or long rest. She knows the following warlock spells:</text>
+            <text>Cantrips (at will): chill touch, eldritch blast, mage hand</text>
+            <text>• 3rd level (3 slots): darkness, hex, hypnotic pattern, misty step, phantasmal force, unseen servant</text>
+        </trait>
+        <slots>3</slots>
+        <spells>chill touch, eldritch blast, mage hand, darkness, hex, hypnotic pattern, misty step, phantasmal force, unseen servant</spells>
+        <description>Source: Lost Laboratory of Kwalish p. 41</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Ooze-Folk</name>
+        <size>M</size>
+        <type>ooze</type>
+        <alignment>Unaligned</alignment>
+        <ac>10 (natural armor)</ac>
+        <hp>19 (2d8+10)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>14</str>
+        <dex>3</dex>
+        <con>20</con>
+        <int>1</int>
+        <wis>6</wis>
+        <cha>1</cha>
+        <save></save>
+        <skill></skill>
+        <passive>8</passive>
+        <languages></languages>
+        <cr>1/2</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, prone</conditionImmune>
+        <senses>blindsight 60 ft.</senses>
+        <trait>
+            <name>Transparent</name>
+            <text>Even when an ooze-folk is in plain sight, it takes a DC 12 Wisdom (Perception) check to spot an ooze-folk that has neither moved nor attacked. A creature that tries to enter the ooze-folk's space while unaware of the ooze-folk is surprised by the ooze-folk.</text>
+        </trait>
+        <trait>
+            <name>Fragile Bones</name>
+            <text>For each 5 damage it takes, the ooze-folk's walking speed is reduced by 5 feet.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The ooze folk makes one glass longsword attack and one pseudopod attack.</text>
+        </action>
+        <action>
+            <name>Glass Longsword</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 6 (1d8 + 2) slashing damage. If a 1 is rolled on an attack roll with a glass longsword, it shatters and can no longer be used.</text>
+            <attack>Glass Longsword|4|1d8+2</attack>
+        </action>
+        <action>
+            <name>Pseudopod</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) acid damage.</text>
+            <attack>Pseudopod|4|1d6+2</attack>
+        </action>
+        <description>Source: Lost Laboratory of Kwalish p. 46</description>
+        <environment></environment>
+    </monster>
+    <monster>
+        <name>Gloine Nathair-Nathair</name>
+        <size>M</size>
+        <type>monstrosity</type>
+        <alignment>Lawful Evil</alignment>
+        <ac>15 (natural armor)</ac>
+        <hp>127 (17d8+51)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>10</str>
+        <dex>15</dex>
+        <con>16</con>
+        <int>12</int>
+        <wis>13</wis>
+        <cha>15</cha>
+        <save></save>
+        <skill>Deception +5, Insight +4, Perception +4, Stealth +5</skill>
+        <passive>14</passive>
+        <languages>Common</languages>
+        <cr>6</cr>
+        <resist></resist>
+        <immune></immune>
+        <vulnerable></vulnerable>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <trait>
+            <name>Petrifying Gaze</name>
+            <text>When a creature that can see Gloine's eyes starts its turn within 30 feet of Gloine, Gloine can force it to make a DC 14 Constitution saving throw if Gloine isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  greater restoration spell or other magic.</text>
+            <text>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see Gloine until the start of its next turn, when it can avert its eyes again. If the creature looks at Gloine in the meantime, it must immediately make the save.</text>
+            <text>If Gloine sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, Gloine is, due to its curse, affected by its own gaze.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>Gloine makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.</text>
+        </action>
+        <action>
+            <name>Snake Hair</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.</text>
+            <attack>Snake Hair|5|1d4+2</attack>
+        </action>
+        <action>
+            <name>Shortsword</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+            <attack>Shortsword|5|1d6+2</attack>
+        </action>
+        <action>
+            <name>Longbow</name>
+            <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.</text>
+            <attack>Longbow|5|1d8+2</attack>
+        </action>
+        <description>Source: Infernal Machine Rebuild p. 23</description>
+        <environment>desert</environment>
+    </monster>
+</compendium>
