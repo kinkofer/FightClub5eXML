@@ -54,7 +54,7 @@
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d6 + 5) slashing damage plus 14 (4d6) psychic damage.</text>
-            <attack>Claws|7|1d6 + 5</attack>
+            <attack>Claws|7|1d6+5</attack>
         </action>
         <action>
             <name>Frightening Screech (Recharge 5-6)</name>
@@ -137,12 +137,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 21 (4d8 + 3) piercing damage.</text>
-            <attack>Bite|7|4d8 + 3</attack>
+            <attack>Bite|7|4d8+3</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (3d6 + 3) slashing damage, and the target must succeed on a DC 16 Wisdom saving throw or be frightened of the horror until the end of the target's next turn.</text>
-            <attack>Claw|7|3d6 + 3</attack>
+            <attack>Claw|7|3d6+3</attack>
         </action>
         <action>
             <name>Lashing Shadows (Recharge 5-6)</name>
@@ -216,18 +216,18 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 28 (4d10 + 6) piercing damage.</text>
-            <attack>Bite|11|4d10 + 6</attack>
+            <attack>Bite|11|4d10+6</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 24 (4d8 + 6) slashing damage.</text>
-            <attack>Claws|11|4d8 + 6</attack>
+            <attack>Claws|11|4d8+6</attack>
         </action>
         <action>
             <name>Maddening Presence</name>
             <text>The horror targets one creature it can see within 30 feet of it. If the target can see or hear the horror, the target must make a DC 17 Wisdom saving throw. On a failed saving throw, the target becomes paralyzed until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the horror's Maddening Presence for the next 24 hours.</text>
         </action>
-        <description>Horrors and Madness:
+        <!-- <description>Horrors and Madness:
             Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
             Whenever a character fails a saving throw against the flying horror's Frightening Screech, the shadow horror's claw attack, or the skittering horror's Maddening Presence, note that fact. At the end of the encounter, have each character who failed at least one of those saving throws make a DC 13 Wisdom saving throw. On a successful save, nothing happens. On a failed save, a character gains a form of madness from the Dungeon Master's Guide, with the severity depending on how many of the saving throws that character failed during the encounter, as shown on the Madness Severity table.
             Failed Saves | Madness
@@ -253,7 +253,7 @@
             3 | Keen Senses. The horror has advantage on Wisdom (Perception) checks that rely on sight, sound, or smell.
             4 | Mind Sight. Magical darkness doesn't impede the horror's darkvision.
             
-            Source: Guildmasters' Guide to Ravnica p. 205</description>
+            Source: Guildmasters' Guide to Ravnica p. 205</description> -->
         <environment></environment>
     </monster>
     <monster>
@@ -295,7 +295,7 @@
         <action>
             <name>Hammer of Justice</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.</text>
-            <attack>Hammer of Justice|10|2d6 + 5</attack>
+            <attack>Hammer of Justice|10|2d6+5</attack>
         </action>
         <action>
             <name>Pacifying Presence</name>
@@ -368,7 +368,7 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 18 (4d8) radiant damage. If the target is within 5 feet of any of the angel's allies, the target takes an extra 2 (1d4) radiant damage.</text>
-            <attack>Longsword|6|1d8 + 3</attack>
+            <attack>Longsword|6|1d8+3</attack>
         </action>
         <action>
             <name>Battlefield Inspiration</name>
@@ -423,7 +423,7 @@
         <action>
             <name>Scythe</name>
             <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 9 (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage.</text>
-            <attack>Scythe|9|2d4 + 4</attack>
+            <attack>Scythe|9|2d4+4</attack>
         </action>
         <action>
             <name>Chains of Obligation</name>
@@ -491,12 +491,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 17 (3d8 + 4) piercing damage.</text>
-            <attack>Bite|7|3d8 + 4</attack>
+            <attack>Bite|7|3d8+4</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 14 (3d6 + 4) slashing damage.</text>
-            <attack>Claws|7|3d6 + 4</attack>
+            <attack>Claws|7|3d6+4</attack>
         </action>
         <action>
             <name>Variant: Winged Felidars</name>
@@ -550,7 +550,7 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands, plus 22 (5d8) fire or radiant damage (angel's choice).</text>
-            <attack>Longsword|10|1d8 + 6</attack>
+            <attack>Longsword|10|1d8+6</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -605,7 +605,7 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +15 to hit, reach 5 ft., one target. 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used with two hands, plus 27 (6d8) radiant damage.</text>
-            <attack>Longsword|15|1d8 + 8</attack>
+            <attack>Longsword|15|1d8+8</attack>
         </action>
         <action>
             <name>Leadership</name>
@@ -671,7 +671,7 @@
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
-            <attack>Claws|3|1d8 + 1</attack>
+            <attack>Claws|3|1d8+1</attack>
         </action>
         <reaction>
             <name>Self-Sacrifice</name>
@@ -710,12 +710,12 @@
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) slashing damage.</text>
-            <attack>Claws|4|2d4 + 2</attack>
+            <attack>Claws|4|2d4+2</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. 5 (1d6 + 2) bludgeoning damage.</text>
-            <attack>Rock|4|1d6 + 2</attack>
+            <attack>Rock|4|1d6+2</attack>
         </action>
         <reaction>
             <name>Self-Sacrifice</name>
@@ -774,17 +774,17 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +17 to hit, reach 15 ft., one target. 18 (2d8 + 9) piercing damage plus 14 (4d6) fire damage.</text>
-            <attack>Bite|17|2d8 + 9</attack>
+            <attack>Bite|17|2d8+9</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +17 to hit, reach 10 ft., one target. 14 (2d4 + 9) slashing damage.</text>
-            <attack>Claw|17|2d4 + 9</attack>
+            <attack>Claw|17|2d4+9</attack>
         </action>
         <action>
             <name>Tail</name>
             <text>Melee Weapon Attack: +17 to hit, reach 20 ft., one target. 16 (2d6 + 9) bludgeoning damage.</text>
-            <attack>Tail|17|2d6 + 9</attack>
+            <attack>Tail|17|2d6+9</attack>
         </action>
         <action>
             <name>Fire Breath (Recharge 5-6)</name>
@@ -927,7 +927,7 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) fire damage, or 11 (2d8 + 3) bludgeoning damage plus 14 (4d6) fire damage if the weird is Large or bigger.</text>
-            <attack>Slam|5|1d8 + 3</attack>
+            <attack>Slam|5|1d8+3</attack>
         </action>
         <description>A blistercoil weird is an anthropomorphic brute formed from water and molten rock. It absorbs energy from magical fire, causing its oozelike body to increase in size. During one disastrous experiment, Izzet researchers observed a blistercoil weird expanding to fill a six-story workshop before it released all its excess energy in an enormous explosion and returned to its original size.
             Elemental Nature
@@ -970,7 +970,7 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 13 (2d8 + 4) bludgeoning damage plus 10 (3d6) fire damage.</text>
-            <attack>Slam|7|2d8 + 4</attack>
+            <attack>Slam|7|2d8+4</attack>
         </action>
         <action>
             <name>Arc Lightning</name>
@@ -1015,7 +1015,7 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage plus 5 (2d4) lightning damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or lose the ability to use reactions until the start of the weird's next turn.</text>
-            <attack>Slam|4|1d6 + 2</attack>
+            <attack>Slam|4|1d6+2</attack>
         </action>
         <description>Galvanice weirds seem to be the epitome of weird technology. Indeed, they serve willingly, with cheerful stupidity, as guardians and laborers in Izzet workshops. They combine a rigid body of elemental ice with a core of lightning that animates them. If a galvanice weird is destroyed, the ice shatters and lightning crackles outward in a dangerous explosion. Still, most Izzet researchers find that their usefulness outweighs this risk.
             Elemental Nature
@@ -1062,12 +1062,12 @@
         <action>
             <name>Vine Staff</name>
             <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or become restrained by twisting vines for 1 minute. A target restrained in this way can use an action to make a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check, ending the effect on itself on a success.</text>
-            <attack>Vine Staff|9|2d6 + 5</attack>
+            <attack>Vine Staff|9|2d6+5</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. 8 (1d8 + 4) piercing damage.</text>
-            <attack>Longbow|8|1d8 + 4</attack>
+            <attack>Longbow|8|1d8+4</attack>
         </action>
         <action>
             <name>Summon Mount (1/Day)</name>
@@ -1141,12 +1141,12 @@
         <action>
             <name>Constrict</name>
             <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one creature. 15 (3d6 + 5) bludgeoning damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained. Trostani can grapple no more than three targets at a time.</text>
-            <attack>Constrict|11|3d6 + 5</attack>
+            <attack>Constrict|11|3d6+5</attack>
         </action>
         <action>
             <name>Touch of Order</name>
             <text>Melee Spell Attack: +16 to hit, reach 5 ft., one creature. 23 (3d8 + 10) radiant damage, and Trostani can choose one magic item she can see in the target's possession. Unless it's an artifact, the item's magic is suppressed until the start of Trostani's next turn.</text>
-            <attack>Touch of Order|16|3d8 + 10</attack>
+            <attack>Touch of Order|16|3d8+10</attack>
         </action>
         <action>
             <name>Wrath of Mat'Selesnya (Recharge 5-6)</name>
@@ -1223,12 +1223,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Bite|5|1d4 + 3</attack>
+            <attack>Bite|5|1d4+3</attack>
         </action>
         <action>
             <name>Spiked Chain</name>
             <text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Spiked Chain|5|1d6 + 3</attack>
+            <attack>Spiked Chain|5|1d6+3</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -1288,7 +1288,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 13 (3d8) psychic damage.</text>
-            <attack>Spear|8|2d6 + 4</attack>
+            <attack>Spear|8|2d6+4</attack>
         </action>
         <action>
             <name>Captivating Presence (Recharge 6)</name>
@@ -1361,12 +1361,12 @@
         <action>
             <name>Curtain-Call Scythe</name>
             <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 24 (3d10 + 8) slashing damage plus 13 (3d8) fire damage.</text>
-            <attack>Curtain-Call Scythe|15|3d10 + 8</attack>
+            <attack>Curtain-Call Scythe|15|3d10+8</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 17 (2d8 + 8) slashing damage.</text>
-            <attack>Claw|15|2d8 + 8</attack>
+            <attack>Claw|15|2d8+8</attack>
         </action>
         <legendary>
             <text>Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rakdos regains spent legendary actions at the start of its turn.</text>
@@ -1433,12 +1433,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. 25 (3d12 + 6) piercing damage plus 16 (3d10) psychic damage.</text>
-            <attack>Bite|10|3d12 + 6</attack>
+            <attack>Bite|10|3d12+6</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 10 (1d8 + 6) slashing damage plus 9 (2d8) psychic damage.</text>
-            <attack>Claws|10|1d8 + 6</attack>
+            <attack>Claws|10|1d8+6</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -1483,12 +1483,12 @@
         <action>
             <name>Chain</name>
             <text>Melee Weapon Attack: +9 to hit, reach 20 ft., one target. 16 (3d6 + 6) bludgeoning damage. If the target is a creature, it is grappled (escape DC 17). Until the grapple ends, the target is restrained, and the giant can't use this attack on anyone else.</text>
-            <attack>Chain|9|3d6 + 6</attack>
+            <attack>Chain|9|3d6+6</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
-            <attack>Rock|9|3d6 + 6</attack>
+            <attack>Rock|9|3d6+6</attack>
         </action>
         <reaction>
             <name>Furious Defense</name>
@@ -1543,17 +1543,17 @@
         <action>
             <name>Maul</name>
             <text>Melee Weapon Attack: +13 to hit, reach 10 ft., one target. 28 (6d6 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.</text>
-            <attack>Maul|13|6d6 + 7</attack>
+            <attack>Maul|13|6d6+7</attack>
         </action>
         <action>
             <name>Stomp</name>
             <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. 18 (2d10 + 7) bludgeoning damage.</text>
-            <attack>Stomp|13|2d10 + 7</attack>
+            <attack>Stomp|13|2d10+7</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +13 to hit, range 30/120 ft., one target. 29 (4d10 + 7) bludgeoning damage.</text>
-            <attack>Rock|13|4d10 + 7</attack>
+            <attack>Rock|13|4d10+7</attack>
         </action>
         <action>
             <name>Frightful Presence</name>
@@ -1615,7 +1615,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +10 to hit, reach 10 ft. or range 60/240 ft., one target. 17 (3d6 + 7) piercing damage, or 20 (3d8 + 7) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|10|3d6 + 7</attack>
+            <attack>Spear|10|3d6+7</attack>
         </action>
         <reaction>
             <name>Protection</name>
@@ -1663,7 +1663,7 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 23 (3d10 + 7) bludgeoning damage.</text>
-            <attack>Slam|10|3d10 + 7</attack>
+            <attack>Slam|10|3d10+7</attack>
         </action>
         <reaction>
             <name>Spell Vitalization</name>
@@ -1709,12 +1709,12 @@
         <action>
             <name>Greataxe</name>
             <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 25 (3d12 + 6) slashing damage. If the Orzhov giant scores a critical hit, it rolls the damage dice three times, instead of twice.</text>
-            <attack>Greataxe|9|3d12 + 6</attack>
+            <attack>Greataxe|9|3d12+6</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
-            <attack>Rock|9|4d10 + 6</attack>
+            <attack>Rock|9|4d10+6</attack>
         </action>
         <description>A few giants join the ranks of the Orzhov Syndicate and serve as guards, executioners, and thugs-the muscle of the guild. The presence of Orzhov giants in markets and streets serves as an effective reminder for business owners to keep their payments up to date.
             Giants:
@@ -1765,12 +1765,12 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +10 to hit, reach 15 ft., one target. 24 (4d8 + 6) bludgeoning damage.</text>
-            <attack>Slam|10|4d8 + 6</attack>
+            <attack>Slam|10|4d8+6</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.</text>
-            <attack>Rock|10|4d10 + 6</attack>
+            <attack>Rock|10|4d10+6</attack>
         </action>
         <description>Gruul sunder shamans are angry giants that channel their rage into brutal attacks that deal overwhelming damage to foes and structures alike.
             These shamans sometimes lead hill giants and stone giants that also live among the Gruul Clans. They are occasionally joined by cyclopes, ettins, fomorians, and ogres. Like the rest of the Gruul, they hate the urban development that encroaches on the wilds where they once lived-not least because they have so much difficulty fitting inside the small structures. They delight in destroying such edifices, and in the heat of their rage, they walk through buildings, trample people underfoot, and generally cause as much chaos as possible. They often armor themselves with pieces of buildings and wield columns or other architectural elements as clubs.
@@ -1814,7 +1814,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
-            <attack>Claw|6|1d6 + 4</attack>
+            <attack>Claw|6|1d6+4</attack>
         </action>
         <description>Simic Hybrids:
             The Guardian Project is a consequence of increasing tension within the Simic Combine as the threat of interguild conflict looms. Believing that the Simic must be prepared to fight for their lives when that conflict comes to a head, biomancers have created soldiers to help defend the guild. These hybrids (also called guardians, after the name of the project) are created from human, vedalken, and elf guild members who volunteer to be transformed.
@@ -1852,7 +1852,7 @@
         <action>
             <name>Javelin</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Javelin|5|1d6 + 3</attack>
+            <attack>Javelin|5|1d6+3</attack>
         </action>
         <action>
             <name>Spit Acid</name>
@@ -1996,7 +1996,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Shortsword|5|1d6 + 3</attack>
+            <attack>Shortsword|5|1d6+3</attack>
         </action>
         <description>Simic Hybrids:
             The Guardian Project is a consequence of increasing tension within the Simic Combine as the threat of interguild conflict looms. Believing that the Simic must be prepared to fight for their lives when that conflict comes to a head, biomancers have created soldiers to help defend the guild. These hybrids (also called guardians, after the name of the project) are created from human, vedalken, and elf guild members who volunteer to be transformed.
@@ -2038,7 +2038,7 @@
         <action>
             <name>Scimitar</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
-            <attack>Scimitar|6|1d6 + 2</attack>
+            <attack>Scimitar|6|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -2064,7 +2064,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Chaotic Evil</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>78 (12d8+24)</hp>
         <speed>walk 30 ft.</speed>
         <str>16</str>
@@ -2098,12 +2098,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage.</text>
-            <attack>Longsword|6|1d8 + 3</attack>
+            <attack>Longsword|6|1d8+3</attack>
         </action>
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Shortsword|6|1d6 + 3</attack>
+            <attack>Shortsword|6|1d6+3</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -2153,7 +2153,7 @@
         <action>
             <name>Warhammer</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands.</text>
-            <attack>Warhammer|4|1d8 + 2</attack>
+            <attack>Warhammer|4|1d8+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -2171,7 +2171,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
-        <ac>13, 16 (with mage armor)</ac>
+        <ac>13 (16 with mage armor)</ac>
         <hp>39 (6d8+12)</hp>
         <speed>walk 30 ft.</speed>
         <str>13</str>
@@ -2197,7 +2197,7 @@
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
-            <attack>Rapier|5|1d8 + 3</attack>
+            <attack>Rapier|5|1d8+3</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -2296,7 +2296,7 @@
         <action>
             <name>Greatsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage.</text>
-            <attack>Greatsword|6|2d6 + 3</attack>
+            <attack>Greatsword|6|2d6+3</attack>
         </action>
         <reaction>
             <name>Guided Attack (Recharges after a Short or Long Rest)</name>
@@ -2323,7 +2323,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Chaotic Neutral</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>55 (10d8+10)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
@@ -2389,7 +2389,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|4|1d6 + 2</attack>
+            <attack>Spear|4|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -2491,7 +2491,7 @@
         <action>
             <name>Staff</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.</text>
-            <attack>Staff|3|1d6 + 1</attack>
+            <attack>Staff|3|1d6+1</attack>
         </action>
         <action>
             <name>One with the Worldsoul</name>
@@ -2534,7 +2534,7 @@
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.</text>
-            <attack>Quarterstaff|4|1d6 + 1</attack>
+            <attack>Quarterstaff|4|1d6+1</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -2556,7 +2556,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Lawful Evil</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>49 (11d8)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
@@ -2582,7 +2582,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|5|1d4 + 2</attack>
+            <attack>Dagger|5|1d4+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting (Psionics)</name>
@@ -2601,7 +2601,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Lawful Neutral</alignment>
-        <ac>11, 14 (with mage armor)</ac>
+        <ac>11 (14 with mage armor)</ac>
         <hp>63 (14d8)</hp>
         <speed>walk 30 ft.</speed>
         <str>9</str>
@@ -2623,7 +2623,7 @@
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.</text>
-            <attack>Quarterstaff|1|1d6 - 1</attack>
+            <attack>Quarterstaff|1|1d6-1</attack>
         </action>
         <action>
             <name>Glimpse the Temporal Flood (Recharge 5-6)</name>
@@ -2721,7 +2721,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Dagger|5|1d4 + 3</attack>
+            <attack>Dagger|5|1d4+3</attack>
         </action>
         <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
             Source: Guildmasters' Guide to Ravnica p. 249</description>
@@ -2762,7 +2762,7 @@
         <action>
             <name>Bladed Chain</name>
             <text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Bladed Chain|5|1d6 + 3</attack>
+            <attack>Bladed Chain|5|1d6+3</attack>
         </action>
         <action>
             <name>Spew Flame (Recharge 4-6)</name>
@@ -2807,7 +2807,7 @@
         <action>
             <name>Barbed Pole</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage, and the acrobat can jump up to 20 feet. This movement doesn't provoke opportunity attacks.</text>
-            <attack>Barbed Pole|5|1d8 + 3</attack>
+            <attack>Barbed Pole|5|1d8+3</attack>
         </action>
         <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
             Source: Guildmasters' Guide to Ravnica p. 249</description>
@@ -2844,7 +2844,7 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
-            <attack>Longsword|5|1d8 + 3</attack>
+            <attack>Longsword|5|1d8+3</attack>
         </action>
         <reaction>
             <name>Lightning Backlash (Recharge 5-6)</name>
@@ -2911,7 +2911,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|4|1d6 + 2</attack>
+            <attack>Shortsword|4|1d6+2</attack>
         </action>
         <description>Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel at moving over challenging terrain, whether they're picking their way through treacherous ruins or clambering across rooftops. They favor ambush tactics and avoid confrontations with stronger forces, relying on their superior mobility to make their escape.
             Source: Guildmasters' Guide to Ravnica p. 239</description>
@@ -2948,7 +2948,7 @@
         <action>
             <name>Light Hammer</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) bludgeoning damage.</text>
-            <attack>Light Hammer|4|1d4 + 2</attack>
+            <attack>Light Hammer|4|1d4+2</attack>
         </action>
         <action>
             <name>Scorchbringer (Recharge 4-6)</name>
@@ -2993,7 +2993,7 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
-            <attack>Longsword|3|1d8 + 2</attack>
+            <attack>Longsword|3|1d8+2</attack>
         </action>
         <description>Soldiers are found in many of Ravnica's guilds. The soldier stat block represents a typical member of the rank and file, though weaponry and armor can vary.
             Source: Guildmasters' Guide to Ravnica p. 226</description>
@@ -3034,12 +3034,12 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) piercing damage.</text>
-            <attack>Rapier|4|1d8 + 2</attack>
+            <attack>Rapier|4|1d8+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting (Psionics)</name>
@@ -3083,7 +3083,7 @@
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.</text>
-            <attack>Quarterstaff|4|1d6 + 2</attack>
+            <attack>Quarterstaff|4|1d6+2</attack>
         </action>
         <action>
             <name>Fungal Rot</name>
@@ -3159,7 +3159,7 @@
         <action>
             <name>Quarterstaff</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands.</text>
-            <attack>Quarterstaff|5|1d6 + 3</attack>
+            <attack>Quarterstaff|5|1d6+3</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -3215,7 +3215,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|4|1d6 + 2</attack>
+            <attack>Spear|4|1d6+2</attack>
         </action>
         <action>
             <name>Variant: Winged Kraul Warriors</name>
@@ -3266,7 +3266,7 @@
         <action>
             <name>Prime Speaker's Trident</name>
             <text>Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. 12 (2d6 + 5) piercing damage, and the trident emits a thunderous boom. Each creature in a 15-foot cube originating from the prongs of the trident must make a DC 18 Constitution saving throw. On a failed save, the creature takes 9 (2d8) thunder damage and is pushed 10 feet away from Zegana. If the creature is underwater, the damage is increased to 13 (3d8). On a successful save, the creature takes half as much damage and isn't pushed.</text>
-            <attack>Prime Speaker's Trident|10|2d6 + 5</attack>
+            <attack>Prime Speaker's Trident|10|2d6+5</attack>
         </action>
         <action>
             <name>Deluge (Recharge 4-6)</name>
@@ -3345,12 +3345,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 8 (1d10 + 3) piercing damage.</text>
-            <attack>Bite|5|1d10 + 3</attack>
+            <attack>Bite|5|1d10+3</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage.</text>
-            <attack>Claws|5|1d8 + 3</attack>
+            <attack>Claws|5|1d8+3</attack>
         </action>
         <description>Krasis:
             In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
@@ -3415,12 +3415,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 17 (2d12 + 4) piercing damage.</text>
-            <attack>Bite|7|2d12 + 4</attack>
+            <attack>Bite|7|2d12+4</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 17 (2d12 + 4) slashing damage.</text>
-            <attack>Claws|7|2d12 + 4</attack>
+            <attack>Claws|7|2d12+4</attack>
         </action>
         <description>Krasis:
             In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
@@ -3485,17 +3485,17 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one creature. 27 (6d6 + 6) piercing damage.</text>
-            <attack>Bite|11|6d6 + 6</attack>
+            <attack>Bite|11|6d6+6</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 22 (3d10 + 6) slashing damage.</text>
-            <attack>Claws|11|3d10 + 6</attack>
+            <attack>Claws|11|3d10+6</attack>
         </action>
         <action>
             <name>Tail</name>
             <text>Melee Weapon Attack: +11 to hit, reach 15 ft., one target. 33 (6d8 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone.</text>
-            <attack>Tail|11|6d8 + 6</attack>
+            <attack>Tail|11|6d8+6</attack>
         </action>
         <description>Krasis:
             In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
@@ -3568,7 +3568,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 21 (3d10 + 5) slashing damage. If the target is a creature, it must succeed on a DC 23 Wisdom saving throw or take 14 (4d6) psychic damage after each attack it makes against Isperia before the start of her next turn.</text>
-            <attack>Claw|12|3d10 + 5</attack>
+            <attack>Claw|12|3d10+5</attack>
         </action>
         <action>
             <name>Supreme Legal Authority</name>
@@ -3650,12 +3650,12 @@
         <action>
             <name>Beak</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (1d8 + 5) piercing damage.</text>
-            <attack>Beak|7|1d8 + 5</attack>
+            <attack>Beak|7|1d8+5</attack>
         </action>
         <action>
             <name>Talons</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (2d4 + 5) slashing damage.</text>
-            <attack>Talons|7|2d4 + 5</attack>
+            <attack>Talons|7|2d4+5</attack>
         </action>
         <description>The aerial forces of the Boros Legion-skyknights who fly alongside the angels-take to the air mounted on Skyjek rocs. These avians are named for the skyknights who are also part of the Wojek League, called Skyjeks. From the backs of their rocs, these mounted soldiers carry out reconnaissance missions, bombard enemies on the ground, and engage flying foes.
             The shape of a Skyjek roc's body makes it relatively easy to saddle and ride, and it is typically equipped with armor plating on its head and chest.
@@ -3698,12 +3698,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 22 (3d10 + 6) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the skyswimmer. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the skyswimmer, and it takes 21 (6d6) acid damage at the start of each of the skyswimmer's turns. If the skyswimmer takes 30 damage or more on a single turn from the swallowed creature, the skyswimmer must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the skyswimmer. If the skyswimmer dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</text>
-            <attack>Bite|11|3d10 + 6</attack>
+            <attack>Bite|11|3d10+6</attack>
         </action>
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +11 to hit, reach 30 ft., one target. 19 (2d12 + 6) bludgeoning damage.</text>
-            <attack>Slam|11|2d12 + 6</attack>
+            <attack>Slam|11|2d12+6</attack>
         </action>
         <description>Skyswimmers are enormous, predatory leviathans that feed on drakes, rocs, griffins, and anything else they encounter as they soar through the clouds above Ravnica.
             Source: Guildmasters' Guide to Ravnica p. 220</description>
@@ -3748,7 +3748,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
-            <attack>Claw|7|2d8 + 4</attack>
+            <attack>Claw|7|2d8+4</attack>
         </action>
         <action>
             <name>Petrifying Gaze</name>
@@ -3806,7 +3806,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 24 (5d6 + 7) piercing damage. If the target is a Medium or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the wurm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the wurm, and takes 17 (5d6) acid damage at the start of each of the wurm's turns. If the wurm takes 30 damage or more on a single turn from a creature inside it, the wurm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the wurm. If the wurm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
-            <attack>Bite|12|5d6 + 7</attack>
+            <attack>Bite|12|5d6+7</attack>
         </action>
         <description>Wurms are huge creatures that resemble limbless, wingless dragons. They burrow through the earth and eat virtually anything they come across, and their movement accounts for much of the destruction in the rubblebelt regions of Ravnica. A wurm burrows through loose earth by using deep sonic vibrations to liquefy the earth in front of it and swim through the area. The soil resolidifies and closes behind it. Moving through rock is slower and more difficult, and the wurm leaves a tunnel in its wake. The Gruul Clans appreciate the devastation wurms can create, and the clans sometimes lure them into civilized areas where the destruction can be vast.
             Source: Guildmasters' Guide to Ravnica p. 225</description>
@@ -3859,7 +3859,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. 10 (1d6 + 7) piercing damage plus 10 (3d6) psychic damage, and the target has disadvantage on the next attack roll it makes before Lazav's next turn.</text>
-            <attack>Shortsword|13|1d6 + 7</attack>
+            <attack>Shortsword|13|1d6+7</attack>
         </action>
         <legendary>
             <text>Lazav can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lazav regains spent legendary actions at the start of its turn.</text>
@@ -3923,7 +3923,7 @@
         <action>
             <name>Spiked Club</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) piercing damage, or 7 (1d10 + 2) piercing damage if used with two hands.</text>
-            <attack>Spiked Club|4|1d8 + 2</attack>
+            <attack>Spiked Club|4|1d8+2</attack>
         </action>
         <description>The rank-and-file members of the Gruul Clans, called anarchs, despise civilization and have sworn to tear down both its physical structures and its institutions. Anarchs scavenge everything, from the hide armor they wear to the weapons they wield. As they pick through the refuse of the rubblebelts, they sometimes come across magic items and other valuable treasures.
             Source: Guildmasters' Guide to Ravnica p. 239</description>
@@ -3960,17 +3960,17 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target is humanoid, it must succeed on a DC 15 Charisma saving throw or be charmed by the vampire for 1 minute. While charmed in this way, the target is infatuated with the vampire. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</text>
-            <attack>Bite|7|1d6 + 4</attack>
+            <attack>Bite|7|1d6+4</attack>
         </action>
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) piercing damage.</text>
-            <attack>Rapier|7|1d8 + 4</attack>
+            <attack>Rapier|7|1d8+4</attack>
         </action>
         <action>
             <name>Unarmed Strike</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage. The vampire can also grapple the target (escape DC 14) if it is a creature and the vampire has a hand free.</text>
-            <attack>Unarmed Strike|6|1d8 + 3</attack>
+            <attack>Unarmed Strike|6|1d8+3</attack>
         </action>
         <reaction>
             <name>Parry</name>
@@ -4108,12 +4108,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 18 (3d8 + 5) piercing damage.</text>
-            <attack>Bite|8|3d8 + 5</attack>
+            <attack>Bite|8|3d8+5</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 15 (3d6 + 5) slashing damage.</text>
-            <attack>Claws|8|3d6 + 5</attack>
+            <attack>Claws|8|3d6+5</attack>
         </action>
         <description>A gloamwing's head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
             Source: Guildmasters' Guide to Ravnica p. 215</description>
@@ -4217,7 +4217,7 @@
         <action>
             <name>Staff of Svogthir</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage plus 13 (3d8) poison damage and 13 (3d8) necrotic damage.</text>
-            <attack>Staff of Svogthir|12|2d6 + 5</attack>
+            <attack>Staff of Svogthir|12|2d6+5</attack>
         </action>
         <legendary>
             <text>Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarad regains spent legendary actions at the start of its turn.</text>
@@ -4292,12 +4292,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</text>
-            <attack>Bite|6|1d6 + 4</attack>
+            <attack>Bite|6|1d6+4</attack>
         </action>
         <action>
             <name>Unarmed Strike</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) bludgeoning damage. The vampire can also grapple the target (escape DC 13) if it is a creature and the vampire has a hand free.</text>
-            <attack>Unarmed Strike|6|1d8 + 4</attack>
+            <attack>Unarmed Strike|6|1d8+4</attack>
         </action>
         <action>
             <name>Mind Siphon (Recharge 5-6)</name>
@@ -4356,7 +4356,7 @@
         <action>
             <name>Scythe</name>
             <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) slashing damage plus 13 (3d8) psychic damage.</text>
-            <attack>Scythe|8|2d6 + 4</attack>
+            <attack>Scythe|8|2d6+4</attack>
         </action>
         <action>
             <name>Mind Twist (Recharge 5-6)</name>
@@ -4536,7 +4536,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
-            <attack>Claw|8|2d8 + 4</attack>
+            <attack>Claw|8|2d8+4</attack>
         </action>
         <legendary>
             <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>

@@ -36,12 +36,12 @@
         <action>
             <name>Headbutt</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
-            <attack>Headbutt|8|2d6 + 4</attack>
+            <attack>Headbutt|8|2d6+4</attack>
         </action>
         <action>
             <name>Lightning Bolt Blades</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (2d4 + 4) slashing damage.</text>
-            <attack>Lightning Bolt Blades|8|2d4 + 4</attack>
+            <attack>Lightning Bolt Blades|8|2d4+4</attack>
         </action>
         <description>Source: Storm Lord's Wrath</description>
         <environment></environment>
@@ -73,7 +73,7 @@
         <action>
             <name>Sting</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
-            <attack>Sting|4|1d6 + 2</attack>
+            <attack>Sting|4|1d6+2</attack>
         </action>
         <description>Source: Storm Lord's Wrath</description>
         <environment></environment>
@@ -113,7 +113,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage plus 7 (2d6) cold damage.</text>
-            <attack>Bite|5|1d8 + 3</attack>
+            <attack>Bite|5|1d8+3</attack>
         </action>
         <action>
             <name>Freezing Breath (Recharge 5-6)</name>

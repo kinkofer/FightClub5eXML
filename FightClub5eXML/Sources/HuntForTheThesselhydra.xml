@@ -44,12 +44,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
-            <attack>Bite|5|1d8 + 3</attack>
+            <attack>Bite|5|1d8+3</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 12 (2d8 + 3) slashing damage.</text>
-            <attack>Claw|5|2d8 + 3</attack>
+            <attack>Claw|5|2d8+3</attack>
         </action>
         <description>Source: Hunt for the Thessalhydra</description>
         <environment></environment>
@@ -85,17 +85,17 @@
         <action>
             <name>Flurry of Bites</name>
             <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 7 (1d6 + 4) piercing damage plus 10 (4d4) poison damage.</text>
-            <attack>Flurry of Bites|7|1d6 + 4</attack>
+            <attack>Flurry of Bites|7|1d6+4</attack>
         </action>
         <action>
             <name>Maw</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (1d10 + 4) piercing damage plus 5 (1d10) acid damage.</text>
-            <attack>Maw|7|1d10 + 4</attack>
+            <attack>Maw|7|1d10+4</attack>
         </action>
         <action>
             <name>Tail Pincer</name>
             <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 10 (1d12 + 4) slashing damage, and the target is grappled. As an action, the target can escape the grapple by succeeding on a DC 14 Strength (Athletics) or Dexterity (Acrobatics) check (its choice). Until this grapple ends, the thessalhydra can't use its tail pincer.</text>
-            <attack>Tail Pincer|7|1d12 + 4</attack>
+            <attack>Tail Pincer|7|1d12+4</attack>
         </action>
         <action>
             <name>Acid Saliva (Recharge 5-6)</name>

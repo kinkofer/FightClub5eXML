@@ -40,12 +40,12 @@
         <action>
             <name>Battleaxe</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 14 (2d8 + 5) slashing damage.</text>
-            <attack>Battleaxe|8|2d8 + 5</attack>
+            <attack>Battleaxe|8|2d8+5</attack>
         </action>
         <action>
             <name>Morningstar</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 14 (2d8 + 5) piercing damage.</text>
-            <attack>Morningstar|8|2d8 + 5</attack>
+            <attack>Morningstar|8|2d8+5</attack>
         </action>
         <action>
             <name>Fire Breath (Recharge 5-6)</name>
@@ -114,12 +114,12 @@
         <action>
             <name>Bone Shortsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Bone Shortsword|6|1d6 + 3</attack>
+            <attack>Bone Shortsword|6|1d6+3</attack>
         </action>
         <action>
             <name>Light Crossbow</name>
             <text>Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. 7 (1d8 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious. The target regains consciousness if it takes damage or if another creature takes an action to shake it.</text>
-            <attack>Light Crossbow|6|1d8 + 3</attack>
+            <attack>Light Crossbow|6|1d8+3</attack>
         </action>
         <action>
             <name>Cloak Sweep</name>
@@ -196,7 +196,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
-            <attack>Shortsword|7|1d6 + 4</attack>
+            <attack>Shortsword|7|1d6+4</attack>
         </action>
         <description>Out on Loan
             The powerful relics possessed by Lynx Creatlach and Sir Ursas (see the "Special Equipment" section of their stat blocks) have been granted to them by their diabolical masters, and are not meant to be claimed as treasure. If either agent is killed in the course of the adventure, their special equipment vanishes, returning to Bel or Zariel.
@@ -242,7 +242,7 @@
         <action>
             <name>Ruinblade</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (2d6 + 2) slashing damage.</text>
-            <attack>Ruinblade|6|2d6 + 2</attack>
+            <attack>Ruinblade|6|2d6+2</attack>
         </action>
         <action>
             <name>Blight (1/Day)</name>
@@ -314,17 +314,17 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
-            <attack>Claw|7|2d6 + 4</attack>
+            <attack>Claw|7|2d6+4</attack>
         </action>
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|7|2d6 + 4</attack>
+            <attack>Spear|7|2d6+4</attack>
         </action>
         <action>
             <name>Shield Bash</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (2d4 + 4) bludgeoning damage, and if the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</text>
-            <attack>Shield Bash|7|2d4 + 4</attack>
+            <attack>Shield Bash|7|2d4+4</attack>
         </action>
         <reaction>
             <name>Parry</name>
@@ -378,7 +378,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 15 Constitution saving throw. On a failed save, the target is affected as if by the polymorph spell, transforming into a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This effect lasts until the target finishes a long rest.</text>
-            <attack>Dagger|5|1d4 + 1</attack>
+            <attack>Dagger|5|1d4+1</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -473,13 +473,13 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) piercing damage plus 5 (1d10) acid damage. If the target is a Medium or smaller creature grappled by the thessalkraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the thessalkraken, and it takes 21 (6d6) acid damage at the start of each of the thessalkraken's turns.</text>
-            <attack>Bite|12|3d8 + 7</attack>
+            <attack>Bite|12|3d8+7</attack>
             <text>If the thessalkraken takes 35 damage or more on a single turn from a creature inside it, it must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the thessalkraken. If the thessalkraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
         </action>
         <action>
             <name>Tentacle</name>
             <text>Melee Weapon Attack: +12 to hit, reach 20 ft., one target. 17 (3d6 + 7) slashing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The thessalkraken has ten tentacles, each of which can grapple one target.</text>
-            <attack>Tentacle|12|3d6 + 7</attack>
+            <attack>Tentacle|12|3d6+7</attack>
         </action>
         <action>
             <name>Fling</name>
@@ -559,7 +559,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and that head of the crocodile can't bite another target.</text>
-            <attack>Bite|4|1d10 + 2</attack>
+            <attack>Bite|4|1d10+2</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 89</description>
         <environment></environment>
@@ -603,12 +603,12 @@
         <action>
             <name>Beak</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (1d10 + 5) piercing damage.</text>
-            <attack>Beak|7|1d10 + 5</attack>
+            <attack>Beak|7|1d10+5</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 14 (2d8 + 5) slashing damage.</text>
-            <attack>Claws|7|2d8 + 5</attack>
+            <attack>Claws|7|2d8+5</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 90</description>
         <environment></environment>
@@ -648,12 +648,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 16 (2d10 + 5) piercing damage. If the target is a creature, it must succeed on a DC 17 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.</text>
-            <attack>Bite|8|2d10 + 5</attack>
+            <attack>Bite|8|2d10+5</attack>
         </action>
         <action>
             <name>Tentacle</name>
             <text>Melee Weapon Attack: +8 to hit, reach 15 ft., one target. 10 (1d10 + 5) bludgeoning damage. If the target is Large or smaller, it is grappled (escape DC 16) and restrained until the grapple ends. The neo-otyugh has two tentacles, each of which can grapple one target.</text>
-            <attack>Tentacle|8|1d10 + 5</attack>
+            <attack>Tentacle|8|1d10+5</attack>
         </action>
         <action>
             <name>Tentacle Slam</name>
@@ -713,12 +713,12 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
-            <attack>Shortsword|6|1d6 + 3</attack>
+            <attack>Shortsword|6|1d6+3</attack>
         </action>
         <action>
             <name>Light Crossbow</name>
             <text>Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
-            <attack>Light Crossbow|6|1d8 + 3</attack>
+            <attack>Light Crossbow|6|1d8+3</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 31</description>
         <environment></environment>
@@ -801,7 +801,7 @@
         <action>
             <name>Scimitar</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. 4 (1d6 + 1) slashing damage.</text>
-            <attack>Scimitar|3|1d6 + 1</attack>
+            <attack>Scimitar|3|1d6+1</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 15</description>
         <environment></environment>
@@ -843,17 +843,17 @@
         <action>
             <name>Snake Hair</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.</text>
-            <attack>Snake Hair|5|1d4 + 2</attack>
+            <attack>Snake Hair|5|1d4+2</attack>
         </action>
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|5|1d6 + 2</attack>
+            <attack>Shortsword|5|1d6+2</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.</text>
-            <attack>Longbow|5|1d8 + 2</attack>
+            <attack>Longbow|5|1d8+2</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 47</description>
         <environment>desert</environment>
@@ -897,12 +897,12 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
-            <attack>Slam|10|3d6 + 6</attack>
+            <attack>Slam|10|3d6+6</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
-            <attack>Rock|10|4d10 + 6</attack>
+            <attack>Rock|10|4d10+6</attack>
         </action>
         <action>
             <name>Animate Trees (1/Day)</name>
@@ -938,7 +938,7 @@
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) piercing damage.</text>
-            <attack>Rapier|3|1d8 + 1</attack>
+            <attack>Rapier|3|1d8+1</attack>
         </action>
         <reaction>
             <name>Parry</name>
@@ -982,7 +982,7 @@
         <action>
             <name>Talons</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 8 (2d6 + 1) slashing damage.</text>
-            <attack>Talons|3|2d6 + 1</attack>
+            <attack>Talons|3|2d6+1</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 33</description>
         <environment>forest, hill, arctic</environment>
@@ -1022,12 +1022,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (1d8 + 5) piercing damage.</text>
-            <attack>Bite|7|1d8 + 5</attack>
+            <attack>Bite|7|1d8+5</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage.</text>
-            <attack>Claws|7|2d6 + 5</attack>
+            <attack>Claws|7|2d6+5</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 34</description>
         <environment>underdark, arctic</environment>
@@ -1067,12 +1067,12 @@
         <action>
             <name>Beak</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 10 (1d10 + 5) piercing damage.</text>
-            <attack>Beak|7|1d10 + 5</attack>
+            <attack>Beak|7|1d10+5</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 14 (2d8 + 5) slashing damage.</text>
-            <attack>Claws|7|2d8 + 5</attack>
+            <attack>Claws|7|2d8+5</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 36</description>
         <environment>forest</environment>
@@ -1116,12 +1116,12 @@
         <action>
             <name>Beak</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (1d10 + 5) piercing damage.</text>
-            <attack>Beak|7|1d10 + 5</attack>
+            <attack>Beak|7|1d10+5</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 14 (2d8 + 5) slashing damage.</text>
-            <attack>Claws|7|2d8 + 5</attack>
+            <attack>Claws|7|2d8+5</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 36</description>
         <environment></environment>
@@ -1131,7 +1131,7 @@
         <size>M</size>
         <type>humanoid (any race)</type>
         <alignment>Any alignment</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>91 (14d8+28)</hp>
         <speed>walk 30 ft.</speed>
         <str>9</str>
@@ -1157,7 +1157,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|5|1d4 + 2</attack>
+            <attack>Dagger|5|1d4+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -1223,12 +1223,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If Tarnhem scores a critical hit, it rolls damage dice three times, instead of twice.</text>
-            <attack>Longsword|14|3d8 + 8</attack>
+            <attack>Longsword|14|3d8+8</attack>
         </action>
         <action>
             <name>Whip</name>
             <text>Melee Weapon Attack: +14 to hit, reach 30 ft., one target. 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward Tarnhem.</text>
-            <attack>Whip|14|2d6 + 8</attack>
+            <attack>Whip|14|2d6+8</attack>
         </action>
         <action>
             <name>Teleport</name>
@@ -1309,7 +1309,7 @@
         <action>
             <name>Scimitar</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. 4 (1d6 + 1) slashing damage.</text>
-            <attack>Scimitar|3|1d6 + 1</attack>
+            <attack>Scimitar|3|1d6+1</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>

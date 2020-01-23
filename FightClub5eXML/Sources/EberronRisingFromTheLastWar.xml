@@ -56,7 +56,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +14 to hit, reach 5 ft., one target. 17 (3d6 + 7) slashing damage.</text>
-            <attack>Claw|14|3d6 + 7</attack>
+            <attack>Claw|14|3d6+7</attack>
         </action>
         <action>
             <name>Eye Ray</name>
@@ -160,12 +160,12 @@
         <action>
             <name>Greatsword</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
-            <attack>Greatsword|7|2d6 + 4</attack>
+            <attack>Greatsword|7|2d6+4</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage.</text>
-            <attack>Longbow|4|1d8 + 1</attack>
+            <attack>Longbow|4|1d8+1</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -219,7 +219,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Unsettling Visage (Recharges after a Short or Long Rest)</name>
@@ -268,12 +268,12 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
-            <attack>Bite|5|1d8 + 3</attack>
+            <attack>Bite|5|1d8+3</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage.</text>
-            <attack>Claws|5|1d8 + 3</attack>
+            <attack>Claws|5|1d8+3</attack>
         </action>
         <description>Clawfoot dinosaurs are two-legged saurians with sharp teeth and toe claws that resemble deadly sickles. They are imposing creatures, about the size of a tall human, and are fierce enough to take down even larger prey.
             In the wild, an untrained clawfoot can easily hold its own in combat, but they are even fiercer when hunting in packs. Their instinct for pack structure has made these dinosaurs a traditional war mount for the halflings of the Talenta Plains, with clawfoots quickly and eagerly responding to training and control.
@@ -320,12 +320,12 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|4|1d6 + 2</attack>
+            <attack>Shortsword|4|1d6+2</attack>
         </action>
         <action>
             <name>Hand Crossbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Hand Crossbow|4|1d6 + 2</attack>
+            <attack>Hand Crossbow|4|1d6+2</attack>
         </action>
         <description>Source: Eberron: Rising from the Last War p. 271</description>
         <environment></environment>
@@ -369,12 +369,12 @@
         <action>
             <name>Tentacle</name>
             <text>Melee Weapon Attack: +6 to hit, reach 15 ft., one target. 7 (1d6 + 4) bludgeoning damage. The target is grappled (escape DC 12) if it is a Large or smaller creature. Until this grapple ends, the dolgaunt can't use the same tentacle on another target. The dolgaunt has two tentacles.</text>
-            <attack>Tentacle|6|1d6 + 4</attack>
+            <attack>Tentacle|6|1d6+4</attack>
         </action>
         <action>
             <name>Unarmed Strike</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) bludgeoning damage.</text>
-            <attack>Unarmed Strike|6|1d4 + 4</attack>
+            <attack>Unarmed Strike|6|1d4+4</attack>
         </action>
         <action>
             <name>Vitality Drain</name>
@@ -422,17 +422,17 @@
         <action>
             <name>Morningstar</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) piercing damage.</text>
-            <attack>Morningstar|4|1d8 + 2</attack>
+            <attack>Morningstar|4|1d8+2</attack>
         </action>
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|4|1d6 + 2</attack>
+            <attack>Spear|4|1d6+2</attack>
         </action>
         <action>
             <name>Hand Crossbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Hand Crossbow|4|1d6 + 2</attack>
+            <attack>Hand Crossbow|4|1d6+2</attack>
         </action>
         <description>Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
             Small numbers of these creatures sometimes make their way to the surface, often under the command of dolgaunts, and undertaking missions advancing the inscrutable schemes of their malevolent masters. But great hordes of dolgrims remain clustered in Khyber with the daelkyr, dreaming of the day when they will be released into Eberron to feast and destroy.
@@ -474,12 +474,12 @@
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
-            <attack>Claws|5|1d6 + 2</attack>
+            <attack>Claws|5|1d6+2</attack>
         </action>
         <action>
             <name>Nightmare Touch</name>
             <text>Melee Spell Attack: +7 to hit, reach 5 ft., one creature. 18 (4d6 + 4) psychic damage. If the target is unconscious, it takes an extra 10 (3d6) psychic damage and is cursed until the hag dies or the curse is removed. The cursed creature's hit point maximum decreases by 5 (1d10) whenever it finishes a long rest.</text>
-            <attack>Nightmare Touch|7|4d6 + 4</attack>
+            <attack>Nightmare Touch|7|4d6+4</attack>
         </action>
         <reaction>
             <name>Dream Eater</name>
@@ -548,7 +548,7 @@
         <action>
             <name>Tentacle Whip</name>
             <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 24 (3d10 + 8) slashing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 23), pulled into an unoccupied space within 5 feet of Dyrrn, and must succeed on a DC 23 Intelligence saving throw or be stunned until this grapple ends. Dyrrn can't use the same tentacle whip on another target until this grapple ends. Dyrrn has two tentacle whips.</text>
-            <attack>Tentacle Whip|15|3d10 + 8</attack>
+            <attack>Tentacle Whip|15|3d10+8</attack>
         </action>
         <action>
             <name>Corruption</name>
@@ -638,7 +638,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Bite|5|1d4 + 3</attack>
+            <attack>Bite|5|1d4+3</attack>
         </action>
         <description>An expeditious messenger is a speedy flier, designed to quickly carry messages for its creator. Their speedy and efficient attitude makes expeditious messengers quite chatty, and they natter on as fast as they move.
             These messengers come in a variety of forms, often looking like mechanical birds or sprites.
@@ -684,7 +684,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or take an extra 3 (1d6) piercing damage and be grappled (escape DC 13). The defender can have only one creature grappled in this way at a time.</text>
-            <attack>Bite|5|1d6 + 3</attack>
+            <attack>Bite|5|1d6+3</attack>
         </action>
         <description>An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.
             Constructed Nature:
@@ -725,7 +725,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) piercing damage.</text>
-            <attack>Bite|6|1d8 + 4</attack>
+            <attack>Bite|6|1d8+4</attack>
         </action>
         <description>Fastieth are human-sized, two-legged saurians with large eyes, brightly colored and patterned scales, and strong legs. They are the most common mounts of the halflings of the Talenta Plains, bred for speed. Although too small to bear larger riders, a fastieth can carry a halfling with light gear easily and at a good pace. Fastieths are typically stubborn creatures, so specimens with an even temperament are prized among the Talenta tribes.
             Being herbivores, fastieths prefer to flee rather than fight. However, even though not trained for battle, they can deliver a vicious bite if pressed.
@@ -760,12 +760,12 @@
         <action>
             <name>Battleaxe</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.</text>
-            <attack>Battleaxe|5|2d8 + 3</attack>
+            <attack>Battleaxe|5|2d8+3</attack>
         </action>
         <action>
             <name>Javelin</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. 10 (2d6 + 3) piercing damage.</text>
-            <attack>Javelin|5|2d6 + 3</attack>
+            <attack>Javelin|5|2d6+3</attack>
         </action>
         <description>Source: Eberron: Rising from the Last War p. 272</description>
         <environment>underdark, mountain, forest, hill, urban, desert, arctic</environment>
@@ -797,7 +797,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
-            <attack>Spear|3|1d6 + 1</attack>
+            <attack>Spear|3|1d6+1</attack>
         </action>
         <description>Source: Waterdeep: Dragon Heist p. 197</description>
         <environment></environment>
@@ -833,7 +833,7 @@
         <action>
             <name>Idyllic Touch</name>
             <text>Melee Spell Attack: +8 to hit, reach 5 ft., one target. 9 (1d10 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Wisdom saving throw or fall prone in a fit of laughter.</text>
-            <attack>Idyllic Touch|8|1d10 + 4</attack>
+            <attack>Idyllic Touch|8|1d10+4</attack>
         </action>
         <action>
             <name>Mind Thrust</name>
@@ -870,7 +870,7 @@
         <size>M</size>
         <type>humanoid (human)</type>
         <alignment>Lawful Evil</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>40 (9d8)</hp>
         <speed>walk 30 ft.</speed>
         <str>11</str>
@@ -900,7 +900,7 @@
         <action>
             <name>Crysteel Dagger</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage plus 10 (3d6) force damage.</text>
-            <attack>Crysteel Dagger|4|1d4 + 2</attack>
+            <attack>Crysteel Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Vicious Mockery (Cantrip)</name>
@@ -982,12 +982,12 @@
         <action>
             <name>Arcane Blast</name>
             <text>Ranged Spell Attack: +13 to hit, range 120 ft., one target. 12 (1d10 + 7) force damage.</text>
-            <attack>Arcane Blast|13|1d10 + 7</attack>
+            <attack>Arcane Blast|13|1d10+7</attack>
         </action>
         <action>
             <name>Soul Binding</name>
             <text>Melee Spell Attack: +13 to hit, reach 5 ft., one target. 29 (4d10 + 7) necrotic damage. A creature reduced to 0 hit points from this attack dies and has its soul imprisoned in one of the quori's eyes. The target can't be revived by any means short of a wish spell until the quori is destroyed.</text>
-            <attack>Soul Binding|13|4d10 + 7</attack>
+            <attack>Soul Binding|13|4d10+7</attack>
         </action>
         <action>
             <name>Mind Seed (1/Day)</name>
@@ -1047,7 +1047,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Mind Thrust</name>
@@ -1096,12 +1096,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
-            <attack>Longsword|5|1d8 + 3</attack>
+            <attack>Longsword|5|1d8+3</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
-            <attack>Longbow|4|1d8 + 2</attack>
+            <attack>Longbow|4|1d8+2</attack>
         </action>
         <reaction>
             <name>Parry</name>
@@ -1165,7 +1165,7 @@
         <action>
             <name>Paralyzing Claw</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-            <attack>Paralyzing Claw|10|3d6 + 3</attack>
+            <attack>Paralyzing Claw|10|3d6+3</attack>
         </action>
         <action>
             <name>Poison Breath (Recharge 5-6)</name>
@@ -1258,7 +1258,7 @@
         <action>
             <name>Magical Strike</name>
             <text>Melee Spell Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) fire damage.</text>
-            <attack>Magical Strike|5|1d6 + 3</attack>
+            <attack>Magical Strike|5|1d6+3</attack>
         </action>
         <action>
             <name>Spell Mimicry (Recharge 5-6)</name>
@@ -1386,7 +1386,7 @@
         <action>
             <name>Magical Strike</name>
             <text>Melee Spell Attack: +7 to hit, reach 10 ft., one target. 21 (5d6 + 4) lightning damage.</text>
-            <attack>Magical Strike|7|5d6 + 4</attack>
+            <attack>Magical Strike|7|5d6+4</attack>
         </action>
         <action>
             <name>Spell Mimicry (Recharge 5-6)</name>
@@ -1438,7 +1438,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
-            <attack>Dagger|3|1d4 + 1</attack>
+            <attack>Dagger|3|1d4+1</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -1499,7 +1499,7 @@
         <action>
             <name>Greatsword</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage plus 5 (1d10) force damage.</text>
-            <attack>Greatsword|10|2d6 + 5</attack>
+            <attack>Greatsword|10|2d6+5</attack>
         </action>
         <action>
             <name>Chromatic Orb</name>
@@ -1572,7 +1572,7 @@
         <action>
             <name>Flail</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) radiant damage.</text>
-            <attack>Flail|10|1d8 + 6</attack>
+            <attack>Flail|10|1d8+6</attack>
         </action>
         <action>
             <name>Radiant Strike (1/Day)</name>
@@ -1642,12 +1642,12 @@
         <action>
             <name>Spawned Melee Weapon</name>
             <text>Melee Weapon Attack: +17 to hit, reach 10 ft., one target. 28 (3d12 + 9) force damage.</text>
-            <attack>Spawned Melee Weapon|17|3d12 + 9</attack>
+            <attack>Spawned Melee Weapon|17|3d12+9</attack>
         </action>
         <action>
             <name>Spawned Ranged Weapon</name>
             <text>Ranged Weapon Attack: +12 to hit, range 150/600 ft., one target. 17 (3d8 + 4) force damage.</text>
-            <attack>Spawned Ranged Weapon|12|3d8 + 4</attack>
+            <attack>Spawned Ranged Weapon|12|3d8+4</attack>
         </action>
         <action>
             <name>Change Shape</name>
@@ -1722,12 +1722,12 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Shortsword|5|1d6 + 3</attack>
+            <attack>Shortsword|5|1d6+3</attack>
         </action>
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Bite|5|1d4 + 3</attack>
+            <attack>Bite|5|1d4+3</attack>
         </action>
         <description>Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
             Source: Eberron: Rising from the Last War p. 319</description>
@@ -1776,12 +1776,12 @@
         <action>
             <name>Arcane Blast</name>
             <text>Ranged Spell Attack: +18 to hit, range 120 ft., one target. 15 (1d10 + 10) force damage.</text>
-            <attack>Arcane Blast|18|1d10 + 10</attack>
+            <attack>Arcane Blast|18|1d10+10</attack>
         </action>
         <action>
             <name>Magic Staff</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 36 (5d12 + 4) force damage.</text>
-            <attack>Magic Staff|12|5d12 + 4</attack>
+            <attack>Magic Staff|12|5d12+4</attack>
         </action>
         <action>
             <name>Arcane Cataclysm (Recharges after a Long Rest)</name>
@@ -1865,7 +1865,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.</text>
-            <attack>Shortsword|5|1d6 + 3</attack>
+            <attack>Shortsword|5|1d6+3</attack>
         </action>
         <action>
             <name>Fire Bolt (Cantrip)</name>
@@ -1944,12 +1944,12 @@
         <action>
             <name>Adamantine Sixblade</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 21 (3d10 + 5) slashing damage plus 7 (2d6) force damage.</text>
-            <attack>Adamantine Sixblade|11|3d10 + 5</attack>
+            <attack>Adamantine Sixblade|11|3d10+5</attack>
         </action>
         <action>
             <name>Bladed Wings</name>
             <text>Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. 8 (1d6 + 5) slashing damage.</text>
-            <attack>Bladed Wings|11|1d6 + 5</attack>
+            <attack>Bladed Wings|11|1d6+5</attack>
         </action>
         <action>
             <name>Fire Bolt (Cantrip)</name>
@@ -2025,17 +2025,17 @@
         <action>
             <name>Pincer</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d10 + 3) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature. The quori has two pincers, each of which can grapple one target.</text>
-            <attack>Pincer|6|1d10 + 3</attack>
+            <attack>Pincer|6|1d10+3</attack>
         </action>
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 13 (4d4 + 3) slashing damage.</text>
-            <attack>Claws|6|4d4 + 3</attack>
+            <attack>Claws|6|4d4+3</attack>
         </action>
         <action>
             <name>Stinger</name>
             <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. 8 (1d10 + 3) piercing damage plus 10 (3d10) psychic damage, and the target must succeed on a DC 14 Wisdom saving throw or be frightened of the quori for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-            <attack>Stinger|6|1d10 + 3</attack>
+            <attack>Stinger|6|1d10+3</attack>
         </action>
         <action>
             <name>Possession (Recharge 6)</name>
@@ -2097,7 +2097,7 @@
         <action>
             <name>Radiant Touch</name>
             <text>Melee Spell Attack: +9 to hit, reach 5 ft., one target. 15 (3d6 + 5) radiant damage.</text>
-            <attack>Radiant Touch|9|3d6 + 5</attack>
+            <attack>Radiant Touch|9|3d6+5</attack>
         </action>
         <action>
             <name>Healing Touch (3/Day)</name>
@@ -2187,7 +2187,7 @@
         <action>
             <name>Spear</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d6 + 3) piercing damage or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 9 (2d8) radiant damage if the target is a fiend or undead.</text>
-            <attack>Spear|5|1d6 + 3</attack>
+            <attack>Spear|5|1d6+3</attack>
         </action>
         <description>Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
             The undying are undead creatures sustained by positive energy or the devotion of mortal beings. Where strong negative emotions can trap a spirit as a ghost or wraith, the undying are spirits who linger because they are cherished and who in turn seek to protect and guide the people of their community.
@@ -2240,7 +2240,7 @@
         <action>
             <name>Talons</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) slashing damage.</text>
-            <attack>Talons|6|1d4 + 4</attack>
+            <attack>Talons|6|1d4+4</attack>
         </action>
         <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
             Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
@@ -2295,7 +2295,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
-            <attack>Bite|5|1d6 + 3</attack>
+            <attack>Bite|5|1d6+3</attack>
         </action>
         <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
             Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
@@ -2346,7 +2346,7 @@
         <action>
             <name>Hooves</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
-            <attack>Hooves|5|2d6 + 3</attack>
+            <attack>Hooves|5|2d6+3</attack>
         </action>
         <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
             Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
@@ -2417,7 +2417,7 @@
         <action>
             <name>Slam</name>
             <text>Melee Weapon Attack: +18 to hit, reach 20 ft., one target. 29 (3d12 + 10) bludgeoning damage, and the colossus can push the target up to 20 feet away from it.</text>
-            <attack>Slam|18|3d12 + 10</attack>
+            <attack>Slam|18|3d12+10</attack>
         </action>
         <action>
             <name>Eldritch Turret</name>
@@ -2484,12 +2484,12 @@
         <action>
             <name>Armblade</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Armblade|5|1d6 + 3</attack>
+            <attack>Armblade|5|1d6+3</attack>
         </action>
         <action>
             <name>Javelin</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Javelin|5|1d6 + 3</attack>
+            <attack>Javelin|5|1d6+3</attack>
         </action>
         <reaction>
             <name>Protection</name>
@@ -2539,12 +2539,12 @@
         <action>
             <name>Axehand</name>
             <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 19 (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target is prone.</text>
-            <attack>Axehand|9|3d8 + 6</attack>
+            <attack>Axehand|9|3d8+6</attack>
         </action>
         <action>
             <name>Hammerfist</name>
             <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 19 (3d8 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</text>
-            <attack>Hammerfist|9|3d8 + 6</attack>
+            <attack>Hammerfist|9|3d8+6</attack>
         </action>
         <action>
             <name>Sweeping Axe (Recharge 6)</name>
@@ -2599,12 +2599,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.</text>
-            <attack>Longsword|7|1d8 + 4</attack>
+            <attack>Longsword|7|1d8+4</attack>
         </action>
         <action>
             <name>Javelin</name>
             <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. 7 (1d6 + 4) piercing damage.</text>
-            <attack>Javelin|7|1d6 + 4</attack>
+            <attack>Javelin|7|1d6+4</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -2625,7 +2625,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>15 (natural armor)</ac>
-        <hp>equal the steel defender's Constitution modifier + your Intelligence modifier + five times your level in this class</hp>
+        <hp>2</hp>
         <speed>walk 40 ft.</speed>
         <str>14</str>
         <dex>12</dex>
@@ -2663,7 +2663,10 @@
             <name>Deflect Attack</name>
             <text>The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.</text>
         </reaction>
-        <description>Source: Eberron: Rising from the Last War p. 61</description>
+        <description>
+            HP is equal the steel defender's Constitution modifier + your Intelligence modifier + five times your level in this class
+            Source: Eberron: Rising from the Last War p. 61
+        </description>
         <environment></environment>
     </monster>
     <monster>
@@ -2672,7 +2675,7 @@
         <type>construct</type>
         <alignment>Neutral</alignment>
         <ac>13 (natural armor)</ac>
-        <hp>equal the homunculus's Constitution modifier + your Intelligence modifier + your level in this class</hp>
+        <hp>1</hp>
         <speed>walk 20 ft., fly 30 ft.</speed>
         <str>4</str>
         <dex>15</dex>
@@ -2706,7 +2709,10 @@
             <name>Channel Magic</name>
             <text>The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.</text>
         </reaction>
-        <description>Source: Eberron: Rising from the Last War p. 62</description>
+        <description>
+            HP is equal the homunculus's Constitution modifier + your Intelligence modifier + your level in this class
+            Source: Eberron: Rising from the Last War p. 62
+        </description>
         <environment></environment>
     </monster>
 </compendium>

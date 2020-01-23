@@ -218,7 +218,7 @@
     
     <xs:simpleType name="attackType">
         <xs:restriction base="xs:string">
-            <xs:pattern value="(.*[|]([ ]|[0-9]*)[|]([0-9]*(d[0-9]+)*([+-][0-9]+)*)*)*"/>
+            <xs:pattern value="(.*[|]([ ]|[+-]?[0-9]*)[|]([0-9]*(d[0-9]+)*([+-][0-9]+)*)*)*"/>
         </xs:restriction>
     </xs:simpleType>
     
@@ -286,6 +286,7 @@
         <xs:element type="traitType" name="reaction"/>
         <xs:element type="xs:string" name="spells"/>
         <xs:element type="slotsType" name="slots"/>
+        <xs:element type="xs:string" name="description"/>
         <xs:element type="xs:string" name="environment"/>
       </xs:choice>
     </xs:complexType>
@@ -305,6 +306,7 @@
         <xs:element type="xs:string" name="components"/>
         <xs:element type="xs:string" name="duration"/>
         <xs:element type="xs:string" name="classes"/>
+        <xs:element type="xs:string" name="source" minOccurs="0"/>
         <xs:element type="xs:string" name="text" maxOccurs="unbounded" minOccurs="0"/>
         <xs:element type="roll" name="roll" maxOccurs="unbounded" minOccurs="0"/>
       </xs:choice>

@@ -32,7 +32,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 22 (3d10 + 6) piercing damage.</text>
-            <attack>Bite|9|3d10 + 6</attack>
+            <attack>Bite|9|3d10+6</attack>
         </action>
         <description>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
             The giant shark skeleton doesn't require air, food, drink, or sleep. The shark has had skeletal feet attached by some demented necromancer.
@@ -82,17 +82,17 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 18 (2d10 + 7) piercing damage.</text>
-            <attack>Bite|12|2d10 + 7</attack>
+            <attack>Bite|12|2d10+7</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage.</text>
-            <attack>Claw|12|2d6 + 7</attack>
+            <attack>Claw|12|2d6+7</attack>
         </action>
         <action>
             <name>Tail</name>
             <text>Melee Weapon Attack: +12 to hit, reach 15 ft., one target. 16 (2d8 + 7) bludgeoning damage.</text>
-            <attack>Tail|12|2d8 + 7</attack>
+            <attack>Tail|12|2d8+7</attack>
         </action>
         <action>
             <name>Frightful Presence</name>

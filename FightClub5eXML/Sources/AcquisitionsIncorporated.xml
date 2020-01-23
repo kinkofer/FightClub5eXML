@@ -154,7 +154,7 @@
         <action>
             <name>Tentacle</name>
             <text>Melee Weapon Attack: +6 to hit, reach 15 ft., one target. 11 (2d6 + 4) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained. The chaos quadrapod can grapple no more than two targets at a time.</text>
-            <attack>Tentacle|6|2d6 + 4</attack>
+            <attack>Tentacle|6|2d6+4</attack>
         </action>
         <action>
             <name>Chaos Cloud (Recharges after a Short or Long Rest)</name>
@@ -195,7 +195,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) piercing damage.</text>
-            <attack>Bite|4|1d10 + 2</attack>
+            <attack>Bite|4|1d10+2</attack>
         </action>
         <action>
             <name>Fire Breath (Recharge 5-6)</name>
@@ -237,12 +237,12 @@
         <action>
             <name>Fist</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage.</text>
-            <attack>Fist|5|1d8 + 3</attack>
+            <attack>Fist|5|1d8+3</attack>
         </action>
         <action>
             <name>Acid Squirt</name>
             <text>Ranged Weapon Attack: +5 to hit, range 20/40 ft., one target. 7 (1d8 + 3) acid damage.</text>
-            <attack>Acid Squirt|5|1d8 + 3</attack>
+            <attack>Acid Squirt|5|1d8+3</attack>
         </action>
         <action>
             <name>Beer Shower</name>
@@ -304,7 +304,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Word From Beyond (1/day)</name>
@@ -359,12 +359,12 @@
         <action>
             <name>Mandibles</name>
             <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 17 (2d10 + 6) piercing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the ancient deep crow can't use its mandibles on another target.</text>
-            <attack>Mandibles|11|2d10 + 6</attack>
+            <attack>Mandibles|11|2d10+6</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage.</text>
-            <attack>Claw|11|2d6 + 6</attack>
+            <attack>Claw|11|2d6+6</attack>
         </action>
         <action>
             <name>Shadow Caw</name>
@@ -439,12 +439,12 @@
         <action>
             <name>Mandibles</name>
             <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the deep crow can't use its mandibles on another target.</text>
-            <attack>Mandibles|9|2d10 + 5</attack>
+            <attack>Mandibles|9|2d10+5</attack>
         </action>
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage.</text>
-            <attack>Claw|9|2d6 + 5</attack>
+            <attack>Claw|9|2d6+5</attack>
         </action>
         <description>Terror from Above
             The deep crow's most fearsome attack is the bite of its mandibles, which can seize and hold almost any creature. Their preferred attack is a snatch-and-grab that sees a deep crow flying off with a living victim before its companions have any chance of counterattack. Provided the doomed prey doesn't struggle, the deep crow takes it back to its lair to be devoured at leisure. Creatures that do struggle might be repeatedly dropped from a height to soften them up a bit.
@@ -492,12 +492,12 @@
         <action>
             <name>Greatsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. Whenever Donaar rolls a 1 or 2 on a damage die, he can reroll the die and must use the new roll.</text>
-            <attack>Greatsword|5|2d6 + 3</attack>
+            <attack>Greatsword|5|2d6+3</attack>
         </action>
         <action>
             <name>Whip</name>
             <text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. 5 (1d4 + 3) slashing damage.</text>
-            <attack>Whip|5|1d4 + 3</attack>
+            <attack>Whip|5|1d4+3</attack>
         </action>
         <action>
             <name>Acid Vomit</name>
@@ -554,7 +554,7 @@
         <action>
             <name>War Lute</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
-            <attack>War Lute|4|1d6 + 2</attack>
+            <attack>War Lute|4|1d6+2</attack>
         </action>
         <action>
             <name>Song of Domination (3/day)</name>
@@ -613,7 +613,7 @@
         <action>
             <name>Multiattack</name>
             <text>K'thriss makes two attacks with his sickle. Sickle. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
-            <attack>Multiattack|4|1d4 + 2</attack>
+            <attack>Multiattack|4|1d4+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -674,12 +674,12 @@
         <action>
             <name>Scimitars</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
-            <attack>Scimitars|6|1d6 + 4</attack>
+            <attack>Scimitars|6|1d6+4</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. 8 (1d8 + 4) piercing damage.</text>
-            <attack>Longbow|6|1d8 + 4</attack>
+            <attack>Longbow|6|1d8+4</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -740,12 +740,12 @@
         <action>
             <name>Hooked Dagger</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Hooked Dagger|5|1d4 + 3</attack>
+            <attack>Hooked Dagger|5|1d4+3</attack>
         </action>
         <action>
             <name>Hand Crossbow</name>
             <text>Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Hand Crossbow|5|1d6 + 3</attack>
+            <attack>Hand Crossbow|5|1d6+3</attack>
         </action>
         <reaction>
             <name>Return the Favor (3/day)</name>
@@ -801,12 +801,12 @@
         <action>
             <name>Foremother (+1 Scimitar)</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
-            <attack>Foremother (+1 Scimitar)|6|1d6 + 4</attack>
+            <attack>Foremother (+1 Scimitar)|6|1d6+4</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 7 (1d8 + 3) piercing damage.</text>
-            <attack>Longbow|5|1d8 + 3</attack>
+            <attack>Longbow|5|1d8+3</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -857,12 +857,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
-            <attack>Longsword|5|1d8 + 3</attack>
+            <attack>Longsword|5|1d8+3</attack>
         </action>
         <action>
             <name>Light Crossbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
-            <attack>Light Crossbow|4|1d8 + 2</attack>
+            <attack>Light Crossbow|4|1d8+2</attack>
         </action>
         <trait>
             <name>Innate Spellcasting (Psionics)</name>
@@ -915,7 +915,7 @@
         <action>
             <name>Maul</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
-            <attack>Maul|6|2d6 + 3</attack>
+            <attack>Maul|6|2d6+3</attack>
         </action>
         <reaction>
             <name>War God's Blessing (Recharges after a Short or Long Rest)</name>
@@ -986,12 +986,12 @@
         <action>
             <name>Staff of the Master (+1 Quarterstaff)</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands.</text>
-            <attack>Staff of the Master (+1 Quarterstaff)|6|1d6 + 4</attack>
+            <attack>Staff of the Master (+1 Quarterstaff)|6|1d6+4</attack>
         </action>
         <action>
             <name>Unarmed Strike</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage. Rosie's unarmed strikes are magical.</text>
-            <attack>Unarmed Strike|5|1d6 + 3</attack>
+            <attack>Unarmed Strike|5|1d6+3</attack>
         </action>
         <reaction>
             <name>Deflect Missiles</name>
@@ -1015,7 +1015,7 @@
         <size>M</size>
         <type>humanoid (human)</type>
         <alignment>Lawful Neutral</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>40 (9d8)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
@@ -1037,7 +1037,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -1063,7 +1063,7 @@
         <size>M</size>
         <type>humanoid (human)</type>
         <alignment>Chaotic Neutral</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>40 (9d8)</hp>
         <speed>walk 30 ft.</speed>
         <str>8</str>
@@ -1089,7 +1089,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|5|1d4 + 2</attack>
+            <attack>Dagger|5|1d4+2</attack>
         </action>
         <action>
             <name>Minor Conjuration</name>
@@ -1119,7 +1119,7 @@
         <size>M</size>
         <type>humanoid (human)</type>
         <alignment>Neutral Evil</alignment>
-        <ac>12, 15 (with mage armor)</ac>
+        <ac>12 (15 with mage armor)</ac>
         <hp>27 (5d8+5)</hp>
         <speed>walk 30 ft.</speed>
         <str>10</str>
@@ -1145,7 +1145,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|4|1d6 + 2</attack>
+            <attack>Shortsword|4|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -1196,7 +1196,7 @@
         <action>
             <name>Warhammer</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage, and the target must succeed on a DC 12 Strength saving throw or be pushed 5 feet.</text>
-            <attack>Warhammer|4|1d8 + 2</attack>
+            <attack>Warhammer|4|1d8+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -1255,17 +1255,17 @@
         <action>
             <name>+1 Shortsword</name>
             <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
-            <attack>+1 Shortsword|9|1d6 + 6</attack>
+            <attack>+1 Shortsword|9|1d6+6</attack>
         </action>
         <action>
             <name>Rapier</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (1d8 + 5) piercing damage.</text>
-            <attack>Rapier|8|1d8 + 5</attack>
+            <attack>Rapier|8|1d8+5</attack>
         </action>
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
-            <attack>Dagger|8|1d4 + 5</attack>
+            <attack>Dagger|8|1d4+5</attack>
         </action>
         <reaction>
             <name>Uncanny Dodge</name>
@@ -1312,7 +1312,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
-            <attack>Shortsword|6|1d6 + 4</attack>
+            <attack>Shortsword|6|1d6+4</attack>
         </action>
         <action>
             <name>Change Shape</name>
@@ -1359,7 +1359,7 @@
         <action>
             <name>Maul</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 9 (2d6 + 2) bludgeoning damage.</text>
-            <attack>Maul|4|2d6 + 2</attack>
+            <attack>Maul|4|2d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>

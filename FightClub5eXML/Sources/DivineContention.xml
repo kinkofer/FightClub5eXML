@@ -40,7 +40,7 @@
         <action>
             <name>Withering Touch</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 17 (4d6 + 3) necrotic damage.</text>
-            <attack>Withering Touch|5|4d6 + 3</attack>
+            <attack>Withering Touch|5|4d6+3</attack>
         </action>
         <action>
             <name>Etherealness</name>

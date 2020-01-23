@@ -37,7 +37,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. While poisoned this way, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-            <attack>Bite|4|1d10 + 2</attack>
+            <attack>Bite|4|1d10+2</attack>
         </action>
         <action>
             <name>Ovipositor</name>
@@ -87,7 +87,7 @@
         <action>
             <name>Bite</name>
             <text>Melee weapon attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
-            <attack>Bite|4|1d6 + 2</attack>
+            <attack>Bite|4|1d6+2</attack>
         </action>
         <action>
             <name>Radiant Blast</name>
@@ -141,7 +141,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target. 7 (1d6 + 4) bludgeoning damage and the target is grappled (escape DC 14). Until this grapple ends, the crab folk can automatically hit the target with its claw, and the crab folk can't make attacks with that claw against other targets. The crab folk has two claws, each of which can grapple only one target.</text>
-            <attack>Claw|6|1d6 + 4</attack>
+            <attack>Claw|6|1d6+4</attack>
         </action>
         <description>The crab folk are the result of a magical ritual used long ago by a mighty green hag to transform her ogre minions into more useful servants. All crab folk that now exist are descended from those original creations, with most living in small, isolated clutches. Though they are content to lead peaceful lives as hunters and gatherers, the magic that created the crab folk sometimes compels them to lash out in fearsome raids when the conditions are right.
             Aquatic Vassals:
@@ -196,7 +196,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage.</text>
-            <attack>Claw|4|1d8 + 2</attack>
+            <attack>Claw|4|1d8+2</attack>
         </action>
         <description>Heralded by the ominous, deep rumbling of their strange song, great packs of dire corbies range across the Underdark, stripping the tunnels and caverns they traverse of all living things. Even the mightiest creatures of the Underdark hide within fortified lairs or step aside from a dire corby flock, knowing of how these creatures' bizarre song disrupts, disorients, and ultimately overwhelms their prey.
             Flocks of Doom:
@@ -244,7 +244,7 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (1d12 + 3) slashing damage.</text>
-            <attack>Claw|7|1d12 + 3</attack>
+            <attack>Claw|7|1d12+3</attack>
         </action>
         <action>
             <name>Gemstone Eyes</name>
@@ -304,12 +304,12 @@
         <action>
             <name>Claw</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Claw|5|1d6 + 3</attack>
+            <attack>Claw|5|1d6+3</attack>
         </action>
         <action>
             <name>Gore</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
-            <attack>Gore|5|1d8 + 3</attack>
+            <attack>Gore|5|1d8+3</attack>
         </action>
         <action>
             <name>Chromatic Ray</name>
@@ -375,12 +375,12 @@
         <action>
             <name>Greatsword</name>
             <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 29 (6d6 + 8) slashing damage.</text>
-            <attack>Greatsword|12|6d6 + 8</attack>
+            <attack>Greatsword|12|6d6+8</attack>
         </action>
         <action>
             <name>Rock</name>
             <text>Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. 30 (4d10 + 8) bludgeoning damage.</text>
-            <attack>Rock|12|4d10 + 8</attack>
+            <attack>Rock|12|4d10+8</attack>
         </action>
         <action>
             <name>Petty Tyrant (Recharge 6)</name>
@@ -450,12 +450,12 @@
         <action>
             <name>Club</name>
             <text>Melee weapon attack: +-1 to hit, reach 5 ft., one target. 1 (1d4 - 3) bludgeoning damage.</text>
-            <attack>Club|-1|1d4 - 3</attack>
+            <attack>Club|-1|1d4-3</attack>
         </action>
         <action>
             <name>Dart</name>
             <text>Ranged weapon attack: +3 to hit, range 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
-            <attack>Dart|3|1d4 + 1</attack>
+            <attack>Dart|3|1d4+1</attack>
         </action>
         <description>Jermlaine prove that terrible things can come in tiny packages. Their tiny, foot-tall forms can barely contain the cruelty and malevolence that courses through them. Deep in the Underdark, the jermlaine lurk among the tunnels, dungeons, and caverns inhabited by much larger, more dangerous folk. The jermlaine huddle in their small tunnels, avoiding contact with all other creatures unless they can marshal overwhelming numbers. When the odds are in their favor, they strike with a vicious determination that can overwhelm even a heavily armed drow patrol or duergar war party.
             Hateful Ambushers:
@@ -500,7 +500,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage, and if the target is wearing metal armor or carrying a metal shield, the khargra attaches to that armor or shield. While attached, the khargra doesn't attack. Instead, at the start of each of the khargra's turns, roll a d20. On a 10 or higher, the armor or shield takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.</text>
-            <attack>Bite|3|1d4 + 1</attack>
+            <attack>Bite|3|1d4+1</attack>
             <text>The khargra can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to detach the khargra.</text>
         </action>
         <action>
@@ -603,7 +603,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged weapon attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Blood Boiling Hex (Recharge 6)</name>
@@ -656,12 +656,12 @@
         <action>
             <name>Claw</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Claw|5|1d6 + 3</attack>
+            <attack>Claw|5|1d6+3</attack>
         </action>
         <action>
             <name>Needle</name>
             <text>Ranged Weapon Attack: +5 to hit, range 60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Needle|5|1d4 + 3</attack>
+            <attack>Needle|5|1d4+3</attack>
         </action>
         <description>A wise ranger knows that the sight of a needle spawn is an ill omen, for it heralds the rise of a dreaded needle lord and a war for the soul of a forest.
             Roving Corpses:
@@ -713,7 +713,7 @@
         <action>
             <name>Raking Vine</name>
             <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target. 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14). Until this grapple ends, the target takes 11 piercing damage at the start of each of its turns. The needle lord has two raking vines, each of which can grapple only one target.</text>
-            <attack>Raking Vine|6|2d6 + 4</attack>
+            <attack>Raking Vine|6|2d6+4</attack>
         </action>
         <action>
             <name>Needle</name>
@@ -762,12 +762,12 @@
         <action>
             <name>Bite</name>
             <text>Melee weapon attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) piercing damage.</text>
-            <attack>Bite|3|1d6 + 1</attack>
+            <attack>Bite|3|1d6+1</attack>
         </action>
         <action>
             <name>Mace</name>
             <text>Melee weapon attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
-            <attack>Mace|3|1d6 + 1</attack>
+            <attack>Mace|3|1d6+1</attack>
         </action>
         <reaction>
             <name>Defensive Rebuke</name>
@@ -814,12 +814,12 @@
         <action>
             <name>Bite</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
-            <attack>Bite|5|1d6 + 3</attack>
+            <attack>Bite|5|1d6+3</attack>
         </action>
         <action>
             <name>Greataxe</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 9 (1d12 + 3) slashing damage.</text>
-            <attack>Greataxe|5|1d12 + 3</attack>
+            <attack>Greataxe|5|1d12+3</attack>
         </action>
         <action>
             <name>Fight On, You Slugs</name>
@@ -879,7 +879,7 @@
         <action>
             <name>Barbed Tail</name>
             <text>Melee weapon attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
-            <attack>Barbed Tail|5|1d4 + 3</attack>
+            <attack>Barbed Tail|5|1d4+3</attack>
         </action>
         <description>The ferocious screaming devilkin are bizarre fey creatures spawned by overwhelming moments of panic. Despite their diabolic appearance and name, are denizens of the Feywild. Sages believe that their appearance derives from the primal fear inspired by fiendish creatures, while bards assert that panic, being such a repulsive emotion, is embodied by an equally ugly creature.
             Screaming Terrors:
@@ -934,12 +934,12 @@
         <action>
             <name>Scythe</name>
             <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. 18 (2d10 + 7) slashing damage plus 19 (3d12) necrotic damage. Any creature reduced to 0 hit points by this attack dies, with its body and everything it is wearing and carrying, except magic items, exploding into a cloud of ash. The creature can be restored to life only by means of a wish spell.</text>
-            <attack>Scythe|14|2d10 + 7</attack>
+            <attack>Scythe|14|2d10+7</attack>
         </action>
         <action>
             <name>Entropic Touch</name>
             <text>Melee Weapon Attack: +14 to hit, reach 5 ft., one target. 16 (2d8 + 7) necrotic damage, and the target must succeed on a DC 22 Constitution saving throw or gain one level of exhaustion.</text>
-            <attack>Entropic Touch|14|2d8 + 7</attack>
+            <attack>Entropic Touch|14|2d8+7</attack>
         </action>
         <action>
             <name>Summon Slaadi (1/Day)</name>
@@ -1022,7 +1022,7 @@
         <action>
             <name>Claw</name>
             <text>Melee weapon attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) piercing damage.</text>
-            <attack>Claw|6|1d4 + 4</attack>
+            <attack>Claw|6|1d4+4</attack>
         </action>
         <description>Deep within the Ethereal Plane are the demiplanes, miniatures worlds built by powerful archmages and other mighty entities to serve as a private domain. Each demiplane is a designed realm, built for a specific purpose. Some are fortresses, designed to keep wanderers from the material world away. Others are far more sinister, dark realms where evil dreams take root and become ghastly realities. Such is the realm that spawned the xill, horrific, insectoid creatures created long ago to serve an ancient, evil master.
             Gruesome Collectors:

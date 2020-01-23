@@ -87,17 +87,17 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|4|1d6 + 2</attack>
+            <attack>Shortsword|4|1d6+2</attack>
         </action>
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 2</attack>
+            <attack>Dagger|4|1d4+2</attack>
         </action>
         <action>
             <name>Shortbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
-            <attack>Shortbow|4|1d8 + 2</attack>
+            <attack>Shortbow|4|1d8+2</attack>
         </action>
         <description>Source: Dragon of Icespire Peak</description>
         <environment></environment>
@@ -135,12 +135,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
-            <attack>Longsword|4|1d8 + 2</attack>
+            <attack>Longsword|4|1d8+2</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage.</text>
-            <attack>Longbow|3|1d8 + 1</attack>
+            <attack>Longbow|3|1d8+1</attack>
         </action>
         <reaction>
             <name>Protection (Defender Only)</name>
@@ -180,12 +180,12 @@
         <action>
             <name>Clawed Gauntlet (Humanoid Form Only)</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) slashing damage.</text>
-            <attack>Clawed Gauntlet (Humanoid Form Only)|5|1d4 + 3</attack>
+            <attack>Clawed Gauntlet (Humanoid Form Only)|5|1d4+3</attack>
         </action>
         <action>
             <name>Tusk (Boar Form Only)</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
-            <attack>Tusk (Boar Form Only)|5|1d6 + 3</attack>
+            <attack>Tusk (Boar Form Only)|5|1d6+3</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
@@ -287,12 +287,12 @@
         <action>
             <name>Longsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
-            <attack>Longsword|4|1d8 + 2</attack>
+            <attack>Longsword|4|1d8+2</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 11 (2d8 + 2) piercing damage.</text>
-            <attack>Longbow|4|2d8 + 2</attack>
+            <attack>Longbow|4|2d8+2</attack>
         </action>
         <description>Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Neverwinter Wood.
             Source: Dragon of Icespire Peak</description>
@@ -333,12 +333,12 @@
         <action>
             <name>Lightning Tusks</name>
             <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.</text>
-            <attack>Lightning Tusks|8|2d6 + 5</attack>
+            <attack>Lightning Tusks|8|2d6+5</attack>
         </action>
         <action>
             <name>Thunder Hooves</name>
             <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage.</text>
-            <attack>Thunder Hooves|8|2d6 + 5</attack>
+            <attack>Thunder Hooves|8|2d6+5</attack>
         </action>
         <action>
             <name>Lightning Bolt (Recharge 6)</name>
@@ -353,7 +353,7 @@
         <size>S</size>
         <type>humanoid (gnome)</type>
         <alignment>Chaotic Neutral</alignment>
-        <ac>10, 13 (with mage armor)</ac>
+        <ac>10 (13 with mage armor)</ac>
         <hp>7 (2d6)</hp>
         <speed>walk 25 ft.</speed>
         <str>6</str>

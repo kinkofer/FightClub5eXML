@@ -53,12 +53,12 @@
         <action>
             <name>Claws</name>
             <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
-            <attack>Claws|6|1d4 + 2</attack>
+            <attack>Claws|6|1d4+2</attack>
         </action>
         <action>
             <name>Club</name>
             <text>Melee Weapon Attack: +6 to hit (+8 to hit with shillelagh), reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.</text>
-            <attack>Club|6|1d6 + 2</attack>
+            <attack>Club|6|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -123,12 +123,12 @@
         <action>
             <name>Claw</name>
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 16). Until the grapple ends, Gar can't attack other creatures with his claw.</text>
-            <attack>Claw|8|2d6 + 3</attack>
+            <attack>Claw|8|2d6+3</attack>
         </action>
         <action>
             <name>Wave</name>
             <text>Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. 9 (1d6 + 6) piercing damage or 10 (1d8 + 6) piercing damage when used with two hands. If Gar scores a critical hit with this weapon, the target takes extra necrotic damage equal to half its hit point maximum.</text>
-            <attack>Wave|11|1d6 + 6</attack>
+            <attack>Wave|11|1d6+6</attack>
         </action>
         <action>
             <name>Umberlee's Wake (Recharge 5-6)</name>
@@ -216,14 +216,14 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) piercing damage.</text>
-            <attack>Bite|12|3d8 + 7</attack>
+            <attack>Bite|12|3d8+7</attack>
             <text>If the target is a Medium or smaller creature grappled by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken's turns. One Medium or two smaller creatures can be swallowed at the same time.</text>
             <text>If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in spaces within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
         </action>
         <action>
             <name>Tentacle</name>
             <text>Melee Weapon Attack: +12 to hit, reach 20 ft., one target. 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20). Until the grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.</text>
-            <attack>Tentacle|12|3d6 + 7</attack>
+            <attack>Tentacle|12|3d6+7</attack>
         </action>
         <action>
             <name>Fling</name>
@@ -241,7 +241,7 @@
         <size>M</size>
         <type>humanoid (water genasi)</type>
         <alignment>Lawful Evil</alignment>
-        <ac>11, 14 (with mage armor)</ac>
+        <ac>11 (14 with mage armor)</ac>
         <hp>75 (10d8+30)</hp>
         <speed>walk 30 ft., swim 30 ft.</speed>
         <str>12</str>
@@ -267,7 +267,7 @@
         <action>
             <name>Dagger</name>
             <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or ranged 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
-            <attack>Dagger|4|1d4 + 1</attack>
+            <attack>Dagger|4|1d4+1</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>

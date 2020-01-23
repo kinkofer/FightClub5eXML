@@ -152,7 +152,7 @@
         <action>
             <name>Tentacle Slam</name>
             <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage.</text>
-            <attack>Tentacle Slam|9|2d6 + 5</attack>
+            <attack>Tentacle Slam|9|2d6+5</attack>
         </action>
         <description>Source: Lost Laboratory of Kwalish p. 38</description>
         <environment></environment>
@@ -200,7 +200,7 @@
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|4|1d6 + 2</attack>
+            <attack>Shortsword|4|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
@@ -304,12 +304,12 @@
         <action>
             <name>Glass Longsword</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 6 (1d8 + 2) slashing damage. If a 1 is rolled on an attack roll with a glass longsword, it shatters and can no longer be used.</text>
-            <attack>Glass Longsword|4|1d8 + 2</attack>
+            <attack>Glass Longsword|4|1d8+2</attack>
         </action>
         <action>
             <name>Pseudopod</name>
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) acid damage.</text>
-            <attack>Pseudopod|4|1d6 + 2</attack>
+            <attack>Pseudopod|4|1d6+2</attack>
         </action>
         <description>Source: Lost Laboratory of Kwalish p. 46</description>
         <environment></environment>
@@ -351,17 +351,17 @@
         <action>
             <name>Snake Hair</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.</text>
-            <attack>Snake Hair|5|1d4 + 2</attack>
+            <attack>Snake Hair|5|1d4+2</attack>
         </action>
         <action>
             <name>Shortsword</name>
             <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
-            <attack>Shortsword|5|1d6 + 2</attack>
+            <attack>Shortsword|5|1d6+2</attack>
         </action>
         <action>
             <name>Longbow</name>
             <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.</text>
-            <attack>Longbow|5|1d8 + 2</attack>
+            <attack>Longbow|5|1d8+2</attack>
         </action>
         <description>Source: Infernal Machine Rebuild p. 23</description>
         <environment>desert</environment>
