@@ -1192,756 +1192,755 @@
 </race>
 
 <class>
-	<name>Artificer</name>
-	<hd>8</hd>
-	<proficiency>Constitution, Intelligence, Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight of Hand</proficiency>
-	<spellAbility>Intelligence</spellAbility>
-	<numSkills>3</numSkills>
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Starting Artificer</name>
-				<text>As a 1st-level Artificer, you begin play with 8+your Constitution modifier hit points.</text>
-				<text> </text>
-				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
-				<text>&#8226; Armor: light and medium armors</text>
-				<text>&#8226; Weapons: simple weapons</text>
-				<text>&#8226; Tools: thieves' tools, two other tools of your choice</text>
-				<text>&#8226; Skills: Choose three from Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight of Hand</text>
-				<text> </text>
-				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
-				<text>&#8226; (a) a handaxe and a light hammer or (b) any two simple weapons </text>
-				<text>&#8226; a light crossbow and 20 bolts </text>
-				<text>&#8226; (a) scale mail or (b) studded leather armor </text>
-				<text>&#8226; thieves&#8217; tools and a dungeoneer&#8217;s pack</text>
-				<text> </text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 1</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Multiclass Artificer</name>
-				<text>To multiclass as a Artificer, you must meet the following prerequisites:</text>
-				<text>&#8226; Intelligence 13</text>
-				<text> </text>
-				<text>You gain the following proficiencies:</text>
-				<text>&#8226; light armor, simple weapons, two tools</text>
-				<text> </text>
-				<text>Source: Mike Mearls on Twitter</text>
-			</feature>
-		</autolevel>
-<armor>light and medium armors</armor><weapons>simple weapons</weapons><tools>thieves' tools, two other tools of your choice</tools>
-
-		<autolevel level="1">
-			<feature>
-				<name>Magic Item Analysis</name>
-				<text>Starting at 1st level, your understanding of magic items allows you to analyze and understand their secrets. You know the artificer spells detect magic and identify, and you can cast them as rituals. You don&#8217;t need to provide a material component when casting identify with this class feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 2</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature>
-				<name>Artificer Specialist</name>
-				<text>At 1st level, you choose the type of Artificer Specialist you are: Alchemist or Gunsmith, both of which are detailed at the end of the class description. Your choice grants you features at 1st level and again at 3rd, 9th, 14th, and 17th level. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 2</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Artificer Specialist: Alchemist</name>
-				<text>An alchemist is an expert at combining exotic reagents to produce a variety of materials, from healing draughts that can mend a wound in moments to clinging goo that slows creatures down. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemist's Satchel (Alchemist)</name>
-				<text>At 1st level, you craft an Alchemist&#8217;s Satchel, a bag of reagents that you use to create a variety of concoctions. The bag and its contents are both magical, and this magic allows you to pull out exactly the right materials you need for your Alchemical Formula options, described below. After you use one of those options, the bag reclaims the materials. </text>
-				<text>	If you lose this satchel, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of leather, glass, and other raw materials.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula (3) (Alchemist)</name>
-				<text>At 1st level, you learn three Alchemical Formula options: Alchemical Fire, Alchemical Acid, and one other option of your choice. You learn an additional formula of your choice at 3rd, 9th, 14th, and 17th levels. </text>
-				<text>	To use any of these options, your Alchemist&#8217;s Satchel must be within reach. </text>
-				<text>	If an Alchemical Formula option requires a saving throw, the DC is 8 + your proficiency bonus + your Intelligence modifier.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Alchemical Fire</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel, pull out a vial of volatile liquid, and hurl the vial at a creature, object, or surface within 30 feet of you (the vial and its contents disappear if you don&#8217;t hurl the vial by the end of the current turn). On impact, the vial detonates in a 5-foot radius. Any creature in that area must succeed on a Dexterity saving throw or take 1d6 fire damage. </text>
-				<text>	This formula&#8217;s damage increases by 1d6 when you reach certain levels in this class: 4th level (2d6), 7th level (3d6), 10th level (4d6), 13th level (5d6), 16th level (6d6), and 19th level (7d6).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Alchemical Acid</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel, pull out a vial of acid, and hurl the vial at a creature or object within 30 feet of you (the vial and its contents disappear if you don&#8217;t hurl the vial by the end of the current turn). The vial shatters on impact. A creature must succeed on a Dexterity saving throw or take 1d6 acid damage. An object automatically takes that damage, and the damage is maximized. </text>
-				<text>	This formula&#8217;s damage increases by 1d6 when you reach certain levels in this class: 3rd level (2d6), 5th level (3d6), 7th level (4d6), 9th level (5d6), 11th level (6d6), 13th level (7d6), 15th level (8d6), 17th level (9d6), and 19th level (10d6).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Healing Draught</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
-				<text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Smoke Stick</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Swift Step Draught</name>
-				<text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Tanglefoot Bag </name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Alchemical Formula: Thunderstone</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Artificer Specialist: Gunsmith</name>
-				<text>A master of engineering, you forge a firearm powered by a combination of science and magic. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Master Smith (Gunsmith)</name>
-				<text>When you choose this specialization at 1st level, you gain proficiency with smith&#8217;s tools, and you learn the mending cantrip.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Thunder Cannon (Gunsmith)</name>
-				<text>At 1st level, you forge a deadly firearm using a combination of arcane magic and your knowledge of engineering and metallurgy. This firearm is called a Thunder Cannon. It is a ferocious weapon that fires leaden bullets that can punch through armor with ease. You are proficient with the Thunder Cannon. The firearm is a two-handed ranged weapon that deals 2d6 piercing damage. Its normal range is 150 feet, and its maximum range if 500 feet. Once fired, it must be reloaded as a bonus action. </text>
-				<text>	If you lose your Thunder Cannon, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of metal and other raw materials.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature optional="YES">
-				<name>Arcane Magazine (Gunsmith)</name>
-				<text>At 1st level, you craft a leather bag used to carry your tools and ammunition for your Thunder Cannon. Your Arcane Magazine includes the powders, lead shot, and other materials needed to keep that weapon functioning. </text>
-				<text>	You can use the Arcane Magazine to produce ammunition for your gun. At the end of each long rest, you can magically produce 40 rounds of ammunition with this magazine. After each short rest, you can produce 10 rounds. </text>
-				<text>	If you lose your Arcane Magazine, you can create a new one as part of a long rest, using 25 gp of leather and other raw materials. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="2">
-			<feature>
-				<name>Tool Expertise</name>
-				<text>Starting at 2nd level, your proficiency bonus is doubled for any ability check you make that uses any of the tool proficiencies you gain from this class.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="2">
-			<feature>
-				<name>Wondrous Invention</name>
-				<text>At 2nd level, you gain the use of a magic item that you have crafted. Choose the item from the list of 2nd-level items below. </text>
-				<text>	Crafting an item is a difficult task. When you gain a magic item from this feature, it reflects long hours of study, tinkering, and experimentation that allowed you to finally complete the item. You are assumed to work on this item in your leisure time and to finish it when you level up. </text>
-				<text>	You complete another item of your choice when you reach certain levels in this class: 5th, 10th, 15th, and 20th level. The item you choose must be on the list for your current artificer level or a lower level. </text>
-				<text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
-				<text>	 </text>
-				<text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<slots>0,2</slots>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature>
-				<name>Spellcasting</name>
-				<text>As part of your study of magic, you gain the ability to cast spells at 3rd level. The spells you learn are limited in scope, primarily concerned with modifying creatures and objects or creating items. </text>
-				<text>	 </text>
-				<text>Spell Slots: </text>
-				<text>	The Artificer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#8217;s level or higher. You regain all expended spell slots when you finish a long rest. </text>
-				<text>	 </text>
-				<text>Spells Known of 1st Level and Higher: </text>
-				<text>	You know three 1st-level spells of your choice from the artificer spell list (which appears at the end of this document). </text>
-				<text>	The Spells Known column of the Artificer table shows when you learn more artificer spells of your choice from this feature. Each of these spells must be of a level for which you have spell slots on the Artificer table.</text>
-				<text>	You learn an additional spell at 4th, 7th, 8th, 10th, 11th, 13th, 14th, 16th, 19th, and 20th level. </text>
-				<text>	Additionally, when you gain a level in this class, you can choose one of the artificer spells you know from this feature and replace it with another spell from the artificer spell list. The new spell must also be of a level for which you have spell slots on the Artificer table. </text>
-				<text>	 </text>
-				<text>Spellcasting Ability: </text>
-				<text>	Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one. </text>
-				<text>	 </text>
-				<text>Spell save DC = 8 + your proficiency bonus + your Intelligence modifier </text>
-				<text>	 </text>
-				<text>Spell attack modifier = your proficiency bonus + your Intelligence modifier</text>
-				<text>	 </text>
-				<text>Spellcasting Focus: </text>
-				<text>	You can use an arcane focus as a spellcasting focus for your artificer spells. See chapter 5, &#8220;Equipment,&#8221; in the Player&#8217;s Handbook for various arcane focus options. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula (4) (Alchemist)</name>
-				<text>You learn an additional alchemical formula.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula: Healing Draught</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
-				<text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula: Smoke Stick</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula: Swift Step Draught</name>
-				<text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula: Tanglefoot Bag </name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Alchemical Formula: Thunderstone</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature optional="YES">
-				<name>Thunder Monger (Gunsmith)</name>
-				<text>At 3rd level, you learn to channel thunder energy into your Thunder Cannon. As an action, you can make a special attack with your Thunder Cannon that deals an extra 1d6 thunder damage on a hit. </text>
-				<text>	This extra damage increases by 1d6 when you reach certain levels in this class: 5th level (2d6), 7th level (3d6), 9th level (4d6), 11th level (5d6), 13th level (6d6), 15th level (7d6), 17th level (8d6), and 19th level (9d6).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="4" scoreImprovement="YES">
-			<slots>0,3</slots>
-		</autolevel>
-
-		<autolevel level="4" scoreImprovement="YES">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="4" scoreImprovement="YES">
-			<feature>
-				<name>Infuse Magic</name>
-				<text>Starting at 4th level, you gain the ability to channel your artificer spells into objects for later use. When you cast an artificer spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell&#8217;s effects occur. Instead, the spell transfers into that item for later use if the item doesn&#8217;t already contain a spell from this feature. </text>
-				<text>	Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell&#8217;s range is self, it targets the creature that activates the item. </text>
-				<text>	When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. </text>
-				<text>	You can have a limited number of infused spells at the same time. The number equals your Intelligence modifier.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="5">
-			<slots>0,3</slots>
-		</autolevel>
-
-		<autolevel level="5">
-			<feature>
-				<name>Wondrous Invention (2nd)</name>
-				<text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
-				<text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
-				<text>	 </text>
-				<text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
-				<text>	 </text>
-				<text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="5">
-			<feature>
-				<name>Superior Attunement (Four Items)</name>
-				<text>At 5th level, your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. At 15th level, this limit increases to five magic items.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="6">
-			<slots>0,3</slots>
-		</autolevel>
-
-		<autolevel level="6">
-			<feature>
-				<name>Mechanical Servant</name>
-				<text>At 6th level, your research and mastery of your craft allow you to produce a mechanical servant. The servant is a construct that obeys your commands without hesitation and functions in combat to protect you. Though magic fuels its creation, the servant is not magical itself. You are assumed to have been working on the servant for quite some time, finally finishing it during a short or long rest after you reach 6th level. </text>
-				<text>	Select a Large beast with a challenge rating of 2 or less. The servant uses that beast&#8217;s game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications: </text>
-				<text>	 </text>
-				<text>&#8226; It is a construct instead of a beast. </text>
-				<text>	 </text>
-				<text>&#8226; It can&#8217;t be charmed. </text>
-				<text>	 </text>
-				<text>&#8226; It is immune to poison damage and the poisoned condition. </text>
-				<text>	 </text>
-				<text>&#8226; It gains darkvision with a range of 60 feet if it doesn&#8217;t have it already. </text>
-				<text>	 </text>
-				<text>&#8226; It understands the languages you can speak when you create it, but it can&#8217;t speak. </text>
-				<text>	 </text>
-				<text>&#8226; If you are the target of a melee attack and the servant is within 5 feet of the attacker, you can use your reaction to command the servant to respond, using its reaction to make a melee attack against the attacker. </text>
-				<text>	The servant obeys your orders to the best of its ability. In combat, it rolls its own initiative and acts on its own. </text>
-				<text>	If the servant is killed, it can be returned to life via normal means, such as with the revivify spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body. It returns to life with 1 hit point at the end of the rest. If the servant is beyond recovery, you can build a new one with one week of work (eight hours each day) and 1,000 gp of raw materials. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="7">
-			<slots>0,4,2</slots>
-		</autolevel>
-
-		<autolevel level="8" scoreImprovement="YES">
-			<slots>0,4,2</slots>
-		</autolevel>
-
-		<autolevel level="8" scoreImprovement="YES">
-			<feature>
-				<name>Ability Score Improvement (2nd)</name>
-				<text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<slots>0,4,2</slots>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula (5) (Alchemist)</name>
-				<text>You learn an additional alchemical formula.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula: Healing Draught</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
-				<text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula: Smoke Stick</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula: Swift Step Draught</name>
-				<text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula: Tanglefoot Bag </name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Alchemical Formula: Thunderstone</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature optional="YES">
-				<name>Blast Wave (Gunsmith)</name>
-				<text>Starting at 9th level, you can channel force energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you unleash force energy in a 15-foot cone from the gun. Each creature in that area must make a Strength saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 2d6 force damage and is pushed 10 feet away from you. </text>
-				<text>	This damage increases by 1d6 when you reach certain levels in this class: 13th level (3d6) and 17th level (4d6).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="10">
-			<slots>0,4,3</slots>
-		</autolevel>
-
-		<autolevel level="10">
-			<feature>
-				<name>Wondrous Invention (3rd)</name>
-				<text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
-				<text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
-				<text>	 </text>
-				<text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
-				<text>	 </text>
-				<text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
-				<text>	 </text>
-				<text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="11">
-			<slots>0,4,3</slots>
-		</autolevel>
-
-		<autolevel level="12" scoreImprovement="YES">
-			<slots>0,4,3</slots>
-		</autolevel>
-
-		<autolevel level="12" scoreImprovement="YES">
-			<feature>
-				<name>Ability Score Improvement (3rd)</name>
-				<text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="13">
-			<slots>0,4,3,2</slots>
-		</autolevel>
-
-		<autolevel level="14">
-			<slots>0,4,3,2</slots>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula (6) (Alchemist)</name>
-				<text>You learn an additional alchemical formula.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula: Healing Draught</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
-				<text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula: Smoke Stick</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula: Swift Step Draught</name>
-				<text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula: Tanglefoot Bag </name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Alchemical Formula: Thunderstone</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature optional="YES">
-				<name>Piercing Round (Gunsmith)</name>
-				<text>Starting at 14th level, you can shoot lightning energy through your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you cause the gun to unleash a bolt of lightning, 5-feet wide and 30-feet long. Each creature in that area must make Dexterity saving throws with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d6 lightning damage. This damage increases to 6d6 when you reach 19th level in this class. </text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="15">
-			<slots>0,4,3,2</slots>
-		</autolevel>
-
-		<autolevel level="15">
-			<feature>
-				<name>Wondrous Invention (4th)</name>
-				<text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
-				<text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
-				<text>	 </text>
-				<text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
-				<text>	 </text>
-				<text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
-				<text>	 </text>
-				<text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack </text>
-				<text>	 </text>
-				<text>15th Level: boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="15">
-			<feature>
-				<name>Superior Attunement (Five Items)</name>
-				<text>At 5th level, your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. At 15th level, this limit increases to five magic items.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="16" scoreImprovement="YES">
-			<slots>0,4,3,3</slots>
-		</autolevel>
-
-		<autolevel level="16" scoreImprovement="YES">
-			<feature>
-				<name>Ability Score Improvement (4th)</name>
-				<text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<slots>0,4,3,3</slots>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula (7) (Alchemist)</name>
-				<text>You learn an additional alchemical formula.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula: Healing Draught</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
-				<text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula: Smoke Stick</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula: Swift Step Draught</name>
-				<text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 5</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula: Tanglefoot Bag </name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Alchemical Formula: Thunderstone</name>
-				<text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 6</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature optional="YES">
-				<name>Explosive Round (Gunsmith)</name>
-				<text>Starting at 17th level, you can channel fiery energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you launch an explosive round from the gun. The round detonates in a 30-foot radius sphere at a point within range. Each creature in that area must make a Dexterity saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d8 fire damage.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 7</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="18" scoreImprovement="YES">
-			<slots>0,4,3,3</slots>
-		</autolevel>
-
-		<autolevel level="18" scoreImprovement="YES">
-			<feature>
-				<name>Ability Score Improvement (5th)</name>
-				<text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="19">
-			<slots>0,4,3,3,1</slots>
-		</autolevel>
-
-		<autolevel level="20">
-			<slots>0,4,3,3,1</slots>
-		</autolevel>
-
-		<autolevel level="20">
-			<feature>
-				<name>Wondrous Invention (5th)</name>
-				<text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
-				<text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
-				<text>	 </text>
-				<text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
-				<text>	 </text>
-				<text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
-				<text>	 </text>
-				<text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack </text>
-				<text>	 </text>
-				<text>15th Level: boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing </text>
-				<text>	 </text>
-				<text>20th Level: eyes of the eagle, gem of brightness, gloves of missile snaring, gloves of swimming and climbing, ring of jumping, ring of mind shielding, wings of flying</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 3</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="20">
-			<feature>
-				<name>Soul of Artifice</name>
-				<text>At 20th level, your understanding of magic items is unmatched, allowing you to mingle your soul with items linked to you. You can attune to up to six magic items at once. In addition, you gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
-				<text>	</text>
-				<text>Source: Unearthed Arcana: The Artificer, p. 4</text>
-			</feature>
-		</autolevel>
-
+    <name>Artificer (UA)</name>
+    <hd>8</hd>
+    <proficiency>Constitution, Intelligence, Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight of Hand</proficiency>
+    <spellAbility>Intelligence</spellAbility>
+    <numSkills>3</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Starting Artificer</name>
+            <text>As a 1st-level Artificer, you begin play with 8+your Constitution modifier hit points.</text>
+            <text> </text>
+            <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+            <text>&#8226; Armor: light and medium armors</text>
+            <text>&#8226; Weapons: simple weapons</text>
+            <text>&#8226; Tools: thieves' tools, two other tools of your choice</text>
+            <text>&#8226; Skills: Choose three from Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight of Hand</text>
+            <text> </text>
+            <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+            <text>&#8226; (a) a handaxe and a light hammer or (b) any two simple weapons </text>
+            <text>&#8226; a light crossbow and 20 bolts </text>
+            <text>&#8226; (a) scale mail or (b) studded leather armor </text>
+            <text>&#8226; thieves&#8217; tools and a dungeoneer&#8217;s pack</text>
+            <text> </text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 1</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Multiclass Artificer</name>
+            <text>To multiclass as a Artificer, you must meet the following prerequisites:</text>
+            <text>&#8226; Intelligence 13</text>
+            <text> </text>
+            <text>You gain the following proficiencies:</text>
+            <text>&#8226; light armor, simple weapons, two tools</text>
+            <text> </text>
+            <text>Source: Mike Mearls on Twitter</text>
+        </feature>
+    </autolevel>
+    <armor>light and medium armors</armor><weapons>simple weapons</weapons><tools>thieves' tools, two other tools of your choice</tools>
+    
+    <autolevel level="1">
+        <feature>
+            <name>Magic Item Analysis</name>
+            <text>Starting at 1st level, your understanding of magic items allows you to analyze and understand their secrets. You know the artificer spells detect magic and identify, and you can cast them as rituals. You don&#8217;t need to provide a material component when casting identify with this class feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 2</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature>
+            <name>Artificer Specialist</name>
+            <text>At 1st level, you choose the type of Artificer Specialist you are: Alchemist or Gunsmith, both of which are detailed at the end of the class description. Your choice grants you features at 1st level and again at 3rd, 9th, 14th, and 17th level. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 2</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Artificer Specialist: Alchemist</name>
+            <text>An alchemist is an expert at combining exotic reagents to produce a variety of materials, from healing draughts that can mend a wound in moments to clinging goo that slows creatures down. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemist's Satchel (Alchemist)</name>
+            <text>At 1st level, you craft an Alchemist&#8217;s Satchel, a bag of reagents that you use to create a variety of concoctions. The bag and its contents are both magical, and this magic allows you to pull out exactly the right materials you need for your Alchemical Formula options, described below. After you use one of those options, the bag reclaims the materials. </text>
+            <text>	If you lose this satchel, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of leather, glass, and other raw materials.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula (3) (Alchemist)</name>
+            <text>At 1st level, you learn three Alchemical Formula options: Alchemical Fire, Alchemical Acid, and one other option of your choice. You learn an additional formula of your choice at 3rd, 9th, 14th, and 17th levels. </text>
+            <text>	To use any of these options, your Alchemist&#8217;s Satchel must be within reach. </text>
+            <text>	If an Alchemical Formula option requires a saving throw, the DC is 8 + your proficiency bonus + your Intelligence modifier.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Alchemical Fire</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel, pull out a vial of volatile liquid, and hurl the vial at a creature, object, or surface within 30 feet of you (the vial and its contents disappear if you don&#8217;t hurl the vial by the end of the current turn). On impact, the vial detonates in a 5-foot radius. Any creature in that area must succeed on a Dexterity saving throw or take 1d6 fire damage. </text>
+            <text>	This formula&#8217;s damage increases by 1d6 when you reach certain levels in this class: 4th level (2d6), 7th level (3d6), 10th level (4d6), 13th level (5d6), 16th level (6d6), and 19th level (7d6).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Alchemical Acid</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel, pull out a vial of acid, and hurl the vial at a creature or object within 30 feet of you (the vial and its contents disappear if you don&#8217;t hurl the vial by the end of the current turn). The vial shatters on impact. A creature must succeed on a Dexterity saving throw or take 1d6 acid damage. An object automatically takes that damage, and the damage is maximized. </text>
+            <text>	This formula&#8217;s damage increases by 1d6 when you reach certain levels in this class: 3rd level (2d6), 5th level (3d6), 7th level (4d6), 9th level (5d6), 11th level (6d6), 13th level (7d6), 15th level (8d6), 17th level (9d6), and 19th level (10d6).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Healing Draught</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
+            <text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Smoke Stick</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Swift Step Draught</name>
+            <text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Tanglefoot Bag </name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Alchemical Formula: Thunderstone</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Artificer Specialist: Gunsmith</name>
+            <text>A master of engineering, you forge a firearm powered by a combination of science and magic. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Master Smith (Gunsmith)</name>
+            <text>When you choose this specialization at 1st level, you gain proficiency with smith&#8217;s tools, and you learn the mending cantrip.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Thunder Cannon (Gunsmith)</name>
+            <text>At 1st level, you forge a deadly firearm using a combination of arcane magic and your knowledge of engineering and metallurgy. This firearm is called a Thunder Cannon. It is a ferocious weapon that fires leaden bullets that can punch through armor with ease. You are proficient with the Thunder Cannon. The firearm is a two-handed ranged weapon that deals 2d6 piercing damage. Its normal range is 150 feet, and its maximum range if 500 feet. Once fired, it must be reloaded as a bonus action. </text>
+            <text>	If you lose your Thunder Cannon, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of metal and other raw materials.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="1">
+        <feature optional="YES">
+            <name>Arcane Magazine (Gunsmith)</name>
+            <text>At 1st level, you craft a leather bag used to carry your tools and ammunition for your Thunder Cannon. Your Arcane Magazine includes the powders, lead shot, and other materials needed to keep that weapon functioning. </text>
+            <text>	You can use the Arcane Magazine to produce ammunition for your gun. At the end of each long rest, you can magically produce 40 rounds of ammunition with this magazine. After each short rest, you can produce 10 rounds. </text>
+            <text>	If you lose your Arcane Magazine, you can create a new one as part of a long rest, using 25 gp of leather and other raw materials. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="2">
+        <feature>
+            <name>Tool Expertise</name>
+            <text>Starting at 2nd level, your proficiency bonus is doubled for any ability check you make that uses any of the tool proficiencies you gain from this class.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="2">
+        <feature>
+            <name>Wondrous Invention</name>
+            <text>At 2nd level, you gain the use of a magic item that you have crafted. Choose the item from the list of 2nd-level items below. </text>
+            <text>	Crafting an item is a difficult task. When you gain a magic item from this feature, it reflects long hours of study, tinkering, and experimentation that allowed you to finally complete the item. You are assumed to work on this item in your leisure time and to finish it when you level up. </text>
+            <text>	You complete another item of your choice when you reach certain levels in this class: 5th, 10th, 15th, and 20th level. The item you choose must be on the list for your current artificer level or a lower level. </text>
+            <text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
+            <text>	 </text>
+            <text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <slots>0,2</slots>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature>
+            <name>Spellcasting</name>
+            <text>As part of your study of magic, you gain the ability to cast spells at 3rd level. The spells you learn are limited in scope, primarily concerned with modifying creatures and objects or creating items. </text>
+            <text>	 </text>
+            <text>Spell Slots: </text>
+            <text>	The Artificer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#8217;s level or higher. You regain all expended spell slots when you finish a long rest. </text>
+            <text>	 </text>
+            <text>Spells Known of 1st Level and Higher: </text>
+            <text>	You know three 1st-level spells of your choice from the artificer spell list (which appears at the end of this document). </text>
+            <text>	The Spells Known column of the Artificer table shows when you learn more artificer spells of your choice from this feature. Each of these spells must be of a level for which you have spell slots on the Artificer table.</text>
+            <text>	You learn an additional spell at 4th, 7th, 8th, 10th, 11th, 13th, 14th, 16th, 19th, and 20th level. </text>
+            <text>	Additionally, when you gain a level in this class, you can choose one of the artificer spells you know from this feature and replace it with another spell from the artificer spell list. The new spell must also be of a level for which you have spell slots on the Artificer table. </text>
+            <text>	 </text>
+            <text>Spellcasting Ability: </text>
+            <text>	Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one. </text>
+            <text>	 </text>
+            <text>Spell save DC = 8 + your proficiency bonus + your Intelligence modifier </text>
+            <text>	 </text>
+            <text>Spell attack modifier = your proficiency bonus + your Intelligence modifier</text>
+            <text>	 </text>
+            <text>Spellcasting Focus: </text>
+            <text>	You can use an arcane focus as a spellcasting focus for your artificer spells. See chapter 5, &#8220;Equipment,&#8221; in the Player&#8217;s Handbook for various arcane focus options. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula (4) (Alchemist)</name>
+            <text>You learn an additional alchemical formula.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula: Healing Draught</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
+            <text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula: Smoke Stick</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula: Swift Step Draught</name>
+            <text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula: Tanglefoot Bag </name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Alchemical Formula: Thunderstone</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="3">
+        <feature optional="YES">
+            <name>Thunder Monger (Gunsmith)</name>
+            <text>At 3rd level, you learn to channel thunder energy into your Thunder Cannon. As an action, you can make a special attack with your Thunder Cannon that deals an extra 1d6 thunder damage on a hit. </text>
+            <text>	This extra damage increases by 1d6 when you reach certain levels in this class: 5th level (2d6), 7th level (3d6), 9th level (4d6), 11th level (5d6), 13th level (6d6), 15th level (7d6), 17th level (8d6), and 19th level (9d6).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="4" scoreImprovement="YES">
+        <slots>0,3</slots>
+    </autolevel>
+    
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+            <name>Ability Score Improvement</name>
+            <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+            <name>Infuse Magic</name>
+            <text>Starting at 4th level, you gain the ability to channel your artificer spells into objects for later use. When you cast an artificer spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell&#8217;s effects occur. Instead, the spell transfers into that item for later use if the item doesn&#8217;t already contain a spell from this feature. </text>
+            <text>	Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell&#8217;s range is self, it targets the creature that activates the item. </text>
+            <text>	When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. </text>
+            <text>	You can have a limited number of infused spells at the same time. The number equals your Intelligence modifier.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="5">
+        <slots>0,3</slots>
+    </autolevel>
+    
+    <autolevel level="5">
+        <feature>
+            <name>Wondrous Invention (2nd)</name>
+            <text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
+            <text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
+            <text>	 </text>
+            <text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
+            <text>	 </text>
+            <text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="5">
+        <feature>
+            <name>Superior Attunement (Four Items)</name>
+            <text>At 5th level, your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. At 15th level, this limit increases to five magic items.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="6">
+        <slots>0,3</slots>
+    </autolevel>
+    
+    <autolevel level="6">
+        <feature>
+            <name>Mechanical Servant</name>
+            <text>At 6th level, your research and mastery of your craft allow you to produce a mechanical servant. The servant is a construct that obeys your commands without hesitation and functions in combat to protect you. Though magic fuels its creation, the servant is not magical itself. You are assumed to have been working on the servant for quite some time, finally finishing it during a short or long rest after you reach 6th level. </text>
+            <text>	Select a Large beast with a challenge rating of 2 or less. The servant uses that beast&#8217;s game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications: </text>
+            <text>	 </text>
+            <text>&#8226; It is a construct instead of a beast. </text>
+            <text>	 </text>
+            <text>&#8226; It can&#8217;t be charmed. </text>
+            <text>	 </text>
+            <text>&#8226; It is immune to poison damage and the poisoned condition. </text>
+            <text>	 </text>
+            <text>&#8226; It gains darkvision with a range of 60 feet if it doesn&#8217;t have it already. </text>
+            <text>	 </text>
+            <text>&#8226; It understands the languages you can speak when you create it, but it can&#8217;t speak. </text>
+            <text>	 </text>
+            <text>&#8226; If you are the target of a melee attack and the servant is within 5 feet of the attacker, you can use your reaction to command the servant to respond, using its reaction to make a melee attack against the attacker. </text>
+            <text>	The servant obeys your orders to the best of its ability. In combat, it rolls its own initiative and acts on its own. </text>
+            <text>	If the servant is killed, it can be returned to life via normal means, such as with the revivify spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body. It returns to life with 1 hit point at the end of the rest. If the servant is beyond recovery, you can build a new one with one week of work (eight hours each day) and 1,000 gp of raw materials. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="7">
+        <slots>0,4,2</slots>
+    </autolevel>
+    
+    <autolevel level="8" scoreImprovement="YES">
+        <slots>0,4,2</slots>
+    </autolevel>
+    
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+            <name>Ability Score Improvement (2nd)</name>
+            <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <slots>0,4,2</slots>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula (5) (Alchemist)</name>
+            <text>You learn an additional alchemical formula.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula: Healing Draught</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
+            <text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula: Smoke Stick</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula: Swift Step Draught</name>
+            <text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula: Tanglefoot Bag </name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Alchemical Formula: Thunderstone</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="9">
+        <feature optional="YES">
+            <name>Blast Wave (Gunsmith)</name>
+            <text>Starting at 9th level, you can channel force energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you unleash force energy in a 15-foot cone from the gun. Each creature in that area must make a Strength saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 2d6 force damage and is pushed 10 feet away from you. </text>
+            <text>	This damage increases by 1d6 when you reach certain levels in this class: 13th level (3d6) and 17th level (4d6).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="10">
+        <slots>0,4,3</slots>
+    </autolevel>
+    
+    <autolevel level="10">
+        <feature>
+            <name>Wondrous Invention (3rd)</name>
+            <text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
+            <text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
+            <text>	 </text>
+            <text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
+            <text>	 </text>
+            <text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
+            <text>	 </text>
+            <text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="11">
+        <slots>0,4,3</slots>
+    </autolevel>
+    
+    <autolevel level="12" scoreImprovement="YES">
+        <slots>0,4,3</slots>
+    </autolevel>
+    
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+            <name>Ability Score Improvement (3rd)</name>
+            <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="13">
+        <slots>0,4,3,2</slots>
+    </autolevel>
+    
+    <autolevel level="14">
+        <slots>0,4,3,2</slots>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula (6) (Alchemist)</name>
+            <text>You learn an additional alchemical formula.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula: Healing Draught</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
+            <text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula: Smoke Stick</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula: Swift Step Draught</name>
+            <text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula: Tanglefoot Bag </name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Alchemical Formula: Thunderstone</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="14">
+        <feature optional="YES">
+            <name>Piercing Round (Gunsmith)</name>
+            <text>Starting at 14th level, you can shoot lightning energy through your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you cause the gun to unleash a bolt of lightning, 5-feet wide and 30-feet long. Each creature in that area must make Dexterity saving throws with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d6 lightning damage. This damage increases to 6d6 when you reach 19th level in this class. </text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="15">
+        <slots>0,4,3,2</slots>
+    </autolevel>
+    
+    <autolevel level="15">
+        <feature>
+            <name>Wondrous Invention (4th)</name>
+            <text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
+            <text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
+            <text>	 </text>
+            <text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
+            <text>	 </text>
+            <text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
+            <text>	 </text>
+            <text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack </text>
+            <text>	 </text>
+            <text>15th Level: boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="15">
+        <feature>
+            <name>Superior Attunement (Five Items)</name>
+            <text>At 5th level, your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. At 15th level, this limit increases to five magic items.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="16" scoreImprovement="YES">
+        <slots>0,4,3,3</slots>
+    </autolevel>
+    
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+            <name>Ability Score Improvement (4th)</name>
+            <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <slots>0,4,3,3</slots>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula (7) (Alchemist)</name>
+            <text>You learn an additional alchemical formula.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula: Healing Draught</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial of healing liquid. A creature can drink it as an action to regain 1d8 hit points. The vial then disappears. Once a creature regains hit points from this alchemical formula, the creature can&#8217;t do so again until it finishes a long rest. If not used, the vial and its contents disappear after 1 hour. While the vial exists, you can&#8217;t use this formula. </text>
+            <text>	This formula&#8217;s healing increases by 1d8 when you reach certain levels in this class: 3rd level (2d8), 5th level (3d8), 7th level (4d8), 9th level (5d8), 11th level (6d8), 13th level (7d8), 15th level (8d8), 17th level (9d8), and 19th level (10d8).</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula: Smoke Stick</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a stick that produces a thick plume of smoke. You can hold on to the stick or throw it to a point up to 30 feet away as part of the action used to produce it. The area in a 10-foot radius around the stick is filled with thick smoke that blocks vision, including darkvision. The stick and smoke persist for 1 minute and then disappear. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula: Swift Step Draught</name>
+            <text>As a bonus action, you can reach into your Alchemist&#8217;s Satchel and pull out a vial filled with a bubbling, brown liquid. As an action, a creature can drink it. Doing so increases the creature&#8217;s speed by 20 feet for 1 minute, and the vial disappears. If not used, the vial and its contents disappear after 1 minute. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 5</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula: Tanglefoot Bag </name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a bag filled with writhing, sticky black tar and hurl it at a point on the ground within 30 feet of you (the bag and its contents disappear if you don&#8217;t hurl the bag by the end of the current turn). The bag bursts on impact and covers the ground in a 5-foot radius with sticky goo. That area becomes difficult terrain for 1 minute, and any creature that starts its turn on the ground in that area has its speed halved for that turn. After using this formula, you can&#8217;t do so again for 1 minute.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Alchemical Formula: Thunderstone</name>
+            <text>As an action, you can reach into your Alchemist&#8217;s Satchel and pull out a crystalline shard and hurl it at a creature, object, or surface within 30 feet of you (the shard disappears if you don&#8217;t hurl it by the end of the current turn). The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a Constitution saving throw or be knocked prone and pushed 10 feet away from that point.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 6</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="17">
+        <feature optional="YES">
+            <name>Explosive Round (Gunsmith)</name>
+            <text>Starting at 17th level, you can channel fiery energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you launch an explosive round from the gun. The round detonates in a 30-foot radius sphere at a point within range. Each creature in that area must make a Dexterity saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d8 fire damage.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 7</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="18" scoreImprovement="YES">
+        <slots>0,4,3,3</slots>
+    </autolevel>
+    
+    <autolevel level="18" scoreImprovement="YES">
+        <feature>
+            <name>Ability Score Improvement (5th)</name>
+            <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="19">
+        <slots>0,4,3,3,1</slots>
+    </autolevel>
+    
+    <autolevel level="20">
+        <slots>0,4,3,3,1</slots>
+    </autolevel>
+    
+    <autolevel level="20">
+        <feature>
+            <name>Wondrous Invention (5th)</name>
+            <text>You complete another magic item of your choice. The item you choose must be on the list for your current artificer level or a lower level. </text>
+            <text>	These magic items are detailed in the Dungeon Master&#8217;s Guide. </text>
+            <text>	 </text>
+            <text>2nd Level: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones </text>
+            <text>	 </text>
+            <text>5th Level: alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets </text>
+            <text>	 </text>
+            <text>10th Level: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward&#8217;s handy haversack </text>
+            <text>	 </text>
+            <text>15th Level: boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing </text>
+            <text>	 </text>
+            <text>20th Level: eyes of the eagle, gem of brightness, gloves of missile snaring, gloves of swimming and climbing, ring of jumping, ring of mind shielding, wings of flying</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 3</text>
+        </feature>
+    </autolevel>
+    
+    <autolevel level="20">
+        <feature>
+            <name>Soul of Artifice</name>
+            <text>At 20th level, your understanding of magic items is unmatched, allowing you to mingle your soul with items linked to you. You can attune to up to six magic items at once. In addition, you gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
+            <text>	</text>
+            <text>Source: Unearthed Arcana: The Artificer, p. 4</text>
+        </feature>
+    </autolevel>
 </class>
 <class>
 	<name>Barbarian</name>

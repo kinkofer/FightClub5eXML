@@ -4,6 +4,7 @@
 ### 2020-01-25
 
 Added Artificer class from Eberron: Rising from the Last War.
+Renamed the Artificer from Unearthed Arcana to avoid conflicts.
 
 
 ### 2020-01-23
