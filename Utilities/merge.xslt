@@ -2,6 +2,7 @@
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common">
     <xsl:output method="xml" indent="yes" />
     
+    <!-- Merge the compendiums together -->
     <xsl:template match="collection">
         <compendium version="5" auto_indent="NO">
             <xsl:variable name="compendium" select="document(doc/@href)/compendium" />
@@ -39,6 +40,7 @@
         
         
         <!-- Define class variables -->
+        <xsl:variable name="Artificer" select="'Artificer'" />
         <xsl:variable name="Barbarian" select="'Barbarian'" />
         <xsl:variable name="Bard" select="'Bard'" />
         <xsl:variable name="Cleric" select="'Cleric'" />
@@ -53,6 +55,7 @@
         <xsl:variable name="Wizard" select="'Wizard'" />
         
         <xsl:variable name="classes">
+            <class><xsl:value-of select="$Artificer" /></class>
             <class><xsl:value-of select="$Barbarian" /></class>
             <class><xsl:value-of select="$Bard" /></class>
             <class><xsl:value-of select="$Cleric" /></class>
@@ -89,8 +92,8 @@
         </xsl:for-each>
         
         <!-- Get the remaining classes -->
-        <xsl:copy-of select="$compendium/class[name!=$Barbarian and name!=$Bard and name!=$Cleric and name!=$Druid and
-        name!=$Fighter and name!=$Monk and name!=$Paladin and name!=$Ranger and
-        name!=$Rogue and name!=$Sorcerer and name!=$Warlock and name!=$Wizard]" />
+        <xsl:copy-of select="$compendium/class[name!=$Artificer and name!=$Barbarian and name!=$Bard and name!=$Cleric and
+         name!=$Druid and name!=$Fighter and name!=$Monk and name!=$Paladin and name!=$Ranger and
+         name!=$Rogue and name!=$Sorcerer and name!=$Warlock and name!=$Wizard]" />
     </xsl:template>
 </xsl:transform>
