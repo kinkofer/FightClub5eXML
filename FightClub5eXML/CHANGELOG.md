@@ -1,6 +1,11 @@
 ## CHANGE LOG 
 
 
+### 2020-01-28
+
+Added and separated Artificer and Artificer (UA) spells.
+
+
 ### 2020-01-25
 
 Added Artificer class from Eberron: Rising from the Last War.

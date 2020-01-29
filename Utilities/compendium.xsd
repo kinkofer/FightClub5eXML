@@ -83,19 +83,19 @@
     
     <xs:simpleType name="skillList">
         <xs:restriction base="xs:string">
-            <xs:pattern value="([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
+            <xs:pattern value="([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
         </xs:restriction>
     </xs:simpleType>
     
     <xs:simpleType name="skillBonusList">
         <xs:restriction base="xs:string">
-            <xs:pattern value="(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*(, ?(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*)*"/>
+            <xs:pattern value="(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*(, ?(([Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival) [+-]?[0-9]+)*)*"/>
         </xs:restriction>
     </xs:simpleType>
     
     <xs:simpleType name="abilityAndSkillList">
         <xs:restriction base="xs:string">
-            <xs:pattern value="([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
+            <xs:pattern value="([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival)*(, ?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Aa]crobatics|[Aa]thletics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival)*)*"/>
         </xs:restriction>
     </xs:simpleType>
     
@@ -212,7 +212,7 @@
         <xs:restriction base="xs:string">
             <xs:pattern value="([Pp]assive )?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Hh][Pp]) ?[+-]? ?([0-9]*|%0|prof)"/>
             <xs:pattern value="([Mm]elee damage|[Mm]elee attacks|[Ww]eapon damage|[Ww]eapon attacks|[Rr]anged damage|[Rr]anged attacks|[Ss]pell attack|[Ss]pell [Dd][Cc]|[Ss]aving throws|[Aa][Cc]|[Ss]peed|[Pp]roficiency bonus|[Ii]nitiative) ?[+-]? ?([0-9]*|%0|prof)"/>
-            <xs:pattern value="([Aa]thletics|[Aa]crobatics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight of [Hh]and|[Ss]tealth|[Ss]urvival) ?[+-]? ?([0-9]*|%0|prof)"/>
+            <xs:pattern value="([Aa]thletics|[Aa]crobatics|[Aa]nimal [Hh]andling|[Aa]rcana|[Dd]eception|[Hh]istory|[Ii]nsight|[Ii]ntimidation|[Ii]nvestigation|[Mm]edicine|[Nn]ature|[Pp]erception|[Pp]erformance|[Pp]ersuasion|[Rr]eligion|[Ss]leight [Oo]f [Hh]and|[Ss]tealth|[Ss]urvival) ?[+-]? ?([0-9]*|%0|prof)"/>
         </xs:restriction>
     </xs:simpleType>
     
