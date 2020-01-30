@@ -1,5 +1,19 @@
 ## CHANGE LOG 
 
+### 2020-01-29
+
+Added remaining monsters from Baldur's Gate: Descent Into Avernus.
+
+Added subclasses from Guildmaster's Guide To Ravnica.
+
+Added races, feats, and backgrounds from...
+
+- Acquisitions Incorporated
+- Baldur's Gate: Descent Into Avernus
+- Eberron: Rising From The Last War
+- Guildmaster's Guide To Ravnica
+
+Renamed some races to avoid naming conflicts.
 
 ### 2020-01-28
 
@@ -9,6 +23,7 @@ Added and separated Artificer and Artificer (UA) spells.
 ### 2020-01-25
 
 Added Artificer class from Eberron: Rising from the Last War.
+
 Renamed the Artificer from Unearthed Arcana to avoid conflicts.
 
 
@@ -17,7 +32,7 @@ Renamed the Artificer from Unearthed Arcana to avoid conflicts.
 Added monsters and spells from...
 
 - Acquisitions Incorporated
-- Eberron Rising From The Last War
+- Eberron: Rising From The Last War
 - Guildmaster's Guide To Ravnica
 - Mordenkainen's Fiendish Folio
 - Hunt For The Thesselhydra
@@ -38,29 +53,30 @@ Added "CoreRulebooks" collection.
 
 Updated more monsters for descent into avernus
 
-Death’s Head of Bhaal
-Necromite of Myrkul
-Skull Lash of Myrkul
-Master of Souls
-Fiendish Flesh Golem
-Hellwasp
+- Death’s Head of Bhaal
+- Necromite of Myrkul
+- Skull Lash of Myrkul
+- Master of Souls
+- Fiendish Flesh Golem
+- Hellwasp
 
 ### 2019-11-16
 
 Updated some monsters from Baldur’s Gate descent into avernus.
 
-Crokek’toeck
-Fist of Bane
-Iron Consul
-Black Gauntlet of Bane
-Night Blade
-Reaper of Bhaal
+- Crokek’toeck
+- Fist of Bane
+- Iron Consul
+- Black Gauntlet of Bane
+- Night Blade
+- Reaper of Bhaal
 
 Some typo fixes
 
 ### 2019-10-12
 
 Updated and completed the magical items from Baldur’s Gate Descent into Avernus
+
 Updated and added all Infernal Vehicles stats, these can be added as companions in your character sheet. Details on mounted combat and infernal vehicles should be consulted with your DM who is running Avernus.
 
 ### 2019-10-01
@@ -73,7 +89,7 @@ Completed Ghosts of saltmarsh
 
 ### 2019-09-09
 
-amended some spell slots for spellcasters to have proper number
+Amended some spell slots for spellcasters to have proper number
 
 ### 2019-09-08
 
@@ -86,6 +102,7 @@ Updated more from Ghosts of Saltmarsh, additional pirates, sahuagin.
 ### 2019-09-05
 
 Added Nimblewright from Waterdeep Dragon Heist
+
 Added more ghosts of saltmarsh merfolk salvager, minotaur living statue, monstrous peryton, various pirates.
 
 ### 2019–08-31
@@ -96,24 +113,24 @@ Lots more Typos crushed following an XML validation
 
 Updated more Ghosts of Saltmarsh monsters:
 
-Living Iron Statue
-Lizardfolk Commoner
-Lizardfolk Render
-Lizardfolk Scaleshield
-Lizardfolk Subchief
-Locathah
-Locathah Hunter
-Maw of Sekolah
+- Living Iron Statue
+- Lizardfolk Commoner
+- Lizardfolk Render
+- Lizardfolk Scaleshield
+- Lizardfolk Subchief
+- Locathah
+- Locathah Hunter
+- Maw of Sekolah
 
 ### 2019-08-12
 
 Updated more Ghosts of Saltmarsh monsters:
 
-Harpy Matriarch
-Juvenile Kraken
-Koalinth
-Koalinth Sergeant
-Kysh
+- Harpy Matriarch
+- Juvenile Kraken
+- Koalinth
+- Koalinth Sergeant
+- Kysh
 
 ### 2019-08-08
 
