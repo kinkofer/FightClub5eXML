@@ -102,6 +102,256 @@
             </text>
         </trait>
     </race>
+    <race>
+        <name>Goblin (Ravnica)</name>
+        <size>S</size>
+        <speed>30</speed>
+        <ability>Dex 2, Con 1</ability>
+        <proficiency></proficiency>
+        <spellAbility></spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Whether sniveling in fear, cackling with mad laughter, or snarling in a fury, goblins are wretched and inconsequential—at least in the eyes of most of Ravnica's other folk. In their own minds, though, they are content to lurk in the shadows only until they fully come into their own and receive the recognition they believe they deserve. They are entitled to some credit for their tenacity, agility, crafty ingenuity, and dumb luck, all of which has enabled them to survive in a world overrun with creatures larger and more powerful than they are.
+                Source: Guildmasters' Guide to Ravnica p. 16</text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>Goblins reach adulthood around age 8. They age noticeably faster than humans, and though few goblins live to old age, the most cautious rarely live longer than 60 years.
+            </text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Most of the goblins of Ravnica are chaotic, with no inclination toward good or evil.
+            </text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
+            </text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+            </text>
+        </trait>
+        <trait>
+            <name>Fury of the Small</name>
+            <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+            </text>
+        </trait>
+        <trait>
+            <name>Nimble Escape</name>
+            <text>You can take the Disengage or Hide action as a bonus action on each of your turns.
+            </text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Goblin. In Ravnica, Goblin is a simplistic language with a limited vocabulary and fluid rules of grammar, unsuited for any sophisticated conversation.
+            </text>
+        </trait>
+        <trait>
+            <name>Small and Wiry</name>
+            <text>Standing around 3 feet tall and covered in warty green or red skin, goblins have huge noses and ears. Their wiry bodies are surprisingly strong, and their mouths are full of sharp, crooked teeth.
+                Most goblins are bald, either by heredity or by choice, but a few boast shocks of red or black hair. Their arms and legs are elongated in proportion to their small bodies, and their fingers and toes are also long and slender. Many goblins prefer to go unshod to leave their toes exposed for climbing.
+            </text>
+        </trait>
+        <trait>
+            <name>Unfettered Emotion</name>
+            <text>Creatures of raw impulse, goblins are found among guilds that value that quality, particularly the Izzet (where they typically serve as attendants for researchers), the Gruul (in camps that form hapless buffers between the clans and civilized regions), the Rakdos (putting their love of explosions to good use), and occasionally the Boros (if they discover a well of discipline and courage within themselves, or find themselves unable to resist the shininess of Boros weapons and armor). Many goblins are guildless and make their way as members of street gangs.
+                Sometimes driven by wild mood swings, goblins have an inclination toward destruction, which can take a playful form but is often anything but. Some goblins clobber things, others like to light them on fire, and many love to blow things up.
+                Goblins have an outrageous sense of humor, usually expressed through mischievous pranks. The malicious among them find pleasure in the misfortune of others and tend to cackle maniacally whenever they're amused. They can act with apparent randomness, sometimes just to confuse and befuddle others.
+            </text>
+        </trait>
+        <trait>
+            <name>Goblin Names</name>
+            <text>The Goblin language is fond of certain sounds, and goblin names tend to repeat those sounds to form what can sound like nonsense words. A goblin's name gives no indication of gender.
+                • Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
+            </text>
+        </trait>
+    </race>
+    
+    <!-- Classes -->
+    <class>
+      <name>Cleric</name>
+      <autolevel level="1">
+          <feature optional="YES">
+              <name>Divine Domain: Order Domain</name>
+              <text>The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, Majere, Erathis, Pholtus, Wee Jas, Aureon, Maglubiyet, Nuada, Athena, Anubis, Forseti, and Asmodeus.</text>
+              <text>The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.</text>
+              <text>Law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.</text>
+              <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+              <text></text>
+              <text>Cleric Level | Spells</text>
+              <text>1st | command, heroism</text>
+              <text>3rd | hold person, zone of truth</text>
+              <text>5th | mass healing word, slow</text>
+              <text>7th | compulsion, locate creature</text>
+              <text>9th | commune, dominate person</text>
+              <text></text>
+              <text>Cleric Level | Spells</text>
+              <text>1st | command, heroism</text>
+              <text>3rd | hold person, zone of truth</text>
+              <text>5th | mass healing word, slow</text>
+              <text>7th | compulsion, locate creature</text>
+              <text>9th | commune, dominate person</text>
+              <text></text>
+              <text>Cleric Level | Spells</text>
+              <text>1st | command, heroism</text>
+              <text>3rd | hold person, zone of truth</text>
+              <text>5th | mass healing word, slow</text>
+              <text>7th | compulsion, locate creature</text>
+              <text>9th | commune, dominate person</text>
+              <text></text>
+              <text>Cleric Level | Spells</text>
+              <text>1st | command, heroism</text>
+              <text>3rd | hold person, zone of truth</text>
+              <text>5th | mass healing word, slow</text>
+              <text>7th | compulsion, locate creature</text>
+              <text>9th | commune, dominate person</text>
+              <text></text>
+              <text>Cleric Level | Spells</text>
+              <text>1st | command, heroism</text>
+              <text>3rd | hold person, zone of truth</text>
+              <text>5th | mass healing word, slow</text>
+              <text>7th | compulsion, locate creature</text>
+              <text>9th | commune, dominate person</text>
+              <text></text>
+              <text>Bonus Proficiencies</text>
+              <text>   When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill (your choice).</text>
+              <text></text>
+              <text>Voice of Authority</text>
+              <text>   Starting at 1st level, you can invoke the power of law to drive an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.</text>
+              <text>   If the spell targets more than one ally, you choose the ally who can make the attack.</text>
+              <text></text>
+              <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
+          </feature>
+      </autolevel>
+      <autolevel level="2">
+          <feature optional="YES">
+              <name>Channel Divinity: Order's Demand (Order Domain)</name>
+              <text>   Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.</text>
+              <text>   As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.</text>
+              <text></text>
+              <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
+          </feature>
+      </autolevel>
+      <autolevel level="6">
+          <feature optional="YES">
+              <name>Embodiment of the Law (Order Domain)</name>
+              <text>   At 6th level, you become remarkably adept at channeling magical energy to compel others.</text>
+              <text>   If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.</text>
+              <text>   You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+              <text></text>
+              <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
+          </feature>
+      </autolevel>
+      <autolevel level="8">
+          <feature optional="YES">
+              <name>Divine Strike (Order Domain)</name>
+              <text>   At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+              <name>Blessed Strikes (Order Domain)</name>
+              <text>   8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+              <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+              <text></text>
+              <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
+          </feature>
+      </autolevel>
+      <autolevel level="17">
+          <feature optional="YES">
+              <name>Order's Wrath (Order Domain)</name>
+              <text>   Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.</text>
+              <text></text>
+              <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
+          </feature>
+      </autolevel>
+    </class>
+    <class>
+        <name>Druid</name>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Druid Circle: Circle of Spores</name>
+                <text>Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.</text>
+                <text>These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.</text>
+                <text>Druids of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.</text>
+                <text></text>
+                <text>Circle Spells</text>
+                <text>   Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the chill touch cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.</text>
+                <text>   Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | blindness/deafness, gentle repose</text>
+                <text>5th | animate dead, gaseous form</text>
+                <text>7th | blight, confusion</text>
+                <text>9th | cloudkill, contagion</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | blindness/deafness, gentle repose</text>
+                <text>5th | animate dead, gaseous form</text>
+                <text>7th | blight, confusion</text>
+                <text>9th | cloudkill, contagion</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | blindness/deafness, gentle repose</text>
+                <text>5th | animate dead, gaseous form</text>
+                <text>7th | blight, confusion</text>
+                <text>9th | cloudkill, contagion</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | blindness/deafness, gentle repose</text>
+                <text>5th | animate dead, gaseous form</text>
+                <text>7th | blight, confusion</text>
+                <text>9th | cloudkill, contagion</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | blindness/deafness, gentle repose</text>
+                <text>5th | animate dead, gaseous form</text>
+                <text>7th | blight, confusion</text>
+                <text>9th | cloudkill, contagion</text>
+                <text></text>
+                <text>Halo of Spores</text>
+                <text>   Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.</text>
+                <text></text>
+                <text>Symbiotic Entity</text>
+                <text>   At 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</text>
+                <text>• When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</text>
+                <text>• Your melee weapon attacks deal an extra 1d6 poison damage to any target they hit.</text>
+                <text>   These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.</text>
+                <text></text>
+                <text>Rule Tip: Temporary Hit Points Don't Stack</text>
+                <text>   If you have temporary hit points and receive more of them, you don't add them together, unless a rule says you can. Instead, you decide which temporary hit points to keep. For more information on temporary hit points, see chapter 9 of the Player's Handbook.</text>
+                <text></text>
+                <text>Source: Guildmasters' Guide to Ravnica p. 26</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Fungal Infestation (Circle of Spores)</name>
+                <text>   At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.</text>
+                <text>   In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.</text>
+                <text>   You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Guildmasters' Guide to Ravnica p. 26</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Spreading Spores (Circle of Spores)</name>
+                <text>   At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.</text>
+                <text>   Whenever a creature moves into the cube or starts its turn there, that creature takes your Halo of Spores damage, unless the creature succeeds on a Constitution saving throw against your spell save DC. A creature can take this damage no more than once per turn.</text>
+                <text>   While the cube of spores persists, you can't use your Halo of Spores reaction.</text>
+                <text></text>
+                <text>Source: Guildmasters' Guide to Ravnica p. 26</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Fungal Body (Circle of Spores)</name>
+                <text>   At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.</text>
+                <text></text>
+                <text>Source: Guildmasters' Guide to Ravnica p. 26</text>
+            </feature>
+        </autolevel>
+    </class>
     
     <!-- Spells -->
     <spell>

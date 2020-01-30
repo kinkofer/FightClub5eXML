@@ -9735,7 +9735,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-	<name>Changeling</name>
+	<name>Changeling (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2</ability>
@@ -9849,7 +9849,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Dwarf, Mark of Warding</name>
+    <name>Dwarf, Mark of Warding (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>25</speed>
     <ability>Con 2, Dex 1, Int 1</ability>
@@ -9905,7 +9905,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Elf, Aereni High</name>
+    <name>Elf, Aereni High (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 2, Int 1</ability>
@@ -9955,7 +9955,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Elf, Aereni Wood</name>
+    <name>Elf, Aereni Wood (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Dex 2, Wis 1</ability>
@@ -10077,7 +10077,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Elf, Mark of Shadow</name>
+    <name>Elf, Mark of Shadow (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 2, Cha 1</ability>
@@ -10246,7 +10246,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Elf, Valenar High</name>
+    <name>Elf, Valenar High (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 2, Int 1</ability>
@@ -10296,7 +10296,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Elf, Valenar Wood</name>
+    <name>Elf, Valenar Wood (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Dex 2, Wis 1</ability>
@@ -10630,7 +10630,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Gnome, Mark of Scribing</name>
+    <name>Gnome, Mark of Scribing (Wayfinder's Guide)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Int 2, Cha 1</ability>
@@ -10854,7 +10854,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Halfling, Mark of Healing</name>
+    <name>Halfling, Mark of Healing (Wayfinder's Guide)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex 2, Wis 1</ability>
@@ -10898,7 +10898,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Halfling, Mark of Hospitality</name>
+    <name>Halfling, Mark of Hospitality (Wayfinder's Guide)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex 2, Cha 1</ability>
@@ -10942,7 +10942,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-	<name>Half-Elf (High Elf Ancestry)</name>
+	<name>Half-Elf, High Elf Ancestry</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2</ability>
@@ -10994,7 +10994,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Half-Elf (Wood Elf Ancestry)</name>
+    <name>Half-Elf, Wood Elf Ancestry</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha 2</ability>
@@ -11053,7 +11053,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Half-Elf (Dark Elf Ancestry)</name>
+    <name>Half-Elf, Dark Elf Ancestry</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha 2</ability>
@@ -11098,7 +11098,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Half-Elf (Aquatic Elf Ancestry)</name>
+    <name>Half-Elf, Aquatic Elf Ancestry</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha 2</ability>
@@ -11143,7 +11143,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Half-Elf, Mark of Detection</name>
+    <name>Half-Elf, Mark of Detection (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int 1, Cha 1</ability>
@@ -11175,7 +11175,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Half-Elf, Mark of Storm</name>
+    <name>Half-Elf, Mark of Storm (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Cha 1</ability>
@@ -11219,7 +11219,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Half-Orc, Mark of Finding</name>
+    <name>Half-Orc, Mark of Finding (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str 1, Wis 1</ability>
@@ -11296,7 +11296,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Human, Mark of Finding</name>
+    <name>Human, Mark of Finding (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Wis 1</ability>
@@ -11341,7 +11341,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Human, Mark of Handling</name>
+    <name>Human, Mark of Handling (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Wis 1</ability>
@@ -11385,7 +11385,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Human, Mark of Making</name>
+    <name>Human, Mark of Making (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int 1, Dex 1</ability>
@@ -11429,7 +11429,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Human, Mark of Passage</name>
+    <name>Human, Mark of Passage (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>40</speed>
     <ability>Dex 2</ability>
@@ -11473,7 +11473,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Human, Mark of Sentinel</name>
+    <name>Human, Mark of Sentinel (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str 1, Wis 1</ability>
@@ -11511,7 +11511,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-	<name>Kalashtar</name>
+	<name>Kalashtar (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Wis 1, Cha 1</ability>
@@ -11727,7 +11727,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Shifter, Beasthide</name>
+    <name>Shifter, Beasthide (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Con 2</ability>
@@ -11772,7 +11772,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-    <name>Shifter, Longtooth</name>
+    <name>Shifter, Longtooth (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Str 2</ability>
@@ -11817,7 +11817,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
     </trait>
 </race>
 <race>
-	<name>Shifter, Swiftstride</name>
+	<name>Shifter, Swiftstride (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>35</speed>
 	<ability>Dex 2, Cha 1</ability>
@@ -11868,7 +11868,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-    <name>Shifter, Wildhunt</name>
+    <name>Shifter, Wildhunt (Wayfinder's Guide)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex 1, Wis 2</ability>
@@ -12457,7 +12457,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-	<name>Warforged Envoy</name>
+	<name>Warforged Envoy (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Con 1</ability>
@@ -12524,7 +12524,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-	<name>Warforged Juggernaut</name>
+	<name>Warforged Juggernaut (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Con 1, Str 2</ability>
@@ -12585,7 +12585,7 @@ Khyber dragonshards are found deep in the earth, often near layers of magma. The
 	</trait>
 </race>
 <race>
-	<name>Warforged Skirmisher</name>
+	<name>Warforged Skirmisher (Wayfinder's Guide)</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Con 1, Dex 2</ability>
