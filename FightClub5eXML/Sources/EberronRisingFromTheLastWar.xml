@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <!-- Races -->
     <race>
-        <name>Elf, Mark of Shadow (Eberron)</name>
+        <name>Elf, Mark of Shadow</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Dex 2, Cha 1</ability>
@@ -105,7 +105,7 @@
         </trait>
     </race>
     <race>
-        <name>Gnome, Mark of Scribing (Eberron)</name>
+        <name>Gnome, Mark of Scribing</name>
         <size>S</size>
         <speed>25</speed>
         <ability>Int 2, Cha 1</ability>
@@ -201,7 +201,7 @@
         </trait>
     </race>
     <race>
-        <name>Half-Elf, Mark of Detection (Eberron)</name>
+        <name>Half-Elf, Mark of Detection</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Cha 2, Wis 2</ability>
@@ -277,7 +277,7 @@
         </trait>
     </race>
     <race>
-        <name>Half-Elf, Mark of Storm (Eberron)</name>
+        <name>Half-Elf, Mark of Storm</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Cha 2, Cha 2, Dex 1</ability>
@@ -354,7 +354,7 @@
         </trait>
     </race>
     <race>
-        <name>Half-Orc, Mark of Finding (Eberron)</name>
+        <name>Half-Orc, Mark of Finding</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Str 2, Con 1, Con 1, Wis 2</ability>
@@ -438,7 +438,7 @@
         </trait>
     </race>
     <race>
-        <name>Dwarf, Mark of Warding (Eberron)</name>
+        <name>Dwarf, Mark of Warding</name>
         <size>M</size>
         <speed>25</speed>
         <ability>Con 2, Int 1</ability>
@@ -570,7 +570,7 @@
         </trait>
     </race>
     <race>
-        <name>Human, Mark of Finding (Eberron)</name>
+        <name>Human, Mark of Finding</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Con 1, Wis 2</ability>
@@ -684,7 +684,7 @@
         </trait>
     </race>
     <race>
-        <name>Human, Mark of Handling (Eberron)</name>
+        <name>Human, Mark of Handling</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Wis 2</ability>
@@ -798,7 +798,7 @@
         </trait>
     </race>
     <race>
-        <name>Human, Mark of Making (Eberron)</name>
+        <name>Human, Mark of Making</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Int 2</ability>
@@ -912,7 +912,7 @@
         </trait>
     </race>
     <race>
-        <name>Human, Mark of Passage (Eberron)</name>
+        <name>Human, Mark of Passage</name>
         <size>M</size>
         <speed>35</speed>
         <ability>Dex 2</ability>
@@ -1027,7 +1027,7 @@
         </trait>
     </race>
     <race>
-        <name>Human, Mark of Sentinel (Eberron)</name>
+        <name>Human, Mark of Sentinel</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Con 2, Wis 1</ability>
@@ -1141,7 +1141,7 @@
         </trait>
     </race>
     <race>
-        <name>Halfling, Mark of Healing (Eberron)</name>
+        <name>Halfling, Mark of Healing</name>
         <size>S</size>
         <speed>25</speed>
         <ability>Dex 2, Wis 1</ability>
@@ -1255,7 +1255,7 @@
         </trait>
     </race>
     <race>
-        <name>Halfling, Mark of Hospitality (Eberron)</name>
+        <name>Halfling, Mark of Hospitality</name>
         <size>S</size>
         <speed>25</speed>
         <ability>Dex 2, Cha 1</ability>
@@ -1604,7 +1604,7 @@
         </trait>
     </race>
     <race>
-        <name>Kalashtar (Eberron)</name>
+        <name>Kalashtar</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Wis 2, Cha 1</ability>
@@ -1691,7 +1691,7 @@
         </trait>
     </race>
     <race>
-        <name>Shifter, Beasthide (Eberron)</name>
+        <name>Shifter, Beasthide</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Con 2, Str 1</ability>
@@ -1783,7 +1783,7 @@
         </trait>
     </race>
     <race>
-        <name>Shifter, Longtooth (Eberron)</name>
+        <name>Shifter, Longtooth</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Str 2, Dex 1</ability>
@@ -1875,7 +1875,7 @@
         </trait>
     </race>
     <race>
-        <name>Shifter, Swiftstride (Eberron)</name>
+        <name>Shifter, Swiftstride</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Dex 2, Cha 1</ability>
@@ -1967,7 +1967,7 @@
         </trait>
     </race>
     <race>
-        <name>Shifter, Wildhunt (Eberron)</name>
+        <name>Shifter, Wildhunt</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Wis 2, Dex 1</ability>
@@ -2059,7 +2059,7 @@
         </trait>
     </race>
     <race>
-        <name>Warforged (Eberron)</name>
+        <name>Warforged</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Con 2</ability>
@@ -2160,7 +2160,7 @@
         </trait>
     </race>
     <race>
-        <name>Changeling (Eberron)</name>
+        <name>Changeling</name>
         <size>M</size>
         <speed>30</speed>
         <ability>Cha 2</ability>
