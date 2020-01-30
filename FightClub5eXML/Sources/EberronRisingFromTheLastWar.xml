@@ -554,6 +554,120 @@
         </autolevel>
     </class>
     
+    <!-- Feats -->
+    <feat>
+        <name>Revenant Blade</name>
+        <prerequisite>Elf</prerequisite>
+        <text>You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
+            • Increase your Strength or Dexterity score by 1, to a maximum of 20
+            • While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
+            • A double-bladed scimitar has the finesse property when you wield it.
+            Source: Eberron: Rising from the Last War p. 22</text>
+    </feat>
+    <feat>
+        <name>Aberrant Dragonmark</name>
+        <prerequisite></prerequisite>
+        <text>You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
+            • You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
+            • When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
+            You also develop a random flaw from the Aberrant Dragonmark Flaws table.
+            d8 | Flaw
+            1 | Your mark is a source of constant physical pain.
+            2 | Your mark whispers to you. Its meaning can be unclear.
+            3 | When you're stressed, the mark hisses audibly.
+            4 | The skin around the mark is burned, scaly, or withered.
+            5 | Animals are uneasy around you.
+            6 | You have a mood swing any time you use your mark.
+            7 | Your looks change slightly whenever you use the mark.
+            8 | You have horrific nightmares after you use your mark.
+            
+            Source: Eberron: Rising from the Last War p. 52</text>
+        <modifier category="ability score">Constitution +1</modifier>
+    </feat>
+    
+    <!-- Backgrounds -->
+    <background>
+        <name>House Agent</name>
+        <proficiency>Investigation, Persuasion</proficiency>
+        <trait>
+            <name>Description</name>
+            <text>You have sworn fealty to a dragonmarked house. If you have a dragonmark, you're likely a member of one of the house's influential families; otherwise you're an outsider who hopes to make your fortune through the house. Your main task is to serve as the eyes of your house, but you could be called on at any time to act as its hand. Such missions can be perilous but lucrative.
+                • Skill Proficiencies: Investigation, Persuasion
+                • Tool Proficiency: Two proficiencies from the House Tool Proficiencies table
+                • Equipment: A set of fine clothes, house signet ring, identification papers, and a purse containing 20 gp.
+                Your House | Proficiencies
+                Cannith | Alchemist's supplies and tinker's tools
+                Deneith | One gaming set and vehicles (land)
+                Ghallanda | Brewer's supplies and cook's utensils
+                Jorasco | Alchemist's supplies and herbalism kit
+                Kundarak | Thieves' tools and tinker's tools
+                Lyrandar | Navigator's tools and vehicles (sea and air)
+                Medani | Disguise kit and thieves' tools
+                Orien | One gaming set and vehicles (land)
+                Phiarlan | Disguise kit and one musical instrument
+                Sivis | Calligrapher's supplies and forgery kit
+                Tharashk | One gaming set and thieves' tools
+                Thuranni | One musical instrument and poisoner's kit
+                Vadalis | herbalism kit and vehicles (land)
+                Source: Eberron: Rising from the Last War p. 53</text>
+        </trait>
+        <trait>
+            <name>Role</name>
+            <text>You always gather information for your house, but when a baron give you a specific mission, what sort of work do you do? The House Agent Role table gives possibilities.
+                d8 | Role
+                1 | Acquisition
+                2 | Investigation
+                3 | Research &amp; Development
+                4 | Security
+                5 | Intimidation
+                6 | Exploration
+                7 | Negotiation
+                8 | Covert Operations
+            </text>
+        </trait>
+        <trait>
+            <name>Feature: House Connections</name>
+            <text>As an agent of your house, you can always get food and lodging for yourself and your friends at a house enclave. When the house assigns you a mission, it will usually provide you with the necessary supplies and transportation. Beyond this, you have many old friends, mentors, and rivals in your house, and you may encounter one of them when you interact with a house business. The degree to which such acquaintances are willing to help you depends on your current standing in your house.
+            </text>
+        </trait>
+        <trait>
+            <name>Suggested Characteristics</name>
+            <text>House agents are diverse. Consider the house you serve and the work you do when choosing characteristics.
+                d6 | Personality Trait
+                1 | I'm always looking to improve efficiency.
+                2 | I love to share trivia about my house's business.
+                3 | I never forget an insult against me or my house.
+                4 | I'm enthusiastic about everything my house does.
+                5 | I represent my house and take pride in my looks.
+                6 | I'm critical of monarchies and limits on the houses.
+                
+                d6 | Ideal
+                1 | Common Good. My house serves a vital function, and its prosperity will help everyone. (Good)
+                2 | Tradition. I uphold traditions of my house and bring honor to my family. (Lawful)
+                3 | Innovation. Abandon old traditions and find better ways to do things. (Chaotic)
+                4 | Power. I want to ensure the prosperity of my house and wield its power myself. (Evil)
+                5 | Discovery. I want to learn all I can, both for my house and for my own curiosity. (Any)
+                6 | Comfort. I want to ensure that me and mine enjoy the best things in life. (Any)
+                
+                d6 | Bond
+                1 | My house is my family. I would do anything for it.
+                2 | I love someone from another house, but the relationship is forbidden.
+                3 | Someone I love was killed by a rival faction within my house, and I will have revenge.
+                4 | I don't care about the house as a whole, but I would do anything for my old mentor.
+                5 | My house must evolve, and I'll lead the evolution.
+                6 | I'm determined to impress the leaders of my house, and to become a leader myself.
+                
+                d6 | Flaw
+                1 | I'm fixated on following official protocols.
+                2 | I'm obsessed with conspiracy theories and worried about secret societies and hidden demons.
+                3 | My house and bloodline make me the best!
+                4 | My secret could get me expelled from my house.
+                5 | My religious beliefs aren't widespread in my house.
+                6 | I'm working for a hidden faction in my house that gives me secret assignments.
+            </text>
+        </trait>
+    </background>
+    
     <!-- Spells -->
     <spell>
         <name>Absorb Elements</name>

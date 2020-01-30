@@ -1,5 +1,15 @@
 ## CHANGE LOG 
 
+### 2020-01-29
+
+Added remaining monsters from Baldur's Gate: Descent Into Avernus.
+Added races, feats, and backgrounds from...
+
+- Acquisitions Incorporated
+- Baldur's Gate: Descent Into Avernus
+- Eberron: Rising From The Last War
+- Guildmaster's Guide To Ravnica
+
 
 ### 2020-01-28
 
@@ -17,7 +27,7 @@ Renamed the Artificer from Unearthed Arcana to avoid conflicts.
 Added monsters and spells from...
 
 - Acquisitions Incorporated
-- Eberron Rising From The Last War
+- Eberron: Rising From The Last War
 - Guildmaster's Guide To Ravnica
 - Mordenkainen's Fiendish Folio
 - Hunt For The Thesselhydra
