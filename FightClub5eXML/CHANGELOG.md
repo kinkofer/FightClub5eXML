@@ -1,5 +1,15 @@
 ## CHANGE LOG 
 
+### 2020-01-31
+
+Added missing features of Barbarian subclass Ancestral Guardian from Xanathar's Guide to Everything.
+
+Separated out Xanathar's Guide to Everything from supplement rulebooks and adventures.
+
+Separated out items from Wayfinder's Guide to Eberron from supplement rulebooks and adventures.
+
+Updated Collections with the two new sources.
+
 ### 2020-01-29
 
 Added remaining monsters from Baldur's Gate: Descent Into Avernus.
