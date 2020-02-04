@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Bard</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Bard College: College of Creation (UA)</name>
+                <text>Bards believe the multiverse was given existence through word and sound, esoteric harmonies that continue to resound through existence: the Song of Creation. The bards of this college draw on this ancient power through performances of dance, music, or song to bring into being what they need most.</text>
+                <text>Members of this college might have developed their powers during experiences on other worlds or planes of existence. Those who have seen the commonalities of multiple realities might have learned how to tap into truths most mortals glimpse only for a moment. Alternatively, the bard might find themselves out of step with their own home plane, reality, or time, their connections to elsewhere allowing them to manipulate the space around them. Regardless of where a bard draws their powers from, other performers might be drawn to them, either to learn their secrets or to put an end to their dangerous manipulation of the Song of Creation.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Note of Potential (College of Creation (UA))</name>
+                <text>3rd-level College of Creation feature</text>
+                <text>   You can manipulate the Song of Creation to summon a floating musical note of possibility: Whenever you give a creature a Bardic Inspiration die, you can create a Note of Potential. The note orbits within 5 feet of the creature. The note is a Tiny object that is intangible and invulnerable, and it lasts until the creature rolls the Bardic Inspiration die. A creature with a note can use it in the following ways.</text>
+                <text></text>
+                <text>Note of Destruction</text>
+                <text>   Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll, the creature can expend the note to create a burst of sound. Each other creature within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.</text>
+                <text></text>
+                <text>Note of Protection</text>
+                <text>   Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the creature can expend the note to gain temporary hit points equal to the number rolled on the Bardic Inspiration die + your Charisma modifier, provided the creature doesn't already have temporary hit points.</text>
+                <text></text>
+                <text>Note of Inspiration</text>
+                <text>   When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can expend the note to reroll the Bardic Inspiration die and must use the second roll.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Performance of Creation (College of Creation (UA))</name>
+                <text>   6th-level College of Creation feature</text>
+                <text>   Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 10 times your bard level and must be no larger than a 10foot cube. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, and Tools tables in chapter 5, "Equipment," of the Player's Handbook.</text>
+                <text>   The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item's duration is extended to the end of your next turn, up to a maximum of 10 minutes. If you maintain the item for the full 10 minutes, it continues to exist for a number of hours equal to your bard level.</text>
+                <text>   Once you create an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Animating Performance (College of Creation (UA))</name>
+                <text>   14th-level College of Creation feature</text>
+                <text>   Your mastery over the Song of Creation allows you to bring items to life. When you create a nonmagical item using your Performance of Creation feature, you can instill life into it. The dancing item is under your control until the item vanishes or until it is reduced to 0 hit points.</text>
+                <text>   In combat, the animated item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action. When you use your Bardic Inspiration, you can command which action your animated item takes as part of the same bonus action.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Cleric</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Divine Domain: Love Domain (UA)</name>
+                <text>Love exists in many forms—compassion, infatuation, friendly affection, and passionate love as a few facets. Whatever form these feelings take, the gods of love deepen the bonds between individuals.</text>
+                <text></text>
+                <text>Deity | Pantheon</text>
+                <text>Aengus | Celtic</text>
+                <text>Aphrodite | Greek</text>
+                <text>Balder | Norse</text>
+                <text>Berronar Truesilver | Dwarven</text>
+                <text>Boldrei | Eberron</text>
+                <text>Cyrrollalee | Halfling</text>
+                <text>Freya | Norse</text>
+                <text>Hanali Celanil | Elven</text>
+                <text>Hathor | Egyptian</text>
+                <text>Mishakal | Dragonlance</text>
+                <text>Myhriss | Greyhawk</text>
+                <text>Sharindlar | Dwarven</text>
+                <text>Sheyanna Flaxenstrand | Gnomish</text>
+                <text>Sune | Forgotten Realms</text>
+                <text></text>
+                <text>Love Domain Spells:</text>
+                <text>    Clerics of these gods preside over marriages and other familial bonding customs, but they also nurture the emotional bonds of friendship and camaraderie. Their divine blessings bolster and protect allies in battle through these deep bonds and enkindle flares of infatuation to spur their allies and confound their foes.</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | charm person, heroism</text>
+                <text>3rd | enthrall, warding bond</text>
+                <text>5th | beacon of hope, hypnotic pattern</text>
+                <text>7th | aura of purity, confusion</text>
+                <text>9th | greater restoration, hold monster</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Emboldening Bond (Love Domain (UA))</name>
+                <text>1st-level Love Domain feature</text>
+                <text>   You can forge an empowering bond between allies. As an action, you can choose two willing creatures you can see within 30 feet of you (this can include yourself) and create a magical bond between them. While either bonded creature is within 30 feet of the other, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn. The bond lasts for 1 hour or until you use this feature again.</text>
+                <text>   You can use this feature once, and you regain the ability to do so when you finish a long rest. You can also expend a spell slot to use the feature again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Channel Divinity: Impulsive Infatuation (Love Domain (UA))</name>
+                <text>2nd-level Love Domain feature</text>
+                <text>   You can use your Channel Divinity to overwhelm a creature with a flash of short-lived but intense admiration for you, driving them to rash action in your defense.</text>
+                <text>   As an action, you present your holy symbol and choose one creature you can see within 30 feet of you. That creature must make a Wisdom saving throw; a creature can choose to fail this saving throw if it wishes. On a success, the creature is unaffected. On a failure, the creature is charmed by you until the start of your next turn, and it must immediately use its reaction to make a weapon attack against a target you designate. If there are no valid targets, it uses its reaction to admire you.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Protective Bond (Love Domain (UA))</name>
+                <text>6th-level Love Domain feature</text>
+                <text>   The bond you forge between people shields them from harm. While either creature chosen for your Emboldening Bond feature is within 30 feet of the other, the creature can use its reaction to grant resistance to all damage to the other creature when that other creature takes damage. This resistance lasts until the end of the current turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Potent Spellcasting (Love Domain (UA))</name>
+                <text>8th-level Love Domain feature</text>
+                <text>   You add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Blessed Strikes (Love Domain (UA))</name>
+                <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+                <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Enduring Unity (Love Domain (UA))</name>
+                <text>17th-level Love Domain feature</text>
+                <text>   The bonds you create endure across vast distances. Creatures affected by your Emboldening Bond feature gain its benefits, as well as those of your Protective Bond feature, while they are on the same plane of existence as each other.</text>
+                <text>   Additionally, when a creature chosen for your Emboldening Bond is reduced to 0 hit points, their bonded partner gains the following benefits for 1 minute, or until the creature regains at least 1 hit point:</text>
+                <text>• The creature has advantage on attack rolls, ability checks, and saving throws</text>
+                <text>• The creature gains resistance to all damage</text>
+                <text>• As an action, the creature can touch their bonded partner to expend and roll any number of Hit Dice. Their bonded partner regains a number of hit points equal to the total rolled.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Sorcerer</class>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Sorcerous Origin: Clockwork Soul (UA)</name>
+                <text>A plane of utmost order, Mechanus is a realm overseen by a godlike entity called Primus, whose actions are inscrutable and calculations, vast. You, or someone from your lineage, might have become entangled in one of the machinations of the leader of the modrons. Perhaps you were exposed to an artifact created by Primus, or your ancestor took part in the Great Modron March in some way.</text>
+                <text>The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can't comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Restore Balance (Clockwork Soul (UA))</name>
+                <text>1st-level Clockwork Soul feature</text>
+                <text>   Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to make an attack roll, an ability check, or a saving throw with advantage or disadvantage, you can use your reaction to grant the creature both advantage and disadvantage.</text>
+                <text>   You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Bulwark of Law (Clockwork Soul (UA))</name>
+                <text>   6th-level Clockwork Soul feature</text>
+                <text>   You can imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.</text>
+                <text>   The ward is represented by a number of d6s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can use its reaction to spend a number of those dice, roll them, and reduce the damage taken by the total of the spent dice.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Trance of Order (Clockwork Soul (UA))</name>
+                <text>14th-level Clockwork Soul feature</text>
+                <text>   You gain the ability to enter a state of clockwork consciousness as an action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.</text>
+                <text>   Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Clockwork Cavalcade (Clockwork Soul (UA))</name>
+                <text>18th-level Clockwork Soul feature</text>
+                <text>   You summon spirits of order to restore balance around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, work fast and efficiently, and create the following effects within the cube before vanishing:</text>
+                <text>• Each living creature that has 0 hit points in the cube becomes stable.</text>
+                <text>• Any damaged objects entirely in the cube are repaired.</text>
+                <text>• Every spell of 5th level or lower ends on creatures and objects in the cube.</text>
+                <text>   Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

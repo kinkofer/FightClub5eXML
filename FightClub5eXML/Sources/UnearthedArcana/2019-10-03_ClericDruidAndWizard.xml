@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Cleric</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Divine Domain: Twilight Domain (UA)</name>
+                <text>The Twilight Domain governs the transition and blending of light into darkness. It is a time of rest and comfort, but also the threshold between safety and the unknown. Deities of healing or respite (such as Boldrei, Hestia, Mishakal, or Pelor), bravery or protection (such as Dol Arrah, Hajama, Helm, or Ilmater), travel or transition (such as Fharlanghn, Hermes, the Raven Queen, or the Traveler), or the night and dreams (such as Celestian, Morpheus, Nut, or Selûne) might grant their clerics the Twilight Domain. Clerics who serve these deities tend to be brave, delving into the dark to hold its dangers at bay and to bring comfort to those lost far from the light.</text>
+                <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | faerie fire, sleep</text>
+                <text>3rd | darkness, invisibility</text>
+                <text>5th | aura of vitality, Leomund's tiny hut</text>
+                <text>7th | aura of life, greater invisibility</text>
+                <text>9th | circle of power, dream</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Proficiency (Twilight Domain (UA))</name>
+                <text>1st-level Twilight Domain feature</text>
+                <text>   You gain proficiency with martial weapons and heavy armor.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Eyes of Night (Twilight Domain (UA))</name>
+                <text>1st-level Twilight Domain feature</text>
+                <text>   Your eyes are blessed, allowing you to see through the deepest gloom. You have darkvision with no maximum range; you can see in dim light as if it were bright light and in darkness as if it were dim light.</text>
+                <text>   As an action, you can magically give the benefit of this feature to any number of creatures you can see within 10 feet of you. The shared benefit lasts for 10 minutes. You can extend this benefit a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Vigilant Blessing (Twilight Domain (UA))</name>
+                <text>1st-level Twilight Domain feature</text>
+                <text>   The night has taught you to be vigilant. As an action, you give one creature you touch (including possibly yourself) advantage on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Channel Divinity: Twilight Sanctuary (Twilight Domain (UA))</name>
+                <text>2nd-level Twilight Domain feature</text>
+                <text>   You can use your Channel Divinity to refresh your allies with soothing twilight.</text>
+                <text>   As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</text>
+                <text>• Give it 1d8 temporary hit points.</text>
+                <text>• End one effect causing it to be charmed or frightened.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Steps of the Brave (Twilight Domain (UA))</name>
+                <text>6th-level Twilight Domain feature</text>
+                <text>   You draw strength from your connection to twilight and find yourself at home within its dark embrace, gaining two benefits:</text>
+                <text>• You have advantage on saving throws against being frightened.</text>
+                <text>• If you are in dim light or darkness, you can use a bonus action to magically give yourself a flying speed equal to your walking speed until the end of your next turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Divine Strike (Twilight Domain (UA))</name>
+                <text>8th-level Twilight Domain feature</text>
+                <text>   You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage. When you reach 14th level, the extra damage increases to 2d8.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Blessed Strikes (Twilight Domain (UA))</name>
+                <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+                <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Midnight Shroud (Twilight Domain (UA))</name>
+                <text>17th-level Twilight Domain feature</text>
+                <text>   You can harness the shrouding power of night to protect your allies and stymie your foes. Whenever you cast the darkness spell using a spell slot, you can choose a number of creatures that you can see (including yourself) equal to your Wisdom modifier (minimum of one). The chosen creatures can see through the darkness.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Druid</name>
+        
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Druid Circle: Circle of Wildfire (UA)</name>
+                <text>Druids who are members of the Circle of Wildfire understand the necessity of destruction, such as how a forest fire promotes growth. These druids bond with a primal spirit that harbors destructive tendencies, allowing the druids to use their power to create controlled flames that help flora and fauna reproduce and grow.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Circle Spells (Circle of Wildfire (UA))</name>
+                <text>2nd-level Circle of Wildfire feature</text>
+                <text>   You have formed a mystical bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to certain spells. At 2nd level, you learn the fire bolt cantrip.</text>
+                <text>   When you reach certain levels in this class, you gain access to the spells listed for that level in the Circle of Wildfire Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</text>
+                <text></text>
+                <text>Druid Level | Circle Spells</text>
+                <text>3rd | locate animals or plants, scorching ray</text>
+                <text>5th | fireball, plant growth</text>
+                <text>7th | aura of life, fire shield</text>
+                <text>9th | flame strike, raise dead</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Summon Wildfire (Circle of Wildfire (UA))</name>
+                <text>2nd-level Circle of Wildfire feature</text>
+                <text>   You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your wildfire spirit, rather than assuming a beast form.</text>
+                <text>   The spirit appears in an unoccupied space of your choice you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d10 fire damage.</text>
+                <text>   The wildfire spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the wildfire spirit stat block. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.</text>
+                <text>   In combat, the wildfire spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or to take the Dash, Disengage, Help, or Hide action.</text>
+                <text>   The wildfire spirit manifests for 1 hour, until it is reduced to 0 hit points, or until you use your Wild Shape again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Enhanced Bond (Circle of Wildfire (UA))</name>
+                <text>6th-level Circle of Wildfire feature</text>
+                <text>   The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus to one roll of the spell equal to the number rolled. In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Flames of Life (Circle of Wildfire (UA))</name>
+                <text>10th-level Circle of Wildfire feature</text>
+                <text>   You gain the ability to turn death into flames of vitality. When a Small or larger creature that you can see dies within 30 feet of you or your wildfire spirit, you can use your reaction to cause primal flames to spring from the body. When a creature you can see touches these flames, the creature regains hit points or takes fire damage (your choice) equal to 2d10 + your Wisdom modifier. The flames vanish after a creature has touched them or after 1 minute. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Blazing Endurance (Circle of Wildfire (UA))</name>
+                <text>14th-level Circle of Wildfire feature</text>
+                <text>   The bond with your wildfire spirit is exceptionally strong, even fatal blows only fuel your defiance. If you drop to 0 hit points and don't die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your druid level, and each creature of your choice within 30 feet of you that you can see takes fire damage equal to 2d10 + your druid level.</text>
+                <text>   Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 2</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Wizard</name>
+        
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Arcane Tradition: Onomancy (UA)</name>
+                <text>Practitioners of magic well know the power of names, but wizards who follow the tradition of Onomancy use their magic to manipulate the words that encompass existence. Onomancers expand their study into language itself, searching for threads of magical significance that weave through names. Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it.</text>
+                <text>That distinction creates power that onomancers seek to tap. By speaking a target's true name, the wizard's spells slip between the cracks of the target's defenses, conforming to its essential nature through the power of its name. To protect themselves, wizards who follow this tradition often hide their true names, typically by adopting monikers and pseudonyms.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>True Names (Onomancy (UA))</name>
+                <text>Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life. Whatever a name's origin, the simplest way for you to know your true name is to think truthfully about yourself and then think, "My name is..." Your true name is how you finish that sentence.</text>
+                <text>   You can try to hide your true name by using a pseudonym, but you must be wary not to inhabit that false name too deeply. If a false name comes to be the best expression of who you are, it becomes your true name. Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth.</text>
+                <text>   As a quick guide, a creature has a true name if it understands at least one language or it has an alignment.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Bonus Proficiencies (Onomancy (UA)</name>
+                <text>2nd-level Onomancy feature</text>
+                <text>   You learn one language of your choice and gain proficiency with calligrapher's supplies.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Extract Name (Onomancy (UA)</name>
+                <text>2nd-level Onomancy feature</text>
+                <text>   You can magically compel a creature to divulge its true name. As a bonus action, you target one creature you can see within 60 feet of you. The target must make a Wisdom saving throw against your spell save DC. On a successful save, you discern that this magic failed, and you can't use this feature on the target again. On a failed save, the target is charmed by you until the end of your next turn, and you mentally learn the charmed target's name or the fact that the target lacks a name.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Fateful Naming (Onomancy (UA)</name>
+                <text>2nd-level Onomancy feature</text>
+                <text>   You can bend magic to assist or hinder creatures through the power of their true names, and even use those names as an anchor to affect others around them. The bane and bless spells are wizard spells for you, and you add them to your spellbook. You always have them prepared, yet they don't count against the number of spells you can prepare.</text>
+                <text>   You can cast either spell without expending a spell slot if you speak the true name of one target of the spell as part of casting it. You can cast the spells in this way a number of times equal to your Intelligence modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant Utterance (Onomancy (UA))</name>
+                <text>6th-level Onomancy feature</text>
+                <text>   You learn words of power called Resonants, which allow you to tailor your spells through the use of a target's true name.</text>
+                <name>Resonants Known (Onomancy (UA))</name>
+                <text>   When you gain this feature, you learn two Resonants of your choice, which are detailed in the "Resonant Options" section. Each time you gain a level in this class, you can replace one resonant you know with a different one.</text>
+                <name>Using a Resonant (Onomancy (UA))</name>
+                <text>   You can use one Resonant when you cast a wizard spell with a spell slot and speak the true name of one creature targeted by the spell. Speaking the name is part of casting the spell. You can use Resonants a number of times equal to half of your wizard level (round down), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Absorption (Onomancy (UA))</name>
+                <text>When you cast a spell that deals damage to the named target, you gain 3d6 temporary hit points. The number of temporary hit points you gain increases by 1d6 when you reach 10th level (4d6) and 14th level (5d6) in this class.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Devastation (Onomancy (UA))</name>
+                <text>If the spell requires the named creature to make a saving throw, that creature has disadvantage on the first save it makes against the spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Dissolution (Onomancy (UA))</name>
+                <text>The first time the named creature takes damage from the spell, that creature takes an extra 2d8 force damage. The extra force damage increases by 1d8 when you reach 10th level (3d8) and 14th level (4d8) in this class.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Nullification (Onomancy (UA))</name>
+                <text>If the named target is affected by any other spells, you know what those spells are, and you can attempt to end one of your choice by succeeding on an Intelligence check with a DC equal to 10 + the level of the chosen spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Puppetry (Onomancy (UA))</name>
+                <text>The first time the named creature takes damage from the spell, you can knock the creature prone or move it up to 10 feet, either directly toward you or away from you.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Resonant: Sympathy (Onomancy (UA))</name>
+                <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can't see the creature or it has total cover against the spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Inexorable Pronouncement (Onomancy (UA))</name>
+                <text>10th-level Onomancy feature</text>
+                <text>   You learn two new Resonants of your choice from your Resonant Utterance feature.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Absorption (Onomancy (UA))</name>
+                <text>When you cast a spell that deals damage to the named target, you gain 3d6 temporary hit points. The number of temporary hit points you gain increases by 1d6 when you reach 10th level (4d6) and 14th level (5d6) in this class.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Devastation (Onomancy (UA))</name>
+                <text>If the spell requires the named creature to make a saving throw, that creature has disadvantage on the first save it makes against the spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Dissolution (Onomancy (UA))</name>
+                <text>The first time the named creature takes damage from the spell, that creature takes an extra 2d8 force damage. The extra force damage increases by 1d8 when you reach 10th level (3d8) and 14th level (4d8) in this class.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Nullification (Onomancy (UA))</name>
+                <text>If the named target is affected by any other spells, you know what those spells are, and you can attempt to end one of your choice by succeeding on an Intelligence check with a DC equal to 10 + the level of the chosen spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Puppetry (Onomancy (UA))</name>
+                <text>The first time the named creature takes damage from the spell, you can knock the creature prone or move it up to 10 feet, either directly toward you or away from you.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Resonant: Sympathy (Onomancy (UA))</name>
+                <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can't see the creature or it has total cover against the spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Relentless Naming (Onomancy (UA))</name>
+                <text>14th-level Onomancy feature</text>
+                <text>   You have learned how to bypass a named creature's defenses against certain types of damage. When you cast a spell that deals damage to a creature whose true name you speak as part of casting the spell, you can cause the spell to deal force or psychic damage to the creature, instead of the spell's normal damage type.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 4</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

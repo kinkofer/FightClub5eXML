@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Sorcerer</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Sorcerous Origin: Aberrant Mind (UA)</name>
+                <text>An alien influence has wrapped its tendrils around you, warping you in both body and mind. Perhaps a psychic splinter lodged in your psyche after you suffered domination by an aboleth. Maybe you were born somewhere tainted by the Far Realm, a planar blot that changed you forever. Or perhaps mind flayers kidnapped you, subjecting you to the nightmarish process of ceremorphosis—but the transformation failed and left you altered.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Unique Disturbance (Aberrant Mind (UA))</name>
+                <text>Regardless of its genesis, the Aberrant Mind origin imparts a sense of eeriness to the character or their surroundings. This can be as subtle as when your sorcerer reads a creature's mind with detect thoughts, anyone in their immediate vicinity experiences a faint but pervasive sense of dread. Or it could be unmistakable, such as sweating a sheen of viscous mucus when you're scared, or your pupils squirming when you're excited. Consider the potentially unspeakable source of your sorcerer's powers, and use that as a guide to weave threads of eeriness throughout your magic.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Invasive Thoughts (Aberrant Mind (UA))</name>
+                <text>1st-level Aberrant Mind feature</text>
+                <text>   At 1st level, you gain the ability to use a bonus action to magically create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Psionic Spells (Aberrant Mind (UA))</name>
+                <text>1st-level Aberrant Mind feature</text>
+                <text>   Starting at 1st level, your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.</text>
+                <text></text>
+                <text>Sorcerer Level | Spells</text>
+                <text>1st | arms of Hadar, dissonant whispers</text>
+                <text>3rd | calm emotions, detect thoughts</text>
+                <text>5th | hunger of Hadar, sending</text>
+                <text>7th | compulsion, Evard's black tentacles</text>
+                <text>9th | modify memory, Rary's telepathic bond</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Warped Being (Aberrant Mind (UA))</name>
+                <text>1st-level Aberrant Mind feature</text>
+                <text>   Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren't wearing armor.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Psionic Sorcery (Aberrant Mind (UA))</name>
+                <text>6th-level Aberrant Mind feature</text>
+                <text>   Beginning at 6th level, when you cast any of the spells gained from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level. If you cast the spell using sorcery points, it requires no components.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Psychic Defenses (Aberrant Mind (UA))</name>
+                <text>6th-level Aberrant Mind feature</text>
+                <text>   At 6th level, you gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Revelation in Flesh (Aberrant Mind (UA))</name>
+                <text>14th-level Aberrant Mind feature</text>
+                <text>   Beginning at 14th level, you can unleash the aberrant truth hidden within your flesh. As a bonus action, you can spend 1 or more sorcery points to magically transform your body for 1 minute. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:</text>
+                <text>• You gain a swimming speed equal to your walking speed and the ability to breathe water. Gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow lashing cilia that extend through your clothing.</text>
+                <text>• You gain a flying speed equal to your walking speed and can hover. As you fly, your skin glistens with mucus.</text>
+                <text>• Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</text>
+                <text>• Your eyes turn black or become writhing sensory tendrils. You are aware of the location of any hidden or invisible creature within 60 feet of you.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Warp Reality (Aberrant Mind (UA))</name>
+                <text>18th-level Aberrant Mind feature</text>
+                <text>   At 18th level, you become the focal point of a reality-warping anomaly. As an action, you can magically radiate a transparent, 20-foot-radius aura for 1 minute. This might take the form of a sphere of rippling psychic energy, a fluctuating amoebic gel, an extrusion of ephemeral parasites, or some other manifestation. Other creatures treat the aura as difficult terrain, and when they start their turn in it, they take 2d10 psychic damage. When you activate this feature, you can choose any number of creatures you can see to be unaffected by the aura.</text>
+                <text>   As a bonus action, you can end the aura early. If you do so, you and any number of creatures you choose within the aura are teleported to a location you can see within 1 mile of you. Each creature must appear within 20 feet of you and in an unoccupied space. An unwilling creature that succeeds on a Charisma saving throw against your spell save DC is not teleported. Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Warlock</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Otherworldly Patron: The Lurker in the Deep (UA)</name>
+                <text>You made a pact with an entity that lurks somewhere deep in the ocean, or even on the Elemental Plane of Water, such as a mighty kraken, an ancient primordial, or a monstrous being from creation's earliest days. You serve as this creature's eyes and ears, watching the world beyond its domain and reporting your findings. You may have gained this pact as a member of a cult dedicated to the entity or after your patron saved your life when you nearly drowned at sea.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>The Lurker's Clutches (The Lurker in the Deep (UA))</name>
+                <text>Several features of the Lurker in the Deep create tentacles or a maw that reach into the world. The form of these appendages should reflect the nature of your specific patron. For example, a kraken's warlock might summon great squid-like tentacles, serrated crab claws, or a massive octopus beak, while the servant of a primordial water elemental might create tendrils or swells of living water.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Expanded Spell List (The Lurker in the Deep (UA))</name>
+                <text>1st-level Lurker in the Deep feature</text>
+                <text>   The Lurker in the Deep lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Grasp of the Deep (The Lurker in the Deep (UA))</name>
+                <text>1st-level Lurker in the Deep feature</text>
+                <text>   At 1st level, you gain the ability to magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.</text>
+                <text>   When you create the tentacle, you can make a melee spell attack against a creature within 10 feet of it. On a hit, the target takes 1d8 cold or lightning damage (your choice when it takes the damage) and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage dealt by the tentacle increases to 2d8.</text>
+                <text>   As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack. You can summon the tentacle a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Scion of the Deep (The Lurker in the Deep (UA))</name>
+                <text>1st-level Lurker in the Deep feature</text>
+                <text>   At 1st level, your patron accepts you into its inner court of servitors. You can telepathically communicate with any aberration, beast, elemental, or monstrosity that has an innate swimming speed, while it is within 120 feet of you. The creature can understand you and can respond telepathically.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Fathomless Soul (The Lurker in the Deep (UA))</name>
+                <text>6th-level Lurker in the Deep feature</text>
+                <text>   At 6th level, your patron grants you greater abilities. You gain the following benefits:</text>
+                <text>• You can breathe both air and water.</text>
+                <text>• You gain a swimming speed equal to your walking speed.</text>
+                <text>• You gain resistance to cold damage.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Guardian Grasp (The Lurker in the Deep (UA))</name>
+                <text>6th-level Lurker in the Deep feature</text>
+                <text>   At 6th level, the tentacle you create with Grasp of the Deep can defend you and others. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to the chosen creature by half. After doing so, the tentacle vanishes.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Devouring Maw (The Lurker in the Deep (UA))</name>
+                <text>10th-level Lurker in the Deep feature</text>
+                <text>   Starting at 10th level, you can magically draw forth a manifestation of your patron's insatiable hunger. As an action, choose a point you can see within 60 feet of you. For 1 minute, a translucent maw manifests in a 10-foot radius centered on that point. Each creature in that area when the maw appears must succeed on a Strength saving throw against your spell save DC or be restrained. Any creature that starts its turn in the maw's area takes 3d6 cold or lightning damage (your choice when it takes the damage). As an action, a restrained creature can repeat the saving throw, ending the restraint on a success. At the start of your turn, if there is a creature in the maw's area, you gain temporary hit points equal to your warlock level.</text>
+                <text>   Once you use this feature, you can't do so again until you finish a short or long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Unleash the Depths (The Lurker in the Deep (UA))</name>
+                <text>14th-level Lurker in the Deep feature</text>
+                <text>   Starting at 14th level, you gain the ability to call upon your patron for aid. As an action, you choose a point within 30 feet of you where your patron tears through reality, manifesting a measure of its thalassic grandeur. Choose one of the following effects to issue from this manifestation point. Once you use either effect, you can't use this feature again until you finish a long rest.</text>
+                <name>Transport</name>
+                <text>   You and up to five willing creatures of your choice that you can see within 30 feet of the manifestation point are grasped by spectral tentacles and yanked through your patron's realm. The tentacles teleport you and the chosen creatures to a point of your choice within 100 miles that you have visited within the past 24 hours. The tentacles then vanish.</text>
+                <name>Fury</name>
+                <text>   You can direct a barrage of spectral tentacles to issue forth and strike up to five creatures you can see within 30 feet of the manifestation point. Each target must make a Dexterity saving throw against your spell save DC. On a failed save, the creature takes 6d10 cold or lightning damage (your choice) and is knocked prone. On a successful save, it takes half as much damage and is not knocked prone. The tentacles then vanish.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Sorcerer And Warlock</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

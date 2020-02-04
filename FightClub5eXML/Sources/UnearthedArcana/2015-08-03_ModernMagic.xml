@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Cleric</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Divine Domain: City Domain (UA)</name>
+                <text>The City domain is concerned with the citizenry, commerce, traffic, and even architecture of modern civilization. In the eyes of a cleric of the city, the center of modern life is a sense and spirit of community, and the gravest enemies of the city are those who seek to harm the common weal of its citizens.</text>
+                <text>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</text>
+                <text>Spells marked with an asterisk can be found in Unearthed Arcana: Modern Magic.</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | comprehend languages, remote access (UA)*</text>
+                <text>3rd | find vehicle (UA)*, heat metal</text>
+                <text>5th | lightning bolt, protection from ballistics (UA)*</text>
+                <text>7th | locate creature, synchronicity (UA)*</text>
+                <text>9th | commune with city (UA)*, shutdown (UA)*</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | comprehend languages, remote access (UA)*</text>
+                <text>3rd | find vehicle (UA)*, heat metal</text>
+                <text>5th | lightning bolt, protection from ballistics (UA)*</text>
+                <text>7th | locate creature, synchronicity (UA)*</text>
+                <text>9th | commune with city (UA)*, shutdown (UA)*</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | comprehend languages, remote access (UA)*</text>
+                <text>3rd | find vehicle (UA)*, heat metal</text>
+                <text>5th | lightning bolt, protection from ballistics (UA)*</text>
+                <text>7th | locate creature, synchronicity (UA)*</text>
+                <text>9th | commune with city (UA)*, shutdown (UA)*</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | comprehend languages, remote access (UA)*</text>
+                <text>3rd | find vehicle (UA)*, heat metal</text>
+                <text>5th | lightning bolt, protection from ballistics (UA)*</text>
+                <text>7th | locate creature, synchronicity (UA)*</text>
+                <text>9th | commune with city (UA)*, shutdown (UA)*</text>
+                <text></text>
+                <text>Cleric Level | Spells</text>
+                <text>1st | comprehend languages, remote access (UA)*</text>
+                <text>3rd | find vehicle (UA)*, heat metal</text>
+                <text>5th | lightning bolt, protection from ballistics (UA)*</text>
+                <text>7th | locate creature, synchronicity (UA)*</text>
+                <text>9th | commune with city (UA)*, shutdown (UA)*</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Cantrip (City Domain (UA))</name>
+                <text>When you choose this domain at 1st level, you gain the On/Off (UA) cantrip in addition to your chosen cantrips.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Proficiencies (City Domain (UA))</name>
+                <text>Also starting at 1st level, you gain proficiency with sidearms and proficiency with vehicles (land).</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Heart of the City (City Domain (UA))</name>
+                <text>From 1st level, you are able to tap into the spirit of community found in the city. While you are within any city, you can gain advantage on a single Charisma (Deception, Intimidation, or Persuasion) check, and you are considered proficient in the appropriate skill. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain any expended uses when you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Channel Divinity: Spirits of the City (City Domain (UA))</name>
+                <text>Starting at 2nd level, you can use your Channel Divinity to call on the city for aid. As an action, you present your holy symbol, and any city utility within 30 feet of you either works perfectly or shuts down entirely for 1 minute (your choice).</text>
+                <text>   Additionally, each hostile creature within 30 feet of you must make a Charisma saving throw. On a failed save, the creature is knocked prone or restrained (your choice) by hazards such as entangling wires, high-pressure water erupting from fire hydrants, pavement collapsing to unseen potholes, and so on. A restrained creature can escape by making a successful Strength (Athletics) or Dexterity (Acrobatics) check against your spell save DC.</text>
+                <text>   This effect is entirely local and affects only utilities within 30 feet of you. Determination of what utilities are available within range and how the physical effects of those utilities manifest are left to the DM.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Block Watch (City Domain (UA))</name>
+                <text>Starting at 6th level, your awareness while in the city extends preternaturally. While in an urban environment, you are considered proficient in the Insight and Perception skills, and you add double your proficiency bonus to Wisdom (Insight) and Wisdom (Perception) checks, instead of your normal proficiency bonus.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Divine Strike (City Domain (UA))</name>
+                <text>At 8th level, you gain the ability to infuse your weapon strikes with psychic energy borrowed from the citizens of your city. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra psychic damage increases to 2d8.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Blessed Strikes (City Domain (UA))</name>
+                <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+                <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Express Transit (City Domain (UA))</name>
+                <text>At 17th level, you can use mass transit routes to transport instantaneously to other points in the city. Starting from a bus stop, train station, subway stop, or other suitable mass transit site within the city, you can teleport to any other similar transit stop within the city, as if you had cast a teleport spell whose destination is a permanent teleportation circle you know. Once you use this feature, you must finish a short or long rest before using it again.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Warlock</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Otherworldly Patron: Ghost in the Machine (UA)</name>
+                <text>You have made a bargain for power granted by an entity that you believe to be completely digital. Whether it is a rogue AI or the spirit of a deceased hacker, the Ghost in the Machine is capable of feats that defy explanation.</text>
+                <text></text>
+                <text>Expanded Spell List</text>
+                <text>   The Ghost in the Machine lets you choose from an expanded list of spells when you learn a warlock spell. You gain the on/off cantrip, and the following new spells are added to the warlock spell list for you.</text>
+                <text>   Spells marked with an asterisk can be found in Unearthed Arcana: Modern Magic.</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+                <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+                <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+                <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+                <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+                <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+                <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+                <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+                <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+                <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+                <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+                <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+                <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+                <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+                <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+                <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+                <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+                <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+                <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+                <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+                <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Proficiency (Ghost in the Machine (UA))</name>
+                <text>At 1st level, you gain proficiency with hacking tools.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Information Surge (Ghost in the Machine (UA))</name>
+                <text>At 1st level, you gain the ability to temporarily render computerized devices inoperable. As an action, you can target a computerized device within 30 feet of you. If the targeted device is held or otherwise actively used by a living creature, that creature must make an Intelligence saving throw against your spell save DC. On a failed save, the targeted device ceases to function until the end of your next turn. If the targeted device is not held or used by a creature, the DM makes a special saving throw for the device with disadvantage and a +0 modifier. Certain shielded devices might negate the disadvantage, at the DM's determination.</text>
+                <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Wire Walk (Ghost in the Machine (UA))</name>
+                <text>Starting at 6th level, you gain the ability to travel short distances over electrical wires, data lines, or telephone cables. As a bonus action, you can touch a device or socket connected to a hardwired network and teleport along this network to another device or socket within your line of sight. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Personal Encryption (Ghost in the Machine (UA))</name>
+                <text>Beginning at 10th level, you have learned to apply your innate knowledge of encryption to your thoughts, memories, and presence. You have advantage on saving throws against scrying, thought detection, or any other method of magically learning your whereabouts or reading your thoughts. For any such effect that does not grant you a saving throw but which requires the creature targeting you to make an ability check, the check is made with disadvantage.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Technovirus (Ghost in the Machine (UA))</name>
+                <text>At 14th level, you gain the ability to infect a humanoid's body with living circuitry. You can use an action to make a melee attack against a humanoid creature using your spell attack modifier. The target must make a Constitution saving throw against your spell save DC as a techno-organic virus quickly spreads through its body. On a failed save, the target takes 8d10 psychic damage, or half as much damage on a successful one.</text>
+                <text>   Additionally, if the target fails the saving throw, you can use an action to issue it a single command, as if you were casting the command spell. The target makes its saving throw against your command with disadvantage. You can issue this command at any time while the target remains infected.</text>
+                <text>   Once you use this feature, you can't use it again until you finish a long rest, at which point the target is cured of the technovirus. The infection can also be removed with a lesser restoration spell.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Wizard</name>
+        
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Arcane Tradition: Technomancy (UA)</name>
+                <text>Unlike the more common arcane traditions based around the schools of magic, the tradition of Technomancy does not focus on a singular type of spellcraft or magical energy. Rather, students of Technomancy concern themselves with how their spells interact with modern technology.</text>
+                <text>Technomancers can make use of technology as both a conduit and a storage space for magic. In a campaign using the optional rules for magic item creation (see the Dungeon Master's Guide), a technomancer might craft disposable electronic devices and smartphone apps in lieu of potions and scrolls.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Bonus Proficiencies (Technomancy (UA))</name>
+                <text>Beginning when you select this arcane tradition at 2nd level, you gain proficiency with sidearms and hacking tools.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Technological Savant (Technomancy (UA))</name>
+                <text>Also at 2nd level, you trade out your spellbook for a specially attuned storage device of your choosing, capable of recording magical data. The computing power of this device must be equal to or greater than a tablet computer. Only one storage device can be attuned to you at any given time. Spells can be copied into this device at half the cost of copying spells into a spellbook.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Program Spell (Technomancy (UA))</name>
+                <text>At 6th level, you can insert a spell within an electronic device of your choosing, so that by touching a key or flicking a switch using an action, the spell activates. All variables of the spell are set at the time of casting. The computing power of this device must be equal to or greater than a mobile phone.</text>
+                <text>   A programmed spell remains placed in its device for 48 hours, and is gone once it is discharged. You can use this feature to place a programmed spell in only one device at a time, and a device can hold only one programmed spell. Only you can activate the programmed spell in the device. If the device is destroyed, the programmed spell is lost.</text>
+                <text>   A concentration spell placed in a device cannot be activated while you are concentrating on another spell. Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Online Casting (Technomancy (UA))</name>
+                <text>At 10th level, you can cast spells through networked electronic devices, including cameras, mobile phones, and computers. For example, if a creature is under the observation of a security camera and you can see the video feed from that camera on a computer, you can cast a spell into the computer and out through the security camera to target that creature.</text>
+                <text>   If the spell requires the caster to be seen, the target must see you or a live image of you. If the spell requires the caster to be heard, the target must be able to hear you or a live audio transmission of you. The spell's range is determined using the distance from you to your device, and then from the target to its device. You must be able to see or otherwise determine the location of the target. This feature can be used to cast only spells that target specific creatures. Spells that affect an area are not subject to online casting.</text>
+                <text>   This feature can be used a number of times per day equal to your Intelligence modifier (minimum of once).</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Chained Device (Technomancy (UA))</name>
+                <text>By 14th level, you have learned to imprint vestiges of your consciousness on electronic devices with significant computing power. When you cast a concentration spell, you can use a device whose computing power is equal to or greater than a tablet computer to maintain concentration of the spell on your behalf. The device must be held or worn by you to maintain this effect. If the device is destroyed, taken from you, dropped, or turned off, the concentration ends. Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Modern Magic</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>
