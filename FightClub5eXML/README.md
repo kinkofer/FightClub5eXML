@@ -20,18 +20,25 @@ Import one of the Collection files into the Fight Club app.
 
 **CoreOnly**: _CoreRulebooks_ plus Rulebook Supplements and Adventures
 
-**CorePlusUA-NoHomebrew**: _CoreOnly_ plus Unearthed Arcana
+**CorePlusUnreleasedUA**: _CoreOnly_ plus unreleased Unearthed Arcana
 
-**Complete**: _CorePlusUA-NoHomebrew_ plus homebrew content
+**CorePlusUA-NoHomebrew**: _CoreOnly_ plus all Unearthed Arcana
+
+**Complete**: _CorePlusUA-NoHomebrew_ plus homebrew and third party content
 
 
 ## Additional Contributors
 
 `@kinkofer` for XML generation systems to allow github collections to be auto generated
 
-`@felix_mil_` for xml creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/)
+`@felix_mil_` for XML creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/)
 
+`@rrgeorge` and `zamrod` for their JSON to XML scripts
 
 ## Contribute
 
 Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.
+
+## Issues
+
+Find a mistake in the compendium? Report it on our [Github Issues](https://github.com/kinkofer/FightClub5eXML/issues).

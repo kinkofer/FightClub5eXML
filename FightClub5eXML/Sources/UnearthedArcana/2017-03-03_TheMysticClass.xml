@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Mystic</name>
+        <hd>8</hd>
+        <proficiency>Intelligence, Wisdom, Arcana, History, Insight, Medicine, Nature, Perception, Religion</proficiency>
+        <spellAbility>Intelligence</spellAbility>
+        <numSkills>2</numSkills>
+        <armor>light armor</armor>
+        <weapons>simple weapons</weapons>
+        <tools>none</tools>
+        <wealth>5d4x10</wealth>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Starting Mystic</name>
+                <text>As a 1st-level Mystic, you begin play with 8+your Constitution modifier hit points.</text>
+                <text> </text>
+                <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+                <text>&#8226; Armor: light armor</text>
+                <text>&#8226; Weapons: simple weapons</text>
+                <text>&#8226; Tools: none</text>
+                <text>&#8226; Skills: Choose two skills from Arcana, History, Insight, Medicine, Nature, Perception, and Religion</text>
+                <text> </text>
+                <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+                <text>&#8226; (a) a spear or (b) a mace </text>
+                <text>&#8226; (a) leather armor or (b) studded leather armor </text>
+                <text>&#8226; (a) a light crossbow and 20 bolts or (b) any simple weapon </text>
+                <text>&#8226; (a) a scholar&#8217;s pack or (b) an explorer&#8217;s pack</text>
+                <text> </text>
+                <text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
+                <text> </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 1</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature>
+                <name>Psionics</name>
+                <text>As a student of psionics, you can master and use psionic talents and disciplines. Psionics is a special form of magic use, distinct from spellcasting. </text>
+                <text>     </text>
+                <text>Psionic Talents: </text>
+                <text>    A psionic talent is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. You learn an additional talent at 3rd, 10th, and 17th level. </text>
+                <text>     </text>
+                <text>Psionic Disciplines: </text>
+                <text>    A psionic discipline is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time. </text>
+                <text>    At 1st level, you know one psionic discipline of your choice. You learn an additional discipline of your choice at 3rd, 5th, 7th, 9th, 12th, 15th, and 18th level.</text>
+                <text>    In addition, whenever you gain a level in this class, you can replace one discipline you know with a different one of your choice. </text>
+                <text>     </text>
+                <text>Psi Points: </text>
+                <text>    You have an internal reservoir of energy that can be devoted to psionic disciplines you know. This energy is represented by psi points. Each psionic discipline describes effects you can create with it by spending a certain number of psi points. A psionic talent requires no psi points. </text>
+                <text>    The number of psi points you have is based on your mystic level: 4 points at 1st level, 6 at 2nd, 14 at 3rd, 17 at 4th, 27 at 5th, 32 at 6th, 38 at 7th, 44 at 8th, 57 at 9th, 64 at 10th, and 71 at 18th.. The number shown for your level is your psi point maximum. Your psi point total returns to its maximum when you finish a long rest. The number of psi points you have can&#8217;t go below 0 or over your maximum. </text>
+                <text>     </text>
+                <text>Psi Limit: </text>
+                <text>    Though you have access to a potent amount of psionic energy, it takes training and practice to channel that energy. There is a limit on the number of psi points you can spend to activate a psionic discipline. The limit is based on your mystic level; at 1st level, your psi limit is 2, and it increases to 3 at 3rd, 5 at 5th, 6 at 7th, and 7 at 9th.  For example, as a 3rd-level mystic, you can spend no more than 3 psi points on a discipline each time you use it, no matter how many psi points you have. </text>
+                <text>     </text>
+                <text>Psychic Focus: </text>
+                <text>    You can focus psionic energy on one of your psionic disciplines to draw ongoing benefits from it. As a bonus action, you can choose one of your psionic disciplines and gain its psychic focus benefit, which is detailed in that discipline&#8217;s description. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. </text>
+                <text>    You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn&#8217;t limit your ability to use other disciplines. </text>
+                <text>     </text>
+                <text>Psionic Ability: </text>
+                <text>    Intelligence is your psionic ability for your psionic disciplines. You use your Intelligence modifier when setting the saving throw DC for a psionic discipline or when making an attack roll with one. </text>
+                <text>     </text>
+                <text>Discipline save DC = 8 + your proficiency bonus + your Intelligence modifier </text>
+                <text>     </text>
+                <text>Discipline attack modifier = your proficiency bonus + your Intelligence modifier</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 3</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature>
+                <name>Mystic Order</name>
+                <text>At 1st level, you choose a Mystic Order: the Order of the Avatar, the Order of the Awakened, the Order of the Immortal, the Order of the Nomad, the Order of the Soul Knife, or the Order of the Wu Jen, each of which is detailed at the end of the class description. Each order specializes in a specific approach to psionics. </text>
+                <text>    Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Avatar</name>
+                <text>Mystics of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these mystics vary from tyrants to inspiring leaders who are loved by their followers.</text>
+                <text>    Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Disciplines (Order of the Avatar)</name>
+                <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Avatar disciplines.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Armor Training (Order of the Avatar)</name>
+                <text>At 1st level, you gain proficiency with medium armor and shields.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Awakened</name>
+                <text>Mystics dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy.</text>
+                <text>    The Awakened are skilled at bending minds and unleashing devastating psionic attacks, and they can read the secrets of the world through psionic energy. Awakened mystics who take to adventuring excel at unraveling mysteries, solving puzzles, and defeating monsters by turning them into unwilling pawns.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Disciplines (Order of the Awakened)</name>
+                <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Awakened disciplines.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Awakened Talent (Order of the Awakened)</name>
+                <text>At 1st level, you gain proficiency with two of the following skills of your choice: Animal Handling, Deception, Insight, Intimidation, Investigation, Perception, and Persuasion.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Immortal</name>
+                <text>The Order of the Immortal uses psionic energy to augment and modify the physical form. Followers of this order are known as Immortals. They use psionic energy to modify their bodies, strengthening them against attack and turning themselves into living weapons.</text>
+                <text>    Their mastery of the physical form grants them their name, for Immortals are notoriously difficult to kill.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Disciplines (Order of the Immortal)</name>
+                <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Immortal disciplines.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Immortal Durability (Order of the Immortal)</name>
+                <text>Starting at 1st level, your hit point maximum increases by 1 per mystic level.</text>
+                <text>    In addition, while you aren&#8217;t wearing armor or wielding a shield, your base AC equals 10 + your Dexterity modifier+your Constitution modifier.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+                <special>unarmored defense constitution</special>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Nomad</name>
+                <text>Mystics of the Order of the Nomad keep their minds in a strange, rarefied state. They seek to accumulate as much knowledge as possible, as they quest to unravel the mysteries of the multiverse and seek the underlying structure of all things. At the same time, they perceive a bizarre, living web of knowledge they call the noosphere.</text>
+                <text>    Nomads, as their name indicates, delight in travel, exploration, and discovery. They desire to accumulate as much knowledge as possible, and the pursuit of secrets and hidden lore can become an obsession for them.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Disciplines (Order of the Nomad)</name>
+                <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Nomad disciplines.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Breadth of Knowledge (Order of the Nomad)</name>
+                <text>At 1st level, you gain the ability to extend your knowledge. When you finish a long rest, you gain two proficiencies of your choice: two tools, two skills, or one of each. You can replace one or both of these selections with languages. This benefit lasts until you finish a long rest.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Soul Knife</name>
+                <text>The Order of the Soul Knife sacrifices the breadth of knowledge other mystics gain to focus on a specific psionic technique. These mystics learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.</text>
+                <text>    Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Martial Training (Order of the Soul Knife)</name>
+                <text>At 1st level, you gain proficiency with medium armor and martial weapons.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Soul Knife (Order of the Soul Knife)</name>
+                <text>Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can&#8217;t hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.</text>
+                <text>    For you, a soul knife is a martial melee weapon with the light and finesse properties. It deals 1d8 psychic damage on a hit.</text>
+                <text>    As a bonus action, you can prepare to use the blades to parry; you gain a +2 bonus to AC until the start of your next turn or until you are incapacitated.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Mystic Order: Order of the Wu Jen</name>
+                <text>The Order of the Wu Jen features some of the most devoted mystics. These mystics seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these mystics cast their minds into the world, seize control of its fundamental principles, and rebuild it.</text>
+                <text>    In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Bonus Disciplines (Order of the Wu Jen)</name>
+                <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Wu Jen disciplines.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Hermit&#8217;s Study (Order of the Wu Jen)</name>
+                <text>At 1st level, you gain proficiency with two of the following skills of your choice: Animal Handling, Arcana, History, Insight, Medicine, Nature, Perception, Religion, or Survival.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="2">
+            <feature>
+                <name>Mystical Recovery</name>
+                <text>Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines. </text>
+                <text>    Immediately after you spend psi points on a psionic discipline, you can take a bonus action to regain hit points equal to the number of psi points you spent.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="2">
+            <feature>
+                <name>Telepathy</name>
+                <text>At 2nd level, your mind awakens to the ability to communicate via telepathy. You can telepathically speak to any creature you can see within 120 feet of you in this manner. You don&#8217;t need to share a language with the creature for it to understand your telepathic messages, but the creature must be able to understand at least one language or be telepathic itself.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Avatar of Battle (Order of the Avatar)</name>
+                <text>Starting at 3rd level, you project an inspiring aura. While you aren&#8217;t incapacitated, each ally within 30 feet of you who can see you gains a +2 bonus to initiative rolls.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Psionic Investigation (Order of the Awakened)</name>
+                <text>Starting at 3rd level, you can focus your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10 minutes (as if concentrating on a psionic discipline), you learn a few basic facts about it. You gain a mental image from the object&#8217;s point of view, showing the last creature to hold the object within the past 24 hours.</text>
+                <text>    You also learn of any events that have occurred within 20 feet of the object within the past hour. The events you perceive unfold from the object&#8217;s perspective. You see and hear such events as if you were there, but can&#8217;t use other senses.</text>
+                <text>    Additionally, you can embed an intangible psionic sensor within the object. For the next 24 hours, you can use an action to learn the object&#8217;s location relative to you (its distance and direction) and to look at the object&#8217;s surroundings from its point of view as if you were there. This perception lasts until the start of your next turn.</text>
+                <text>    Once you use this feature, you can&#8217;t use it again until you finish a short or long rest.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Psionic Resilience (Order of the Immortal)</name>
+                <text>Starting at 3rd level, your psionic energy grants you extraordinary fortitude. At the start of each of your turns, you gain temporary hit points equal to your Intelligence modifier (minimum of 0) if you have at least 1 hit point.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Memory of One Thousand Steps (Order of the Nomad)</name>
+                <text>At 3rd level, you gain the ability to use psionics to recall your steps. As a reaction when you are hit by an attack, you can teleport to an unoccupied space that you occupied since the start of your last turn, and the attack misses you. Once you use this feature, you can&#8217;t use it again until you finish a short or long rest.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Hone the Blade (Order of the Soul Knife)</name>
+                <text>Starting at 3rd level, you can spend psi points to augment your soul knife&#8217;s attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent: 2 psi points for +1, 5 for +2, and 7 for +4. This bonus lasts for 10 minutes.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Elemental Attunement (Order of the Wu Jen)</name>
+                <text>Starting at 3rd level, when a creature&#8217;s resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature&#8217;s resistance. You can&#8217;t spend this point if doing so would increase the discipline&#8217;s cost above your psi limit.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="4" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="4" scoreImprovement="YES">
+            <feature>
+                <name>Strength of Mind</name>
+                <text>Even the simplest psionic technique requires a deep understanding of how psionic energy can augment mind and body. This understanding allows you to alter your defenses to better deal with threats.</text>
+                <text>    Starting at 4th level, you can replace your proficiency in Wisdom saving throws whenever you finish a short or long rest. To do so, choose Strength, Dexterity, Constitution, or Charisma. You gain proficiency in saves using that ability, instead of Wisdom. This change lasts until you finish your next short or long rest.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Avatar of Healing (Order of the Avatar)</name>
+                <text>Beginning at 6th level, you project an aura of resilience. While you aren&#8217;t incapacitated, each ally within 30 feet of you who can see you regains additional hit points equal to your Intelligence modifier (minimum of 0) whenever they regain hit points from a psionic discipline.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Psionic Surge (Order of the Awakened)</name>
+                <text>Starting at 6th level, you can overload your psychic focus to batter down an opponent&#8217;s defenses. You can impose disadvantage on a target&#8217;s saving throw against a discipline or talent you use, but at the cost of using your psychic focus. Your psychic focus immediately ends if it&#8217;s active, and you can&#8217;t use it until you finish a short or long rest.</text>
+                <text>    You can&#8217;t use this feature if you can&#8217;t use your psychic focus.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Surge of Health (Order of the Immortal)</name>
+                <text>Starting at 6th level, you can draw on your psychic focus to escape death&#8217;s grasp. As a reaction when you take damage, you can halve that damage against you. Your psychic focus immediately ends if it&#8217;s active, and you can&#8217;t use it until you finish a short or long rest.</text>
+                <text>    You can&#8217;t use this feature if you can&#8217;t use your psychic focus.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Superior Teleportation (Order of the Nomad)</name>
+                <text>At 6th level, you gain a superior talent for teleportation. When you use a psionic discipline to teleport any distance, you can increase that distance by up to 10 feet.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Consumptive Knife (Order of the Soul Knife)</name>
+                <text>Starting at 6th level, whenever you slay an enemy creature with a soul knife attack, you immediately regain 2 psi points.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Arcane Dabbler (Order of the Wu Jen)</name>
+                <text>At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of 1st through 3rd level.</text>
+                <text>    As a bonus action, you can spend psi points to create spell slots that you can use to cast these spells, as well as other spells you are capable of casting. A 1st-level slot cost 2 psi points, a 2nd costs 3, a 3rd costs 5, a 4th costs 6, and a 5th costs 7. The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.</text>
+                <text>    Whenever you gain a level in this class, you can replace one of the chosen wizard spells with a different wizard spell of 1st through 3rd level.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="8" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement (2nd)</name>
+                <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="8" scoreImprovement="YES">
+            <feature>
+                <name>Potent Psionics</name>
+                <text>At 8th level, you gain the ability to infuse your weapon attacks with psychic energy. Once on each of your turns when you hit a creature with a weapon, you can deal an extra 1d8 psychic damage to that target. When you reach 14th level, this extra damage increases to 2d8.</text>
+                <text>    In addition, you add your Intelligence modifier to any damage roll you make for a psionic talent.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="10">
+            <feature>
+                <name>Consumptive Power</name>
+                <text>At 10th level, you gain the ability to sacrifice your physical durability in exchange for psionic power. When activating a psionic discipline, you can pay its psi point cost with your hit points, instead of using any psi points. Your current hit points and hit point maximum are both reduced by the number of hit points you spend. This reduction can&#8217;t be lessened in any way, and the reduction to your hit point maximum lasts until you finish a long rest.</text>
+                <text>    Once you use this feature, you can&#8217;t use it again until you finish a long rest.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="11">
+            <feature>
+                <name>Psionic Mastery</name>
+                <text>Beginning at 11th level, your mastery of psionic energy allows you to push your mind beyond its normal limits. As an action, you gain 9 special psi points that you can spend only on disciplines that require an action or a bonus action to use. You can use all 9 points on one discipline, or you can spread them across multiple disciplines. You can&#8217;t also spend your normal psi points on these disciplines; you can spend only the special points gained from this feature. When you finish a long rest, you lose any of these special points that you haven&#8217;t spent.</text>
+                <text>    If more than one of the disciplines you activate with these points require concentration, you can concentrate on all of them. Activating one of them ends any effect you were already concentrating on, and if you begin concentrating on an effect that doesn&#8217;t use these special points, the disciplines end that you&#8217;re concentrating on.</text>
+                <text>    At 15th level, the pool of psi points you gain from this feature increases to 11.</text>
+                <text>    You have one use of this feature, and you regain any expended use of it with a long rest. You gain one additional use of this feature at 13th, 15th, and 17th level.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="12" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement (3rd)</name>
+                <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Avatar of Speed (Order of the Avatar)</name>
+                <text>Starting at 14th level, you project an aura of speed. While you aren&#8217;t incapacitated, any ally within 30 feet of you who can see you can take the Dash action as a bonus action.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Spectral Form (Order of the Awakened)</name>
+                <text>At 14th level, you gain the ability to become a ghostly figure of psionic energy. As an action, you can transform into a transparent, ghostly version of yourself. While in this form, you have resistance to all damage, move at half speed, and can pass through objects and creatures while moving but can&#8217;t willingly end your movement in their spaces. The form lasts for 10 minutes or until you use an action to end it.</text>
+                <text>    Once you use this feature, you can&#8217;t use it again until you finish a long rest.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 6</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Immortal Will (Order of the Immortal)</name>
+                <text>Starting at 14th level, you can draw on your reserves of psionic power to survive beyond death. At the end of your turn while at 0 hit points, you can spend 5 psi points to immediately regain a number of hit points equal to your mystic level + your Constitution modifier.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Effortless Journey (Order of the Nomad)</name>
+                <text>Starting at 14th level, your mind can mystically move your body. Once on each of your turns, you can forfeit up to 30 feet of your movement to teleport the distance you forfeited. You must teleport to an unoccupied space you can see.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 7</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Phantom Knife (Order of the Soul Knife)</name>
+                <text>Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target&#8217;s AC as 10 against this attack, regardless of the target&#8217;s actual AC.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Elemental Mastery (Order of the Wu Jen)</name>
+                <text>Starting at 14th level, if you have resistance to a type of damage, you can spend 2 psi points as a reaction when you take damage of that type to ignore that damage; you gain immunity to that damage type until the end of your next turn.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 8</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="16" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement (4th)</name>
+                <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="19" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement (5th)</name>
+                <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.
+                </text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 4</text>
+            </feature>
+        </autolevel>
+        
+        <autolevel level="20">
+            <feature>
+                <name>Psionic Body</name>
+                <text>At 20th level, your mastery of psionic power causes your mind to transcend the body. Your physical form is infused with psionic energy. You gain the following benefits:</text>
+                <text>     </text>
+                <text>&#8226; You gain resistance to bludgeoning, piercing, and slashing damage.</text>
+                <text>&#8226; You no longer age.</text>
+                <text>&#8226; You are immune to disease, poison damage, and the poisoned condition.</text>
+                <text>&#8226; If you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.</text>
+                <text>    </text>
+                <text>Source: Unearthed Arcana: The Mystic Class, p. 5</text>
+            </feature>
+        </autolevel>
+    </class>
+    
+    <!-- Spells -->
+    <spell>
+        <name>Adaptive Body</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You can alter your body to match your surroundings, allowing you to withstand punishing environments. With greater psi energy, you can extend this protection to others. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you don&#8217;t need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it. </text>
+        <text>     </text>
+        <text>Environmental Adaptation: (2 psi) As an action, you or a creature you touch ignores the effects of extreme heat or cold: (but not cold or fire damage) for the next hour. </text>
+        <text>     </text>
+        <text>Adaptive Shield: (3 psi) When you take acid, cold, fire, lightning, or thunder damage, you can use your reaction to gain resistance to damage of that type&#8212;including the triggering damage&#8212; until the end of your next turn. </text>
+        <text>     </text>
+        <text>Energy Adaptation: (5 psi; conc., 1 hr.) As an action, you can touch one creature and give it resistance to acid, cold, fire, lightning, or thunder damage (your choice), which lasts until your concentration ends. </text>
+        <text>     </text>
+        <text>Energy Immunity: (7 psi; conc., 1 hr.) As an action, you can touch one creature and give it immunity to acid, cold, fire, lightning, or thunder damage (your choice), which lasts until your concentration ends.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 10</text>
+    </spell>
+    <spell>
+        <name>Aura Sight</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You refocus your sight to see the energy that surrounds all creatures. You perceive auras, energy signatures that can reveal key elements of a creature&#8217;s nature. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Wisdom (Insight) checks. </text>
+        <text>     </text>
+        <text>Assess Foe: (2 psi) As a bonus action, you analyze the aura of one creature you see. You learn its current hit point total and all its immunities, resistances, and vulnerabilities. </text>
+        <text>     </text>
+        <text>Read Moods: (2 psi) As a bonus action, you learn a one-word summary of the emotional state of up to six creatures you can see, such as happy, confused, afraid, or violent. </text>
+        <text>     </text>
+        <text>View Aura: (3 psi; conc., 1 hr.) As an action, you study one creature&#8217;s aura. Until your concentration ends, while you can see the target, you learn if it&#8217;s under the effect of any magical or psionic effects, its current hit point total, and its basic emotional state. While this effect lasts, you have advantage on Wisdom (Insight) and Charisma checks you make against it. </text>
+        <text>     </text>
+        <text>Perceive the Unseen: (5 psi; conc., 1 min.) As a bonus action, you gain the ability to see auras even of invisible or hidden creatures. Until your concentration ends, you can see all creatures, including hidden and invisible ones, regardless of lighting conditions.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 10</text>
+    </spell>
+    <spell>
+        <name>Beacon</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>Self (20-foot radius)</range>
+        <components>None</components>
+        <duration>up to 1 hour</duration>
+        <classes>Mystic</classes>
+        <text>As a bonus action, you cause bright light to radiate from your body in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. The light lasts for 1 hour, and you can extinguish it earlier as a bonus action.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Bestial Form</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You transform your body, gaining traits of different beasts. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks. </text>
+        <text>     </text>
+        <text>Bestial Claws: (1&#8211;7 psi) You manifest long claws for an instant and make a melee weapon attack against one creature within 5 feet of you. On a hit, this attack deals 1d10 slashing damage per psi point spent. </text>
+        <text>     </text>
+        <text>Bestial Transformation: As a bonus action, you alter your physical form to gain different characteristics. When you use this ability, you can choose one or more of the following effects. Each effect has its own psi point cost. Add them together to determine the total cost. This transformation lasts for 1 hour, until you die, or until you end it as a bonus action. </text>
+        <text>     </text>
+        <text>Amphibious: (2 psi) You gain gills; you can breathe air and water. </text>
+        <text>     </text>
+        <text>Climbing: (2 psi) You grow tiny hooked claws that give you gain a climbing speed equal to your walking speed. </text>
+        <text>     </text>
+        <text>Flight: (5 psi) Wings sprout from your back. You gain a flying speed equal to your walking speed. </text>
+        <text>     </text>
+        <text>Keen Senses: (2 psi) Your eyes and ears become more sensitive. You gain advantage on Wisdom (Perception) checks. </text>
+        <text>     </text>
+        <text>Perfect Senses: (3 psi) You gain a keen sense of smell and an instinct to detect prey. You can see invisible creatures and objects within 10 feet of you, even if you are blinded. </text>
+        <text>     </text>
+        <text>Swimming: (2 psi) You gain fins and webbing between your fingers and toes; you gain a swimming speed equal to your walking speed. </text>
+        <text>     </text>
+        <text>Tough Hide: (2 psi) Your skin becomes as tough as leather; you gain a +2 bonus to AC.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 11</text>
+    </spell>
+    <spell>
+        <name>Blade Meld</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>Self</range>
+        <components>None</components>
+        <duration>1 minute</duration>
+        <classes>Mystic</classes>
+        <text>As a bonus action, a one-handed melee weapon you hold becomes one with your hand. For the next minute, you can&#8217;t let go of the weapon nor can it be forced from your grasp.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Blind Spot</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>120 feet</range>
+        <components>None</components>
+        <duration>1 round</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you erase your image from the mind of one creature you can see within 120 feet of you; the target must succeed on a Wisdom saving throw, or you are invisible to it until the end of your next turn.</text>
+        <text>    </text>
+        <text>Invisible:</text>
+        <text>&#8226; An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Brute Force</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You augment your natural strength with psionic energy, granting you the ability to achieve incredible feats of might. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Strength (Athletics) checks. </text>
+        <text>     </text>
+        <text>Brute Strike: (1&#8211;7 psi) As a bonus action, you gain a bonus to your next damage roll against a target you hit with a melee attack during the current turn. The bonus equals +1d6 per psi point spent, and the bonus damage is the same type as the attack. If the attack has more than one damage type, you choose which one to use for the bonus damage. </text>
+        <text>     </text>
+        <text>Knock Back: (1&#8211;7 psi) When you hit a target with a melee attack, you can activate this ability as a reaction. The target must succeed on a Strength saving throw or be knocked 10 feet away from you per psi point spent. The target moves in a straight line. If it hits an object, this movement immediately ends and the target takes 1d6 bludgeoning damage per psi point spent. </text>
+        <text>     </text>
+        <text>Mighty Leap: (1&#8211;7 psi) As part of your movement, you jump in any direction up to 20 feet per psi point spent. </text>
+        <text>     </text>
+        <text>Feat of Strength: (2 psi) As a bonus action, you gain a +5 bonus to Strength checks until the end of your next turn.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 11</text>
+    </spell>
+    <spell>
+        <name>Celerity</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You channel psionic power into your body, honing your reflexes and agility to an incredible degree. The world seems to slow down while you continue to move as normal. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, your walking speed increases by 10 feet. </text>
+        <text>     </text>
+        <text>Rapid Step: (1&#8211;7 psi) As a bonus action, you increase your walking speed by 10 feet per psi point spent until the end of the current turn. If you have a climbing or swimming speed, this increase applies to that speed as well. </text>
+        <text>     </text>
+        <text>Agile Defense: (2 psi) As a bonus action, you take the Dodge action. </text>
+        <text>     </text>
+        <text>Blur of Motion: (2 psi) As an action, you cause yourself to be invisible during any of your movement during the current turn. </text>
+        <text>     </text>
+        <text>Surge of Speed: (2 psi) As a bonus action, you gain two benefits until the end of the current turn: you don&#8217;t provoke opportunity attacks, and you have a climbing speed equal to your walking speed. </text>
+        <text>     </text>
+        <text>Surge of Action: (5 psi) As a bonus action, you can Dash or make one weapon attack.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 12</text>
+    </spell>
+    <spell>
+        <name>Corrosive Metabolism</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>Your control over your body allows you to deliver acid or poison attacks. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have resistance to acid and poison damage. </text>
+        <text>     </text>
+        <text>Corrosive Touch: (1&#8211;7 psi) As an action, you deliver a touch of acid to one creature within your reach. The target must make a Dexterity saving throw, taking 1d10 acid damage per psi point spent on a failed save, or half as much damage on a successful one. </text>
+        <text>     </text>
+        <text>Venom Strike: (1&#8211;7 psi) As an action, you create a poison spray that targets one creature you can see within 30 feet of you. The target must make a Constitution saving throw. On a failed save, it takes 1d6 poison damage per psi point spent and is poisoned until the end of your next turn. On a successful save, the target takes half as much damage and isn&#8217;t poisoned. </text>
+        <text>     </text>
+        <text>Acid Spray: (2 psi) As a reaction when you take piercing or slashing damage, you cause acid to spray from your wound; each creature within 5 feet of you takes 2d6 acid damage. </text>
+        <text>     </text>
+        <text>Breath of the Black Dragon: (5 psi) You exhale a wave of acid in a 60-foot line that is 5 feet wide. Each creature in the line must make a Constitution saving throw, taking 6d6 acid damage on a failed save, or half as much on a successful one. You can increase the damage by 1d6 per additional psi point spent on it. </text>
+        <text>     </text>
+        <text>Breath of the Green Dragon: (7 psi) You exhale a cloud of poison in a 90-foot cone. Each creature in the line must make a Constitution saving throw, taking 10d6 poison damage on a failed save, or half as much damage on a successful one.</text>
+        <text>    </text>
+        <text>Poisoned:</text>
+        <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 12</text>
+    </spell>
+    <spell>
+        <name>Crown of Despair</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You have learned to harvest seeds of despair in a creature&#8217;s psyche, wracking it with self-doubt and inaction. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Charisma (Intimidation) checks. </text>
+        <text>     </text>
+        <text>Crowned in Sorrow: (1&#8211;7 psi) As an action, one creature you can see within 60 feet of you must make a Charisma saving throw. On a failed save, it takes 1d8 psychic damage per psi point spent, and it can&#8217;t take reactions until the start of its next turn. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Call to Inaction: (2 psi; conc., 10 min.) If you spend 1 minute conversing with a creature, you can attempt to seed it with overwhelming ennui. At the end of the minute, you can use an action to force the creature to make a Wisdom saving throw. The save automatically succeeds if the target is immune to being charmed. On a failed save, it sits and is incapacitated until your concentration ends. This effect immediately ends if the target or any ally it can see is attacked or takes damage. On a successful save, the creature is unaffected and has no inkling of your attempt to bend its will. </text>
+        <text>     </text>
+        <text>Visions of Despair: (3 psi) As an action, you force one creature you can see within 60 feet of you to make a Charisma saving throw. On a failed save, it takes 3d6 psychic damage, and its speed is reduced to 0 until the end of its next turn. On a successful save, it takes half as much damage. You can increase the damage by 1d6 per additional psi point spent on it. </text>
+        <text>     </text>
+        <text>Dolorous Mind: (5 psi; conc., 1 min.) As an action, you choose one creature you can see within 60 feet of you. It must succeed on a Charisma saving throw, or it is incapacitated and has a speed of 0 until your concentration ends. It can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text>    </text>
+        <text>Incapacitated:</text>
+        <text>&#8226; An incapacitated creature can't take actions or reactions.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 12</text>
+    </spell>
+    <spell>
+        <name>Crown of Disgust</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You cause a creature to be flooded with emotions of disgust. </text>
+        <text>     </text>
+        <text>Psychic Focus: While you are focused on this discipline, the area in a 5-foot radius around you is difficult terrain for any enemy that isn&#8217;t immune to being frightened. </text>
+        <text>     </text>
+        <text>Eye of Horror: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must make a Charisma saving throw. On a failed save, it takes 1d6 psychic damage per psi point spent and can&#8217;t move closer to you until the end of its next turn. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Wall of Repulsion: (3 psi; conc., 10 min.) As an action, you create an invisible, insubstantial wall of energy within 60 feet of you that is up to 30 feet long, 10 feet high, and 1 foot thick. The wall lasts until your concentration ends. Any creature attempting to move through it must make a Wisdom saving throw. On a failed save, a creature can&#8217;t move through the wall until the start of its next turn. On a successful save, the creature can pass through it. A creature must make this save whenever it attempts to pass through the wall, whether willingly or unwillingly. </text>
+        <text>     </text>
+        <text>Visions of Disgust: (5 psi; conc., 1 min.) You cause a creature to regard all other beings as horrid, alien entities. As an action, choose one creature you can see within 60 feet of you. The target must make a Wisdom saving throw. On a failed save, it takes 5d6 psychic damage, and until your concentration ends, it takes 1d6 psychic damage per creature within 5 feet of it at the end of each of its turns. On a successful save, the target takes only half the initial damage and suffers none of the other effects. </text>
+        <text>     </text>
+        <text>World of Horror: (7 psi; conc., 1 min.) As an action, choose up to six creatures within 60 feet of you. Each target must make a Charisma saving throw. On a failed save, a target takes 8d6 psychic damage, and it is frightened until your concentration ends. On a successful save, a target takes half as much damage. </text>
+        <text>    While frightened by this effect, a target&#8217;s speed is reduced to 0, and the target can use its action, and any bonus action it might have, only to make melee attacks. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text>    </text>
+        <text>Frightened:</text>
+        <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
+        <text>    </text>
+        <text>&#8226; The creature can't willingly move closer to the source of its fear.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 13</text>
+    </spell>
+    <spell>
+        <name>Crown of Rage</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You place a mote of pure fury within a creature&#8217;s mind, causing its bloodlust to overcome its senses and for it to act as you wish it to. </text>
+        <text>     </text>
+        <text>Psychic Focus: While you are focused on this discipline, any enemy within 5 feet of you that makes a melee attack roll against creatures other than you does so with disadvantage. </text>
+        <text>     </text>
+        <text>Primal Fury: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must succeed on a Charisma saving throw or take 1d6 psychic damage per psi point spent on this ability and immediately use its reaction to move its speed in a straight line toward its nearest enemy. The save automatically succeeds if the target is immune to being charmed. </text>
+        <text>     </text>
+        <text>Fighting Words: (2 psi; conc., 10 min.) If you spend 1 minute conversing with a creature, you can attempt to leave a simmering violence in its mind. At the end of the minute, you can use an action to force the creature to make a Wisdom saving throw to resist feeling violent urges against one creature you describe to it or name. The save automatically succeeds if the target is immune to being charmed. On a failed save, the target attacks the chosen creature if it sees that creature before your concentration ends, using weapons or spells against a creature it was already hostile toward or unarmed strikes against an ally or a creature it was neutral toward. Once the fight starts, it continues to attack for 5 rounds before this effect ends. This effect immediately ends if the target or any ally it can see is attacked or takes damage from any creature other than the one it has been incited against. On a successful save, the creature is unaffected and has no inkling of your attempt to bend its will. </text>
+        <text>     </text>
+        <text>Mindless Courage: (2 psi) You cause a creature's bloodlust to overcome its sense of preservation. As a bonus action, choose one creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw or, until the end of your next turn, it can&#8217;t willingly move unless its movement brings it closer to its nearest enemy that it can see. The save automatically succeeds if the target is immune to being charmed. </text>
+        <text>     </text>
+        <text>Punishing Fury: (5 psi; conc., 1 min.) You cause a creature's rage to grow so hot that it attacks without heeding its own safety. As a bonus action, choose one creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw or, until your concentration ends, any creature within 5 feet of it can use a reaction to make a melee attack against it whenever the target makes a melee attack. The save automatically succeeds if the target is immune to being charmed.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 13</text>
+    </spell>
+    <spell>
+        <name>Delusion</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>60 feet</range>
+        <components>None</components>
+        <duration>1 minute</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you plant a false belief in the mind of one creature that you can see within 60 feet of you. You can create a sound or an image. Only the target of this talent perceives the sound or image you create.</text>
+        <text>    If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a creature's roar, a musical instrument, or any other sound you pick. It lasts for 1 minute.</text>
+        <text>    If you create an object, it must fit within a 5- foot cube and can&#8217;t move or be reflective. The image can't create any effect that influences a sense other than sight. The image lasts for 1 minute, and it disappears if the creature touches it.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Diminution</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You manipulate the matter that composes your body, drastically reducing your size without surrendering any of your might. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Dexterity (Stealth) checks. </text>
+        <text>     </text>
+        <text>Miniature Form: (2 psi; conc., 10 min.) As a bonus action, you become Tiny until your concentration ends. While this size, you gain a +5 bonus to Dexterity (Stealth) checks and can move through gaps up to 6 inches across without squeezing. </text>
+        <text>     </text>
+        <text>Toppling Shift: (2 psi) As a bonus action, you shift to an incredibly small size and then suddenly return to normal, sending an opponent flying backward. Choose one creature you can see within 5 feet of you. It must succeed on a Strength saving throw or be knocked prone. </text>
+        <text>     </text>
+        <text>Sudden Shift: (5 psi) As a reaction when you are hit by an attack, you shift down to minute size to avoid the attack. The attack misses, and you move up to 5 feet without provoking opportunity attacks before returning to normal size. </text>
+        <text>     </text>
+        <text>Microscopic Form: (7 psi; conc., 10 min.) As a bonus action, you become smaller than Tiny until your concentration ends. While this size, you gain a +10 bonus to Dexterity (Stealth) checks and a +5 bonus to AC, you can move through gaps up to 1 inch across without squeezing, and you can&#8217;t make weapon attacks.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 14</text>
+    </spell>
+    <spell>
+        <name>Energy Beam</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>90 feet</range>
+        <components>None</components>
+        <duration>Instantaneous</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you target one creature you can see within 90 feet of you. The target must succeed on a Dexterity saving throw or take 1d8 acid, cold, fire, lightning, or thunder damage (your choice).</text>
+        <text>    The talent&#8217;s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+        <roll>1d8</roll>
+    </spell>
+    <spell>
+        <name>Giant Growth</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You infuse yourself with psionic energy to grow to tremendous size, bolstering your strength and durability. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, your reach increases by 5 feet. </text>
+        <text>     </text>
+        <text>Ogre Form: (2 psi; conc., 1 min.) As a bonus action, you gain 10 temporary hit points. In addition, until your concentration ends, your melee weapon attacks deal an extra 1d4 bludgeoning damage on a hit, and your reach increases by 5 feet. If you&#8217;re smaller than Large, you also become Large for the duration. </text>
+        <text>     </text>
+        <text>Giant Form: (7 psi; conc., 1 min.) As a bonus action, you gain 30 temporary hit points. In addition, until your concentration ends, your melee weapon attacks deal an extra 2d6 bludgeoning damage on a hit, and your reach increases by 10 feet. If you&#8217;re smaller than Huge, you also become Huge for the duration.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 14</text>
+    </spell>
+    <spell>
+        <name>Intellect Fortress</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You forge an indomitable wall of psionic energy around your mind&#8212;one that allows you to launch counterattacks against your opponents. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain resistance to psychic damage. </text>
+        <text>     </text>
+        <text>Psychic Backlash: (2 psi) As a reaction, you can impose disadvantage on an attack roll against you if you can see the attacker. If the attack still hits you, the attacker takes 2d10 psychic damage. </text>
+        <text>     </text>
+        <text>Psychic Parry: (1&#8211;7 psi) As a reaction when you make an Intelligence, a Wisdom, or a Charisma saving throw, you gain a +1 bonus to that saving throw for each psi point you spend on this ability. You can use this ability after rolling the die but before suffering the results. </text>
+        <text>     </text>
+        <text>Psychic Redoubt: (5 psi; conc., 10 min.) As an action, you create a field of protective psychic energy. Choose any number of creatures within 30 feet of you. Until your concentration ends, each target has resistance to psychic damage and advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 14</text>
+    </spell>
+    <spell>
+        <name>Iron Durability</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You transform your body to become a living metal, allowing you to shrug off attacks that would cripple weaker creatures. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain a +1 bonus to AC. </text>
+        <text>     </text>
+        <text>Iron Hide: (1&#8211;7 psi) As a reaction when you are hit by an attack, you gain a +1 bonus to AC for each psi point you spend on this ability. The bonus lasts until the end of your next turn. This bonus applies against the triggering attack. </text>
+        <text>     </text>
+        <text>Steel Hide: (2 psi) As a bonus action, you gain resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. </text>
+        <text>     </text>
+        <text>Iron Resistance: (7 psi; conc., 1 hr.) As an action, you gain resistance to bludgeoning, piercing, or slashing damage (your choice), which lasts until your concentration ends.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 15</text>
+    </spell>
+    <spell>
+        <name>Light Step</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>Self</range>
+        <components>None</components>
+        <duration>1 turn</duration>
+        <classes>Mystic</classes>
+        <text>As a bonus action, you alter your density and weight to improve your mobility. For the rest of your turn, your walking speed increases by 10 feet, and the first time you stand up this turn, you do so without expending any of your movement if your speed is greater than 0.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Mantle of Awe</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You learn to use psionic energy to manipulate others with a subtle combination of psi and your own, natural charm. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain a bonus to Charisma checks. The bonus equals half your Intelligence modifier (minimum of +1). </text>
+        <text>     </text>
+        <text>Charming Presence: (1&#8211;7 psi) As an action, you exert an aura of sympathetic power. Roll 2d8 per psi point spent on this ability; the total is how many hit points worth of creatures this option can affect. Creatures within 30 feet of you are affected in ascending order of their hit point maximums, ignoring incapacitated creatures, creatures immune to being charmed, and creatures engaged in combat. </text>
+        <text>    Starting with the creature that has the lowest hit point maximum, each creature affected by this option is charmed by you for 10 minutes, regarding you as a friendly acquaintance. Subtract each creature&#8217;s hit point maximum from the total before moving on to the next creature. A creature&#8217;s hit point maximum must be equal to or less than the remaining total for that creature to be affected. </text>
+        <text>     </text>
+        <text>Center of Attention: (2 psi; conc., 1 min.) As an action, you exert an aura of power that grabs a creature's attention. Choose one creature you can see within 60 feet of you. It must make a Charisma saving throw. On a failed save, the creature is so thoroughly distracted by you that all other creatures are invisible to it until your concentration ends. This effect ends if the creature can no longer see or hear you or if it takes damage. </text>
+        <text>     </text>
+        <text>Invoke Awe: (7 psi; conc., 10 min.) As an action, you exert an aura that inspires awe in others. Choose up to 5 creatures you can see within 60 feet of you. Each target must succeed on an Intelligence saving throw or be charmed by you until your concentration ends. While charmed, the target obeys all your verbal commands to the best of its ability and without doing anything obviously self-destructive. The charmed target will attack only creatures that it has seen attack you since it was charmed or that it was already hostile toward. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.</text>
+        <text>    </text>
+        <text>Charmed:</text>
+        <text>&#8226; A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.</text>
+        <text>    </text>
+        <text>&#8226; The charmer has advantage on any ability check to interact socially with the creature.</text>
+        <text>    </text>
+        <text>Invisible:</text>
+        <text>&#8226; An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 15</text>
+    </spell>
+    <spell>
+        <name>Mantle of Command</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You exert an aura of trust and authority, enhancing the coordination among your allies. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, when you end your turn and didn&#8217;t move during it, you can use your reaction to allow one ally you can see within 30 feet of you to move up to half their speed, following a path of your choice. To move in this way, the ally mustn&#8217;t be incapacitated. </text>
+        <text>     </text>
+        <text>Coordinated Movement: (2 psi) As a bonus action, choose up to five allies you can see within 60 feet of you. Each of those allies can use their reaction to move up to half their speed, following a path of your choice. </text>
+        <text>     </text>
+        <text>Commander&#8217;s Sight: (2 psi; conc., 1 rnd.) As an action, choose one creature you can see within 60 feet of you. Until the start of your next turn, your allies have advantage on attack rolls against that target. </text>
+        <text>     </text>
+        <text>Command to Strike: (3 psi) As an action, choose one ally you can see within 60 feet of you. That ally can use their reaction to immediately take the Attack action. You choose the targets. </text>
+        <text>     </text>
+        <text>Strategic Mind: (5 psi; conc., 1 min.) As an action, you exert an aura of trust and command that unites your allies into a cohesive unit. Until your concentration ends, any ally within 60 feet of you on their turn can, as a bonus action, take the Dash or Disengage action or roll a d4 and add the number rolled to each attack roll they make that turn.</text>
+        <text>     </text>
+        <text>Overwhelming Attack: (7 psi) As an action, choose up to five allies you can see within 60 feet of you. Each of those allies can use their reaction to take the Attack action. You choose the targets of the attacks.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 15</text>
+    </spell>
+    <spell>
+        <name>Mantle of Courage</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You focus your mind on courage, radiating confidence and bravado to your allies. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you and allies within 10 feet of you who can see you have advantage on saving throws against being frightened. </text>
+        <text>     </text>
+        <text>Incite Courage: (2 psi) As a bonus action, choose up to six creatures you can see within 60 feet of you. If any of those creatures is frightened, that condition ends on that creature. </text>
+        <text>     </text>
+        <text>Aura of Victory: (1&#8211;7 psi; conc., 10 min.) As a bonus action, you project psionic energy until your concentration ends. The energy fortifies you and your allies when your enemies are felled; whenever an enemy you can see is reduced to 0 hit points, you and each of your allies within 30 feet of you gain temporary hit points equal to double the psi points spent to activate this effect. </text>
+        <text>     </text>
+        <text>Pillar of Confidence: (6 psi; conc., 1 rnd.) As an action, you and up to five creatures you can see within 60 feet of you each gain one extra action to use on your individual turns. The action goes away if not used before the end of your next turn. the action can be used only to make one weapon attack or to take the Dash or Disengage action.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 16</text>
+    </spell>
+    <spell>
+        <name>Mantle of Fear</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You tap into a well of primal fear and turn yourself into a beacon of terror to your enemies. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Charisma (Intimidation) checks. </text>
+        <text>     </text>
+        <text>Incite Fear: (2 psi; conc., 1 min.) As an action, choose one creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw or become frightened of you until your concentration ends. Whenever the frightened target ends its turn in a location where it can&#8217;t see you, it can repeat the saving throw, ending the effect on itself on a success. </text>
+        <text>     </text>
+        <text>Unsettling Aura: (3 psi; conc., 1 hr.) As a bonus action, you cloak yourself in unsettling psychic energy. Until your concentration ends, any enemy within 60 feet of you that can see you must spend 1 extra foot of movement for every foot it moves toward you. A creature ignores this effect if immune to being frightened. </text>
+        <text>     </text>
+        <text>Incite Panic: (5 psi; conc., 1 min.) As an action, choose up to eight creatures you can see within 90 feet of you that can see you. At the start of each of a target&#8217;s turns before your concentration ends, the target must make a Wisdom saving throw. On a failed save, the target is frightened until the start of its next turn, and you roll a die. If you roll an odd number, the frightened target moves half its speed in a random direction and takes no action on that turn, other than to scream in terror. If you roll an even number, the frightened target makes one melee attack against a random target within its reach. If there is no such target, it moves half its speed in a random direction and takes no action on that turn. This effect ends on a target if it succeeds on three saving throws against it.</text>
+        <text>    </text>
+        <text>Frightened:</text>
+        <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
+        <text>    </text>
+        <text>&#8226; The creature can't willingly move closer to the source of its fear.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 16</text>
+    </spell>
+    <spell>
+        <name>Mantle of Fury</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You allow the primal fury lurking deep within your mind to burst forth, catching you and your allies in an implacable bloodthirst. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline in combat, you and any ally who starts their turn within 10 feet of you gains a 5-foot increase to their walking speed during that turn. </text>
+        <text>     </text>
+        <text>Incite Fury: (2 psi; conc., 1 min.) As a bonus action, choose up to three allies you can see within 60 feet of you (you can choose yourself in place of one of the allies). Until your concentration ends, each target can roll a d4 when rolling damage for a melee weapon attack and add the number rolled to the damage roll. </text>
+        <text>     </text>
+        <text>Mindless Charge: (2 psi) As a bonus action, choose up to three creatures you can see within 60 feet of you. Each target can immediately use its reaction to move up to its speed in a straight line toward its nearest enemy. </text>
+        <text>     </text>
+        <text>Aura of Bloodletting: (3 psi; conc., 1 min.) As a bonus action, you unleash an aura of rage. Until your concentration ends, you and any creature within 60 feet of you has advantage on melee attack rolls. </text>
+        <text>     </text>
+        <text>Overwhelming Fury: (5 psi; conc., 1 min.) As an action, you flood rage into one creature you can see within 60 feet of you. The target must succeed on a Charisma saving throw, or it can use its actions only to make melee attacks until your concentration ends. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 16</text>
+    </spell>
+    <spell>
+        <name>Mantle of Joy</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Avatar)</classes>
+        <text>You tap into the joy within you, radiating it outward in soothing, psychic energy that brings hope and comfort to creatures around you. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Charisma (Persuasion) checks. </text>
+        <text>     </text>
+        <text>Soothing Presence: (1&#8211;7 psi) As a bonus action, choose up to three creatures you can see within 60 feet of you. Each target gains 3 temporary hit points per psi point spent on this effect. </text>
+        <text>     </text>
+        <text>Comforting Aura: (2 psi; conc., 1 min.) As a bonus action, choose up to three allies you can see (you can choose yourself in place of one of the allies). Until your concentration ends, each target can roll a d4 when making a saving throw and add the number rolled to the total. </text>
+        <text>     </text>
+        <text>Aura of Jubilation: (3 psi; conc., 1 min.) As a bonus action, you radiate a distracting mirth until your concentration ends. Each creature within 60 feet of you that can see you suffers disadvantage on any checks using the Perception and Investigation skills. </text>
+        <text>     </text>
+        <text>Beacon of Recovery: (5 psi) As a bonus action, you and up to five allies you can see within 60 feet of you can immediately make saving throws against every effect they&#8217;re suffering that allows a save at the start or end of their turns.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 17</text>
+    </spell>
+    <spell>
+        <name>Mastery of Air</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>You become one with the power of elemental air. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you take no falling damage, and you ignore difficult terrain when walking. </text>
+        <text>     </text>
+        <text>Wind Step: (1&#8211;7 psi) As part of your move on your turn, you can fly up to 20 feet for each psi point spent. If you end this flight in the air, you fall unless something else holds you aloft. </text>
+        <text>     </text>
+        <text>Wind Stream: (1&#8211;7 psi) As an action, you create a line of focused air that is 30 feet long and 5 feet wide. Each creature in that area must make a Strength saving throw, taking 1d8 bludgeoning damage per psi point spent and being knocked prone on a failed save, or half as much damage on a successful one. </text>
+        <text>     </text>
+        <text>Cloak of Air: (3 psi; conc., 10 min.) As a bonus action, you seize control of the air around you to create a protective veil. Until your concentration ends, attack rolls against you have disadvantage, and when a creature you can see misses you with a melee attack, you can use your reaction to force the creature to repeat the attack roll against itself. </text>
+        <text>     </text>
+        <text>Wind Form: (5 psi; conc., 10 min.) As a bonus action, you gain a flying speed of 60 feet, which lasts until your concentration ends. </text>
+        <text>     </text>
+        <text>Misty Form: (6 psi; conc., 1 min.) As an action, your body becomes like a misty cloud until your concentration ends. In this form, you gain resistance to bludgeoning, piercing, and slashing damage, and you can&#8217;t take actions other than the Dash action. You can pass through openings that are no more than 1 inch wide without squeezing. </text>
+        <text>     </text>
+        <text>Animate Air: (7 psi; conc., 1 hr.) As an action, you cause an air elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 17</text>
+    </spell>
+    <spell>
+        <name>Mastery of Fire</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>You align your mind with the energy of elemental fire. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain resistance to fire damage, and you gain a +2 bonus to rolls for fire damage. </text>
+        <text>     </text>
+        <text>Combustion: (1&#8211;7 psi; conc., 1 min.) As an action, choose one creature or object you can see within 120 feet of you. The target must make a Constitution save. On a failed save, the target takes 1d10 fire damage per psi point spent, and it catches on fire, taking 1d6 fire damage at the end of each of its turns until your concentration ends or until it or a creature adjacent to it extinguishes the flames with an action. On a successful save, the target takes half as much damage and doesn&#8217;t catch on fire. </text>
+        <text>     </text>
+        <text>Rolling Flame: (3 psi; conc., 1 min.) As an action, you create fire in a 20-foot-by-20-foot cube within 5 feet of you. The fire lasts until your concentration ends. Any creature in that area when you use this ability and any creature that ends its turn there takes 5 fire damage. </text>
+        <text>     </text>
+        <text>Detonation: (5 psi) As an action, you create a fiery explosion at a point you can see within 120 feet of you. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw, taking 7d6 fire damage and being knocked prone on a failed save, or half as much damage on a successful one. </text>
+        <text>     </text>
+        <text>Fire Form: (5 psi; conc., 1 min.) As a bonus action, you become wreathed in flames until your concentration ends. Any creature that end its turn within 5 feet of you takes 3d6 fire damage. </text>
+        <text>     </text>
+        <text>Animate Fire: (7 psi; conc., 1 hr.) As an action, you cause a fire elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 17</text>
+    </spell>
+    <spell>
+        <name>Mastery of Force</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>As a student of psionic power, you perceive the potential energy that flows through all things. You reach out with your mind, transforming the potential into the actual. Objects and creatures move at your command. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Strength checks. </text>
+        <text>     </text>
+        <text>Push: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must make a Strength saving throw. On a failed save, it takes 1d8 force damage per psi point spent and is pushed up to 5 feet per point spent in a straight line away from you. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Move: (2&#8211;7 psi) Choose one object you can see within 60 feet of you that isn&#8217;t being worn or carried by another creature and that isn&#8217;t secured in place. It can&#8217;t be larger than 20 feet on a side, and its maximum weight depends on the psi points spent on this ability, as shown below. </text>
+        <text>    As an action, you move the object up to 60 feet, and you must keep the object within sight during this movement. If the object ends this movement in the air, it falls. If the object would fall on a creature, the creature must succeed on a DC 10 Dexterity saving throw or take damage as listed on the table below. </text>
+        <text>     </text>
+        <text>Psi &#8212; Weight &#8212; Damage </text>
+        <text>2 &#8212; 25 lbs. &#8212; 2d6 </text>
+        <text>3 &#8212; 50 lbs. &#8212; 4d6 </text>
+        <text>5 &#8212; 250 lbs. &#8212; 6d6 </text>
+        <text>6 &#8212; 500 lbs. &#8212; 7d6 </text>
+        <text>7 &#8212; 1,000 lbs. &#8212; 8d6 </text>
+        <text>     </text>
+        <text>Inertial Armor: (2 psi) As an action, you sheathe yourself in an intangible field of magical force. For 8 hours, your base AC is 14 + your Dexterity modifier, and you gain resistance to force damage. This effect ends if you are wearing or don armor. </text>
+        <text>     </text>
+        <text>Telekinetic Barrier: (3 psi; conc., 10 min.) As an action, you create a transparent wall of telekinetic energy, at least one portion of which must be within 60 feet of you. The wall is 40 feet long, 10 feet high, and 1 inch thick. The wall lasts until your concentration ends. Each 10-foot section of the wall has an AC of 10 and 10 hit points. </text>
+        <text>     </text>
+        <text>Grasp: (3 psi; conc., 1 min.) You attempt to grasp a creature in telekinetic energy and hold it captive. As an action, choose one creature you can see within 60 feet of you. The target must succeed on a Strength saving throw or be grappled by you until your concentration ends or until the target leaves your reach, which is 60 feet for this grapple. </text>
+        <text>    The grappled target can escape by succeeding on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your psionic ability plus your proficiency bonus. When a target attempts to escape in this way, you can spend psi points to boost your check, abiding by your psi limit. You gain a +1 bonus per psi point spent. </text>
+        <text>    While a target is grappled in this manner, you create one of the following effects as an action: </text>
+        <text>     </text>
+        <text>Crush: (1&#8211;7 psi) The target takes 1d6 bludgeoning damage per psi point spent. </text>
+        <text>     </text>
+        <text>Move: (1&#8211;7 psi) You move the target up to 5 feet per psi point spent. You can move it in the air and hold it there. It falls if the grapple ends.</text>
+        <text>    </text>
+        <text>Grappled:</text>
+        <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+        <text>    </text>
+        <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+        <text>    </text>
+        <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 18</text>
+    </spell>
+    <spell>
+        <name>Mastery of Ice</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>You master the power of ice, shaping it to meet you demands. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have resistance to cold damage. </text>
+        <text>     </text>
+        <text>Ice Spike: (1&#8211;7 psi) As an action, you hurl a mote of ice at one creature you can see within 120 feet of you. The target must make a Dexterity saving throw. On a failed save, the target takes 1d8 cold damage per psi point spent and has its speed halved until the start of your next turn. On a successful save, the target takes half as much damage. </text>
+        <text>     </text>
+        <text>Ice Sheet: (2 psi) As an action, choose a point on the ground you can see within 60 feet of you. The ground in a 20-foot radius centered on that point becomes covered in ice for 10 minutes. It is difficult terrain, and any creature that moves more than 10 feet on it must succeed on a Dexterity saving throw or fall prone. If the surface is sloped, a creature that falls prone in the area immediately slides to the bottom of the slope. </text>
+        <text>     </text>
+        <text>Frozen Sanctuary: (3 psi) As a bonus action, you sheathe yourself with icy resilience. You gain 20 temporary hit points. </text>
+        <text>     </text>
+        <text>Frozen Rain: (5 psi; conc., 1 min.) As an action, choose a point you can see within 120 feet of you. The air in a 20-foot-radius sphere centered on that point becomes deathly cold and saturated with moisture. Each creature in that area must make a Constitution saving throw. On a failed save, a target takes 6d6 cold damage, and its speed is reduced to 0 until your concentration ends. On a successful save, a target takes half as much damage. </text>
+        <text>    As an action, a target that has its speed reduced can end the effect early if it succeeds on a Strength (Athletics) check with a DC equal to this effect&#8217;s save DC. </text>
+        <text>    You can increase this effect&#8217;s damage by 1d6 per each additional psi point spent on it. </text>
+        <text>     </text>
+        <text>Ice Barrier: (6 psi; conc., 10 min.) As an action, you create a wall of ice, at least one portion of which must be within 60 feet of you. The wall is 60 feet long, 15 feet high, and 1 foot thick. The wall lasts until your concentration ends. Each 10-foot section of the wall has AC 12 and 30 hit points. A creature that damages the wall with a melee attack takes cold damage equal to the damage the creature dealt to the wall.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 19</text>
+    </spell>
+    <spell>
+        <name>Mastery of Light and Darkness</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>You claim dominion over light and darkness with your mind. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, natural and magical darkness within 30 feet of you has no effect on your vision. </text>
+        <text>     </text>
+        <text>Darkness: (1&#8211;7 psi) As an action, you create an area of magical darkness, which foils darkvision. Choose a spot you can see within 60 feet of you. Magical darkness radiates from that point in a sphere with a 10-foot radius per psi point spent on this ability. The light produced by spells of 2nd level or less is suppressed in this area. </text>
+        <text>     </text>
+        <text>Light: (2 psi; conc., 1 min.) As an action, an object you touch radiates light in a 20-foot radius and dim light for an additional 20 feet. The light lasts until your concentration ends. Alternatively, a creature you touch radiates light in the same manner if it fails a Dexterity saving throw. While lit in this manner, it can&#8217;t hide, and attack rolls against it gain advantage. </text>
+        <text>     </text>
+        <text>Shadow Beasts: (3 psi; conc., 1 min.) As an action, you cause two shadows to appear in unoccupied spaces you can see within 60 feet of you. The shadows last until your concentration ends, and they obey your verbal commands. In combat, roll for their initiative, and choose their behavior during their turns. When this effect ends, the shadows disappear. See the Monster Manual for their stat block. </text>
+        <text>     </text>
+        <text>Radiant Beam: (5 psi; conc., 1 min.) As an action, you project a beam of light at one creature you can see within 60 feet of you. The target must make a Dexterity saving throw. On a failed save, it takes 6d6 radiant damage and is blinded until your concentration ends. On a successful save, it takes half as much damage. A blinded target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. </text>
+        <text>    You can increase this effect&#8217;s damage by 1d6 per each additional psi point spent on it.</text>
+        <text>    </text>
+        <text>Blinded:</text>
+        <text>&#8226; A blinded creature can't see and automatically fails any ability check that requires sight.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 19</text>
+    </spell>
+    <spell>
+        <name>Mastery of Water</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>Your mind becomes one with elemental water, attuning your thoughts to its ebb and flow. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have a swimming speed equal to your walking speed, and you can breathe underwater. </text>
+        <text>     </text>
+        <text>Desiccate: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must make a Constitution saving throw, taking 1d10 necrotic damage per psi point spent on this ability, or half as much damage on a successful one. </text>
+        <text>     </text>
+        <text>Watery Grasp: (2 psi) As an action, you unleash a wave that surges forth and then retreats to you like the rising tide. You create a wave in a 20-foot-by-20-foot square. At least some portion of the square&#8217;s border must be within 5 feet of you. Any creature in that square must make a Strength saving throw. On a failed save, a target takes 2d6 bludgeoning damage, is knocked prone, and is pulled up to 10 feet closer to you. On a successful save, a target takes half as much damage. You can increase this ability&#8217;s damage by 1d6 per additional psi point spent on it. </text>
+        <text>     </text>
+        <text>Water Whip: (3 psi) As an action, you unleash a jet of water in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a Strength saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, you can move each target that fails its saving throw to any unoccupied space touching the line. You can increase this ability&#8217;s damage by 1d6 per additional psi point spent on it. </text>
+        <text>     </text>
+        <text>Water Breathing: (5 psi) As an action, you grant yourself and up to ten willing creatures you can see within 60 feet of you the ability to breathe underwater for the next 24 hours. </text>
+        <text>     </text>
+        <text>Water Sphere: (6 psi; conc., 1 min.) As an action, you cause a sphere of water to form around a creature. Choose one creature you can see within 60 feet of you. The target must make a Dexterity saving throw. On a failed save, it becomes trapped in the sphere of water until your concentration ends. While the target is trapped, its speed is halved, it suffers disadvantage on attack rolls, and it can&#8217;t see anything more than 10 feet away from it. However, attack rolls against it also suffer disadvantage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful one. </text>
+        <text>     </text>
+        <text>Animate Water: (7 psi; conc., 1 hr.) As an action, you cause a water elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 19</text>
+    </spell>
+    <spell>
+        <name>Mastery of Weather</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>Your mind reaches into the sky, reshaping the stuff of storms to serve your needs. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have resistance to lightning and thunder damage. </text>
+        <text>     </text>
+        <text>Cloud Steps: (1&#8211;7 psi; conc., 10 min.) As an action, you conjure forth clouds to create a solid, translucent staircase that lasts until your concentration ends. The stairs form a spiral that fills a 10-foot-by-10-foot area and reaches upward 20 feet per psi point spent. </text>
+        <text>     </text>
+        <text>Hungry Lightning: (1&#8211;7 psi) As an action, you lash out at one creature you can see within 60 feet of you with tendrils of lightning. The target must make a Dexterity saving throw, with disadvantage if it&#8217;s wearing heavy armor. The target takes 1d8 lightning damage per psi point spent on a failed save, or half as much damage on a successful one. </text>
+        <text>     </text>
+        <text>Wall of Clouds: (2 psi; conc., 10 min.) As an action, you create a wall of clouds, at least one portion of which must be within 60 feet of you. The wall is 60 feet long, 15 feet high, and 1 foot thick. The wall lasts until your concentration ends. Creatures can pass through it without hindrance, but the wall blocks vision. </text>
+        <text>     </text>
+        <text>Whirlwind: (2 psi) As an action, choose a point you can see within 60 feet of you. Winds howl in a 20-foot-radius sphere centered on that point. Each creature in the sphere must succeed on a Strength saving throw or take 1d6 bludgeoning damage and be moved to an unoccupied space of your choice in the sphere. Any loose object in the sphere is moved to an unoccupied space of your choice within it if the object weighs no more than 100 pounds. </text>
+        <text>     </text>
+        <text>Lightning Leap: (5 psi) As an action, you let loose a line of lightning that is 60 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw, taking 6d6 lightning damage on a failed save, or half as much damage on a successful one. You can then teleport to an unoccupied space touched by the line. </text>
+        <text>    You can increase this ability&#8217;s damage by 1d6 per additional psi point spent on it.</text>
+        <text>     </text>
+        <text>Wall of Thunder: (6 psi; conc., 10 min.) As an action, you create a wall of thunder, at least one portion of which must be within 60 feet of you. The wall is 60 feet long, 15 feet high, and 1 foot thick. The wall lasts until your concentration ends. Every foot moved through the wall costs 1 extra foot of movement. When a creature moves into the wall&#8217;s space for the first time on a turn or starts its turn there, that creature must succeed on a Strength saving throw, or it takes 6d6 thunder damage, is pushed in a straight line up to 30 feet away from the wall, and is knocked prone. </text>
+        <text>     </text>
+        <text>Thunder Clap: (7 psi) As an action, choose a point you can see within 60 feet of you. Thunder energy erupts in a 20-foot-radius sphere centered on that point. Each creature in that area must make Constitution saving throw. On a failed save, a target takes 8d6 thunder damage, and it is stunned until the end of your next turn. On a successful save, a target takes half as much damage.</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 20</text>
+    </spell>
+    <spell>
+        <name>Mastery of Wood and Earth</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Wu Jen)</classes>
+        <text>You attune your mind to seize control of wood and earth. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have a +1 bonus to AC. </text>
+        <text>     </text>
+        <text>Animate Weapon: (1&#8211;7 psi) As an action, your mind seizes control of a one-handed melee weapon you&#8217;re holding. The weapon flies toward one creature you can see within 30 feet of you and makes a one-handed melee weapon attack against it, using your discipline attack modifier for the attack and damage rolls. On a hit, the weapon deals its normal damage, plus an extra 1d10 force damage per psi point spent on this ability. The weapon returns to your grasp after it attacks. </text>
+        <text>     </text>
+        <text>Warp Weapon: (2 psi) As an action, choose one nonmagical weapon held by one creature you can see within 60 feet of you. That creature must succeed on a Strength saving throw, or the chosen weapon can&#8217;t be used to attack until the end of your next turn. </text>
+        <text>     </text>
+        <text>Warp Armor: (3 psi) As an action, choose a nonmagical suit of armor worn by one creature you can see within 60 feet of you. That creature must succeed on a Constitution saving throw, or the creature&#8217;s AC becomes 10 + its Dexterity modifier until the end of your next turn. </text>
+        <text>     </text>
+        <text>Wall of Wood: (3 psi; conc., 1 hr.) As an action, you create a wall of wood at least one portion of which must be within 60 feet of you. The wall is 60 feet long, 15 feet high, and 1 foot thick. The wall lasts until your concentration ends. Each 5-foot wide section of the wall has AC 12 and 100 hit points. Breaking one section creates a 5-foot by 5-foot hole in it, but the wall otherwise remains intact. </text>
+        <text>     </text>
+        <text>Armored Form: (6 psi; conc., 1 min.) As a bonus action, you gain resistance to bludgeoning, piercing, and slashing damage, which lasts until your concentration ends. </text>
+        <text>     </text>
+        <text>Animate Earth: (7 psi; conc., 1 hr.) As an action, you cause an earth elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 21</text>
+    </spell>
+    <spell>
+        <name>Mind Meld</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>120 feet</range>
+        <components>None</components>
+        <duration>1 round</duration>
+        <classes>Mystic</classes>
+        <text>As a bonus action, you can communicate telepathically with one willing creature you can see within 120 feet of you. The target must have an Intelligence of at least 2, otherwise this talent fails and the action is wasted.</text>
+        <text>    This communication can occur until the end of the current turn. You don&#8217;t need to share a language with the target for it to understand your telepathic utterances, and it understands you even if it lacks a language. You also gain access to one memory of the target&#8217;s choice, gaining perfect recall of one thing it saw or did.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 27</text>
+    </spell>
+    <spell>
+        <name>Mind Slam</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>60 feet</range>
+        <components>None</components>
+        <duration>Instantaneous</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you target one creature you can see within 60 feet of you. The target must succeed on a Constitution saving throw or take 1d6 force damage. If it takes any of this damage and is Large or smaller, it is knocked prone.</text>
+        <text>    The talent&#8217;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
+        <text>    </text>
+        <text>Prone:</text>
+        <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+        <text>    </text>
+        <text>&#8226; The creature has disadvantage on attack rolls.</text>
+        <text>    </text>
+        <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 28</text>
+        <roll>1d6</roll>
+    </spell>
+    <spell>
+        <name>Mind Thrust</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>120 feet</range>
+        <components>None</components>
+        <duration>Instantaneous</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you target one creature you can see within 120 feet of you. The target must succeed on an Intelligence saving throw or take 1d10 psychic damage.</text>
+        <text>    The talent&#8217;s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 28</text>
+        <roll>1d10</roll>
+    </spell>
+    <spell>
+        <name>Mystic Charm</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>120 feet</range>
+        <components>None</components>
+        <duration>1 round</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you beguile one humanoid you can see within 120 feet of you. The target must succeed on a Charisma saving throw or be charmed by you until the end of your next turn.</text>
+        <text>    </text>
+        <text>Charmed:</text>
+        <text>&#8226; A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.</text>
+        <text>    </text>
+        <text>&#8226; The charmer has advantage on any ability check to interact socially with the creature.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 28</text>
+    </spell>
+    <spell>
+        <name>Mystic Hand</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>30 feet</range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic</classes>
+        <text>You can use your action to manipulate or move one object within 30 feet of you. The object can&#8217;t weigh more than 10 pounds, and you can&#8217;t affect an object being worn or carried by another creature. If the object is loose, you can move it up to 30 feet in any direction.</text>
+        <text>    This talent allows you to open an unlocked door, pour out a beer stein, and so on.</text>
+        <text>    The object falls to the ground at the end of your turn if you leave it suspended in midair.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 28</text>
+    </spell>
+    <spell>
+        <name>Nomadic Arrow</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Nomad)</classes>
+        <text>You imbue a ranged weapon with a strange semblance of sentience, allowing it to unerringly find its mark. </text>
+        <text>     </text>
+        <text>Psychic Focus: While you are focused on this discipline, any attack roll you make for a ranged weapon attack ignores disadvantage. If disadvantage would normally apply to the roll, that roll also can&#8217;t benefit from advantage. </text>
+        <text>     </text>
+        <text>Speed Dart: (1&#8211;7 psi) As a bonus action, you imbue one ranged weapon you hold with psionic power. The next attack you make with it that hits before the end of the current turn deals an extra 1d10 psychic damage per psi point spent. </text>
+        <text>     </text>
+        <text>Seeking Missile: (2 psi) As a reaction when you miss with a ranged weapon attack, you can repeat the attack roll against the same target. </text>
+        <text>     </text>
+        <text>Faithful Archer: (5 psi; conc., 1 min.) As a bonus action, you imbue a ranged weapon with a limited sentience. Until your concentration ends, you can make an extra attack with the weapon at the start of each of your turns (no action required). If it is a thrown weapon, it returns to your grasp each time you make any attack with it.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 21</text>
+    </spell>
+    <spell>
+        <name>Nomadic Chameleon</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Nomad)</classes>
+        <text>You create a screen of psychic power that distorts your appearance, allowing you to blend into the background or even turn invisible. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Dexterity (Stealth) checks. </text>
+        <text>     </text>
+        <text>Chameleon: (2 psi) As an action, you can attempt to hide even if you fail to meet the requirements needed to do so. At the end of the current turn, you remain hidden only if you then meet the normal requirements for hiding. </text>
+        <text>     </text>
+        <text>Step from Sight: (3 psi; conc., 1 min.) As a bonus action, cloak yourself from sight. You can target one additional creature for every additional psi point you spend on this ability. The added targets must be visible to you and within 60 feet of you. </text>
+        <text>    Each target turns invisible and remains so until your concentration ends or until immediately after it targets, damages, or otherwise affects any creature with an attack, a spell, or another ability. </text>
+        <text>     </text>
+        <text>Enduring Invisibility: (7 psi; conc., 1 min.) As a bonus action, you turn invisible and remain so until your concentration ends.</text>
+        <text>    </text>
+        <text>Invisible:</text>
+        <text>&#8226; An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 22</text>
+    </spell>
+    <spell>
+        <name>Nomadic Mind</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Nomad)</classes>
+        <text>You dispatch part of your psyche into the noosphere, the collective vista of minds and knowledge possessed by living things. </text>
+        <text>     </text>
+        <text>Psychic Focus: Whenever you focus on this discipline, you choose one skill or tool and have proficiency with it until your focus ends. Alternatively, you gain the ability to read and write one language of your choice until your focus ends. </text>
+        <text>     </text>
+        <text>Wandering Mind: (2&#8211;6 psi; conc., 10 min.) You enter a deep contemplation. If you concentrate for this option&#8217;s full duration, you then gain proficiency with up to three of the following skills (one skill for every 2 psi points spent) Animal Handling, Arcana, History, Medicine, Nature, Performance, Religion, and Survival. The benefit lasts for 1 hour, no concentration required. </text>
+        <text>     </text>
+        <text>Find Creature: (2 psi; conc., 1 hr.) You cast your mind about for information about a specific creature. If you concentrate for this option&#8217;s full duration, you then gain a general understanding of the creature&#8217;s current location. You learn the region, city, town, village, or district where it is, pinpointing an area between 1 and 3 miles on a side (DM&#8217;s choice). If the creature is on another plane of existence, you instead learn which plane. </text>
+        <text>     </text>
+        <text>Item Lore: (3 psi; conc., 1 hr.) You carefully study an item. If you concentrate for this option&#8217;s full duration while remaining within 5 feet of the item, you then gain the benefits of an identify spell cast on that item. </text>
+        <text>     </text>
+        <text>Psychic Speech: (5 psi) As an action, you attune your mind to the psychic imprint of all language. For 1 hour, you gain the ability to understand any language you hear or attempt to read. In addition, when you speak, all creatures that can understand a language understand what you say, regardless of what language you use. </text>
+        <text>     </text>
+        <text>Wandering Eye: (6 psi; conc., 1 hr.) As an action, you create a psychic sensor within 60 feet of you. The sensor lasts until your concentration ends. The sensor is invisible and hovers in the air. You mentally receive visual information from it, which has normal vision and darkvision with a range of 60 feet. The sensor can look in all directions. As an action, you can move the sensor up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can&#8217;t enter another plane of existence. A solid barrier blocks the eye&#8217;s movement, but the eye can pass through an opening as small as 1 inch in diameter. </text>
+        <text>     </text>
+        <text>Phasing Eye: (7 psi; conc., 1 hr.) As Wandering Eye above, except the eye can move through solid objects but can&#8217;t end its movement in one. If it does so, the effect immediately ends.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 22</text>
+    </spell>
+    <spell>
+        <name>Nomadic Step</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Nomad)</classes>
+        <text>You exert your mind on the area around you, twisting the intraplanar pathways you perceive to allow instantaneous travel. </text>
+        <text>     </text>
+        <text>Psychic Focus: After you teleport on your turn while focused on this discipline, your walking speed increases by 10 feet until the end of the turn, as you are propelled by the magic of your teleportation. You can receive this increase only once per turn. </text>
+        <text>     </text>
+        <text>Step of a Dozen Paces: (1&#8211;7 psi) If you haven&#8217;t moved yet on your turn, you take a bonus action to teleport up to 20 feet per psi point spent to an unoccupied space you can see, and your speed is reduced to 0 until the end of the turn.</text>
+        <text>     </text>
+        <text>Nomadic Anchor: (1 psi) As an action, you create an invisible, intangible teleportation anchor in a 5-foot cube you can see within 120 feet of you. For the next 8 hours, whenever you use this psionic discipline to teleport, you can instead teleport to the anchor, even if you can&#8217;t see it, but it must be within range of the teleportation ability. </text>
+        <text>     </text>
+        <text>Defensive Step: (2 psi) When you are hit by an attack, you can use your reaction to gain a +4 bonus to AC against that attack, possibly turning it into a miss. You then teleport up to 10 feet to an unoccupied space you can see. </text>
+        <text>     </text>
+        <text>There and Back Again: (2 psi) As a bonus action, you teleport up to 20 feet to an unoccupied space you can see and then move up to half your speed. At the end of your turn, you can teleport back to the spot you occupied before teleporting, unless it is now occupied or on a different plane of existence. </text>
+        <text>     </text>
+        <text>Transposition: (3 psi) If you haven&#8217;t moved yet on your turn, choose an ally you can see within 60 feet of you. As a bonus action, you and that creature teleport, swapping places, and your speed is reduced to 0 until the end of the turn. This ability fails and is wasted if either of you can&#8217;t fit in the destination space. </text>
+        <text>     </text>
+        <text>Baleful Transposition: (5 psi) As an action, choose one creature you can see within 120 feet of you. That creature must make a Wisdom saving throw. On a failed save, you and that creature teleport, swapping places. This ability fails and is wasted if either of you can&#8217;t fit in the destination space. </text>
+        <text>     </text>
+        <text>Phantom Caravan: (6 psi) As an action, you and up to six willing creatures of your choice that you can see within 60 feet of you teleport up to 1 mile to a spot you can see. If there isn&#8217;t an open space for all the targets to occupy at the arrival point, this ability fails and is wasted. </text>
+        <text>     </text>
+        <text>Nomad&#8217;s Gate: (7 psi; conc., 1 hr.) As an action, you create a 5-foot cube of dim, gray light within 5 feet of you. You create an identical cube at any point of your choice within 1 mile that you have viewed within the past 24 hours. Until your concentration ends, anyone entering one of the cubes immediately teleports to the other one, appearing in an unoccupied space next to it. The teleportation fails if there is no space for the creature to appear in.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 22</text>
+    </spell>
+    <spell>
+        <name>Precognition</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>By analyzing information around you, from subtle hints to seemingly disconnected facts, you learn to weave a string of probabilities in an instant that gives you extraordinary insights. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on initiative rolls. </text>
+        <text>     </text>
+        <text>Precognitive Hunch: (2 psi; conc., 1 min.) As a bonus action, you open yourself to receive momentary insights that improve your odds of success; until your concentration ends, whenever you make an attack roll, a saving throw, or an ability check, you roll a d4 and add it to the total. </text>
+        <text>     </text>
+        <text>All-Around Sight: (3 psi) In response to an attack hitting you, you use your reaction to impose disadvantage on that attack roll, possibly causing it to miss. </text>
+        <text>     </text>
+        <text>Danger Sense: (5 psi; conc., 8 hr.) As an action, you create a psychic model of reality in your mind and set it to show you a few seconds into the future. Until your concentration ends, you can&#8217;t be surprised, attack rolls against you can&#8217;t gain advantage, and you gain a +10 bonus to initiative. </text>
+        <text>     </text>
+        <text>Victory Before Battle: (7 psi) When you roll initiative, you can use this ability to grant yourself and up to five creatures of your choice within 60 feet of you a +10 bonus to initiative.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 23</text>
+    </spell>
+    <spell>
+        <name>Psionic Restoration</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You wield psionic energy to cure wounds and restore health to yourself and others. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you can use a bonus action to touch a creature that has 0 hit points and stabilize it. </text>
+        <text>     </text>
+        <text>Mend Wounds: (1&#8211;7 psi) As an action, you can spend psi points to restore hit points to one creature you touch. The creature regains 1d8 hit points per psi point spent. </text>
+        <text>     </text>
+        <text>Restore Health: (3 psi) As an action, you touch one creature and remove one of the following conditions from it: blinded, deafened, paralyzed, or poisoned. Alternatively, you remove one disease from the creature. </text>
+        <text>     </text>
+        <text>Restore Life: (5 psi) As an action, you touch one creature that has died within the last minute. The creature returns to life with 1 hit point. This ability can&#8217;t return to life a creature that has died of old age, nor can it restore a creature missing any vital body parts. </text>
+        <text>     </text>
+        <text>Restore Vigor: (7 psi) As an action, you can touch one creature and choose one of the following: remove any reductions to one of its ability scores, remove one effect that reduces its hit point maximum, or reduce its exhaustion level by one.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 23</text>
+    </spell>
+    <spell>
+        <name>Psionic Weapon</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Immortal)</classes>
+        <text>You have learned how to channel psionic energy into your attacks, lending them devastating power. </text>
+        <text>     </text>
+        <text>Psychic Focus: Whenever you focus on this discipline, choose one weapon you&#8217;re holding or your unarmed strike. When you attack with it while focused on this discipline, its damage is psychic and magical, rather than its normal damage type. Until you reach 6th level as a mystic, you don&#8217;t add your Strength or Dexterity modifier to the psychic attack&#8217;s damage rolls. </text>
+        <text>     </text>
+        <text>Ethereal Weapon: (1 psi) As a bonus action, you temporarily transform one weapon you&#8217;re holding or your unarmed strike into pure psionic energy. The next attack you make with it before the end of your turn ignores the target&#8217;s armor, requiring no attack roll. Instead, the target makes a Dexterity saving throw against this discipline. On a failed save, the target takes the attack&#8217;s normal damage and suffers its additional effects. On a successful save, the target takes half damage from the attack but suffers no additional effects that would normally be imposed on a hit. </text>
+        <text>     </text>
+        <text>Lethal Strike: (1&#8211;7 psi) As a bonus action, you imbue a weapon you&#8217;re holding or your unarmed strike with psychic energy. The next time you hit with it before the end of your turn, it deals an extra 1d10 psychic damage per psi point spent. </text>
+        <text>     </text>
+        <text>Augmented Weapon: (5 psi; conc., 10 min.) As a bonus action, touch one simple or martial weapon. Until your concentration ends, that weapon becomes a magic weapon with a +3 bonus to its attack and damage rolls.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 24</text>
+    </spell>
+    <spell>
+        <name>Psychic Assault</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You wield your mind like a weapon, unleashing salvos of psionic energy. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain a +2 bonus to damage rolls with psionic talents that deal psychic damage. </text>
+        <text>     </text>
+        <text>Psionic Blast: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target takes 1d8 psychic damage per psi point spent on this ability. </text>
+        <text>     </text>
+        <text>Ego Whip: (3 psi) As an action, choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, the creature takes 3d8 psychic damage, and it is filled with self-doubt, leaving it able to use its action on its next turn only to take the Dodge, Disengage, or Hide action. On a successful saving throw, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Id Insinuation: (5 psi) As an action, choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, the creature takes 5d8 psychic damage, and it goes into a fury, as its id runs rampant. On its next turn, it can use its action only to take the Dodge or Attack action. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Psychic Blast: (6 psi) As an action, you unleash devastating psychic energy in a 60-foot cone. Each creature in that area must make an Intelligence saving throw, taking 8d8 psychic damage on a failed save, or half as much damage on a successful one. You can increase the damage by 2d8 if you spend 1 more psi point on this ability. </text>
+        <text>     </text>
+        <text>Psychic Crush: (7 psi) As an action, you create a 20-foot cube of psychic energy within 120 feet of you. Each creature in that area must make an Intelligence saving throw. On a failed save, a target takes 8d8 psychic damage and is stunned until the end of your next turn. On a successful save, a target takes half as much damage.</text>
+        <text>    </text>
+        <text>Stunned:</text>
+        <text>&#8226; A stunned creature is incapacitated, meaning it can't take actions or reactions, can't move, and can speak only falteringly.</text>
+        <text>    </text>
+        <text>&#8226; The creature automatically fails Strength and Dexterity saving throws.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have advantage.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 24</text>
+    </spell>
+    <spell>
+        <name>Psychic Disruption</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You create psychic static that disrupts other creatures&#8217; ability to think clearly. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Charisma (Deception) checks. </text>
+        <text>     </text>
+        <text>Distracting Haze: (1&#8211;7 psi; conc., 1 min.) As an action, choose one creature you can see within 60 feet of you. That creature must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and can&#8217;t see anything more than 10 feet from it until your concentration ends. On a successful save, it takes half as much damage.</text>
+        <text>     </text>
+        <text>Daze: (3 psi) As an action, choose one creature you can see within 60 feet of you. That creature must make an Intelligence saving throw. On a failed save, the target is incapacitated until the end of your next turn or until it takes any damage. </text>
+        <text>     </text>
+        <text>Mind Storm: (5 psi) As an action, choose a point you can see within 60 feet of you. Each creature in a 20-foot-radius sphere centered on that point must make a Wisdom saving throw. On a failed save, a target takes 6d8 psychic damage and suffers disadvantage on all saving throws until the end of your next turn. On a successful save, a creature takes half as much damage. You can increase the damage by 1d6 per additional psi point spent on this ability.</text>
+        <text>    </text>
+        <text>Incapacitated:</text>
+        <text>&#8226; An incapacitated creature can't take actions or reactions.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 24</text>
+    </spell>
+    <spell>
+        <name>Psychic Hammer</name>
+        <level>0</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range>120 feet</range>
+        <components>None</components>
+        <duration>Instantaneous</duration>
+        <classes>Mystic</classes>
+        <text>As an action, you try to grasp one creature you can see within 120 feet of you, with a hand crafted from telekinetic energy. The target must succeed on a Strength saving throw or take 1d6 force damage. If it takes any of this damage and is Large or smaller, you can move it up to 10 feet in a straight line in a direction of your choice. You can&#8217;t lift the target off the ground unless it is already airborne or underwater.</text>
+        <text>    The talent&#8217;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 28</text>
+        <roll>1d6</roll>
+    </spell>
+    <spell>
+        <name>Psychic Inquisition</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>You reach into a creature&#8217;s mind to uncover information or plant ideas within it. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you know when a creature communicating with you via telepathy is lying. </text>
+        <text>     </text>
+        <text>Hammer of Inquisition: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and suffers disadvantage on its next Wisdom saving throw before the end of your next turn. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Forceful Query: (2 psi) As an action, you ask a question of one creature that can see and hear you within 30 feet of you. The question must be phrased so that it can be answered with a yes or no, otherwise this ability fails. The target must succeed on a Wisdom saving throw, or it replies with a truthful answer. A creature is immune to this ability if it is immune to being charmed. </text>
+        <text>     </text>
+        <text>Ransack Mind: (5 psi; conc., 1 hr.) While you concentrate on this ability, you probe one creature&#8217;s mind. The creature must remain within 30 feet of you, and you must be able to see it. If you reach the ability&#8217;s full duration, the target must make three Intelligence saving throws, and you learn information from it based on the number of saving throws it fails. </text>
+        <text>    With one failed saving throw, you learn its key memories from the past 12 hours. </text>
+        <text>    With two failed saving throws, you learn its key memories from the past 24 hours. </text>
+        <text>    With three failed saving throws, you learn its key memories from the past 48 hours. </text>
+        <text>     </text>
+        <text>Phantom Idea: (6 psi; conc., 1 hr.) While you concentrate on this ability, you probe one creature&#8217;s mind. The creature must remain within 30 feet of you, and you must be able to see it. If you reach the ability&#8217;s full duration, the target must make three Intelligence saving throws, and you plant a memory or an idea in it, which lasts for a number of hours based on the number of saving throws it fails. You choose whether the idea or memory is trivial (such as &#8220;I had porridge for breakfast&#8221; or &#8220;Ale is the worst&#8221;) or personality-defining (&#8220;I failed to save my village from orc marauders and am therefore a coward&#8221; or &#8220;Magic is a scourge, so I renounce it&#8221;). </text>
+        <text>    With one failed saving throw, the idea or memory lasts for the next 4 hours. With two failed saving throws, it lasts for 24 hours. With three failed saving throws, it lasts for 48 hours.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 25</text>
+    </spell>
+    <spell>
+        <name>Psychic Phantoms</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>Your power reaches into a creature&#8217;s mind and causes it false perceptions. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have advantage on Charisma (Deception) checks. </text>
+        <text>     </text>
+        <text>Distracting Figment: (1&#8211;7 psi) As an action, choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and thinks it perceives a threatening creature just out of its sight; until the end of your next turn, it can&#8217;t use reactions, and melee attack rolls against it have advantage. On a successful save, it takes half as much damage. </text>
+        <text>     </text>
+        <text>Phantom Foe: (3 psi; conc., 1 min.) As an action, choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, it perceives a horrid creature adjacent to it until your concentration ends. During this time, the target can&#8217;t take reactions, and it takes 1d8 psychic damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. You can increase the damage by 1d8 for each additional psi point spent on the ability.</text>
+        <text>     </text>
+        <text>Phantom Betrayal: (5 psi; conc., 1 min.) As an action, you plant delusional paranoia in a creature&#8217;s mind. Choose one creature you can see within 60 feet of you. The target must succeed on an Intelligence saving throw, or until your concentration ends, it must target its allies with attacks and other damaging effects. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature is immune to this ability if it is immune to being charmed. </text>
+        <text>     </text>
+        <text>Phantom Riches: (7 psi; conc., 1 min.) As an action, you plant the phantom of a greatly desired object in a creature&#8217;s mind. Choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, you gain partial control over the target&#8217;s behavior until your concentration ends; the target moves as you wish on each of its turns, as it thinks it pursues the phantom object it desires. If it hasn&#8217;t taken damage since its last turn, it can use its action only to admire the object you created in its perception. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 25</text>
+    </spell>
+    <spell>
+        <name>Telepathic Contact</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Awakened)</classes>
+        <text>By channeling psionic power, you gain the ability to control other creatures by substituting your will for their own. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you gain the ability to use your Telepathy class feature with up to six creatures at once. If you don&#8217;t have that feature from the mystic class, you instead gain it while focused on this discipline. </text>
+        <text>     </text>
+        <text>Exacting Query: (2 psi) As an action, you target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, the target truthfully answers one question you ask it via telepathy. On a successful save, the target is unaffected, and you can&#8217;t use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed. </text>
+        <text>     </text>
+        <text>Occluded Mind: (2 psi) As an action, you target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, the target believes one statement of your choice for the next 5 minutes that you communicate to it via telepathy. The statement can be up to ten words long, and it must describe you or a creature or an object the target can see. On a successful save, the target is unaffected, and you can&#8217;t use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed. </text>
+        <text>     </text>
+        <text>Broken Will: (5 psi) As an action, you target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, you choose the target&#8217;s movement and action on its next turn. On a successful save, the target is unaffected, and you can&#8217;t use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed. </text>
+        <text>     </text>
+        <text>Psychic Grip: (6 psi; conc., 1 min.) As an action, you target one creature you can see within 60 feet of you. The target must succeed on an Intelligence saving throw, or it is paralyzed until your concentration ends. At the end of each of its turns, it can repeat the saving throw. On a success, this effect ends. On a failure, you can use your reaction to force the target to move up to half its speed, even though it&#8217;s paralyzed. </text>
+        <text>     </text>
+        <text>Psychic Domination: (7 psi; conc., 1 min.) As an action, you target one creature you can see within 60 feet of you. The target must succeed on an Intelligence saving throw, or you choose the creature&#8217;s actions and movement on its turns until your concentration ends. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success. A creature is immune to this ability if it is immune to being charmed.</text>
+        <text>    </text>
+        <text>Paralyzed:</text>
+        <text>&#8226; A paralyzed creature is incapacitated, meaning it can't take actions or reactions, and can't move or speak.</text>
+        <text>    </text>
+        <text>&#8226; The creature automatically fails Strength and Dexterity saving throws.</text>
+        <text>    </text>
+        <text>&#8226; Attack rolls against the creature have advantage.</text>
+        <text>    </text>
+        <text>&#8226; Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 26</text>
+    </spell>
+    <spell>
+        <name>Third Eye</name>
+        <level>1</level>
+        <ritual>NO</ritual>
+        <time></time>
+        <range></range>
+        <components>None</components>
+        <duration></duration>
+        <classes>Mystic, Mystic (Nomad)</classes>
+        <text>You create a third, psychic eye in your mind, which you cast out into the world. It channels thoughts and knowledge back to you, greatly enhancing your senses. </text>
+        <text>     </text>
+        <text>Psychic Focus: While focused on this discipline, you have darkvision with a range of 60 feet. If you already have darkvision with that range or greater, increase its range by 10 feet. </text>
+        <text>     </text>
+        <text>Tremorsense: (2 psi; conc., 1 min.) As a bonus action, you gain tremorsense with a radius of 30 feet, which lasts until your concentration ends. </text>
+        <text>     </text>
+        <text>Unwavering Eye: (2 psi) As a bonus action, you gain advantage on Wisdom checks for 1 minute.</text>
+        <text>     </text>
+        <text>Piercing Sight: (3 psi; conc., 1 min.) As a bonus action, you gain the ability to see through objects that are up to 1 foot thick within 30 feet of you. This sight lasts until your concentration ends </text>
+        <text>     </text>
+        <text>Truesight: (5 psi; conc., 1 min.) As a bonus action, you gain truesight with a radius of 30 feet, which lasts until your concentration ends.</text>
+        <text />
+        <text>Source: Unearthed Arcana: The Mystic Class, p. 26</text>
+    </spell>
+</compendium>
