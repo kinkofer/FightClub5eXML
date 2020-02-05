@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Barbarian</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Primal Path: Path of the Wild Soul (UA)</name>
+                <text>The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A barbarian exposed to this realm feels emotions powerfully and magic saturates their body.</text>
+                <text>When a barbarian who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Lingering Magic (Path of the Wild Soul (UA))</name>
+                <text>At 3rd level, your body reacts to the presence of magic. You can cast the detect magic spell without using a spell slot or components. Constitution is your spellcasting ability for this spell. You faintly glow a color corresponding to the school of magic you detect (you choose the colors).</text>
+                <text>   You can use this feature a number of times equal to your Constitution modifier (minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Wild Surge (Path of the Wild Soul (UA))</name>
+                <text>Starting at 3rd level, magic erupts from you as you rage. When you enter your rage, roll on the Wild Surge table to determine the magical effect produced.</text>
+                <text>   If the wild surge requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.</text>
+                <text></text>
+                <text>d8 | Effect</text>
+                <text>1 | Necrotic energy bursts from you. Each creature within 30 feet of you takes 1d10 necrotic damage, and you gain temporary hit points equal to the sum of the necrotic damage dealt to the creatures.</text>
+                <text>2 | You teleport up to 20 feet to an unoccupied space you can see. Until your rage ends, you can activate this effect again on each of your turns as a bonus action.</text>
+                <text>3 | You conjure 1d4 intangible spirits that look like {@creature flumph in unoccupied spaces within 30 feet of you. Each spirit immediately flies 30 feet in a random direction. At the end of your turn, all spirits explode and each creature within 5 feet of one or more of them must succeed on a Dexterity saving throw or take 2d8 force damage.</text>
+                <text>4 | Arcane energy enshrouds you. Until your rage ends, you gain a +2 bonus to AC, and whenever a creature within 10 feet of you hits you with an attack, that creature takes force damage equal to your Constitution modifier.</text>
+                <text>5 | Plant life temporarily grows around you: until your rage ends, the ground within 10 feet of you is difficult terrain.</text>
+                <text>6 | Arcane energy taps into the minds of those around you. Each creature within 30 feet of you must succeed ona Wisdom saving throw or you see a glimpse of the creature's thoughts, learning how it plans to attack you. As a result, the creature has disadvantage on attack rolls against you until the start of your next turn.</text>
+                <text>7 | Shadows weave around a weapon of your choice you are holding. Until your rage ends, your weapon deals psychic damage instead of its bludgeoning, slashing, or piercing damage, and it gains the light and thrown properties with a normal range of 20 feet and a long range of 60 feet. If you drop the weapon or throw it, the weapon dissipates and reappears in your hand at the end of your turn.</text>
+                <text>8 | A beam of brilliant light lances from your chest in a 5-foot-wide, 60-foot-long line. Each creature in the line must succeed on a Constitution saving throw or take 2d8 radiant damage and be blinded until the start of your next turn.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Magic Reserves (Path of the Wild Soul (UA))</name>
+                <text>At 6th level, you can channel the magic surging inside you into other creatures. As an action, you can touch a creature and roll a d4. The creature recovers an expended spell slot of a level equal to the number rolled. If the creature you touch can't recover a spell slot of that level, the creature instead gains temporary hit points equal to five times the number rolled.</text>
+                <text>   You take force damage equal to five times the number rolled.</text>
+                <text>   When you reach 14th level in this class, you increase the die to a d6.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Arcane Rebuke (Path of the Wild Soul (UA))</name>
+                <text>At 10th level, the magic crackling within your soul lashes out. When a creature forces you to make a saving throw while you are raging, you can use your reaction to deal 3d6 force damage to that creature.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Chaotic Fury (Path of the Wild Soul (UA))</name>
+                <text>At 14th level, you become a wellspring of wild magic while you are raging. As a bonus action, you can reroll on the Wild Surge table, replacing your current effect with the new one.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Improved Magic Reserves (Path of the Wild Soul (UA))</name>
+                <text>At 14th level, you increase your magic reserves die to a d6.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Monk</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Monastic Tradition: Way of the Astral Self (UA)</name>
+                <text>Monks of the Way of the Astral Self have an internal struggle with their ki. They see their mystical energy as a representation of their true form, an astral self. This form has the capacity to be a force of good or destruction, with some monasteries training students to either temper their nature or embrace their impulses.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Forms of Your Astral Self (Way of the Astral Self (UA))</name>
+                <text>The astral self is a translucent embodiment of the monk's psyche and soul. As a result, the form of an astral self reflects the mind of the monk who manifests it. Your astral self could be a humanoid knight with a helmeted face and large, muscular arms, or it could be a golden metallic form with thin arms like a modron.</text>
+                <text>   When choosing this path, consider the quirks that define your monk. Are they obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Arms of the Astral Self (Way of the Astral Self (UA))</name>
+                <text>At 3rd level, your mastery of your ki allows you to summon a portion of your astral self. On your turn, you can spend 2 ki points as a bonus action to summon the arms of your astral self for 10 minutes. These spectral arms hover near your shoulders. You determine the arms' appearance based on the qualities of your character.</text>
+                <text>   While your astral arms are summoned, you gain the following benefits:</text>
+                <text>• You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.</text>
+                <text>• The arms are monk weapons and have a reach of 10 feet. The arms deal radiant or necrotic damage (your choice). When you attack with the arms, you can use your Wisdom modifier instead of your Strength or Dexterity modifier for the attack and damage rolls.</text>
+                <text>• Immediately after you use the Attack action with your astral arms on your turn, you can make one extra attack with your astral arms as a bonus action. The number of extra attacks increases when you reach certain levels in this class, increasing to two at 11th level and three at 17th level.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Visage of the Astral Self (Way of the Astral Self (UA))</name>
+                <text>Starting at 6th level, you can summon the visage of your astral self. On your turn, you can spend 1 ki point as a bonus action, or as part of summoning your astral arms, to summon this visage for 10 minutes. The spectral visage covers your face like a helmet or mask. You determine its appearance based on the qualities of your character.</text>
+                <text>   While your visage is summoned, you gain the following benefits.</text>
+                <text>Wisdom of the Spirit</text>
+                <text>   You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.</text>
+                <text>Astral Sight</text>
+                <text>   You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="11">
+            <feature optional="YES">
+                <name>Awakening of the Astral Self (Way of the Astral Self (UA))</name>
+                <text>   Starting at 11th level, you tap into the greater power of your astral self. While you have both your astral arms and visage summoned, you gain the following benefits.</text>
+                <text>Deflect Energy</text>
+                <text>   When you take acid, cold, fire, lightning, or force damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier + your monk level.</text>
+                <text>Empowered Arms</text>
+                <text>   Once on each of your turns when you hit a target with your astral arms, you can deal extra damage to the target equal to your Martial Arts die.</text>
+                <text>Word of the Spirit</text>
+                <text>   When you speak through your visage, you can direct your words to a creature of your choice that you can see within 30 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.</text>
+                <text>Improved Arms of the Astral Self</text>
+                <text>   At 11th level, you make two extra attacks instead of one when you attack with your astral arms as a bonus action.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Complete Astral Self (Way of the Astral Self (UA))</name>
+                <text>   Starting at 17th level, your connection to your astral self is complete, allowing you summon it entirely. On your turn, you can spend 10 ki points as a bonus action to summon the arms, visage, and body of your astral self for 10 minutes. This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance based on the qualities of your character. While your astral self is summoned, you gain the following benefits.</text>
+                <text>Armor of the Spirit</text>
+                <text>   You gain a +2 bonus to AC while you aren't incapacitated.</text>
+                <text>Astral Barrage</text>
+                <text>   Whenever you use the Extra Attack feature to attack twice, you can instead attack three times using your astral arms.</text>
+                <text>Ki Consumption</text>
+                <text>   When a creature within 10 feet of you is reduced to 0 hit points, you can use your reaction to regain ki points equal to your Wisdom modifier (minimum 1).</text>
+                <text>Improved Arms of the Astral Self</text>
+                <text>   At 17th level, you make three extra attacks instead of one when you attack with your astral arms as a bonus action.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Barbarian And Monk</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

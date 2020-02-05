@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Barbarian</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Primal Path: Path of the Beast (UA)</name>
+                <text>Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage.</text>
+                <text>Those who tread this path might be inhabited by a primal spirit or descended from shapeshifters. You can choose the origin of your feral might or determine it randomly by rolling on the Origin of the Beast table.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Form of the Beast (Path of the Beast (UA))</name>
+                <text>3rd-level Path of the Beast feature</text>
+                <text>   When you enter your rage, you can transform, revealing the bestial power within you. Until your rage ends, you manifest a natural melee weapon, choosing one of the following options each time you rage:</text>
+                <text></text>
+                <text>Bite</text>
+                <text>   Your mouth transforms into a bestial snout or great mandibles (your choice). Your bite deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with your bite, you regain a number of hit points equal to your Constitution modifier (minimum of 1 hit point).</text>
+                <text>Claws</text>
+                <text>   Your hands transform into claws, which deal 1d6 slashing damage on a hit. When you take the Attack action on your turn and make an attack with your claws, you can make one additional attack using your claws as part of the same action.</text>
+                <text>Tail</text>
+                <text>   You grow a lashing, spiny tail, which deals 1d12 piercing damage on a hit and has the reach property.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Bestial Soul (Path of the Beast (UA))</name>
+                <text>6th-level Path of the Beast feature</text>
+                <text>   The feral spirit within you grows in power, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+                <text>   You can also call on the feral spirit to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish a short or long rest:</text>
+                <text>• You gain a swimming speed equal to your walking speed, and you can breathe underwater.</text>
+                <text>• You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+                <text>• When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Infectious Fury (Path of the Beast (UA))</name>
+                <text>10th-level Path of the Beast feature</text>
+                <text>   When you hit a creature with your natural weapons while you are raging, the spirit within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</text>
+                <text>• The target must use its reaction to make a melee attack against another creature of your choice that you can see.</text>
+                <text>• Target takes 2d12 psychic damage. You can use this feature a number of times equal to your Constitution modifier (a minimum of once).</text>
+                <text>   You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Call the Hunt (Path of the Beast (UA))</name>
+                <text>14th-level Path of the Beast feature</text>
+                <text>   The beast within grows so powerful that you can spread its ferocity to your allies. When you enter your rage, you can choose a number of willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). Until your rage ends, the chosen creatures gain the Reckless Attack feature and you have advantage on saving throws against being frightened. You also gain 5 temporary hit points for each creature that accepts the benefit. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Monk</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Monastic Tradition: Way of Mercy (UA)</name>
+                <text>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help—whether ailing or evil—they bring a swift end as an act of mercy.</text>
+                <text>Those who follow the Way of Mercy might be humble members of a religious order, administering to those in greatest need, making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. The walkers of this way usually don simple robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death. If you wear a mask, choose its appearance, or determine it randomly by rolling on the Merciful Mask table.</text>
+                <text></text>
+                <text>d6 | Mask Appearance</text>
+                <text>1 | Raven</text>
+                <text>2 | Blank and white</text>
+                <text>3 | Crying visage</text>
+                <text>4 | Laughing visage</text>
+                <text>5 | Skull</text>
+                <text>6 | Butterfly</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Implements of Mercy (Way of Mercy (UA))</name>
+                <text>3rd-level Way of Mercy feature</text>
+                <text>   You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner's kit.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Hands of Healing (Way of Mercy (UA))</name>
+                <text>3rd-level Way of Mercy feature</text>
+                <text>   Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.</text>
+                <text>   When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending its ki cost.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Hands of Harm (Way of Mercy (UA))</name>
+                <text>3rd-level Way of Mercy feature</text>
+                <text>   You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die. If the creature is incapacitated or poisoned, the creature instead takes necrotic damage equal to three rolls of your Martial Arts die instead. You can use this feature only once on each of your turns.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Noxious Aura (Way of Mercy (UA))</name>
+                <text>6th-level Way of Mercy feature</text>
+                <text>   As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you're incapacitated, or you dismiss it (no action required).</text>
+                <text>   While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="11">
+            <feature optional="YES">
+                <name>Healing Technique (Way of Mercy (UA))</name>
+                <text>11th-level Way of Mercy feature</text>
+                <text>   Your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Hand of Mercy (Way of Mercy (UA))</name>
+                <text>17th-level Way of Mercy feature</text>
+                <text>   Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature's status.</text>
+                <text>   You can have only one creature under the effect of this feature at a time.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Paladin</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Sacred Oath: Oath of the Watchers (UA)</name>
+                <text>Paladins who vow the Oath of the Watchers seek to protect the mortal realm from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.</text>
+                <text>Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Tenets of the Watchers (Oath of the Watchers (UA))</name>
+                <text>A paladin who assumes the Oath of the Watchers swears to safeguard the mortal realm from otherworldly threats.</text>
+                <text></text>
+                <text>Vigilance</text>
+                <text>   The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.</text>
+                <text></text>
+                <text>Loyalty</text>
+                <text>   Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.</text>
+                <text></text>
+                <text>Discipline</text>
+                <text>   You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Oath Spells (Oath of the Watchers (UA))</name>
+                <text>3rd-level Oath of the Watchers feature</text>
+                <text>   You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.</text>
+                <text></text>
+                <text>Paladin Level | Spells</text>
+                <text>3rd | alarm, chromatic orb</text>
+                <text>5th | augury, moonbeam</text>
+                <text>9th | counterspell, nondetection</text>
+                <text>13th | aura of purity, banishment</text>
+                <text>17th | hold monster, hallow</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Channel Divinity: Watcher's Will (Oath of the Watchers (UA))</name>
+                <text>You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Channel Divinity: Abjure the Extraplanar (Oath of the Watchers (UA))</name>
+                <text>You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
+                <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Aura of the Sentinel (Oath of the Watchers (UA))</name>
+                <text>7th-level Oath of the Watchers feature</text>
+                <text>   You emit an aura of alertness while you aren't incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1).</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Vigilant Rebuke (Oath of the Watchers (UA))</name>
+                <text>15th-level Oath of the Watchers feature</text>
+                <text>   You've learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Aura of the Sentinel Improvement (Oath of the Watchers (UA))</name>
+                <text>18th-level Oath of the Watchers feature</text>
+                <text>   At 18th level, the range of this aura increases to 30 feet.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="20">
+            <feature optional="YES">
+                <name>Mortal Bulwark (Oath of the Watchers (UA))</name>
+                <text>20th-level Oath of the Watchers feature</text>
+                <text>   You manifest a spark of your deity's power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
+                <text>• You gain truesight in a 120-foot radius.</text>
+                <text>• You have advantage on attack rolls against elementals, fey, fiends, and aberrations.</text>
+                <text>• When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.</text>
+                <text>   Once you use this bonus action, you can't use it again until you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Warlock</name>
+        
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Otherworldly Patron: The Noble Genie (UA)</name>
+                <text>You made a pact with one of the rarest of geniekind, a noble genie. Such entities are rulers of vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations but are all arrogant collectors of creatures, knowledge, and treasure. A genie values their collection and will protect that which they claim ownership over. Through your connection to the noble, you can leverage their influence and extend their ownership of things in the multiverse.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Expanded Spell List (The Noble Genie (UA))</name>
+                <text>1st-level Noble Genie feature</text>
+                <text>   The Noble Genie lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+                <text></text>
+                <text>Spell Level | Spells</text>
+                <text>1st | fog cloud, sleep</text>
+                <text>2nd | enlarge/reduce, phantasmal force</text>
+                <text>3rd | create food and water, protection from energy</text>
+                <text>4th | polymorph, phantasmal killer</text>
+                <text>5th | Bigby's hand, creation</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Collector's Vessel (The Noble Genie (UA))</name>
+                <text>1st-level Noble Genie feature</text>
+                <text>   Your patron gives you a magical vessel with which you can bind a creature to you and to your patron's menagerie. The vessel is a Tiny object, and it is a spellcasting focus for you. You decide what the object is, or you can determine what it is randomly by rolling on the Collector's Vessel table.</text>
+                <text></text>
+                <text>d6 | Vessel</text>
+                <text>1 | Oil lamp</text>
+                <text>2 | Urn</text>
+                <text>3 | Ring with a compartment</text>
+                <text>4 | Stoppered bottle</text>
+                <text>5 | Hollow statuette</text>
+                <text>6 | Ornate lantern</text>
+                <text></text>
+                <text>If you lose your vessel, you can perform a 1 hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous vessel. The vessel vanishes in a flare of elemental power when you die.</text>
+                <text>   As an action while you are holding the vessel, you target a willing creature you can see within 100 feet of you and create a tether of wispy elemental material that links the target to you. The tether lasts for 1 hour, until you use this feature to create another tether, until the bound target is reduced to 0 hit points, or until the target ends its turn more than 100 feet from you.</text>
+                <text>   While you are tethered to a creature, you gain the following benefits:</text>
+                <text>• You gain a bonus to your Wisdom (Perception) checks equal to your Charisma modifier (minimum of +1).</text>
+                <text>• When you can cast a spell, you can deliver the spell from your space or the bound creature's space.</text>
+                <text>   You can create the tether a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Collector's Vessel and Pact Boons</text>
+                <text>When you create a tether with your Collector's Vessel, the tether takes on a form that reflects your patron's type of geniekind: swirling mist and wind for a djinni, sand and flecks of rock or gems for a dao, smoke and embers for an efreeti, and foamy water for a marid.</text>
+                <text>   When you gain the Pact Boon feature at 3rd level, if you choose a boon that grants you a physical object, your vessel transforms into that object. For example, a warlock whose patron is a noble efreeti and chooses the Pact of the Tome might find their bottle transformed into an elaborate scroll made of a red dragon's wing, with brass and iron rolling rods.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Elemental Resistance (The Noble Genie (UA))</name>
+                <text>6th-level Noble Genie feature</text>
+                <text>   Your patron grants you protection from an element. Whenever you finish a long rest, you gain resistance to acid, cold, fire, or lightning damage (your choice) until the end of your next long rest.</text>
+                <text>   While the tether of your Collector's Vessel is active, the tethered creature gains resistance to the damage type you chose.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Protective Wish (The Noble Genie (UA))</name>
+                <text>10th-level Noble Genie feature</text>
+                <text>   You're now able to use your Collector's Vessel to wish for protection for yourself or your tethered creature. If you or the tethered creature is hit by an attack, you can use your reaction to teleport, swapping places with the creature and switching which one of you is hit by the attack.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Genie's Entertainment (The Noble Genie (UA))</name>
+                <text>10th-level Noble Genie feature</text>
+                <text>   As an action, you attempt to send a creature you can see within 90 feet to your patron's court. The target must succeed on a Charisma saving throw against your warlock spell save DC or be magically drawn into your vessel and teleported to your patron's court in the Elemental Planes. While there, the target is stunned and your patron marvels at the target with amusement but brings no harm to it. The target can repeat the saving throw at the end of each of its turns, reappearing in the space it left or in the nearest unoccupied space if that space is occupied on a success.</text>
+                <text>   Once you use this feature, you can't use it again until you finish a long rest. If the target remains in your patron's court for 1 minute, the genie sends the target back at the end of its turn as if it successfully saved, and you regain the use of this feature.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Collector's Call (The Noble Genie (UA))</name>
+                <text>14th-level Noble Genie feature</text>
+                <text>   In exchange for extending your patron's influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
+                <text>• A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>
+                <text>• A creature you can see within 60 feet of you has disadvantage on attack rolls and saving throws until the start of your next turn.</text>
+                <text>• You cast the legend lore spell without material components.</text>
+                <text>   Whether the check succeeds or fails, you can't use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron's realm, provided you have the vessel of your Collector's Vessel in hand.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

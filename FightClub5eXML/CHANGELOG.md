@@ -1,5 +1,17 @@
 ## CHANGE LOG 
 
+### 2020-02-05
+
+Added new CorePlusUnreleasedUA collection
+
+Added 2018 UA Sidekick class
+
+Added 2019 UA class feature variants and subclasses
+
+Added 2020 UA subclasses part 1
+
+Added Third Party Tome of Beasts from Kobold Press to Complete collection
+
 ### 2020-01-31
 
 Added missing features of Barbarian subclass Ancestral Guardian from Xanathar's Guide to Everything.

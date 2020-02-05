@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Bard</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Bard College: College of Eloquence (UA)</name>
+                <text>Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more powerful than objective truth. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments, and plucking at heartstrings to appeal to the emotions of entire audiences.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Universal Speech (College of Eloquence (UA))</text>
+                <text>3rd-level College of Eloquence feature</text>
+                <text>   You have gained the ability to speak and reason with any creature. As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, roll your Bardic Inspiration die, and choose a number of creatures within 60 feet of you that you can see equal to the roll. For 10 minutes, the chosen creatures can magically understand you, regardless of the language you speak, and you have advantage on Charisma checks made to influence them. This feature works even on a creature that doesn't speak any languages.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Soothing Words (College of Eloquence (UA))</text>
+                <text>3rd-level College of Eloquence feature</text>
+                <text>   You can now cast calm emotions without expending a spell slot. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses of this feature when you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Undeniable Logic (College of Eloquence (UA))</name>
+                <text>6th-level College of Eloquence feature</text>
+                <text>   You can spin words laced with magic into a knot of reasoning that can be encouraging or impossible to follow.</text>
+                <text>   As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, choose a creature you can see within 60 of you that can hear you, then roll your Bardic Inspiration die and choose one of the following:</text>
+                <text>• The creature takes psychic damage equal to the number you roll on the Bardic Inspiration die, and the creature must succeed on an Intelligence saving throw against your spell save DC or have disadvantage on the next saving throw it makes before the end of your next turn.</text>
+                <text>• The creature regains hit points equal to the number you roll on the Bardic Inspiration die, and the creature has advantage on the next saving throw it makes before the end of your next turn.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Infectious Inspiration (College of Eloquence (UA))</name>
+                <text>14th-level College of Eloquence feature</text>
+                <text>   When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.</text>
+                <text>   In addition, when a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses. You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Paladin</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Sacred Oath: Oath of Heroism (UA)</name>
+                <text>The Oath of Heroism is an affirmation of a destined path, one laid out for you by divine hands. For whatever reason, a god or a group of gods has included you in their machinations. You are not a reluctant hero, but one who fully embraces the idea that great deeds are yours to achieve. You train diligently, sculpting your body and refining your skills so you're ready when destiny calls.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Tenets of Heroism (Oath of Heroism (UA))</name>
+                <text>The tenets of the Oath of Heroism reflect a paladin's commitment to fulfilling their calling as a hero worthy of legend.</text>
+                <text></text>
+                <text>Actions over Words</text>
+                <text>   Strive to be known by deeds not words.</text>
+                <text></text>
+                <text>Challenges Are but Tests</text>
+                <text>   Every hardship serves to challenge your abilities and harden your resolve.</text>
+                <text></text>
+                <text>Embrace Destiny</text>
+                <text>   You didn't choose this path, but it's yours to walk. And it will carry you into legend.</text>
+                <text></text>
+                <text>Hone the Body</text>
+                <text>   Like raw stone, your body must be worked so its potential can be realized.</text>
+                <text></text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Oath Spells (Oath of Heroism (UA))</name>
+                <text>3rd-level Oath of Heroism feature</text>
+                <text>   You gain oath spells at the paladin levels listed in the Oath of Heroism Spells table.</text>
+                <text></text>
+                <text>Paladin Level | Spells</text>
+                <text>3rd | expeditious retreat, guiding bolt</text>
+                <text>5th | enhance ability, enthrall</text>
+                <text>9th | haste, protection from energy</text>
+                <text>13th | compulsion, freedom of movement</text>
+                <text>17th | commune, conjure volley</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Channel Divinity: Peerless Athlete (Oath of Heroism (UA))</name>
+                <text>You can use your Channel Divinity to augment your athleticism with divine favor. As a bonus action, you gain advantage on all Strength (Athletics) and Dexterity (Acrobatics) checks for the next 10 minutes.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Channel Divinity: Legendary Strike (Oath of Heroism (UA))</text>
+                <text>You can use your Channel Divinity as a bonus action to guide your attacks: for 1 minute, your weapon attacks score a critical hit on a roll of 19 or 20 on the d20.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Mighty Deed (Oath of Heroism (UA))</name>
+                <text>7th-level Oath of Heroism feature</text>
+                <text>   Your actions on the battlefield can supernaturally bolster your allies and demoralize your enemies. Whenever you score a critical hit or reduce a creature to 0 hit points, you can choose one or more creatures that you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). All the chosen creatures are affected by one of the following effects of your choice:</text>
+                <text>• The creature gains temporary hit points equal to 1d6 + your Charisma modifier (minimum of 1 temporary hit point).</text>
+                <text>• The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the start of your next turn.</text>
+                <text>   Once you use this feature, you can't use it again until the start of your next turn.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Glorious Defense (Oath of Heroism (UA))</name>
+                <text>15th-level Oath of Heroism feature</text>
+                <text>   Your blessed glory on the battlefield can misdirect an attack. When a creature you can see hits you with an attack roll, you can use your reaction to gain a bonus to AC against that attack, potentially causing it to miss you. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+        <autolevel level="20">
+            <feature optional="YES">
+                <name>Living Myth (Oath of Heroism (UA))</name>
+                <text>20th-level Oath of Heroism feature</text>
+                <text>   You can now empower yourself with the legends—whether true or exaggerated—told of your great deeds. As a bonus action, you gain the following benefits for 10 minutes:</text>
+                <text>• You are blessed with otherworldly comeliness, gaining advantage on all Charisma checks.</text>
+                <text>• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
+                <text>• If you fail a saving throw, you can use your reaction to succeed instead.</text>
+                <text>   Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text />
+                <text>Source: Unearthed Arcana: Bard And Paladin</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>

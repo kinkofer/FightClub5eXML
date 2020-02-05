@@ -24,8 +24,21 @@
     <doc href="../FightClub5eXML/Sources/SleepingDragonsWake.xml" />
     
     <!-- UnearthedArcana -->
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/UnearthedArcana.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2015-08-03_ModernMagic.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2017-03-03_TheMysticClass.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2018-12-17_Sidekicks.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-08-15_BarbarianAndMonk.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-09-05_SorcererAndWarlock.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-09-18_BardAndPaladin.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-10-03_ClericDruidAndWizard.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-10-17_FighterRangerAndRogue.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-11-04_ClassFeatureVariants.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-11-25_FighterRogueAndWizard.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2020-01-14_2020SubclassesPart1.xml" />
     
     <!-- Homebrew -->
     <doc href="../FightClub5eXML/Sources/Homebrew.xml" />
+    <doc href="../FightClub5eXML/Sources/ThirdParty/TomeOfBeasts.xml" />
+    
 </collection>

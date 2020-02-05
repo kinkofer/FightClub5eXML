@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <class>
+        <name>Fighter</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Martial Archetype: Psychic Warrior (UA)</name>
+                <text>Awakening to the psionic power within themselves, a Psychic Warrior is a fighter who augments their physical might with psychically infused weapon strikes, telekinetic lashes, and barriers of mental force.</text>
+                <text>As a Psychic Warrior, you might have honed your psionic abilities through your own disciplined practice, unlocked it under the tutelage of a master, or developed it at an academy dedicated to wielding the mind's power as both weapon and shield.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Psionic Armament (Psychic Warrior (UA))</name>
+                <text>3rd-level Psychic Warrior feature</text>
+                <text>   You can channel your psychic power to magically augment your prowess. When you finish a long rest, choose whether to augment your defenses or your strikes. The chosen benefit lasts until you finish a long rest.</text>
+                <text></text>
+                <text>Augmented Defenses</text>
+                <text>   When you or a creature you can see within 30 feet of you takes damage, you can use your reaction to roll a d10 and reduce the amount of damage taken by the number rolled. When you reach 10th level in this class, the die changes to a d12.</text>
+                <text></text>
+                <text>Augmented Strikes</text>
+                <text>   Once during each of your turns when you hit a creature with a weapon attack, you can also deal 1d4 psychic damage to that target. When you reach 10th level in this class, the psychic damage increases to 1d6.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Telekinetic Hand (Psychic Warrior (UA)</name>
+                <text>3rd-level Psychic Warrior feature</text>
+                <text>   You learn the mage hand cantrip. You can cast it without components, and you can make the spectral hand invisible. Intelligence is your spellcasting ability for this spell.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Strength of Mind (Psychic Warrior (UA))</name>
+                <text>7th-level Psychic Warrior feature</text>
+                <text>   As a bonus action, you can telekinetically lash out at a creature you can see within 20 feet of you. The target must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. On a failed save, the target takes force damage equal to 2d6 plus your Intelligence modifier and is telekinetically moved 15 feet directly toward or away from you (your choice). On a successful save, it takes half as much damage and isn't moved.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Telekinetic Bulwark (Psychic Warrior (UA))</name>
+                <text>10th-level Psychic Warrior feature</text>
+                <text>   When you take the Attack action, you can forgo one of your attacks to project a bastion of psionic power in a 10-foot radius around yourself. It lasts for 1 minute or until you're incapacitated. For the duration, you and your allies in that area gain the benefits of half cover and have advantage on Strength saving throws.</text>
+                <text>   Once you use this feature, you can't do so again until you finish a long rest or until after you use your Second Wind feature.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Psionic Armament Improvement (Psychic Warrior (UA))</name>
+                <text>10th-level Psychic Warrior feature</text>
+                <text>   When you reach 10th level in this class, your Augmented Defenses dice increases to 1d12, and your Augmented Strikes dice increases to a d6.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Agonizing Strikes (Psychic Warrior (UA))</name>
+                <text>15th-level Psychic Warrior feature</text>
+                <text>   Your attacks can channel psychic agony. When you hit a creature with a weapon attack, you can also deal 2d10 psychic damage to that target and force it to make a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. Unless the save succeeds, the target falls prone, and it suffers disadvantage on ability checks until the end of your next turn.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Psychic Dreadnaught (Psychic Warrior (UA))</name>
+                <text>18th-level Psychic Warrior feature</text>
+                <text>   The power of your mind suffuses your entire being, making you a nigh-unstoppable force on the battlefield. Using your reaction when you take damage, you can give yourself the following benefits for 1 minute or until you're incapacitated:</text>
+                <text>• At the start of each of your turns, you regain 10 hit points.</text>
+                <text>• Your walking speed increases by 10 feet.</text>
+                <text>• If you're prone, you can stand up by spending 5 feet of movement.</text>
+                <text>   Once you activate this feature, you can't use it again until you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Rogue</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Roguish Archetype: Soulknife (UA)</name>
+                <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.</text>
+                <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Psychic Blade (Soulknife (UA))</name>
+                <text>3rd-level Soulknife feature</text>
+                <text>   As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can't hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you're incapacitated.</text>
+                <text>   The blade is a simple melee weapon with the finesse, light, and thrown properties. It has a normal range of 30 feet and a long range of 60 feet, and it deals 1d6 psychic damage on a hit. If you throw the blade as part of an attack, it vanishes immediately after it hits or misses its target. The blade otherwise disappears the instant it leaves your hand.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Psionic Enhancement (Soulknife (UA))</name>
+                <text>3rd-level Soulknife feature</text>
+                <text>   You can focus your psionic power to give yourself an extraordinary ability. When you finish a long rest, you gain one of the following benefits of your choice, which lasts until you finish a long rest:</text>
+                <text>• You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
+                <text>• Increase your walking speed by 5 feet.</text>
+                <text>• Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="9">
+            <feature optional="YES">
+                <name>Terrifying Blade (Soulknife (UA))</name>
+                <text>9th-level Soulknife feature</text>
+                <text>   Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn't frightened and is immune to your Terrifying Blade for 24 hours.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="13">
+            <feature optional="YES">
+                <name>Psychic Veil (Soulknife (UA))</name>
+                <text>13th-level Soulknife feature</text>
+                <text>   You can weave a veil of psionic static to mask your physical presence. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes. This invisibility ends if you make an attack or if you force a creature to make a saving throw.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Rend Mind (Soulknife (UA))</name>
+                <text>17th-level Soulknife feature</text>
+                <text>   You can sweep your Psychic Blade directly through a creature's mind. As an action while you have at least one Psychic Blade manifested, you can force a creature you can see within 30 feet of you to make an Intelligence saving throw (DC equal to 10 + your proficiency bonus + your Intelligence modifier). If you are hidden from the target, it has disadvantage on the save. On a failed save, the target takes 12d6 psychic damage, and it is stunned until the start of your next turn. On a successful save, the target takes half as much damage and isn't stunned. One of your Psychic Blades vanishes after using this feature.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Wizard</name>
+        
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Arcane Tradition: Psionics (UA)</name>
+                <text>Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or mentalists, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness.</text>
+                <text>Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses.</text>
+                <text>As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Psionic Focus (Psionics (UA))</name>
+                <text>2nd-level Psionics feature</text>
+                <text>   You have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).</text>
+                <text>   While your psionic focus is on your person, you gain the following benefits:</text>
+                <text>• The object is a spellcasting focus for you.</text>
+                <text>• When you roll psychic or force damage for any of your wizard spells, you can reroll any of those damage dice that rolls a 1, but you must use the new roll.</text>
+                <text>   If your psionic focus is lost, you can magically recreate it by meditating for 1 hour during a short or long rest, at the end of which the focus appears in your hand.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Psionic Devotion (Psionics (UA))</name>
+                <text>2nd-level Psionics feature</text>
+                <text>   Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know. While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:</text>
+                <text></text>
+                <text>Friends</text>
+                <text>   When the spell ends, the target doesn't become hostile to you.</text>
+                <text></text>
+                <text>Mage Hand</text>
+                <text>   You can make the hand invisible when you cast the spell, and controlling the spell is a bonus action for you.</text>
+                <text></text>
+                <text>Message</text>
+                <text>   You don't need to point toward the target or whisper your message out loud.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Your Psionic Focus (Psionics (UA))</name>
+                <text>Every member of the Psionics tradition has a story about how their psionic focus came into their life. Consider how you found yours and what form it takes.</text>
+                <text>   The event that brought your psionic focus to you probably holds personal significance. Did your master give it to you upon the completion of your apprenticeship? Was it awarded to you when you graduated from your academy of wizardry? Did it call to you in a jeweler's shop? Was it associated with the moment when your psionic powers first manifested? One morning, did you wake up with it humming under your pillow?</text>
+                <text>   The form your psionic focus takes is also yours to define, likely being a reflection of how your magic came into being, a symbol of your own psyche, or an item you use to focus your thoughts. It is a handheld object that has special meaning to you, but that can't be a weapon or magic item. Perhaps it's a childhood memento, the skull of an alien creature, a crystal that makes you feel a certain way, a coin that only lands on its edge, a firescarred planchette, or any other enigmatic personal relic.</text>
+                <text>   However the object arrived and whatever form it takes, your psionic focus is now yours, and you decide how to handle it. Will you mount it on a wand or staff? Would you prefer to wear it on a necklace or circlet? Have you embedded it into the cover of your spellbook? Wherever you put it, you can now channel your magic through it, and it is a sign of your membership in the revered tradition of psionic wizardry.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Psionic Spells (Psionics (UA))</name>
+                <text>Spell selection is part of what defines a wizard and their individual fields of expertise. When creating your Psionics wizard, consider spells that are thematically appropriate for that tradition. Psionics as a theme generally includes spells that do the following:</text>
+                <text>• contact or manipulate minds</text>
+                <text>• allow the caster to perceive distant locations or planes</text>
+                <text>• alter perception</text>
+                <text>• move objects and creatures</text>
+                <text>• teleport</text>
+                <text>• deal psychic or force damage</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Thought Form (Psionics (UA))</name>
+                <text>6th-level Psionics feature</text>
+                <text>   While you are carrying your psionic focus, you can use a bonus action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.</text>
+                <text>   While in thought form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5-foot-radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits:</text>
+                <text></text>
+                <text>Psionic Spellcasting</text>
+                <text>   When you cast a spell while in thought form, you can cast the spell psionically. If you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost.</text>
+                <text>Psychic Resilience</text>
+                <text>   You gain resistance to psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks.</text>
+                <text></text>
+                <text>You can transform using this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Mental Discipline (Psionics (UA))</name>
+                <text>10th-level Psionics feature</text>
+                <text>   Your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.</text>
+                <text>   You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Empowered Psionics (Psionics (UA))</name>
+                <text>10th-level Psionics feature</text>
+                <text>   When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell's targets.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Thought Travel (Psionics (UA))</name>
+                <text>14th-level Psionics feature</text>
+                <text>   While using your Thought Form, you have a flying speed equal to your walking speed and can hover, and you can move through other creatures and objects as if they were difficult terrain.</text>
+                <text>   You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium>
