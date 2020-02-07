@@ -20,7 +20,7 @@
                 <text>Source: Unearthed Arcana: Fighter Ranger Rogue</text>
             </feature>
         </autolevel>
-        <autolevel>
+        <autolevel level="3">
             <feature optional="YES">
                 <name>Rune Magic (Rune Knight (UA))</name>
                 <text>3rd-level Rune Knight feature</text>
@@ -90,7 +90,7 @@
                 <text>Source: Unearthed Arcana: Fighter Ranger Rogue</text>
             </feature>
         </autolevel>
-        <autolevel>
+        <autolevel level="3">
             <feature optional="YES">
                 <name>Giant Might</name>
                 <text>3rd-level Rune Knight feature</text>
