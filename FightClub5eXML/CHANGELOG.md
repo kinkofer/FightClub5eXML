@@ -1,5 +1,13 @@
 ## CHANGE LOG 
 
+### 2020-02-08
+
+Added 2020 UA subclasses part 2.
+
+### 2020-02-07
+
+Fixed XML issue in UA Fighter Rune Knight subclass.
+
 ### 2020-02-05
 
 Added new CorePlusUnreleasedUA collection.
