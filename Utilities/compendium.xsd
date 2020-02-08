@@ -358,7 +358,7 @@
             <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="slotsType" name="slots" minOccurs="0"/>
         </xs:choice>
-        <xs:attribute type="xs:integer" name="level" use="optional"/>
+        <xs:attribute type="xs:integer" name="level" use="required"/>
         <xs:attribute type="boolean" name="scoreImprovement" use="optional"/>
     </xs:complexType>
     
