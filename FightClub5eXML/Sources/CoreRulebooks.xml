@@ -18390,6 +18390,10 @@
                 <text>Source: Player's Handbook, p. 48</text>
             </feature>
         </autolevel>
+
+        <autolevel level="1">
+            <counter><name>Rage</name><value>2</value><reset>L</reset></counter>
+        </autolevel>
         
         <autolevel level="1">
             <feature>
@@ -18420,6 +18424,10 @@
             </feature>
         </autolevel>
         
+        <autolevel level="3">
+            <counter><name>Rage</name><value>3</value><reset>L</reset></counter>
+        </autolevel>
+
         <autolevel level="3">
             <feature>
                 <name>Primal Path</name>
@@ -18549,6 +18557,10 @@
         </autolevel>
         
         <autolevel level="6">
+            <counter><name>Rage</name><value>4</value><reset>L</reset></counter>
+        </autolevel>
+
+        <autolevel level="6">
             <feature optional="YES">
                 <name>Mindless Rage (Path of the Berserker)</name>
                 <text>Beginning at 6th level, you can&#8217;t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.</text>
@@ -18666,6 +18678,10 @@
                 <text>Source: Player's Handbook, p. 49</text>
             </feature>
         </autolevel>
+
+        <autolevel level="12">
+            <counter><name>Rage</name><value>5</value><reset>L</reset></counter>
+        </autolevel>
         
         <autolevel level="14">
             <feature optional="YES">
@@ -18736,6 +18752,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 49</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="17">
+            <counter><name>Rage</name><value>6</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="18">
