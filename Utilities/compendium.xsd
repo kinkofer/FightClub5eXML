@@ -208,6 +208,13 @@
         </xs:restriction>
     </xs:simpleType>
     
+    <xs:simpleType name="resetEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="L"/>
+            <xs:enumeration value="S"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
     <xs:simpleType name="modifierValue">
         <xs:restriction base="xs:string">
             <xs:pattern value="([Pp]assive )?([Ss]trength|[Dd]exterity|[Cc]onstitution|[Ii]ntelligence|[Ww]isdom|[Cc]harisma|[Hh][Pp]) ?[+-]? ?([0-9]*|%0|prof)"/>
@@ -353,10 +360,19 @@
         <xs:attribute type="boolean" name="optional" use="optional"/>
     </xs:complexType>
     
+    <xs:complexType name="counterType">
+        <xs:choice maxOccurs="unbounded" minOccurs="0">
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:integer" name="value"/>
+            <xs:element type="resetEnum" name="reset"/>
+        </xs:choice>
+    </xs:complexType>
+    
     <xs:complexType name="autolevelType" mixed="true">
         <xs:choice maxOccurs="unbounded">
             <xs:element type="featureType" name="feature" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element type="slotsType" name="slots" minOccurs="0"/>
+            <xs:element type="counterType" name="counter" minOccurs="0"/>
         </xs:choice>
         <xs:attribute type="xs:integer" name="level" use="required"/>
         <xs:attribute type="boolean" name="scoreImprovement" use="optional"/>

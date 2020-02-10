@@ -20984,7 +20984,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Bandit Lord</name>
 		<size>M</size>
-		<type>Humanoid (Any Race),tome of Beasts</type>
+		<type>humanoid (Any Race),tome of Beasts</type>
 		<alignment>any non-lawful</alignment>
 		<ac>16 (breastplate)</ac>
 		<hp>91 (14d8+28)</hp>
@@ -21035,7 +21035,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>		
 		<name>Black Knight Commander</name>
 		<size>M</size>
-		<type>Humanoid (Any Race),tome of Beasts</type>
+		<type>humanoid (Any Race),tome of Beasts</type>
 		<alignment>lawful evil</alignment>
 		<ac>18 (plate)</ac>
 		<hp>78 (12d8+24)</hp>
@@ -21088,7 +21088,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>City Watch Captian</name>
 		<size>M</size>
-		<type>Humanoid (Any Race),tome of Beasts</type>
+		<type>humanoid (Any Race),tome of Beasts</type>
 		<alignment>lawful neutral</alignment>
 		<ac>17 (scale mail)</ac>
 		<hp>91 (14d8+28)</hp>
@@ -21139,7 +21139,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Devilbound Gnomish Prince</name>
 		<size>S</size>
-		<type>Humanoid (gnome),tome of Beasts</type>
+		<type>humanoid (gnome),tome of Beasts</type>
 		<alignment>any evil</alignment>
 		<ac>12 (15 with mage armor)</ac>
 		<hp>104 (19d6+38)</hp>
@@ -21195,7 +21195,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Dwarven Ringmage</name>
 		<size>M</size>
-		<type>Humanoid (dwarf),tome of Beasts</type>
+		<type>humanoid (dwarf),tome of Beasts</type>
 		<alignment>any</alignment>
 		<ac>16 (breastplate)</ac>
 		<hp>82 (15d8+15)</hp>
@@ -21248,7 +21248,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Elvish Veteran Archer</name>
 		<size>M</size>
-		<type>Humanoid (elf),tome of Beasts</type>
+		<type>humanoid (elf),tome of Beasts</type>
 		<alignment>chaotic good or chaotic neutral</alignment>
 		<ac>15 (studded leather)</ac>
 		<hp>77 (14d8+14)</hp>
@@ -21459,7 +21459,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Wolf Reaver Dwarf</name>
 		<size>M</size>
-		<type>Humanoid (dwarf),tome of Beasts</type>
+		<type>humanoid (dwarf),tome of Beasts</type>
 		<alignment>any chaotic</alignment>
 		<ac>16 (chain shirt, shield)</ac>
 		<hp>76 (9d8+36)</hp>
@@ -21515,7 +21515,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 	<monster>
 		<name>Emerald Order Cult Leader</name>
 		<size>M</size>
-		<type>Humanoid (any race),tome of Beasts</type>
+		<type>humanoid (any race),tome of Beasts</type>
 		<alignment>lawful neutral or evil</alignment>
 		<ac>14 (breastplate)</ac>
 		<hp>117 (18d8+36)</hp>
