@@ -227,11 +227,11 @@
     <monster>
         <name>Dancing Item</name>
         <size>L</size>
-        <type>Large or smaller construct</type>
-        <alignment>neutral</alignment>
+        <type>construct</type>
+        <alignment>Neutral</alignment>
         <ac>16 (natural armor)</ac>
-        <hp>0</hp>
-        <speed>40 ft.</speed>
+        <hp>3</hp>
+        <speed>walk 40 ft.</speed>
         <str>18</str>
         <dex>14</dex>
         <con>16</con>
@@ -240,16 +240,17 @@
         <cha>6</cha>
         <save></save>
         <skill></skill>
-        <resist></resist>
-        <immune>poison</immune>
-        <conditionImmune>charmed, exhaustion, poisoned, frightened</conditionImmune>
-        <senses>darkvision 60 ft., passive Perception 10</senses>
         <passive>10</passive>
         <languages>understands the languages you speak</languages>
-        <cr>0</cr>
+        <cr></cr>
+        <resist></resist>
+        <immune>poison</immune>
+        <vulnerable></vulnerable>
+        <conditionImmune>charmed, exhaustion, poisoned, frightened</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
         <trait>
             <name>Hit Points</name>
-            <text>Hit Points equal the dancing item’s Constitution modifier + your Charisma modifier + five times your level in this class.</text>
+            <text>equal the dancing item's Constitution modifier + your Charisma modifier + five times your level in this class</text>
         </trait>
         <trait>
             <name>Endless Waltz</name>
@@ -261,7 +262,9 @@
         </trait>
         <action>
             <name>Force-Empowered Slam</name>
-            <text>Melee Weapon Attack (Requires Your Bonus Action): your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + your Charisma modifier force damage.</text>
+            <text>Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. 1d10 + your Charisma modifier force damage.</text>
         </action>
+        <description>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</description>
+        <environment></environment>
     </monster>
 </compendium>
