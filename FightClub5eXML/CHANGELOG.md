@@ -1,5 +1,11 @@
 ## CHANGE LOG 
 
+### 2020-02-12
+
+Added Third Party Creature Codex.
+
+Added Barbarian Rage counter.
+
 ### 2020-02-08
 
 Added 2020 UA subclasses part 2.
