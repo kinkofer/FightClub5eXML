@@ -2629,7 +2629,7 @@
 	<monster>
 		<name>Clockwork Beetle Swarm</name>
 		<size>L</size>
-		<type>Large swarm of Tiny constructs,tome of Beasts</type>
+		<type>swarm of Tiny constructs,tome of Beasts</type>
 		<alignment>neutral</alignment>
 		<ac>14 (natural armor)</ac>
 		<hp>52 (8d10+8)</hp>

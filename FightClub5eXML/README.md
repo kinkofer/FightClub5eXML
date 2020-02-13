@@ -18,7 +18,9 @@ Import one of the Collection files into the Fight Club app.
 
 **CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
 
-**CoreOnly**: _CoreRulebooks_ plus Rulebook Supplements and Adventures
+**CoreRulebooksAndSupplements**: _CoreRulebooks_ plus Rulebook Supplements
+
+**CoreOnly**: _CoreRulebooksAndSupplements_ plus Adventures
 
 **CorePlusUnreleasedUA**: _CoreOnly_ plus unreleased Unearthed Arcana
 

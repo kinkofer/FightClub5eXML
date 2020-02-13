@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Races -->
+    <race>
+        <name>Tortle</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Wis 1</ability>
+        <spellAbility></spellAbility>
+        <proficiency>Survival</proficiency>
+        <trait>
+            <name>Claws</name>
+            <text>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+        <trait>
+            <name>Hold Breath</name>
+            <text>You can hold your breath for up to 1 hour at a time. Tortles aren&#8217;t natural swimmers, but they can remain underwater for some time before needing to come up for air.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+        <trait>
+            <name>Natural Armor</name>
+            <text>Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn&#8217;t affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield&#8217;s bonus as normal.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+        <trait>
+            <name>Shell Defense</name>
+            <text>You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can&#8217;t increase, you have disadvantage on Dexterity saving throws, you can&#8217;t take reactions, and the only action you can take is a bonus action to emerge from your shell.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+        <trait>
+            <name>Survival Instinct</name>
+            <text>You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Aquan and Common.</text>
+            <text> </text>
+            <text>Source: The Tortle Package, p. 4</text>
+        </trait>
+    </race>
+    
+    <!-- Monsters -->
+    <monster>
+        <name>Decapus</name>
+        <size>L</size>
+        <type>monstrosity</type>
+        <alignment>unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>75 (10d10+20)</hp>
+        <speed>15 ft., climb 30 ft.</speed>
+        <str>15</str><dex>14</dex><con>14</con><int>4</int><wis>10</wis><cha>7</cha>
+        <save></save>
+        <skill>Athletics +4, Perception +2, Stealth +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune></immune>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>12</passive>
+        <languages></languages>
+        <cr>4</cr>
+        <trait>
+            <name>Source</name>
+            <text>The Tortle Package, p. 21</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The decapus makes two attacks: one with its bite and one with its tentacles.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature grappled by the decapus. Hit: 7 (2d4 + 2) piercing damage.</text>
+            <attack>Bite|4|2d4+2</attack>
+        </action>
+        <action>
+            <name>Tentacles</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 24 (9d4 + 2) bludgeoning damage, or 14 (5d4 + 2) bludgeoning damage if the decapus is grappling a creature other than the target or if the decapus is on the ground or floor. The target is also grappled (escape DC 14) unless the decapus is already grappling a creature. Until this grapple ends, the target is restrained.</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Tentacles|4|9d4+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Geonid</name>
+        <size>S</size>
+        <type>elemental</type>
+        <alignment>neutral</alignment>
+        <ac>17 (natural)</ac>
+        <hp>26 (4d6+12)</hp>
+        <speed>30 ft.</speed>
+        <str>12</str><dex>10</dex><con>16</con><int>9</int><wis>14</wis><cha>11</cha>
+        <save></save>
+        <skill>Perception +4, Stealth +2</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune></immune>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft., tremorsense 30 ft.</senses>
+        <passive>14</passive>
+        <languages>Terran</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>The Tortle Package, p. 22</text>
+        </trait>
+        <trait>
+            <name>Boulder Guise</name>
+            <text>While fully withdrawn into its shell, the geonid can't see and is indistinguishable from a small boulder.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The decapus makes two attacks: one with its bite and one with its tentacles.</text>
+        </action>
+        <action>
+            <name>Club</name>
+            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.</text>
+            <attack>Club|3|1d4+1</attack>
+        </action>
+        <action>
+            <name>Stone Tell</name>
+            <text>The geonid touches a stone object or surface and knows what types of creatures have been within 10 feet of that stone in the past 24 hours. The geonid can also determine the number of creatures of each type, but not their identities</text>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Marine Decapus</name>
+        <size>L</size>
+        <type>monstrosity</type>
+        <alignment>unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>75 (10d10+20)</hp>
+        <speed>15 ft., climb 30 ft., swim 30 ft.</speed>
+        <str>15</str><dex>14</dex><con>14</con><int>4</int><wis>10</wis><cha>7</cha>
+        <save></save>
+        <skill>Athletics +4, Perception +2, Stealth +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune></immune>
+        <conditionImmune></conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>12</passive>
+        <languages></languages>
+        <cr>4</cr>
+        <trait>
+            <name>Source</name>
+            <text>The Tortle Package, p. 21</text>
+        </trait>
+        <trait>
+            <name>Water Breathing</name>
+            <text>The decapus can breathe only underwater.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The decapus makes two attacks: one with its bite and one with its tentacles.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature grappled by the decapus. Hit: 7 (2d4 + 2) piercing damage.</text>
+            <attack>Bite|4|2d4+2</attack>
+        </action>
+        <action>
+            <name>Tentacles</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 24 (9d4 + 2) bludgeoning damage, or 14 (5d4 + 2) bludgeoning damage if the decapus is grappling a creature other than the target or if the decapus is on the ground or floor. The target is also grappled (escape DC 14) unless the decapus is already grappling a creature. Until this grapple ends, the target is restrained.</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Tentacles|4|9d4+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Topi</name>
+        <size>S</size>
+        <type>undead</type>
+        <alignment>chaotic evil</alignment>
+        <ac>13 (natural)</ac>
+        <hp>13 (3d6+3)</hp>
+        <speed>30 ft.</speed>
+        <str>7</str><dex>15</dex><con>12</con><int>6</int><wis>10</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist>bludgeoning</resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages it knew in life but can't speak</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Source</name>
+            <text>The Tortle Package, p. 22</text>
+        </trait>
+        <trait>
+            <name>Turn Resistance</name>
+            <text>The topi has advantage on saving throws against any effect that turns undead.</text>
+        </trait>
+        <trait>
+            <name>Undead Fortitude</name>
+            <text>If damage reduces the topi to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the topi drops to 1 hit point instead.</text>
+        </trait>
+        <action>
+            <name>Venomous Claws</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned until the end of the target's next turn.</text>
+            <text>    </text>
+            <text>Poisoned:</text>
+            <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
+            <attack>Venomous Claws|4|1d4+2+1d4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    
+</compendium>
