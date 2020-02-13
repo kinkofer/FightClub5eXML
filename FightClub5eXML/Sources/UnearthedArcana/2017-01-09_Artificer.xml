@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+        <name>Mechanical Servant: Allosaurus</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>15 (natural armor)</ac>
+        <hp>60 (6d10+18)</hp>
+        <speed>60 ft.</speed>
+        <str>19</str><dex>13</dex><con>17</con><int>2</int><wis>12</wis><cha>5</cha>
+        <save></save>
+        <skill>Perception +5</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>15</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 79</text>
+        </trait>
+        <trait>
+            <name>Pounce</name>
+            <text>If the allosaurus moves at least 30 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the allosaurus can make one bite attack against it as a bonus action.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10+4) piercing damage.</text>
+            <attack>Bite|6|2d10+4</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) slashing damage.</text>
+            <attack>Claw|6|1d8+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Aurochs</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>38 (4d10+16)</hp>
+        <speed>50 ft.</speed>
+        <str>20</str><dex>10</dex><con>19</con><int>2</int><wis>12</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 207</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the aurochs moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Charge||2d8</attack>
+        </trait>
+        <action>
+            <name>Gore</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) piercing damage.</text>
+            <attack>Gore|7|2d8+5</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Axe Beak</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>50 ft.</speed>
+        <str>14</str><dex>12</dex><con>12</con><int>2</int><wis>10</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 317</text>
+        </trait>
+        <action>
+            <name>Beak</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage.</text>
+            <attack>Beak|4|1d8+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Brown Bear</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>34 (4d10+12)</hp>
+        <speed>40 ft., climb 30 ft.</speed>
+        <str>19</str><dex>10</dex><con>16</con><int>2</int><wis>13</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 319</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The bear has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The bear makes two attacks: one with its bite and one with its claws.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) piercing damage.</text>
+            <attack>Bite|5|1d8+4</attack>
+        </action>
+        <action>
+            <name>Claws</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) slashing damage.</text>
+            <attack>Claws|5|2d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Camel</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>9</ac>
+        <hp>15 (2d10+4)</hp>
+        <speed>50 ft.</speed>
+        <str>16</str><dex>8</dex><con>14</con><int>2</int><wis>8</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>9</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/8</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 320</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.</text>
+            <attack>Bite|5|1d4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Cave Bear</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>42 (5d10+15)</hp>
+        <speed>40 ft., swim 30 ft.</speed>
+        <str>20</str><dex>10</dex><con>16</con><int>2</int><wis>13</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 334</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The bear has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The bear makes two attacks: one with its bite and one with its claws.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) piercing damage.</text>
+            <attack>Bite|7|1d8+5</attack>
+        </action>
+        <action>
+            <name>Claws</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) slashing damage.</text>
+            <attack>Claws|7|2d6+5</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Constrictor Snake</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12</ac>
+        <hp>13 (2d10+2)</hp>
+        <speed>30 ft., swim 30 ft.</speed>
+        <str>15</str><dex>14</dex><con>12</con><int>1</int><wis>10</wis><cha>3</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 320</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6+2) piercing damage.</text>
+            <attack>Bite|4|1d6+2</attack>
+        </action>
+        <action>
+            <name>Constrict</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8+2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Constrict|4|1d8+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Cow</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>15 (2d10+4)</hp>
+        <speed>30 ft.</speed>
+        <str>18</str><dex>10</dex><con>14</con><int>2</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 207</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Crag Cat</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>13</ac>
+        <hp>34 (4d10+12)</hp>
+        <speed>40 ft.</speed>
+        <str>16</str><dex>17</dex><con>16</con><int>4</int><wis>14</wis><cha>8</cha>
+        <save></save>
+        <skill>Perception +4, Stealth +7</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>14</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Storm King's Thunder, p. 240</text>
+        </trait>
+        <trait>
+            <name>Nondetection</name>
+            <text>The cat can't be targeted or detected by any divination magic or perceived through magical scrying sensors.</text>
+        </trait>
+        <trait>
+            <name>Pounce</name>
+            <text>If the cat moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the cat can make one bite attack against it as a bonus action.</text>
+        </trait>
+        <trait>
+            <name>Spell Turning</name>
+            <text>The cat has advantage on saving throws against any spell that targets only the cat (not an area). If the cat's saving throw succeeds and the spell is of 7th level or lower, the spell has no effect on the cat and instead targets the caster.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) piercing damage.</text>
+            <attack>Bite|5|1d10+3</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) slashing damage.</text>
+            <attack>Claw|5|1d8+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Crocodile</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>20 ft., swim 20 ft.</speed>
+        <str>15</str><dex>10</dex><con>13</con><int>2</int><wis>10</wis><cha>5</cha>
+        <save></save>
+        <skill>Stealth +2</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 320</text>
+        </trait>
+        <trait>
+            <name>Hold Breath</name>
+            <text>The crocodile can hold its breath for 15 minutes.</text>
+        </trait>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Dire Wolf</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>37 (5d10+10)</hp>
+        <speed>50 ft.</speed>
+        <str>17</str><dex>15</dex><con>15</con><int>3</int><wis>12</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 321</text>
+        </trait>
+        <trait>
+            <name>Keen Hearing and Smell</name>
+            <text>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+        </trait>
+        <trait>
+            <name>Pack Tactics</name>
+            <text>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Bite|5|2d6+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Draft Horse</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>40 ft.</speed>
+        <str>18</str><dex>10</dex><con>12</con><int>2</int><wis>11</wis><cha>7</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 321</text>
+        </trait>
+        <action>
+            <name>Hooves</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4+4) bludgeoning damage.</text>
+            <attack>Hooves|6|2d4+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Elk</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>13 (2d10+2)</hp>
+        <speed>50 ft.</speed>
+        <str>16</str><dex>10</dex><con>12</con><int>2</int><wis>10</wis><cha>6</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 322</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <action>
+            <name>Ram</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.</text>
+        </action>
+        <action>
+            <name>Hooves</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4+3) bludgeoning damage.</text>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Bat</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>13</ac>
+        <hp>22 (4d10)</hp>
+        <speed>10 ft., fly 60 ft.</speed>
+        <str>15</str><dex>16</dex><con>11</con><int>2</int><wis>12</wis><cha>6</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>blindsight 60 ft., darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 323</text>
+        </trait>
+        <trait>
+            <name>Echolocation</name>
+            <text>The bat can't use its blindsight while deafened.</text>
+        </trait>
+        <trait>
+            <name>Keen Hearing</name>
+            <text>The bat has advantage on Wisdom (Perception) checks that rely on hearing.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6+2) piercing damage.</text>
+            <attack>Bite|4|1d6+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Boar</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>42 (5d10+5)</hp>
+        <speed>40 ft.</speed>
+        <str>17</str><dex>10</dex><con>16</con><int>2</int><wis>7</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>8</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 323</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <trait>
+            <name>Relentless (Recharges after a Short or Long Rest)</name>
+            <text>If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</text>
+        </trait>
+        <action>
+            <name>Tusk</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage.</text>
+            <attack>Tusk|5|2d6+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Eagle</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>neutral good</alignment>
+        <ac>13</ac>
+        <hp>26 (4d10+4)</hp>
+        <speed>10 ft., fly 80 ft.</speed>
+        <str>16</str><dex>17</dex><con>13</con><int>8</int><wis>14</wis><cha>10</cha>
+        <save></save>
+        <skill>Perception +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>14</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 324</text>
+        </trait>
+        <trait>
+            <name>Keen Sight</name>
+            <text>The eagle has advantage on Wisdom (Perception) checks that rely on sight.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The eagle makes two attacks: one with its beak and one with its talons.</text>
+        </action>
+        <action>
+            <name>Beak</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) piercing damage.</text>
+            <attack>Beak|5|1d6+3</attack>
+        </action>
+        <action>
+            <name>Talons</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage.</text>
+            <attack>Talons|5|2d6+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Fly</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>30 ft., fly 60 ft.</speed>
+        <str>14</str><dex>13</dex><con>13</con><int>2</int><wis>10</wis><cha>3</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>0</cr>
+        <trait>
+            <name>Source</name>
+            <text>Dungeon Master's Guide, p. 169</text>
+        </trait>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Goat</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>40 ft.</speed>
+        <str>17</str><dex>11</dex><con>12</con><int>3</int><wis>12</wis><cha>6</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 326</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Charge||2d4</attack>
+        </trait>
+        <trait>
+            <name>Sure-Footed</name>
+            <text>The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</text>
+        </trait>
+        <action>
+            <name>Ram</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4+3) bludgeoning damage.</text>
+            <attack>Ram|5|2d4+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Hyena</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12</ac>
+        <hp>45 (6d10+12)</hp>
+        <speed>50 ft.</speed>
+        <str>16</str><dex>14</dex><con>14</con><int>2</int><wis>12</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 326</text>
+        </trait>
+        <trait>
+            <name>Rampage</name>
+            <text>When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) piercing damage.</text>
+            <attack>Bite|5|1d6+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Lizard</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>30 ft., climb 30 ft.</speed>
+        <str>15</str><dex>12</dex><con>13</con><int>2</int><wis>10</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 326</text>
+        </trait>
+        <trait>
+            <name>Variant: Hold Breath</name>
+            <text>The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)</text>
+        </trait>
+        <trait>
+            <name>Variant: Spider Climb</name>
+            <text>The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) piercing damage.</text>
+            <attack>Bite|4|1d8+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Octopus</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11</ac>
+        <hp>52 (8d10+8)</hp>
+        <speed>10 ft., swim 60 ft.</speed>
+        <str>17</str><dex>13</dex><con>13</con><int>4</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill>Perception +4, Stealth +5</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>14</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 326</text>
+        </trait>
+        <trait>
+            <name>Hold Breath</name>
+            <text>While out of water, the octopus can hold its breath for 1 hour.</text>
+        </trait>
+        <trait>
+            <name>Underwater Camouflage</name>
+            <text>The octopus has advantage on Dexterity (Stealth) checks made while underwater.</text>
+        </trait>
+        <trait>
+            <name>Water Breathing</name>
+            <text>The octopus can breathe only underwater.</text>
+        </trait>
+        <action>
+            <name>Tentacles</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 10 (2d6+3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Tentacles|5|2d6+3</attack>
+        </action>
+        <action>
+            <name>Ink Cloud (Recharges after a Short or Long Rest)</name>
+            <text>A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.</text>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Owl</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>neutral</alignment>
+        <ac>12</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>5 ft., fly 60 ft.</speed>
+        <str>13</str><dex>15</dex><con>12</con><int>8</int><wis>13</wis><cha>10</cha>
+        <save></save>
+        <skill>Perception +5, Stealth +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 120 ft.</senses>
+        <passive>15</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 327</text>
+        </trait>
+        <trait>
+            <name>Flyby</name>
+            <text>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+        </trait>
+        <trait>
+            <name>Keen Hearing and Sight</name>
+            <text>The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</text>
+        </trait>
+        <action>
+            <name>Talons</name>
+            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6+1) slashing damage.</text>
+            <attack>Talons|3|2d6+1</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Sea Horse</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>13 (natural armor)</ac>
+        <hp>16 (3d10)</hp>
+        <speed>0 ft., swim 40 ft.</speed>
+        <str>12</str><dex>15</dex><con>11</con><int>2</int><wis>12</wis><cha>5</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 328</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the sea horse moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <trait>
+            <name>Water Breathing</name>
+            <text>The sea horse can breathe only underwater.</text>
+        </trait>
+        <action>
+            <name>Ram</name>
+            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage.</text>
+            <attack>|3|1d6+1</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Spider</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>26 (4d10+4)</hp>
+        <speed>30 ft., climb 30 ft.</speed>
+        <str>14</str><dex>16</dex><con>12</con><int>2</int><wis>11</wis><cha>4</cha>
+        <save></save>
+        <skill>Stealth +7</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 328</text>
+        </trait>
+        <trait>
+            <name>Spider Climb</name>
+            <text>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+        </trait>
+        <trait>
+            <name>Web Sense</name>
+            <text>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</text>
+        </trait>
+        <trait>
+            <name>Web Walker</name>
+            <text>The spider ignores movement restrictions caused by webbing.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8+3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
+            <text>    </text>
+            <text>Paralyzed:</text>
+            <text>&#8226; A paralyzed creature is incapacitated, meaning it can't take actions or reactions, and can't move or speak.</text>
+            <text>    </text>
+            <text>&#8226; The creature automatically fails Strength and Dexterity saving throws.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage.</text>
+            <text>    </text>
+            <text>&#8226; Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</text>
+            <text>    </text>
+            <text>Poisoned:</text>
+            <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
+            <attack>Bite|5|1d8+3</attack>
+        </action>
+        <action>
+            <name>Web (Recharge 5-6)</name>
+            <text>Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Web|5|0</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Toad</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11</ac>
+        <hp>39 (6d10+6)</hp>
+        <speed>20 ft., swim 40 ft.</speed>
+        <str>15</str><dex>13</dex><con>13</con><int>2</int><wis>10</wis><cha>3</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 329</text>
+        </trait>
+        <trait>
+            <name>Amphibious</name>
+            <text>The toad can breathe air and water</text>
+        </trait>
+        <trait>
+            <name>Standing Leap</name>
+            <text>The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10+2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+            <attack>Bite|4|1d10+2</attack>
+        </action>
+        <action>
+            <name>Swallow</name>
+            <text>The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.</text>
+            <text>    If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</text>
+            <text>    </text>
+            <text>Blinded:</text>
+            <text>&#8226; A blinded creature can't see and automatically fails any ability check that requires sight.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+            <text>    </text>
+            <text>Restrained:</text>
+            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Giant Vulture</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>neutral evil</alignment>
+        <ac>10</ac>
+        <hp>22 (3d10+6)</hp>
+        <speed>10 ft., fly 60 ft.</speed>
+        <str>15</str><dex>10</dex><con>15</con><int>6</int><wis>12</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 329</text>
+        </trait>
+        <trait>
+            <name>Keen Sight and Smell</name>
+            <text>The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.</text>
+        </trait>
+        <trait>
+            <name>Pack Tactics</name>
+            <text>The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The vulture makes two attacks: one with its beak and one with its talons.</text>
+        </action>
+        <action>
+            <name>Beak</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) piercing damage.</text>
+            <attack>Beak|4|2d4+2</attack>
+        </action>
+        <action>
+            <name>Talons</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6+2) slashing damage.</text>
+            <attack>Talons|4|2d6+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Hadrosaurus</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>40 ft.</speed>
+        <str>15</str><dex>10</dex><con>13</con><int>2</int><wis>10</wis><cha>5</cha>
+        <save></save>
+        <skill>Perception +2</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>12</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 140</text>
+        </trait>
+        <action>
+            <name>Tail</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10+2) bludgeoning damage.</text>
+            <attack>Tail|4|1d10+2</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Hunter Shark</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>45 (6d10+12)</hp>
+        <speed>swim 40 ft.</speed>
+        <str>18</str><dex>13</dex><con>15</con><int>1</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill>Perception +2</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>12</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 330</text>
+        </trait>
+        <trait>
+            <name>Blood Frenzy</name>
+            <text>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+        </trait>
+        <trait>
+            <name>Water Breathing</name>
+            <text>The shark can breathe only underwater.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) piercing damage.</text>
+            <attack>Bite|6|2d8+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Lion</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12</ac>
+        <hp>26 (4d10+4)</hp>
+        <speed>50 ft.</speed>
+        <str>17</str><dex>15</dex><con>13</con><int>3</int><wis>12</wis><cha>8</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +6</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 331</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The lion has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <trait>
+            <name>Pack Tactics</name>
+            <text>The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.</text>
+        </trait>
+        <trait>
+            <name>Pounce</name>
+            <text>If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        </trait>
+        <trait>
+            <name>Running Leap</name>
+            <text>With a 10-foot running start, the lion can long jump up to 25 ft..</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.</text>
+            <attack>Bite|5|1d8+3</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.</text>
+            <attack>Claw|5|1d6+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Ox</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>15 (2d10+4)</hp>
+        <speed>30 ft.</speed>
+        <str>18</str><dex>10</dex><con>14</con><int>2</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 208</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <trait>
+            <name>Beast of Burden</name>
+            <text>The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.</text>
+        </trait>
+        <action>
+            <name>Gore</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) piercing damage.</text>
+            <attack>Gore|6|1d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Plesiosaurus</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>13 (natural armor)</ac>
+        <hp>68 (8d10+24)</hp>
+        <speed>20 ft., swim 40 ft.</speed>
+        <str>18</str><dex>15</dex><con>16</con><int>2</int><wis>12</wis><cha>5</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +4</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 80</text>
+        </trait>
+        <trait>
+            <name>Hold Breath</name>
+            <text>The plesiosaurus can hold its breath for 1 hour.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6+4) piercing damage.</text>
+            <attack>Bite|6|3d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Polar Bear</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12 (natural armor)</ac>
+        <hp>42 (5d10+15)</hp>
+        <speed>40 ft., swim 30 ft.</speed>
+        <str>20</str><dex>10</dex><con>16</con><int>2</int><wis>13</wis><cha>7</cha>
+        <save></save>
+        <skill>Perception +3</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 334</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The bear has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The bear makes two attacks: one with its bite and one with its claws.</text>
+        </action>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) piercing damage.</text>
+            <attack>Bite|7|1d8+5</attack>
+        </action>
+        <action>
+            <name>Claws</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) slashing damage.</text>
+            <attack>Claws|7|2d6+5</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Rhinoceros</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11 (natural armor)</ac>
+        <hp>45 (6d10+12)</hp>
+        <speed>40 ft.</speed>
+        <str>21</str><dex>8</dex><con>15</con><int>2</int><wis>12</wis><cha>6</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 336</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the rhinoceros moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</text>
+        </trait>
+        <action>
+            <name>Gore</name>
+            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) bludgeoning damage.</text>
+            <attack>Gore|7|2d8+5</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Riding Horse</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>13 (2d10+2)</hp>
+        <speed>60 ft.</speed>
+        <str>16</str><dex>10</dex><con>12</con><int>2</int><wis>11</wis><cha>7</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 336</text>
+        </trait>
+        <action>
+            <name>Hooves</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4+3) bludgeoning damage.</text>
+            <attack>Hooves|5|2d4+3</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Roth&#233;</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>15 (2d10+4)</hp>
+        <speed>30 ft.</speed>
+        <str>18</str><dex>10</dex><con>14</con><int>2</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 208</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the roth&#233; moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <action>
+            <name>Gore</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) piercing damage.</text>
+            <attack>Gore|6|1d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Saber-Toothed Tiger</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12</ac>
+        <hp>52 (7d10+14)</hp>
+        <speed>40 ft.</speed>
+        <str>18</str><dex>14</dex><con>15</con><int>3</int><wis>12</wis><cha>8</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +6</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 336</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <trait>
+            <name>Pounce</name>
+            <text>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10+5) piercing damage.</text>
+            <attack>Bite|6|1d10+5</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) slashing damage.</text>
+            <attack>Claw|6|2d6+5</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Steeder Female</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>14 (natural armor)</ac>
+        <hp>30 (4d10+8)</hp>
+        <speed>30 ft., climb 30 ft.</speed>
+        <str>15</str><dex>16</dex><con>14</con><int>2</int><wis>10</wis><cha>3</cha>
+        <save></save>
+        <skill>Stealth +7</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 120 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Out of the Abyss, p. 231</text>
+        </trait>
+        <trait>
+            <name>Spider Climb</name>
+            <text>The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+        </trait>
+        <trait>
+            <name>Leap</name>
+            <text>The steeder can expend all its movement on its turn to jump up to 90 feet vertically or horizontally, provided that is speed is at least 30 feet.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8+3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+            <attack>Bite|5|1d8+3</attack>
+            <attack>Acid| |2d8</attack>
+        </action>
+        <action>
+            <name>Sticky Leg (Recharges when the Steeder Has No Creatures Grappled)</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. Hit: The target is stuck to the steeder's leg and grappled until it escapes (escape DC 12)</text>
+            <text>    </text>
+            <text>Grappled:</text>
+            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>    </text>
+            <text>&#8226; The condition ends if the grappler is incapacitated.</text>
+            <text>    </text>
+            <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
+            <attack>Sticky Leg|5|</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Stench Kow</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>10</ac>
+        <hp>15 (2d10+4)</hp>
+        <speed>30 ft.</speed>
+        <str>18</str><dex>10</dex><con>14</con><int>2</int><wis>10</wis><cha>4</cha>
+        <save></save>
+        <skill></skill>
+        <resist>cold, fire</resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/4</cr>
+        <trait>
+            <name>Source</name>
+            <text>Volo's Guide to Monsters, p. 208</text>
+        </trait>
+        <trait>
+            <name>Charge</name>
+            <text>If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.</text>
+            <attack>Charge||2d6</attack>
+        </trait>
+        <trait>
+            <name>Stench</name>
+            <text>Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 26 Constitution saving throw or be poisoned until the start of the creature&#8217;s next turn. On a successful saving throw, the creature is immune to the stench of all stench kows for 1 hour.</text>
+            <text>    </text>
+            <text>Poisoned:</text>
+            <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
+        </trait>
+        <action>
+            <name>Gore</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) piercing damage.</text>
+            <attack>Gore|6|1d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Tiger</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>12</ac>
+        <hp>37 (5d10+10)</hp>
+        <speed>40 ft.</speed>
+        <str>17</str><dex>15</dex><con>14</con><int>3</int><wis>12</wis><cha>8</cha>
+        <save></save>
+        <skill>Perception +3, Stealth +6</skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>13</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 339</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</text>
+        </trait>
+        <trait>
+            <name>Pounce</name>
+            <text>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        </trait>
+        <action>
+            <name>Bite</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) piercing damage.</text>
+            <attack>Bite|5|1d10+3</attack>
+        </action>
+        <action>
+            <name>Claw</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) slashing damage.</text>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+    <monster>
+        <name>Mechanical Servant: Warhorse</name>
+        <size>L</size>
+        <type>construct</type>
+        <alignment>unaligned</alignment>
+        <ac>11</ac>
+        <hp>19 (3d10+3)</hp>
+        <speed>60 ft.</speed>
+        <str>18</str><dex>12</dex><con>13</con><int>2</int><wis>12</wis><cha>7</cha>
+        <save></save>
+        <skill></skill>
+        <resist></resist>
+        <vulnerable></vulnerable>
+        <immune>poison</immune>
+        <conditionImmune>charmed, poisoned</conditionImmune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>understands the languages spoken by its artificer when created but can't speak</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Source</name>
+            <text>Monster Manual, p. 340</text>
+        </trait>
+        <trait>
+            <name>Trampling Charge</name>
+            <text>If the horse moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.</text>
+            <text>    </text>
+            <text>Prone:</text>
+            <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
+            <text>    </text>
+            <text>&#8226; The creature has disadvantage on attack rolls.</text>
+            <text>    </text>
+            <text>&#8226; An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</text>
+        </trait>
+        <action>
+            <name>Hooves</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) bludgeoning damage.</text>
+            <attack>|6|2d6+4</attack>
+        </action>
+        <spells></spells>
+        <slots></slots>
+    </monster>
+
+</compendium>

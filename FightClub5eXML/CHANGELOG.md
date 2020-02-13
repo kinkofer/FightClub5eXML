@@ -1,5 +1,11 @@
 ## CHANGE LOG 
 
+### 2020-02-13
+
+Added new CoreRulebooksAndSupplements collection.
+
+Moved Mechanical Servant monsters to UA Artificer source, so these are only available in the Complete and CorePlusUA-NoHomebrew collections.
+
 ### 2020-02-12
 
 Added Third Party Creature Codex.
