@@ -1,5 +1,11 @@
 ## CHANGE LOG 
 
+### 2020-02-16
+
+Added counters to PHB Classes.
+
+Replaced Homebrew Blood Hunter class with newest update from 2020.
+
 ### 2020-02-13
 
 Added new CoreRulebooksAndSupplements collection.

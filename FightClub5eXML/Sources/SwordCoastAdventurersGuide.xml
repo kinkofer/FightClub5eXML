@@ -802,6 +802,7 @@
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
             </feature>
+            <counter><name>Exalted Champion</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -844,6 +845,7 @@
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 140</text>
             </feature>
+            <counter><name>Defy Death</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -864,6 +866,7 @@
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 140</text>
             </feature>
+            <counter><name>Indestructible Life</name><value>1</value><reset>S</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -915,6 +918,7 @@
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 142</text>
             </feature>
+            <counter><name>Bladesong</name><value>2</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="2">
