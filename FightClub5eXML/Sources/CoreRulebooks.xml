@@ -19559,6 +19559,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 58</text>
             </feature>
+            <counter><name>Channel Divinity</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -19689,6 +19690,10 @@
         
         <autolevel level="6">
             <slots>4, 4, 3, 3</slots>
+        </autolevel>
+        
+        <autolevel level="6">
+            <counter><name>Channel Divinity</name><value>2</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -20011,6 +20016,10 @@
             <slots>5, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         </autolevel>
         
+        <autolevel level="18">
+                <counter><name>Channel Divinity</name><value>3</value><reset>S</reset></counter>
+        </autolevel>
+        
         <autolevel level="19" scoreImprovement="YES">
             <slots>5, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
         </autolevel>
@@ -20142,6 +20151,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 66</text>
             </feature>
+            <counter><name>Wild Shape</name><value>2</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -20180,6 +20190,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 68</text>
             </feature>
+            <counter><name>Natural Recovery</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -20595,6 +20606,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 72</text>
             </feature>
+            <counter><name>Second Wind</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="1">
@@ -20671,6 +20683,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 72</text>
             </feature>
+            <counter><name>Action Surge</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="3">
@@ -20720,6 +20733,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 73</text>
             </feature>
+            <counter><name>Superiority Die</name><value>4</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="3">
@@ -20856,6 +20870,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 74</text>
             </feature>
+            <counter><name>Superiority Die</name><value>5</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="7">
@@ -20902,6 +20917,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 72</text>
             </feature>
+            <counter><name>Indomitable</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -21023,6 +21039,10 @@
             <slots optional="YES">3, 4, 3, 2</slots>
         </autolevel>
         
+        <autolevel level="13">
+                <counter><name>Indomitable</name><value>2</value><reset>S</reset></counter>
+        </autolevel>
+        
         <autolevel level="14" scoreImprovement="YES">
             <slots optional="YES">3, 4, 3, 2</slots>
         </autolevel>
@@ -21057,6 +21077,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 73</text>
             </feature>
+            <counter><name>Superiority Die</name><value>6</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="15">
@@ -21093,6 +21114,11 @@
         
         <autolevel level="17">
             <slots optional="YES">3, 4, 3, 3</slots>
+        </autolevel>
+        
+        <autolevel level="17">
+                <counter><name>Action Surge</name><value>2</value><reset>S</reset></counter>
+                <counter><name>Indomitable</name><value>3</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="18">
@@ -21220,6 +21246,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 78</text>
             </feature>
+            <counter><name>Ki</name><value>2</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -21258,6 +21285,10 @@
                 <text>Source: Player's Handbook, p. 78</text>
                 <modifier category="bonus">speed +10</modifier>
             </feature>
+        </autolevel>
+        
+        <autolevel level="3">
+                <counter><name>Ki</name><value>3</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="3">
@@ -21353,6 +21384,10 @@
             </feature>
         </autolevel>
         
+        <autolevel level="4">
+                <counter><name>Ki</name><value>4</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="4" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement</name>
@@ -21370,6 +21405,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 78</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="5">
+                <counter><name>Ki</name><value>5</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="5">
@@ -21395,6 +21434,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 79</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="6">
+                <counter><name>Ki</name><value>6</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -21431,6 +21474,11 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 79</text>
             </feature>
+            <counter><name>Wholeness of Body</name><value>1</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="7">
+                <counter><name>Ki</name><value>7</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="7">
@@ -21451,6 +21499,10 @@
             </feature>
         </autolevel>
         
+        <autolevel level="8">
+                <counter><name>Ki</name><value>8</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="8" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement (2nd)</name>
@@ -21461,6 +21513,14 @@
             </feature>
         </autolevel>
         
+        <autolevel level="9">
+                <counter><name>Ki</name><value>9</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="10">
+                <counter><name>Ki</name><value>10</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="10">
             <feature>
                 <name>Purity of Body</name>
@@ -21468,6 +21528,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 79</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="11">
+                <counter><name>Ki</name><value>11</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="11">
@@ -21502,6 +21566,10 @@
             </feature>
         </autolevel>
         
+        <autolevel level="12">
+                <counter><name>Ki</name><value>12</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="12" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement (3rd)</name>
@@ -21513,12 +21581,20 @@
         </autolevel>
         
         <autolevel level="13">
+                <counter><name>Ki</name><value>13</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="13">
             <feature>
                 <name>Tongue of the Sun and Moon</name>
                 <text>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.</text>
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 79</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="14">
+                <counter><name>Ki</name><value>14</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="14">
@@ -21533,12 +21609,20 @@
         </autolevel>
         
         <autolevel level="15">
+                <counter><name>Ki</name><value>15</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="15">
             <feature>
                 <name>Timeless Body</name>
                 <text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can&#8217;t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.</text>
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 79</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="16">
+                <counter><name>Ki</name><value>16</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="16" scoreImprovement="YES">
@@ -21549,6 +21633,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 78</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="17">
+                <counter><name>Ki</name><value>17</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="17">
@@ -21580,6 +21668,10 @@
         </autolevel>
         
         <autolevel level="18">
+                <counter><name>Ki</name><value>18</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="18">
             <feature>
                 <name>Empty Body</name>
                 <text>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</text>
@@ -21594,6 +21686,10 @@
             </feature>
         </autolevel>
         
+        <autolevel level="19">
+                <counter><name>Ki</name><value>19</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="19" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement (5th)</name>
@@ -21602,6 +21698,10 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 78</text>
             </feature>
+        </autolevel>
+        
+        <autolevel level="20">
+                <counter><name>Ki</name><value>20</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -21801,6 +21901,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 85</text>
             </feature>
+            <counter><name>Channel Divinity</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="3">
@@ -22187,6 +22288,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 87</text>
             </feature>
+            <counter><name>Undying Sentinel</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="15">
@@ -22257,6 +22359,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 86</text>
             </feature>
+            <counter><name>Holy Nimbus</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -22275,6 +22378,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 87</text>
             </feature>
+            <counter><name>Elder Champion</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -22290,6 +22394,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 88</text>
             </feature>
+            <counter><name>Avenging Angel</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -22301,6 +22406,7 @@
                 <text>    </text>
                 <text>Source: Dungeon Master's Guide, p. 97</text>
             </feature>
+            <counter><name>Dread Lord</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -23275,6 +23381,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 98</text>
             </feature>
+            <counter><name>Spell Thief</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="17">
@@ -23334,6 +23441,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 97</text>
             </feature>
+            <counter><name>Stroke of Luck</name><value>1</value><reset>S</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -23672,6 +23780,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 103</text>
             </feature>
+            <counter><name>Tides of Chaos</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -23698,10 +23807,15 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 101</text>
             </feature>
+            <counter><name>Sorcery Points</name><value>2</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="3">
             <slots>4, 4, 2</slots>
+        </autolevel>
+        
+        <autolevel level="3">
+            <counter><name>Sorcery Points</name><value>3</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="3">
@@ -23793,6 +23907,10 @@
             <slots>5, 4, 3</slots>
         </autolevel>
         
+        <autolevel level="4">
+            <counter><name>Sorcery Points</name><value>4</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="4" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement</name>
@@ -23807,8 +23925,16 @@
             <slots>5, 4, 3, 2</slots>
         </autolevel>
         
+        <autolevel level="5">
+            <counter><name>Sorcery Points</name><value>5</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="6">
             <slots>5, 4, 3, 3</slots>
+        </autolevel>
+        
+        <autolevel level="6">
+            <counter><name>Sorcery Points</name><value>6</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -23914,8 +24040,16 @@
             <slots>5, 4, 3, 3, 1</slots>
         </autolevel>
         
+        <autolevel level="7">
+            <counter><name>Sorcery Points</name><value>7</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="8" scoreImprovement="YES">
             <slots>5, 4, 3, 3, 2</slots>
+        </autolevel>
+        
+        <autolevel level="8">
+            <counter><name>Sorcery Points</name><value>8</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="8" scoreImprovement="YES">
@@ -23932,8 +24066,16 @@
             <slots>5, 4, 3, 3, 3, 1</slots>
         </autolevel>
         
+        <autolevel level="9">
+            <counter><name>Sorcery Points</name><value>9</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="10">
             <slots>6, 4, 3, 3, 3, 2</slots>
+        </autolevel>
+        
+        <autolevel level="10">
+            <counter><name>Sorcery Points</name><value>10</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -24024,8 +24166,16 @@
             <slots>6, 4, 3, 3, 3, 2, 1</slots>
         </autolevel>
         
+        <autolevel level="11">
+            <counter><name>Sorcery Points</name><value>11</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="12" scoreImprovement="YES">
             <slots>6, 4, 3, 3, 3, 2, 1</slots>
+        </autolevel>
+        
+        <autolevel level="12">
+            <counter><name>Sorcery Points</name><value>12</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="12" scoreImprovement="YES">
@@ -24042,8 +24192,16 @@
             <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
         </autolevel>
         
+        <autolevel level="13">
+            <counter><name>Sorcery Points</name><value>13</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="14">
             <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
+        </autolevel>
+        
+        <autolevel level="14">
+            <counter><name>Sorcery Points</name><value>14</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="14">
@@ -24069,8 +24227,16 @@
             <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
         </autolevel>
         
+        <autolevel level="15">
+            <counter><name>Sorcery Points</name><value>15</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="16" scoreImprovement="YES">
             <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+        </autolevel>
+        
+        <autolevel level="16">
+            <counter><name>Sorcery Points</name><value>16</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="16" scoreImprovement="YES">
@@ -24085,6 +24251,10 @@
         
         <autolevel level="17">
             <slots>6, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
+        </autolevel>
+        
+        <autolevel level="17">
+            <counter><name>Sorcery Points</name><value>17</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="17">
@@ -24176,6 +24346,10 @@
         </autolevel>
         
         <autolevel level="18">
+            <counter><name>Sorcery Points</name><value>18</value><reset>L</reset></counter>
+        </autolevel>
+        
+        <autolevel level="18">
             <feature optional="YES">
                 <name>Draconic Presence (Draconic Bloodline)</name>
                 <text>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</text>
@@ -24207,6 +24381,10 @@
             <slots>6, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
         </autolevel>
         
+        <autolevel level="19">
+            <counter><name>Sorcery Points</name><value>19</value><reset>L</reset></counter>
+        </autolevel>
+        
         <autolevel level="19" scoreImprovement="YES">
             <feature>
                 <name>Ability Score Improvement (5th)</name>
@@ -24219,6 +24397,10 @@
         
         <autolevel level="20">
             <slots>6, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
+        </autolevel>
+        
+        <autolevel level="20">
+            <counter><name>Sorcery Points</name><value>20</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -24356,6 +24538,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 109</text>
             </feature>
+            <counter><name>Fey Presence</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="1">
@@ -24517,6 +24700,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 109</text>
             </feature>
+            <counter><name>Misty Escape</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -24527,6 +24711,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 109</text>
             </feature>
+            <counter><name>Dark One's Luck</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -24537,6 +24722,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 110</text>
             </feature>
+            <counter><name>Entropic Ward</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="7">
@@ -24680,6 +24866,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 109</text>
             </feature>
+            <counter><name>Dark Delirium</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="14">
@@ -24691,6 +24878,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 109</text>
             </feature>
+            <counter><name>Hurl Through Hell</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="14">
@@ -24777,6 +24965,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 108</text>
             </feature>
+            <counter><name>Eldritch Master</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -24894,6 +25083,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 115</text>
             </feature>
+            <counter><name>Arcane Recovery</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -24938,6 +25128,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 115</text>
             </feature>
+            <counter><name>Arcane Ward</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -24996,6 +25187,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 116</text>
             </feature>
+            <counter><name>Portents</name><value>2</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -25034,6 +25226,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 117</text>
             </feature>
+            <counter><name>Hypnotic Gaze</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="2">
@@ -25271,6 +25464,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 116</text>
             </feature>
+            <counter><name>Benign Transposition</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="6">
@@ -25491,6 +25685,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 116</text>
             </feature>
+            <counter><name>Third Eye</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -25519,6 +25714,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 118</text>
             </feature>
+            <counter><name>Illusory Step</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -25538,6 +25734,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 119</text>
             </feature>
+            <counter><name>Shapechanger</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -25668,6 +25865,7 @@
                 <text>    </text>
                 <text>Source: Player's Handbook, p. 117</text>
             </feature>
+            <counter><name>Portents</name><value>3</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="14">

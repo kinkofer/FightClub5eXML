@@ -1123,6 +1123,7 @@
                 <text></text>
                 <text>Source: Xanathar's Guide to Everything, p. 10</text>
             </feature>
+            <counter><name>Consult Spirits</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
@@ -1140,6 +1141,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 11</text>
             </feature>
+            <counter><name>Zealous Presence</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
@@ -1217,6 +1219,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 14</text>
             </feature>
+            <counter><name>Enthralling Performance</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
@@ -1316,6 +1319,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 16</text>
             </feature>
+            <counter><name>Words of Terror</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
@@ -1326,6 +1330,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 14</text>
             </feature>
+            <counter><name>Mantle of Majesty</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
@@ -1346,6 +1351,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 16</text>
             </feature>
+            <counter><name>Mantle of Whispers</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
@@ -1356,6 +1362,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 14</text>
             </feature>
+            <counter><name>Unbreakable Majesty</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
@@ -1382,6 +1389,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 16</text>
             </feature>
+            <counter><name>Shadow Lore</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -1546,6 +1554,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 22</text>
             </feature>
+            <counter><name>Balm of Summer</name><value>2</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="2">
             <feature optional="YES">
@@ -1581,6 +1590,35 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 23</text>
             </feature>
+            <counter><name>Spirit Totem</name><value>1</value><reset>S</reset></counter>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>3</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="4">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>4</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="5">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>5</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>6</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
@@ -1604,6 +1642,34 @@
                 <text>Source: Xanathar's Guide to Everything, p. 24</text>
             </feature>
         </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>7</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>8</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="9">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>9</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>10</value><reset>L</reset></counter>
+        </autolevel>
         <autolevel level="10">
             <feature optional="YES">
                 <name>Hidden Paths (Circle of Dreams)</name>
@@ -1620,6 +1686,34 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 24</text>
             </feature>
+        </autolevel>
+        <autolevel level="11">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>11</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="12">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>12</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="13">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>13</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>14</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
@@ -1640,6 +1734,49 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 24</text>
             </feature>
+            <counter><name>Faithful Summons</name><value>1</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>15</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="16">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>16</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="17">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>17</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>18</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="19">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>19</value><reset>L</reset></counter>
+        </autolevel>
+        <autolevel level="20">
+            <feature optional="YES">
+                <name>Balm of the Summer Court Additional Dice (Circle of Dreams)</name>
+                <text>You have a pool of fey energy represented by a number of d6s equal to your druid level. </text>
+            </feature>
+            <counter><name>Balm of Summer</name><value>20</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -1731,6 +1868,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 31</text>
             </feature>
+            <counter><name>Fighting Spirit</name><value>3</value><reset>L</reset></counter>
         </autolevel>
         <autolevel level="7">
             <feature optional="YES">
@@ -2178,6 +2316,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 38</text>
             </feature>
+            <counter><name>Invincible Conqueror</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="20">
@@ -2192,6 +2331,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 39</text>
             </feature>
+            <counter><name>Emissary of Redemption</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -2347,6 +2487,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 43</text>
             </feature>
+            <counter><name>Ethereal Step</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="7">
@@ -2385,6 +2526,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 43</text>
             </feature>
+            <counter><name>Magic-User's Nemesis</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="15">
@@ -2677,6 +2819,7 @@
                 <text>Source: Sword Coast Adventurer's Guide, p. 136</text>
                 <text>        Xanathar's Guide to Everything, p. 47</text>
             </feature>
+            <counter><name>Master Duelist</name><value>1</value><reset>S</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -2717,6 +2860,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 50</text>
             </feature>
+            <counter><name>Favored by Gods</name><value>1</value><reset>S</reset></counter>
         </autolevel>
         
         <autolevel level="1">
@@ -2760,6 +2904,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 51</text>
             </feature>
+            <counter><name>Strength of the Grave</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="1">
@@ -2880,6 +3025,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 50</text>
             </feature>
+            <counter><name>Unearthly Recovery</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="18">
@@ -2901,6 +3047,7 @@
                 <text>Source: Sword Coast Adventurer's Guide, p. 137</text>
                 <text>        Xanathar's Guide to Everything p. 52</text>
             </feature>
+            <counter><name>Wind Soul</name><value>1</value><reset>S</reset></counter>
         </autolevel>
     </class>
     <class>
@@ -3009,6 +3156,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 56</text>
             </feature>
+            <counter><name>Accursed Specter</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="10">
@@ -3037,6 +3185,7 @@
                 <text>    </text>
                 <text>Source: Xanathar's Guide to Everything, p. 55</text>
             </feature>
+            <counter><name>Searing Vengeance</name><value>1</value><reset>L</reset></counter>
         </autolevel>
         
         <autolevel level="14">
