@@ -4,6 +4,8 @@
 
 Fixed duplicate spells in UA Class Variants.
 
+Added missing spell Flame Arrows to Xanathar's Guide.
+
 Added new CorePlusHomebrew-NoUA collection.
 
 ### 2020-02-16
