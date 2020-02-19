@@ -1749,7 +1749,7 @@
         <classes>Bard, Cleric</classes>
     </spell>
     <spell>
-        <name>Ceremony (Ritual Only)</name>
+        <name>Ceremony</name>
         <classes>Druid</classes>
     </spell>
     <spell>
@@ -1790,7 +1790,7 @@
         <classes>Bard, Ranger</classes>
     </spell>
     <spell>
-        <name>Augury (Ritual Only)</name>
+        <name>Augury</name>
         <classes>Druid, Wizard</classes>
     </spell>
     <spell>
@@ -1851,7 +1851,7 @@
     </spell>
     <!-- 3rd -->
     <spell>
-        <name>Animate dead</name>
+        <name>Animate Dead</name>
         <classes>Warlock</classes>
     </spell>
     <spell>
@@ -1863,7 +1863,7 @@
         <classes>Ranger</classes>
     </spell>
     <spell>
-        <name>Elemental weapon</name>
+        <name>Elemental Weapon</name>
         <classes>Druid</classes>
     </spell>
     <spell>
@@ -1928,7 +1928,7 @@
         <classes>Ranger</classes>
     </spell>
     <spell>
-        <name>Divination (Ritual Only)</name>
+        <name>Divination</name>
         <classes>Druid, Wizard</classes>
     </spell>
     <spell>
@@ -1953,7 +1953,7 @@
         <classes>Druid</classes>
     </spell>
     <spell>
-        <name>Contact Other Plane (Ritual Only)</name>
+        <name>Contact Other Plane</name>
         <classes>Bard</classes>
     </spell>
     <spell>
@@ -1985,7 +1985,7 @@
         <classes>Warlock</classes>
     </spell>
     <spell>
-        <name>Rary’s Telepathic Bond (Ritual Only)</name>
+        <name>Rary's Telepathic Bond</name>
         <classes>Bard</classes>
     </spell>
     <spell>
@@ -2010,7 +2010,7 @@
         <classes>Druid, Sorcerer</classes>
     </spell>
     <spell>
-        <name>Heroes’ Feast</name>
+        <name>Heroes' Feast</name>
         <classes>Bard</classes>
     </spell>
     <spell>
@@ -2026,7 +2026,7 @@
         <classes>Bard</classes>
     </spell>
     <spell>
-        <name>Tenser’s Transformation</name>
+        <name>Tenser's Transformation</name>
         <classes>Bard</classes>
     </spell>
     <!-- 7th -->
