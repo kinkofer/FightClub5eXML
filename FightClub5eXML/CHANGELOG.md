@@ -1,5 +1,9 @@
 ## CHANGE LOG 
 
+### 2020-02-19
+
+Fixed duplicate spells in UA Class Variants.
+
 ### 2020-02-16
 
 Added counters to PHB Classes.
