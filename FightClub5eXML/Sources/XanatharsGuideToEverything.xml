@@ -4316,6 +4316,27 @@
         <text>Source: Xanathar's Guide to Everything, p. 156</text>
     </spell>
     <spell>
+		<name>Flame Arrows</name>
+		<level>3</level>
+		<school>T</school>
+		<ritual>NO</ritual>
+		<time>1 action</time>
+		<range>Touch</range>
+		<components>V, S</components>
+		<duration>Concentration, up to 1 hour</duration>
+		<classes>Druid, Ranger, Sorcerer, Wizard</classes>
+		<text>You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell&#8217;s magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.</text>
+		<text>	 </text>
+		<text>	At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.</text>
+		<text>	 </text>
+		<text>	</text>
+		<text />
+		<text>Source: Xanathar's Guide to Everything, p. 156</text>
+		<text>		Elemental Evil Player's Companion, p. 18</text>
+		<text>		Princes of the Apocalypse, p. 236</text>
+		<roll>1d6</roll>
+	</spell>
+    <spell>
         <name>Frostbite</name>
         <level>0</level>
         <school>EV</school>
