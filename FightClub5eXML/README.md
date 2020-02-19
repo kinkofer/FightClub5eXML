@@ -18,9 +18,11 @@ Import one of the Collection files into the Fight Club app.
 
 **CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
 
-**CoreRulebooksAndSupplements**: _CoreRulebooks_ plus Rulebook Supplements
+**CoreRulebooksAndSupplements**: _CoreRulebooks_ plus Rulebook Supplements (XGtE, MToF, VGtM, SCAG, GGtR, WGtE, ERftLW, AI, MFF, Tortle Package, and One Grung Above)
 
 **CoreOnly**: _CoreRulebooksAndSupplements_ plus Adventures
+
+**CorePlusHomebrew-NoUA**: _CoreOnly_ plus homebrew, which includes the Blood Hunter class and Gunslinger subclass for Fighter
 
 **CorePlusUnreleasedUA**: _CoreOnly_ plus unreleased Unearthed Arcana
 

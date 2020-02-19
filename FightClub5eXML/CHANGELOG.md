@@ -4,6 +4,8 @@
 
 Fixed duplicate spells in UA Class Variants.
 
+Added new CorePlusHomebrew-NoUA collection.
+
 ### 2020-02-16
 
 Added counters to PHB Classes.
