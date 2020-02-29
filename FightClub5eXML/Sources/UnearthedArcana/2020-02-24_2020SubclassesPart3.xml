@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <!-- Classes -->
+    <class>
+        <name>Artificer</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Artificer Specialist: Armorer (UA)</name>
+                <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Tools of the Trade (Armorer (UA))</name>
+                <text>   3rd-level Armorer feature</text>
+                <text>   You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Armorer Spells (Armorer (UA))</name>
+                <text>   3rd-level Armorer feature</text>
+                <text>   You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+                <text></text>
+                <text>Artificer Level | Spell</text>
+                <text>3rd | magic missile, shield</text>
+                <text>5th | mirror image, shatter</text>
+                <text>9th | hypnotic pattern, lightning bolt</text>
+                <text>13th | fire shield, greater invisibility</text>
+                <text>17th | passwall, wall of force</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Power Armor (Armorer (UA))</name>
+                <text>   3rd-level Armorer feature</text>
+                <text>   Your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith's tools in hand.</text>
+                <text>   You gain the following benefits while wearing the power armor:</text>
+                <text>• If the armor normally has a Strength requirement, the power armor lacks this requirement for you.</text>
+                <text>• You can use the power armor as a spellcasting focus for your artificer spells.</text>
+                <text>• The power armor attaches to you and can't be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.</text>
+                <text>   The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Armor Model (Armorer (UA))</name>
+                <text>   3rd-level Armorer feature</text>
+                <text>   You can customize your power armor. When you do so, choose one of the following armor models: guardian or infiltrator. The model you choose gives you special benefits while you wear it.</text>
+                <text>   Each model includes a special weapon. When you attack with that weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
+                <text>   You can change your power armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.</text>
+                <text></text>
+                <text>Guardian</text>
+                <text>   You design your armor to be in the frontline of conflict. It has the following features:</text>
+                <text></text>
+                <text>   Thunder Gauntlets.</text>
+                <text>• Your armored fists each count as a simple melee weapon, and each deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</text>
+                <text>   Defensive Field.</text>
+                <text>• You gain a bonus action that you can use on each of your turns to gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor.</text>
+                <text></text>
+                <text></text>
+                <text>Infiltrator</text>
+                <text>   You customize your armor for subtle undertakings. It has the following features:</text>
+                <text></text>
+                <text>   Lightning Launcher.</text>
+                <text>• A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.</text>
+                <text>   Powered Steps.</text>
+                <text>• Your walking speed increases by 5 feet.</text>
+                <text>   Second Skin.</text>
+                <text>• The armor's weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn't.</text>
+                <text></text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="5">
+            <feature optional="YES">
+                <name>Extra Attack (Armorer (UA))</name>
+                <text>   5th-level Armorer feature</text>
+                <text>   You can attack twice, rather than once, whenever you take the Attack action on your turn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="9">
+            <feature optional="YES">
+                <name>Armor Modifications (Armorer (UA))</name>
+                <text>   9th-level Armorer feature</text>
+                <text>   You learn how to use your artificer infusions to specially modify the armor enhanced by your Power Armor feature. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, bracers, and a weapon. Each of those items can bear one of your infusions. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your power armor.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+        <feature optional="YES">
+            <name>Perfected Armor (Armorer (UA))</name>
+            <text>   15th-level Armorer feature</text>
+            <text>   Your power armor gains additional benefits based on its model, as shown below.</text>
+            <text></text>
+            <text>Guardian</text>
+            <text>   Tinkering with your armor's energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</text>
+            <text>   You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+            <text></text>
+            <text>Infiltrator</text>
+            <text>   Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.</text>
+            <text></text>
+            <text></text>
+            <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Druid</name>
+        
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Druid Circle: Circle of the Stars (UA)</name>
+                <text>An ancient lineage, the Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.</text>
+                <text>Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Star Map (Circle of the Stars (UA))</name>
+                <text>   2nd-level Circle of the Stars feature</text>
+                <text>   You've created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.</text>
+                <text></text>
+                <text>d6 | Map Form</text>
+                <text>1 | A scroll of living wood that aligns with heavenly bodies</text>
+                <text>2 | A stone tablet with fine holes drilled through it</text>
+                <text>3 | A speckled owlbear hide, tooled with raised marks</text>
+                <text>4 | A collection of maps bound in an ebony cover</text>
+                <text>5 | A crystal that projects starry patterns when placed before a light</text>
+                <text>6 | Tempered glass disks that align to depict constellations</text>
+                <text></text>
+                <text>   If you lose your map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.</text>
+                <text>   You can cast the augury and guiding bolt spells without expending a spell slot and without preparing the spell, provided you use the star map as the spellcasting focus. You can cast a spell from the map in this way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <text>Starry Form (Circle of the Stars (UA))</text>
+                <text>   2nd-level Circle of the Stars feature</text>
+                <text>   You gain the ability to harness constellations' power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
+                <text>   While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you're incapacitated.</text>
+                <text>   Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
+                <text></text>
+                <text>   Chalice</text>
+                <text>• A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + half your level in this class.</text>
+                <text>   Archer</text>
+                <text>• A constellation of an archer appears on you. You gain a bonus action that you can use to make a ranged spell attack, hurling a luminous arrow that targets a creature you can see within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier.</text>
+                <text>   Dragon</text>
+                <text>• A constellation of a wise, ancient dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.</text>
+                <text></text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Cosmic Omen (Circle of the Stars (UA))</name>
+                <text>   6th-level Circle of the Stars feature</text>
+                <text>   You learn to use your star map to divine the will of the cosmos. Whenever you finish a long rest, you can consult your star map for omens. When you do so, roll a d6. You gain one of the following possible omens based on whether you rolled an even number or an odd number on the d6:</text>
+                <text></text>
+                <text>   Weal (even)</text>
+                <text>• Whenever a creature you can see within 30 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.</text>
+                <text>   Woe (odd)</text>
+                <text>• Whenever a creature you can see within 30 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.</text>
+                <text></text>
+                <text>   You can use this reaction a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Full of Stars (Circle of the Stars (UA))</name>
+                <text>   10th-level Circle of the Stars feature</text>
+                <text>   While your Starry Form feature is active, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Star Flare (Circle of the Stars (UA))</name>
+                <text>   14th-level Circle of the Stars feature</text>
+                <text>   Your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.</text>
+                <text>   Once you have used this action, you can't use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+            <counter><name>Star Flare</name><value>1</value><reset>L</reset></counter>
+        </autolevel>
+    </class>
+    <class>
+        <name>Ranger</name>
+        
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Ranger Archetype: Fey Wanderer (UA)</name>
+                <text>As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.</text>
+                <text>Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+                <text></text>
+                <text>d6 | Gift</text>
+                <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+                <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+                <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+                <text>4 | Your shadow dances while no one is looking directly at it.</text>
+                <text>5 | Delicate horns or antlers sprout from your head.</text>
+                <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Fey Wanderer Magic (Fey Wanderer (UA))</text>
+                <text>   3rd-level Fey Wanderer feature</text>
+                <text>   You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+                <text></text>
+                <text>Ranger Level | Spells</text>
+                <text>3rd | charm person</text>
+                <text>5th | misty step</text>
+                <text>9th | dispel magic</text>
+                <text>13th | banishment</text>
+                <text>17th | mislead</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Cunning Will (Fey Wanderer (UA))</text>
+                <text>   3rd-level Fey Wanderer feature</text>
+                <text>   Your experience with the fey has guarded your mind and sharpened your tongue. You have advantage on saving throws against being charmed or frightened.</text>
+                <text>   In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+                <text>Dreadful Strikes (Fey Wanderer (UA))</text>
+                <text>   3rd-level Fey Wanderer feature</text>
+                <text>   You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
+                <text>   When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Blessings of the Courts (Fey Wanderer (UA))</name>
+                <text>   7th-level Fey Wanderer feature</text>
+                <text>   You have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.</text>
+                <text>   In addition, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+        </autolevel>
+        <autolevel level="11">
+            <feature optional="YES">
+                <name>Beguiling Twist (Fey Wanderer (UA))</name>
+                <text>   11th-level Fey Wanderer feature</text>
+                <text>   You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:</text>
+                <text>• The creature is charmed or frightened by you (your choice) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+                <text>• The creature takes 3d10 psychic damage.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Misty Presence (Fey Wanderer (UA))</name>
+                <text>   15th-level Fey Wanderer feature</text>
+                <text>   You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, force d it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.</text>
+                <text>   Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
+                <text></text>
+                <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+            </feature>
+            <counter><name>Misty Presence</name><value>1</value><reset>L</reset></counter>
+        </autolevel>
+    </class>
+</compendium>

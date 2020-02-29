@@ -1,5 +1,11 @@
 ## CHANGE LOG 
 
+### 2020-02-28
+
+Added 2020 UA subclasses part 3.
+
+Fixed typos.
+
 ### 2020-02-19
 
 Fixed duplicate spells in UA Class Variants.
