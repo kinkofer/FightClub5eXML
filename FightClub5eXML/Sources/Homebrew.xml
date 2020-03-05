@@ -112,7 +112,7 @@
         <property>M,A,LD</property>
         <range>80/320</range>
     </item>
-    
+
     <class>
         <name>Blood Hunter</name>
         <hd>10</hd>
@@ -123,7 +123,7 @@
         <weapons>Simple weapons, martial weapons</weapons>
         <tools>Alchemist&#39;s supplies</tools>
         <wealth>4d4x10</wealth>
-        
+
         <autolevel level="1">
             <feature optional="YES">
                 <name>Starting Blood Hunter</name>
@@ -172,7 +172,7 @@
         </autolevel>
         <autolevel level="1">
             <feature>
-                <name>List of Blook Curses</name>
+                <name>List of Blood Curses</name>
                 <text>Blood Curse of the Anxious</text>
                 <text>As a bonus action, you magnify the adrenaline in the body of a creature within 30 feet of you, making them susceptible to forceful influence. Until the end of your next turn, all creatures have advantage on Charisma (Intimidation) checks directed at the target creature.</text>
                 <text></text>
@@ -311,7 +311,7 @@
                 <text>At 3rd level, you commit to an order of blood hunter martial focus. Choose Order of the Ghostslayer, Order of the Profane Soul, Order of the Mutant, or Order of the Lycan. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Blood Hunter Order: Order of the Ghostslayer</name>
@@ -334,7 +334,7 @@
                 <text>Beginning at 3rd level, your ancient order teaches advanced mastery over blood curses. You gain an additional use of your blood maledict feature. In addition, your blood curses can target any creature, whether it has blood or not.</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Blood Hunter Order: Order of the Profane Soul</name>
@@ -387,7 +387,7 @@
         <autolevel level="3">
             <slots optional="YES">2, 1</slots>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Blood Hunter Order: Order of the Mutant</name>
@@ -476,7 +476,7 @@
                 <text>You gain an additional use of your Blood Maledict feature. As a side effect, you gain disadvantage on death saving throws.</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Blood Hunter Order: Order of the Lycan</name>
@@ -515,10 +515,10 @@
                 <reset>S</reset>
             </counter>
         </autolevel>
-        
+
         <autolevel level="4" scoreImprovement="YES">
         </autolevel>
-        
+
         <autolevel level="5">
             <feature>
                 <name>Extra Attack</name>
@@ -788,10 +788,10 @@
             </feature>
         </autolevel>
     </class>
-    
+
     <class>
         <name>Fighter</name>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Martial Archetype: Gunslinger</name>
@@ -803,7 +803,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 1</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Firearm Proficiency (Gunslinger)</name>
@@ -812,7 +812,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Gunsmith (Gunslinger)</name>
@@ -821,7 +821,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.2 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Firearm Properties</name>
@@ -834,7 +834,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.2 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Adept Marksman (Gunslinger)</name>
@@ -850,7 +850,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="7">
             <feature optional="YES">
                 <name>Quickdraw (Gunslinger)</name>
@@ -859,7 +859,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="10">
             <feature optional="YES">
                 <name>Rapid Repair (Gunslinger)</name>
@@ -868,7 +868,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.2 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="15">
             <feature optional="YES">
                 <name>Lightning Reload (Gunslinger)</name>
@@ -877,7 +877,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.2 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="18">
             <feature optional="YES">
                 <name>Vicious Intent (Gunslinger)</name>
@@ -886,7 +886,7 @@
                 <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.2 p. 2</text>
             </feature>
         </autolevel>
-        
+
         <autolevel level="10">
             <feature optional="YES">
                 <name>Hemorrrhaging Critical (Gunslinger)</name>
@@ -896,7 +896,7 @@
             </feature>
         </autolevel>
     </class>
-    
+
     <spell>
         <name>Bullying Shot</name>
         <level>1</level>
