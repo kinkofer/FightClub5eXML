@@ -1,4 +1,12 @@
-## CHANGE LOG 
+## CHANGE LOG
+
+### 2020-03-05
+
+Fixed Typos in Blood Hunter Class.
+
+Removed Armblade Items in favour of a trait in Warforged race.
+
+Updated Wizard Cantrips to show correctly for levels 5-9.
 
 ### 2020-02-28
 
@@ -145,7 +153,7 @@ Updated and added all Infernal Vehicles stats, these can be added as companions 
 
 ### 2019-10-01
 
-Updated with magical items from Baldur’s Gate Descent into Avernus 
+Updated with magical items from Baldur’s Gate Descent into Avernus
 
 ### 2019-09-22
 
@@ -159,7 +167,7 @@ Amended some spell slots for spellcasters to have proper number
 
 Updated cast-off armor, this was incorrectly showing the AC as +1 more than usual
 
-### 2019-09-08 
+### 2019-09-08
 
 Updated more from Ghosts of Saltmarsh, additional pirates, sahuagin.
 
@@ -212,9 +220,9 @@ Working through the whole XML and NUKING spelling mistakes and errors!
 
 Uploaded to Dropbox for the first time.
 
-XML includes 
+XML includes
 
-* All previously collated by FightClub5eXML 
+* All previously collated by FightClub5eXML
 * Waterdeep dragon heist monsters, items.
 * Waterdeep Dungeon of the Mad Mage monsters.
 * Ghosts of Saltmarsh items and some monsters.
