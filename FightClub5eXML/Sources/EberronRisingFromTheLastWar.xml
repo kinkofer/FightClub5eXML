@@ -3253,6 +3253,167 @@
         <name>Web</name>
         <classes>Artificer</classes>
     </spell>
+    <!-- Infusions -->
+    <spell>
+        <name>Infusion: Enhanced Defense</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.</text>
+        <text/>
+        <text>Requirements: A suit of armor or a shield.</text>
+    </spell>
+    <spell>
+        <name>Infusion: Enhanced Weapon</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it. The bonus increases to +2 when you reach 10th level in this class.</text>
+        <text/>
+        <text>Requirements: A simple or martial weapon</text>
+    </spell>
+    <spell>
+        <name>Infusion: Repeating Shot</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it&#39;s used to make a ranged attack, and it ignores the loading property if it has it.</text>
+        <text/>
+        <text>If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.</text>
+        <text/>
+        <text>Requirements: A simple or martial weapon with the ammunition property (requires attunement)</text>
+        <text/>
+    </spell> 
+    <spell>
+        <name>Infusion: Replicate Magic Item</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a different magic item that you can make with it, picking from the Replicable Magic Items tables below. A table&#39;s title tells you the level you must be in the class to choose an item from the table. (Table Not Yet Added)</text>
+        <text/>
+        <text>In the tables, an item&#39;s entry tells you whether the item requires attunement. See the item&#39;s description in the Dungeon Master&#39;s Guide for more information about it, including the type of object required for its making. If you have Xanathar&#39;s Guide to Everything, you can choose from among the common magic items in that book when you pick a magic item you can replicate with this infusion.</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Boots Of The Winding Path (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.</text>
+        <text/>
+        <text>Requirements: Pair of Boots (requires attunement)</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Homunclus Servant (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>You learn intricate methods for magically creating a special homunculus that serves you. The item you infuse serves as the creature&#39;s heart, around which the creature&#39;s body instantly forms.</text>
+        <text/>
+        <text>You determine the homunculus&#39;s appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons. The homunculus is friendly to you and your companions, and it obeys your commands. See this creature&#39;s game statistics in the Homunculus Servant stat block.</text>
+        <text/>
+        <text>In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take the action in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
+        <text/>
+        <text>The homunculus regains 2d6 hit points if the mending spell is cast on it. If it dies, it vanishes, leaving its heart in its space.</text>
+        <text/>
+        <text>Requirements: A gem worth at least 100 gp or a dragonshard</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Radiant Weapon (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.</text>
+        <text/>
+        <text>The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker&#39;s next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.</text>
+        <text/>
+        <text>Requirements: A simple or martial weapon (requires attunement)</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Repulsion Shield (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>A creature gains a +1 bonus to Armor Class while wielding this shield.</text>
+        <text/>
+        <text>The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield&#39;s charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.</text>
+        <text/>
+        <text>Requirements: A shield (requires attunement)</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Resistance Armor (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.</text>
+        <text/>
+        <text>Requirements: A suit of armor (requires attunement)</text>
+        <text/>
+    </spell>
+    <spell>
+        <name>Infusion: Returning Weapon (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack. The bonus increases to +2 when you reach 10th level in this class.</text>
+        <text/>
+        <text>Requirements: A simple or martial weapon with the thrown property</text>
+        <text/>
+    </spell>
 
     <!-- Monsters -->
     <monster>
