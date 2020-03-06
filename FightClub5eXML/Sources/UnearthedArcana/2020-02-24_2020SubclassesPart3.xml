@@ -295,4 +295,81 @@
             <counter><name>Misty Presence</name><value>1</value><reset>L</reset></counter>
         </autolevel>
     </class>
+
+    <!-- Spells -->
+    <!-- Infusions -->
+    <spell>
+        <name>Infusion: Armor of Magical Strength (Level 10)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>While wearing this armor, a creature can use its Intelligence modifier in place of its Strength modifier when making Strength checks and Strength saving throws.</text>
+        <text/>
+        <text>The armor has 4 charges. As a reaction when it would be knocked prone, the wearer can expend 1 charge to not be knocked prone. The armor regains 1d4 expended charges daily at dawn.</text>
+        <text/>
+        <text>Requirements: A suit of armor (requires attunement)</text>
+    </spell>
+    <spell>
+        <name>Infusion: Armor of Tools</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>As an action, a creature wearing this infused armor can integrate into it artisan’s tools or thieves’ tools. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.</text>
+        <text/>
+        <text>The wearer can add its Intelligence modifier to any ability checks it makes with the integrated tool. The wearer must have a hand free to use the tool.</text>
+        <text/>
+        <text>Requirements: A suit of armor</text>
+    </spell>
+    <spell>
+        <name>Infusion: Helm of Awareness (Level 10)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t incapacitated.</text>
+        <text/>
+        <text>Requirements: A helmet (requires attunement)</text>
+    </spell>
+    <spell>
+        <name>Infusion: Mind Sharpener</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>The infused item can send a jolt to the wearer to refocus their mind. While wearing this infused item, whenever the creature fails a Constitution saving throw to maintain concentration on a spell, it can use its reaction to succeed instead.</text>
+        <text/>
+        <text>Requirements: A suit of armor or robes</text>
+    </spell>
+    <spell>
+        <name>Infusion: Spell-Refueling Ring (Level 6)</name>
+        <level>0</level>
+        <school>EN</school>
+        <ritual>NO</ritual>
+        <time>1 action</time>
+        <range>touch</range>
+        <components>V,S,M</components>
+        <duration></duration>
+        <classes>Artificer Infusions</classes>
+        <text>While wearing this ring, the creature can recover one expended spell slot as an action. The maximum level of the recovered slot is equal to the number of magic items the wearer is currently attuned to. Once used, the ring can’t be used again until the next dawn.</text>
+        <text/>
+        <text>Requirements: A ring (requires attunement)</text>
+    </spell>
 </compendium>

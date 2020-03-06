@@ -39,6 +39,8 @@ Import one of the Collection files into the Fight Club app.
 
 `@rrgeorge` and `zamrod` for their JSON to XML scripts
 
+`@MrFarland` for Artificer Infusions and other XML
+
 ## Contribute
 
 Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.

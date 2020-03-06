@@ -8,6 +8,8 @@ Removed Armblade Items in favour of a trait in Warforged race.
 
 Updated Wizard Cantrips to show correctly for levels 5-9.
 
+Added Artificer Infusions as spells.
+
 ### 2020-02-28
 
 Added 2020 UA subclasses part 3.
