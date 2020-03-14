@@ -124,7 +124,7 @@
         <tools>Alchemist&#39;s supplies</tools>
         <wealth>4d4x10</wealth>
         <spellAbility>Intelligence</spellAbility>
-        <slotsReset>L</slotsReset>
+        <reset>L</reset>
         <autolevel level="1">
             <slots>0,0,0,0,0,0,0,0,0,0,</slots>
             <feature optional="YES">
