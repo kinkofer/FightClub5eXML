@@ -2,6 +2,10 @@
 
 ### 2020-03-05
 
+Added additional blood curse to Blood Hunter
+
+### 2020-03-05
+
 Fixed Typos in Blood Hunter Class.
 
 Removed Armblade Items in favour of a trait in Warforged race.
