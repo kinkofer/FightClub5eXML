@@ -117,7 +117,7 @@
     <class>
         <name>Blood Hunter</name>
         <hd>10</hd>
-        <proficiency>Dexterity Saving Throws, Intelligence Saving Throws, Acrobatics, Arcana, Athletics, History, Insight, Religion, Survival</proficiency>
+        <proficiency>Dexterity, Intelligence, Acrobatics, Arcana, Athletics, History, Insight, Religion, Survival</proficiency>
         <numSkills>3</numSkills>
         <armor>Light armor, medium armor, shields</armor>
         <weapons>Simple weapons, martial weapons</weapons>
