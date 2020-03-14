@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2020-03-14
+
+Added additional blood curse to Blood Hunter.
+
 ### 2020-03-05
 
 Fixed Typos in Blood Hunter Class.
