@@ -3,7 +3,7 @@
     <!-- Classes -->
     <class>
         <name>Artificer</name>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Artificer Specialist: Armorer (UA)</name>
@@ -120,7 +120,7 @@
     </class>
     <class>
         <name>Druid</name>
-        
+
         <autolevel level="2">
             <feature optional="YES">
                 <name>Druid Circle: Circle of the Stars (UA)</name>
@@ -152,7 +152,7 @@
         </autolevel>
         <autolevel level="2">
             <feature optional="YES">
-                <text>Starry Form (Circle of the Stars (UA))</text>
+                <name>Starry Form (Circle of the Stars (UA))</name>
                 <text>   2nd-level Circle of the Stars feature</text>
                 <text>   You gain the ability to harness constellations' power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
                 <text>   While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you're incapacitated.</text>
@@ -208,7 +208,7 @@
     </class>
     <class>
         <name>Ranger</name>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Ranger Archetype: Fey Wanderer (UA)</name>
