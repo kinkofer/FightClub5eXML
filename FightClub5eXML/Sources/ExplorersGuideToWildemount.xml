@@ -2,8 +2,269 @@
 <compendium version="5" auto_indent="NO">
     <!-- Items -->
     <!-- Races -->
+    <race>
+        <name>Elf (Pallid)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Dex 2, Wis 1</ability>
+        <proficiency>Perception</proficiency>
+        <spellAbility>Wisdom</spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Source: Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Incisive Sense</name>
+            <text>You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+            </text>
+        </trait>
+        <trait>
+            <name>Blessing of the Moon Weaver</name>
+            <text>You know the light cantrip. When you reach 3rd level, you can cast the sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
+            </text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>You have proficiency in the Perception skill.</text>
+        </trait>
+        <trait>
+            <name>Fey Ancestry</name>
+            <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+        </trait>
+        <trait>
+            <name>Trance</name>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+            <text>If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Draconblood)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1, Int 2, Cha 1</ability>
+        <proficiency></proficiency>
+        <spellAbility></spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Source: Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains.</text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</text>
+        </trait>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</text>
+            <text>Dragon | Damage Type | Breath Weapon</text>
+            <text>Black | Acid | 5 by 30 ft. line (Dex. save)</text>
+            <text>Blue | Lightning | 5 by 30 ft. line (Dex. save)</text>
+            <text>Brass | Fire | 5 by 30 ft. line (Dex. save)</text>
+            <text>Bronze | Lightning | 5 by 30 ft. line (Dex. save)</text>
+            <text>Copper | Acid | 5 by 30 ft. line (Dex. save)</text>
+            <text>Gold | Fire | 15 ft. cone (Dex. save)</text>
+            <text>Green | Poison | 15 ft. cone (Con. save)</text>
+            <text>Red | Fire | 15 ft. cone (Dex. save)</text>
+            <text>Silver | Cold | 15 ft. cone (Con. save)</text>
+            <text>White | Cold | 15 ft. cone (Con. save)</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</text>
+            <text>When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+        </trait>
+        <trait>
+            <name>Forceful Presence</name>
+            <text>You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+        </trait>
+    </race>
+    <race>
+        <name>Dragonborn (Ravenite)</name>
+        <size>M</size>
+        <speed>30</speed>
+        <ability>Str 2, Cha 1, Str 2, Con 1</ability>
+        <proficiency></proficiency>
+        <spellAbility></spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Source: Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains.</text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</text>
+        </trait>
+        <trait>
+            <name>Draconic Ancestry</name>
+            <text>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</text>
+            <text>Dragon | Damage Type | Breath Weapon</text>
+            <text>Black | Acid | 5 by 30 ft. line (Dex. save)</text>
+            <text>Blue | Lightning | 5 by 30 ft. line (Dex. save)</text>
+            <text>Brass | Fire | 5 by 30 ft. line (Dex. save)</text>
+            <text>Bronze | Lightning | 5 by 30 ft. line (Dex. save)</text>
+            <text>Copper | Acid | 5 by 30 ft. line (Dex. save)</text>
+            <text>Gold | Fire | 15 ft. cone (Dex. save)</text>
+            <text>Green | Poison | 15 ft. cone (Con. save)</text>
+            <text>Red | Fire | 15 ft. cone (Dex. save)</text>
+            <text>Silver | Cold | 15 ft. cone (Con. save)</text>
+            <text>White | Cold | 15 ft. cone (Con. save)</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon</name>
+            <text>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</text>
+            <text>When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
+            <text>After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+        </trait>
+        <trait>
+            <name>Vengeful Assault</name>
+            <text>When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest.</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
+        </trait>
+    </race>
+    <race>
+        <name>Halfling (Lotusden)</name>
+        <size>S</size>
+        <speed>25</speed>
+        <ability>Dex 2, Wis 1</ability>
+        <proficiency></proficiency>
+        <spellAbility>Wisdom</spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Source: Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Child of the Wood</name>
+            <text>You know the druidcraft cantrip. When you reach 3rd level, you can cast the entangle spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the spike growth spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.</text>
+        </trait>
+        <trait>
+            <name>Timberwalk</name>
+            <text>Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.</text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.</text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.</text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.</text>
+        </trait>
+        <trait>
+            <name>Lucky</name>
+            <text>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</text>
+        </trait>
+        <trait>
+            <name>Brave</name>
+            <text>You have advantage on saving throws against being frightened.</text>
+        </trait>
+        <trait>
+            <name>Halfling Nimbleness</name>
+            <text>You can move through the space of any creature that is of a size larger than yours.</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+        </trait>
+    </race>
+    <race>
+        <name>Goblin (Dankwood)</name>
+        <size>S</size>
+        <speed>30</speed>
+        <ability>Dex 2, Con 1, Dex 2, Wis 1</ability>
+        <proficiency></proficiency>
+        <spellAbility></spellAbility>
+        <trait>
+            <name>Description</name>
+            <text>Source: Adventure with Muk p. 35, Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Age</name>
+            <text>Goblins reach adulthood at age 8 and live up to 60 years.</text>
+        </trait>
+        <trait>
+            <name>Alignment</name>
+            <text>Dankwood goblins are typically neutral or neutral good, though some mischievous dankwood goblins are chaotic neutral.</text>
+        </trait>
+        <trait>
+            <name>Size</name>
+            <text>Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+        </trait>
+        <trait>
+            <name>Speak with Small Beasts</name>
+            <text>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Dankwood goblins love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</text>
+        </trait>
+        <trait>
+            <name>Nimble Escape</name>
+            <text>You can take the Disengage or Hide action as a bonus action on each of your turns.</text>
+        </trait>
+        <trait>
+            <name>Languages</name>
+            <text>You can speak, read, and write Common and Goblin.</text>
+        </trait>
+    </race>
+
+
     <!-- Classes -->
     <!-- Feats -->
+
+    
     <!-- Backgrounds -->
     <background>
         <name>Augen Trust (Spy)</name>
