@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2020-03-26
+
+Added Explorer's Guide to Wildemount as a supplement source.
+
 ### 2020-03-14
 
 Added additional blood curse to Blood Hunter.
