@@ -2416,16 +2416,269 @@
 
 
     <!-- Classes -->
-    <!-- Feats -->
+    <class>
+        <name>Fighter</name>
+
+        <autolevel level="3">
+            <feature optional="YES">
+                <name>Martial Archetype: Echo Knight</name>
+                <text>A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.</text>
+                <text></text>
+                <text>Manifest Echo</text>
+                <text>   3rd-level Echo Knight feature</text>
+                <text>   You can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you're incapacitated.</text>
+                <text>   Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.</text>
+                <text>   You can use the echo in the following ways:</text>
+                <text>• As a bonus action, you can teleport, magically swapping places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.</text>
+                <text>• When you take the Attack action on your turn, any attack you make with that action can originate from your space or the echo's space. You make this choice for each attack.</text>
+                <text>• When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo's space.</text>
+                <text></text>
+                <text>Unleash Incarnation</text>
+                <text>   3rd-level Echo Knight feature</text>
+                <text>   You can heighten your echo's fury. Whenever you take the Attack action, you can make one additional melee attack from the echo's position.</text>
+                <text>   You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <feature optional="YES">
+                <name>Echo Avatar (Echo Knight)</name>
+                <text>   7th-level Echo Knight feature</text>
+                <text>   You can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, you are deafened and blinded. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Shadow Martyr (Echo Knight)</name>
+                <text>   10th-level Echo Knight feature</text>
+                <text>   You can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the reaction is instead made against your echo.</text>
+                <text>   Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <feature optional="YES">
+                <name>Reclaim Potential (Echo Knight)</name>
+                <text>   15th-level Echo Knight feature</text>
+                <text>   You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.</text>
+                <text>   You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Legion of One (Echo Knight)</name>
+                <text>   18th-level Echo Knight feature</text>
+                <text>   You can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.</text>
+                <text>   In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+    </class>
+    <class>
+        <name>Wizard</name>
+
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Arcane Tradition: Chronurgy Magic</name>
+                <text>Focusing on the manipulation of time, those who follow the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory dunamis energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.</text>
+                <text></text>
+                <text>Chronal Shift</text>
+                <text>   2nd-level Chronurgy Magic feature</text>
+                <text>   You can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.</text>
+                <text>   You can use this ability twice, and you regain any expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Temporal Awareness</text>
+                <text>   2nd-level Chronurgy Magic feature</text>
+                <text>   You can add your Intelligence modifier to your initiative rolls.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+                <name>Arcane Tradition: Graviturgy Magic</name>
+                <text>Understanding and mastering the forces that draw bodies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their benefit, and the terrible detriment of their enemies.</text>
+                <text></text>
+                <text>Adjust Density</text>
+                <text>   2nd-level Graviturgy Magic feature</text>
+                <text>   As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your concentration ends (as if you were concentrating on a spell).</text>
+                <text>   While the weight of a creature is halved by this effect, the creature's speed increases by 10 feet, it can jump twice as far as normal, and it has disadvantage on Strength checks and Strength saving throws. While the weight of a creature is doubled by this effect, the creature's speed is reduced by 10 feet, and it has advantage on Strength checks and Strength saving throws.</text>
+                <text>   Upon reaching 10th level in this class, you can target an object or a creature that is Huge or smaller.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Momentary Stasis (Chronurgy Magic)</name>
+                <text>   6th-level Chronurgy Magic feature</text>
+                <text>   As an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is incapacitated and has a speed of 0.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Gravity Well (Graviturgy Magic)</name>
+                <text>   6th-level Graviturgy Magic feature</text>
+                <text>   You've learned how to manipulate gravity around a living being: whenever you cast a spell on a creature, you can move the target 5 feet to an unoccupied space of your choice if the target is willing to move, the spell hits it with an attack, or it fails a saving throw against the spell.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Arcane Abeyance (Chronurgy Magic)</name>
+                <text>   10th-level Chronurgy Magic feature</text>
+                <text>   When you cast a spell using a spell slot of 4th level or lower, you can condense the spell's magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. This bead is a Tiny object with AC 15 and 1 hit point, and it is immune to poison and psychic damage. When the duration ends, or if the bead is destroyed, it vanishes in a flash of light, and the spell is lost.</text>
+                <text>   A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes.</text>
+                <text>   Once you create a bead with this feature, you can't do so again until you finish a short or long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="10">
+            <feature optional="YES">
+                <name>Violent Attraction (Graviturgy Magic)</name>
+                <text>   10th-level Graviturgy Magic feature</text>
+                <text>   When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack's velocity, causing the attack's target to take an extra 1d10 damage of the weapon's type.</text>
+                <text>   Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall's damage by 2d10.</text>
+                <text>   You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Convergent Future (Chronurgy Magic)</name>
+                <text>   14th-level Chronurgy Magic feature</text>
+                <text>   You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).</text>
+                <text>   When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Event Horizon (Graviturgy Magic)</name>
+                <text>   14th-level Graviturgy Magic feature</text>
+                <text>   As an action, you can magically emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your concentration ends (as if you were concentrating on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 force damage, and its speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.</text>
+                <text>   Once you use this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher on it.</text>
+                <text></text>
+                <text>Source: Explorer's Guide to Wildemount p. 0</text>
+            </feature>
+        </autolevel>
+    </class>
 
 
     <!-- Backgrounds -->
     <background>
         <name>Augen Trust (Spy)</name>
-        <proficiency></proficiency>
+        <proficiency>Deception, Stealth</proficiency>
         <trait>
             <name>Description</name>
+            <text>Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.</text>
             <text>Source: Explorer's Guide to Wildemount</text>
+        </trait>
+        <trait>
+            <name>Starting Proficiencies</name>
+            <text>Your background grants you the following proficiencies.</text>
+            <text></text>
+            <text>Skills: Deception, Stealth</text>
+            <text></text>
+            <text>Languages: none</text>
+            <text></text>
+            <text>Tools: one type of gaming set, thieves' tools</text>
+        </trait>
+        <trait>
+            <name>Criminal Contact</name>
+            <text>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.</text>
+            <text></text>
+            <text>Source: Player's Handbook, p. 130</text>
+        </trait>
+        <trait>
+            <name>Equipment</name>
+            <text>A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp</text>
+        </trait>
+        <trait>
+            <name>Personality Trait</name>
+            <text>Choose or randomly determine</text>
+            <text></text>
+            <text></text>
+            <text>1. I always have a plan for what to do when things go wrong. </text>
+            <text></text>
+            <text>2. I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. </text>
+            <text></text>
+            <text>3. The first thing I do in a new place is note the locations of everything valuable &#8212; or where such things could be hidden. </text>
+            <text></text>
+            <text>4. I would rather make a new friend than a new enemy. </text>
+            <text></text>
+            <text>5. I am incredibly slow to trust. Those who seem the fairest often have the most to hide. </text>
+            <text></text>
+            <text>6. I don't pay attention to the risks in a situation. Never tell me the odds. </text>
+            <text></text>
+            <text>7. The best way to get me to do something is to tell me I can't do it. </text>
+            <text></text>
+            <text>8. I blow up at the slightest insult.</text>
+        </trait>
+        <trait>
+            <name>Ideal</name>
+            <text>Choose or randomly determine</text>
+            <text></text>
+            <text></text>
+            <text>1. Honor: I don&apos;t steal from others in the trade. (Lawful). </text>
+            <text></text>
+            <text>2. Freedom: Chains are meant to be broken, as are those who would forge them. (Chaotic). </text>
+            <text></text>
+            <text>3. Charity: I steal from the wealthy so that I can help people in need. (Good). </text>
+            <text></text>
+            <text>4. Greed: I will do whatever it takes to become wealthy. (Evil). </text>
+            <text></text>
+            <text>5. People: I&apos;m loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral). </text>
+            <text></text>
+            <text>6. Redemption; There&apos;s a spark of good in everyone. (Good). </text>
+        </trait>
+        <trait>
+            <name>Bond</name>
+            <text>Choose or randomly determine</text>
+            <text></text>
+            <text></text>
+            <text>1. I&apos;m trying to pay off an old debt I owe to a generous benefactor. </text>
+            <text></text>
+            <text>2. My ill - gotten gains go to support my family. </text>
+            <text></text>
+            <text>3. Something important was taken from me, and I aim to steal it back. </text>
+            <text></text>
+            <text>4. I will become the greatest thief that ever lived. </text>
+            <text></text>
+            <text>5. I&apos;m guilty of a terrible crime. I hope I can redeem myself for it. </text>
+            <text></text>
+            <text>6. Someone I loved died because of a mistake I made.  That will never happen again.</text>
+        </trait>
+        <trait>
+            <name>Flaw</name>
+            <text>Choose or randomly determine</text>
+            <text></text>
+            <text></text>
+            <text>1. When I see something valuable, I can&apos;t think about anything but how to steal it. </text>
+            <text></text>
+            <text>2. When faced with a choice between money and my friends, I usually choose the money. </text>
+            <text></text>
+            <text>3. If there&apos;s a plan, I&apos;ll forget it. If I don&apos;t forget it, I&apos;ll ignore it. </text>
+            <text></text>
+            <text>4. I have a &quot;tell&quot; that reveals when I&apos;m lying. </text>
+            <text></text>
+            <text>5. I turn tail and run when things look bad. </text>
+            <text></text>
+            <text>6. An innocent person is in prison for a crime that I committed. I&apos;m okay with that. </text>
         </trait>
     </background>
     <background>
