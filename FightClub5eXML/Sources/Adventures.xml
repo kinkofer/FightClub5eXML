@@ -1651,6 +1651,23 @@
 		<text>Source: Out of the Abyss, p. 222</text>
 	</item>
 	<item>
+		<name>Pixie Dust</name>
+		<type>W</type>
+		<magic>1</magic>
+		<detail></detail>
+		<weight></weight>
+		<text>One pinch of the pixie dust can substitute for the material components of any enchantment spell of 3rd level or lower. The pixie dust has other magical effects as well. If a pinch of pixie dust is sprinkled on a creature, roll percentile dice and consult the Pixie Dust table to determine the effect.</text>
+		<text>     </text>
+		<text>    d100 &#8212; Effect: </text>
+		<text>    01-70 &#8212; The creature sprinkled with dust gains a flying speed of 60 feet for 10 minutes.</text>
+		<text>    71-80 &#8212; The creature sprinkled with dust must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. The creature awakens if it takes damage or if it is shaken or slapped as an action.</text>
+		<text>    81-90 &#8212; The creature sprinkled with dust must succeed on a DC 11 Wisdom saving throw or be affected by a confusion spell.</text>
+		<text>    91-00 &#8212; The creature sprinkled with dust becomes invisible for 1 hour. Any equipment it is wearing or carrying is invisible as long as it is on the creature's person. The effect on the creature ends if it attacks, deals any damage, or casts a spell.</text>
+		<text />
+		<text>Source: Storm King's Thunder, p. 35</text>
+		<roll>1d100</roll>
+	</item>
+	<item>
 		<name>Pressure Capsule</name>
 		<type>W</type>
 		<magic>1</magic>
