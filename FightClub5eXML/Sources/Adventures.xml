@@ -9662,6 +9662,102 @@
 		<slots></slots>
 	</monster>
 	<monster>
+		<name>Halaster Blackcloak</name>
+		<size>M</size>
+		<type>humanoid (human)</type>
+		<alignment>Chaotic Evil</alignment>
+		<ac>14 (17 with mage armor)</ac>
+		<hp>246 (29d8+116)</hp>
+		<speed>walk 30 ft.</speed>
+		<str>10</str>
+		<dex>18</dex>
+		<con>18</con>
+		<int>24</int>
+		<wis>18</wis>
+		<cha>18</cha>
+		<save>Int +14, Wis +11</save>
+		<skill>Arcana +21, History +21, Perception +11</skill>
+		<passive>21</passive>
+		<languages>Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon</languages>
+		<cr>23</cr>
+		<resist>fire; lightning (granted by the blast scepter, see "Special Equipment" below)</resist>
+		<immune></immune>
+		<vulnerable></vulnerable>
+		<conditionImmune></conditionImmune>
+		<senses>darkvision 120 ft.</senses>
+		<trait>
+			<name>Special Equipment</name>
+			<text>Halaster wears a robe of eyes that lets him see in all directions, gives him darkvision out to a range of 120 feet, grants advantage on Wisdom (Perception) checks that rely on sight, and allows him to see invisible creatures and objects, as well as into the Ethereal Plane, out to a range of 120 feet.</text>
+			<text>Halaster wields a blast scepter (a very rare magic item that requires attunement). It can be used as an arcane focus. Whoever is attuned to the blast scepter gains resistance to fire and lightning damage and can, as an action, use it to cast thunderwave as a 4th-level spell (save DC 16) without expending a spell slot.</text>
+			<text>Halaster also wears a horned ring (a very rare magic item that requires attunement), which allows an attuned wearer to ignore Undermountain's magical restrictions (see "Alterations to Magic").</text>
+		</trait>
+		<trait>
+			<name>Arcane Recovery (1/Day)</name>
+			<text>When he finishes a short rest, Halaster recovers all his spell slots of 5th level and lower.</text>
+		</trait>
+		<trait>
+			<name>Legendary Resistance (3/Day)</name>
+			<text>If Halaster fails a saving throw, he can choose to succeed instead.</text>
+		</trait>
+		<trait>
+			<name>Rejuvenation</name>
+			<text>If Halaster dies in Undermountain, he revives after 1d10 days, with all his hit points and any missing body parts restored. His new body appears in a random safe location in Undermountain.</text>
+		</trait>
+		<action>
+			<name>Blast Scepter</name>
+			<text>Halaster uses his blast scepter to cast thunderwave as a 4th-level spell. Each creature in a 15-foot cube originating from him must make a DC 16 Constitution saving throw. On a failed save, a creature takes 5d8 thunder damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn't pushed</text>
+		</action>
+		<legendary>
+			<text>Halaster can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Halaster regains spent legendary actions at the start of its turn.</text>
+		</legendary>
+		<legendary>
+			<name>Cast Spell</name>
+			<text>Halaster casts a spell of 3rd level or lower.</text>
+		</legendary>
+		<legendary>
+			<name>Spell Ward (Costs 2 Actions)</name>
+			<text>Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.</text>
+		</legendary>
+		<legendary>
+			<name>Lair Actions</name>
+			<text>On initiative count 20 (losing initiative ties), Halaster takes a lair action to cause one of the following effects:</text>
+			<text>• Halaster targets a volume of unoccupied space or solid stone no larger than four 10-foot cubes within 30 feet of him, turning the open space to solid, worked stone or vice versa.</text>
+			<text>• Halaster causes one door or archway within 30 feet of him to disappear and be replaced by a blank wall, or he restores a door or an archway previously removed in this way.</text>
+			<text>• Halaster deactivates or reactivates one of Undermountain's magic gates. The gate must be within 120 feet of him.</text>
+		</legendary>
+		<legendary>
+			<name>Regional Effects</name>
+			<text>When Halaster is in Undermountain, the following effects can occur in any location within the dungeon or in any extraplanar extension of the dungeon:</text>
+			<text>• A magical scrying sensor appears, taking the form of a ghostly, 1-foot-diameter humanoid eye surrounded by motes of light. The sensor is stationary, though Halaster can reorient the eye to face in any direction. Halaster can see through the eye as though he was in its space. The eye can't be harmed or dispelled, but it winks out within an antimagic field. A scrying eye lasts until Halaster ends the effect (no action required).</text>
+			<text>• A minor illusory effect is triggered, as though Halaster had cast minor illusion in an area. Common illusions include the echo of rattling chains, the distant sound of explosive spells being cast, a dusty cloak or a rusty helm floating as though worn by an invisible figure, and illusory footprints appearing on a dusty floor.</text>
+			<text>• Silent apparitions of dead adventurers drift through halls and rooms as though they are lost. An apparition can't be harmed, and it doesn't acknowledge creatures or objects in any way. It can't be dispelled but is suppressed within an antimagic field.</text>
+		</legendary>
+		<trait>
+			<name>Innate Spellcasting</name>
+			<text>Halaster's spellcasting ability is Intelligence (spell save DC 22). He can innately cast the following spells, requiring no material components:</text>
+			<text>At will: disguise self, invisibility</text>
+			<text>1/day: fly, lightning bolt</text>
+		</trait>
+		<trait>
+			<name>Spellcasting</name>
+			<text>Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast disguise self and invisibility at will. He can cast fly and lightning bolt once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:</text>
+			<text>Cantrips (at will): dancing lights, fire bolt, light, mage hand, prestidigitation</text>
+			<text>• 1st level (4 slots): mage armor, magic missile, shield, silent image</text>
+			<text>• 2nd level (3 slots): arcane lock, cloud of daggers, darkvision, knock</text>
+			<text>• 3rd level (3 slots): counterspell, dispel magic, fireball</text>
+			<text>• 4th level (3 slots): confusion, hallucinatory terrain, polymorph</text>
+			<text>• 5th level (3 slots): Bigby's hand, geas, wall of force</text>
+			<text>• 6th level (2 slots): chain lightning, globe of invulnerability, programmed illusion</text>
+			<text>• 7th level (2 slots): finger of death, symbol, teleport</text>
+			<text>• 8th level (1 slots): maze, mind blank</text>
+			<text>• 9th level (1 slots): meteor swarm, wish</text>
+		</trait>
+		<slots>4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
+		<spells>disguise self, invisibility, fly, lightning bolt, dancing lights, fire bolt, light, mage hand, prestidigitation, mage armor, magic missile, shield, silent image, arcane lock, cloud of daggers, darkvision, knock, counterspell, dispel magic, fireball, confusion, hallucinatory terrain, polymorph, Bigby's hand, geas, wall of force, chain lightning, globe of invulnerability, programmed illusion, finger of death, symbol, teleport, maze, mind blank, meteor swarm, wish</spells>
+		<description>Source: Waterdeep: Dungeon of the Mad Mage p. 310</description>
+		<environment></environment>
+	</monster>
+	<monster>
 		<name>Harpy Matriarch</name>
 		<size>M</size>
 		<type>monstrosity</type>
@@ -11468,6 +11564,41 @@
 		<slots></slots>
 	</monster>
 	<monster>
+		<name>Living Unseen Servant</name>
+		<size>M</size>
+		<type>construct</type>
+		<alignment>Unaligned</alignment>
+		<ac>10</ac>
+		<hp>4 (1d8)</hp>
+		<speed>walk 30 ft.</speed>
+		<str>2</str>
+		<dex>10</dex>
+		<con>11</con>
+		<int>1</int>
+		<wis>10</wis>
+		<cha>1</cha>
+		<save></save>
+		<skill>Perception +2, Stealth +4</skill>
+		<passive>12</passive>
+		<languages>understands one language (usually Common) but can't speak</languages>
+		<cr>0</cr>
+		<resist></resist>
+		<immune>poison</immune>
+		<vulnerable></vulnerable>
+		<conditionImmune>exhaustion, paralyzed, petrified, poisoned, unconscious</conditionImmune>
+		<senses>blindsight 60 ft. (blind beyond this radius)</senses>
+		<trait>
+			<name>Invisibility</name>
+			<text>The unseen servant is invisible.</text>
+		</trait>
+		<action>
+			<name>Slam</name>
+			<text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 1 bludgeoning damage.</text>
+		</action>
+		<description>Source: Waterdeep: Dungeon of the Mad Mage p. 313</description>
+		<environment></environment>
+	</monster>
+	<monster>
 		<name>Lizardfolk Commoner</name>
 		<size>M</size>
 		<type>humanoid (lizardfolk)</type>
@@ -12592,6 +12723,80 @@
 		</action>
 		<spells></spells>
 		<slots></slots>
+	</monster>
+	<monster>
+		<name>Muiral</name>
+		<size>L</size>
+		<type>monstrosity</type>
+		<alignment>Chaotic Evil</alignment>
+		<ac>16 (natural armor)</ac>
+		<hp>195 (23d10+69)</hp>
+		<speed>walk 50 ft.</speed>
+		<str>19</str>
+		<dex>11</dex>
+		<con>16</con>
+		<int>18</int>
+		<wis>13</wis>
+		<cha>18</cha>
+		<save>Con +8, Int +9</save>
+		<skill>Arcana +9, Athletics +9, Perception +6, Stealth +5</skill>
+		<passive>16</passive>
+		<languages>Common, Dwarvish, Elvish, Goblin, Undercommon</languages>
+		<cr>13</cr>
+		<resist></resist>
+		<immune></immune>
+		<vulnerable></vulnerable>
+		<conditionImmune></conditionImmune>
+		<senses>darkvision 120 ft.</senses>
+		<trait>
+			<name>Legendary Resistance (3/Day)</name>
+			<text>If Muiral fails a saving throw, he can choose to succeed instead.</text>
+		</trait>
+		<action>
+			<name>Multiattack</name>
+			<text>Muiral makes three attacks: two with his longsword and one with his sting.</text>
+		</action>
+		<action>
+			<name>Longsword</name>
+			<text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.</text>
+			<attack>Longsword|9|2d8+4</attack>
+		</action>
+		<action>
+			<name>Sting</name>
+			<text>Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.</text>
+			<attack>Sting|9|1d10+4</attack>
+		</action>
+		<legendary>
+			<text>Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Muiral regains spent legendary actions at the start of its turn.</text>
+		</legendary>
+		<legendary>
+			<name>Cast Cantrip</name>
+			<text>Muiral casts a cantrip.</text>
+		</legendary>
+		<legendary>
+			<name>Lunging Attack (Costs 2 Actions)</name>
+			<text>Muiral makes one longsword attack that has a reach of 10 feet.</text>
+		</legendary>
+		<legendary>
+			<name>Retreating Strike (Costs 3 Actions)</name>
+			<text>Muiral moves up to his speed without provoking opportunity attacks. Before the move, he can make one longsword attack.</text>
+		</legendary>
+		<trait>
+			<name>Spellcasting</name>
+			<text>Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:</text>
+			<text>Cantrips (at will): dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp</text>
+			<text>• 1st level (4 slots): expeditious retreat, fog cloud, magic missile, shield</text>
+			<text>• 2nd level (3 slots): darkness, knock, see invisibility, spider climb</text>
+			<text>• 3rd level (3 slots): animate dead, counterspell, lightning bolt</text>
+			<text>• 4th level (3 slots): greater invisibility, polymorph</text>
+			<text>• 5th level (2 slots): animate objects, wall of force</text>
+			<text>• 6th level (1 slots): create undead, flesh to stone</text>
+			<text>• 7th level (1 slots): finger of death</text>
+		</trait>
+		<slots>4, 3, 3, 3, 2, 1, 1</slots>
+		<spells>dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp, expeditious retreat, fog cloud, magic missile, shield, darkness, knock, see invisibility, spider climb, animate dead, counterspell, lightning bolt, greater invisibility, polymorph, animate objects, wall of force, create undead, flesh to stone, finger of death</spells>
+		<description>Source: Waterdeep: Dungeon of the Mad Mage p. 314</description>
+		<environment></environment>
 	</monster>
 	<monster>
 		<name>Mwaxanar&#233;</name>
@@ -15346,6 +15551,54 @@
 		</legendary>
 		<spells></spells>
 		<slots></slots>
+	</monster>
+	<monster>
+		<name>Shadow Assassin</name>
+		<size>M</size>
+		<type>undead</type>
+		<alignment>Chaotic Evil</alignment>
+		<ac>14</ac>
+		<hp>78 (12d8+24)</hp>
+		<speed>walk 40 ft.</speed>
+		<str>6</str>
+		<dex>19</dex>
+		<con>14</con>
+		<int>13</int>
+		<wis>12</wis>
+		<cha>14</cha>
+		<save>Dex +8, Int +5</save>
+		<skill>Perception +9, Stealth +12</skill>
+		<passive>19</passive>
+		<languages>understands the languages it knew in life but can't speak</languages>
+		<cr>9</cr>
+		<resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+		<immune>necrotic, poison</immune>
+		<vulnerable>radiant</vulnerable>
+		<conditionImmune>exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
+		<senses>darkvision 60 ft.</senses>
+		<trait>
+			<name>Amorphous</name>
+			<text>The assassin can move through a space as narrow as 1 inch wide without squeezing.</text>
+		</trait>
+		<trait>
+			<name>Shadow Stealth</name>
+			<text>While in dim light or darkness, the assassin can take the Hide action as a bonus action.</text>
+		</trait>
+		<trait>
+			<name>Sunlight Weakness</name>
+			<text>While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws.</text>
+		</trait>
+		<action>
+			<name>Multiattack</name>
+			<text>The assassin makes two Shadow Blade attacks.</text>
+		</action>
+		<action>
+			<name>Shadow Blade</name>
+			<text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target's Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a shadow (see the Monster Manual) rises from the corpse 1d4 hours later.</text>
+			<attack>Shadow Blade|8|1d6+4</attack>
+		</action>
+		<description>Source: Waterdeep: Dungeon of the Mad Mage p. 316</description>
+		<environment></environment>
 	</monster>
 	<monster>
 		<name>Shaldoor</name>
