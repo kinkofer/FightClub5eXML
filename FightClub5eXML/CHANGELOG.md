@@ -1,5 +1,13 @@
 ## CHANGE LOG
 
+### 2020-04-06
+
+Added Spells from UA Spells and Magic Tattoos
+
+Added missing monsters from WDotMM
+
+Removed duplicate Centaurs and Minotaurs from Unearthed Arcana
+
 ### 2020-03-26
 
 Added Explorer's Guide to Wildemount as a supplement source.

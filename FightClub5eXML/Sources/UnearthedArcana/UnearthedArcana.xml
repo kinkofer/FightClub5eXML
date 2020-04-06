@@ -217,53 +217,6 @@
 	</trait>
 </race>
 <race>
-	<name>Centaur</name>
-	<size>M</size>
-	<speed>40</speed>
-	<ability>Str 2, Wis 1</ability>
-	<spellAbility></spellAbility>
-	<proficiency>Survival</proficiency>
-	<trait>
-		<name>Charge</name>
-		<text>If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon&#8217;s damage dice twice and add them together. Once you use this ability, you can&#8217;t use it again until you finish a short or long rest.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 1</text>
-	</trait>
-	<trait>
-		<name>Hooves</name>
-		<text>Your hooves are natural melee weapons, with which you&#8217;re proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Equine Build</name>
-		<text>You count as one size larger when determining your carrying capacity and the weight you can push or drag.</text>
-		<text>	In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.</text>
-		<text>	Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-				<special>powerful build</special>
-	</trait>
-	<trait>
-		<name>Survivor</name>
-		<text>You have proficiency in the Survival skill.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Hybrid Nature</name>
-		<text>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Languages</name>
-		<text>You can speak, read, and write Common and Sylvan.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-</race>
-<race>
 	<name>Dragonborn Revenant (Black)</name>
 	<size>M</size>
 	<speed>30</speed>
@@ -1106,50 +1059,6 @@
 		<text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing heavy armor. This replaces the Infernal Legacy trait.</text>
 		<text> </text>
 		<text>Source: Sword Coast Adventurer's Guide, p. 118</text>
-	</trait>
-</race>
-<race>
-	<name>Minotaur</name>
-	<size>M</size>
-	<speed>30</speed>
-	<ability>Str 2, Con 1</ability>
-	<spellAbility></spellAbility>
-	<proficiency>Intimidation</proficiency>
-	<trait>
-		<name>Horns</name>
-		<text>Your horns are natural melee weapons, with which you&#8217;re proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Goring Rush</name>
-		<text>Immediately after you use the Dash action on your turn and move at least as far as your speed, you can make one melee attack with your horns as a bonus action.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Hammering Horns</name>
-		<text>Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to shove that creature with your horns using your reaction. The creature must be no more than one size larger than you and within 5 feet of you. It must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier. If it fails, you push it up to 5 feet away from you.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Menacing</name>
-		<text>You have proficiency in the Intimidation skill.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Hybrid Nature</name>
-		<text>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
-	</trait>
-	<trait>
-		<name>Languages</name>
-		<text>You can speak, read, and write Common and Minotaur.</text>
-		<text> </text>
-		<text>Source: Unearthed Arcana: Centaurs and Minotaurs, p. 2</text>
 	</trait>
 </race>
 <race>
