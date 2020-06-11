@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2020-06-06
+
+Added Mythic Odysseys of Theros as a supplement source.
+
 ### 2020-04-06
 
 Added Spells from UA Spells and Magic Tattoos
