@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <class>
         <name>Bard</name>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Bard College: College of Eloquence (UA)</name>
@@ -13,7 +13,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <text>Universal Speech (College of Eloquence (UA))</text>
+                <name>Universal Speech (College of Eloquence (UA))</name>
                 <text>3rd-level College of Eloquence feature</text>
                 <text>   You have gained the ability to speak and reason with any creature. As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, roll your Bardic Inspiration die, and choose a number of creatures within 60 feet of you that you can see equal to the roll. For 10 minutes, the chosen creatures can magically understand you, regardless of the language you speak, and you have advantage on Charisma checks made to influence them. This feature works even on a creature that doesn't speak any languages.</text>
                 <text />
@@ -22,7 +22,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <text>Soothing Words (College of Eloquence (UA))</text>
+                <name>Soothing Words (College of Eloquence (UA))</name>
                 <text>3rd-level College of Eloquence feature</text>
                 <text>   You can now cast calm emotions without expending a spell slot. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses of this feature when you finish a long rest.</text>
                 <text />
@@ -54,7 +54,7 @@
     </class>
     <class>
         <name>Paladin</name>
-        
+
         <autolevel level="3">
             <feature optional="YES">
                 <name>Sacred Oath: Oath of Heroism (UA)</name>
@@ -110,7 +110,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <text>Channel Divinity: Legendary Strike (Oath of Heroism (UA))</text>
+                <name>Channel Divinity: Legendary Strike (Oath of Heroism (UA))</name>
                 <text>You can use your Channel Divinity as a bonus action to guide your attacks: for 1 minute, your weapon attacks score a critical hit on a roll of 19 or 20 on the d20.</text>
                 <text />
                 <text>Source: Unearthed Arcana: Bard And Paladin</text>
