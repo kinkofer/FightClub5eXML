@@ -1,9 +1,12 @@
+## From Google? Go here http://bit.ly/NewFCXml to download the compiled files.
+
 # Fight Club 5e XML
 
 Creating XML files of all official D&D sources compatible with Fight Club 5e and Game Master 5e apps for iOS and Android.
 
 
 ## Usage
+
 
 Final XML files are released on a shared Dropbox. If you're here to import the files into your app, instructions are in the Dropbox.
 
