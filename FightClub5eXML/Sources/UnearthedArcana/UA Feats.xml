@@ -1,0 +1,632 @@
+﻿<?xml version="1.0"?>
+<compendium xmlns:exsl="http://exslt.org/common" version="5" auto_indent="NO">
+<feat><name>Dragon Wings</name><prerequisite>Dragonborn</prerequisite><text>You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren’t wearing heavy armor and aren’t exceeding your carrying capacity.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 2</text></feat><feat><name>Historian</name><proficiency>History</proficiency><text>Your study of history rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat><feat><name>Alchemist</name><text>You have studied the secrets of alchemy and are an expert in its practice, gaining the following benefits:
+	
+• Increase your Intelligence score by 1, to a maximum of 20.
+	
+• You gain proficiency with alchemist’s supplies. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+	
+• As an action, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.
+	
+• Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have alchemist’s supplies with you, and the potion must be within reach. If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of hit points that the potion can restore.
+ 
+Source: Unearthed Arcana: Feats, p. 4</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Silver-Tongued</name><proficiency>Deception</proficiency><text>You develop your conversational skill to better deceive others. You gain the following benefits: 
+	 
+
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+
+	 
+• You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+
+	 
+• When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Human Determination (Wisdom)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Barbed Hide (Constitution) (Proficient)</name><prerequisite>Tiefling</prerequisite><text>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits: 
+	 
+• Increase your Constitution or Charisma score by 1, up to a maximum of 20. 
+	 
+• As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you. 
+	 
+• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text><modifier category="Ability Score">Constitution Score +1</modifier><modifier category="Skill">Intimidation + Proficiency Bonus</modifier></feat>
+<feat><name>Survivalist (Proficient)</name><text>You master wilderness lore, gaining the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Wisdom Score +1</modifier><modifier category="Skill">Survival + Proficiency Bonus</modifier></feat>
+<feat><name>Everybody&#39;s Friend</name><prerequisite>Half-Elf</prerequisite><proficiency>Deception, Persuasion</proficiency><text>You develop your magnetic personality to ease your way through the world. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, up to a maximum of 20. 
+	 
+• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Naturalist (Proficient)</name><text>Your extensive study of nature rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Intelligence Score +1</modifier><modifier category="Skill">Nature + Proficiency Bonus</modifier></feat>
+<feat><name>Diplomat</name><proficiency>Persuasion</proficiency><text>You master the arts of diplomacy, gaining the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Persuasion skill. If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Grudge-Bearer (Constitution)</name><prerequisite>Dwarf</prerequisite><text>You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits: 
+	 
+• Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20. 
+	 
+• During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage. 
+	 
+• When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage. 
+	 
+• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Constitution Score +1</modifier></feat>
+<feat><name>Acrobat</name><proficiency>Acrobatics</proficiency><text>You become more nimble, gaining the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Performer (Proficient)</name><text>You master performance so that you can command any stage. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Performance + Proficiency Bonus</modifier></feat>
+<feat><name>Human Determination (Dexterity)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Arcanist (Proficient)</name><text>You study the arcane arts, gaining the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Intelligence Score +1</modifier><modifier category="Skill">Arcana + Proficiency Bonus</modifier></feat>
+<feat><name>Theologian (Proficient)</name><text>Your extensive study of religion rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Intelligence Score +1</modifier><modifier category="Skill">Religion + Proficiency Bonus</modifier></feat>
+<feat><name>Medic</name><proficiency>Medicine</proficiency><text>You master the physician’s arts, gaining the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Brawny (Proficient)</name><text>You become stronger, gaining the following benefits: 
+	 
+• Increase your Strength score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You count as if you were one size larger for the purpose of determining your carrying capacity.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Strength Score +1</modifier><modifier category="Skill">Athletics + Proficiency Bonus</modifier></feat>
+<feat><name>Fell Handed</name><text>You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:
+	
+• You gain a +1 bonus to attack rolls you make with the weapon.
+	
+• Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can knock the target prone if the lower of the two d20 rolls would also hit the target.
+	
+• Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.
+	
+• If you use the Help action to aid an ally’s melee attack while you’re wielding the weapon, you knock the target’s shield aside momentarily. In addition to the ally gaining advantage on the attack roll, the ally gains a +2 bonus to the roll if the target is using a shield.
+	 
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+	
+• The creature has disadvantage on attack rolls.
+	
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+ 
+Source: Unearthed Arcana: Feats, p. 2</text></feat>
+<feat><name>Perceptive</name><proficiency>Perception</proficiency><text>You hone your senses until they become razor sharp. You gain the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Human Determination (Constitution)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Constitution Score +1</modifier></feat>
+<feat><name>Animal Handler (Proficient)</name><text>You master the techniques needed to train and handle animals. You gain the following benefits. 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Wisdom Score +1</modifier><modifier category="Skill">Animal Handling + Proficiency Bonus</modifier></feat>
+<feat><name>Magic Initiate (Wizard)</name><text>You learn two wizard cantrips of your choice.
+    In addition, choose one 1st-level wizard spell to learn. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
+    Your spellcasting ability for these spells is Intelligence.
+ 
+Source: Player&#39;s Handbook, p. 168</text></feat>
+<feat><name>Silver-Tongued (Proficient)</name><text>You develop your conversational skill to better deceive others. You gain the following benefits: 
+	 
+
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+
+	 
+• You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+
+	 
+• When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Deception + Proficiency Bonus</modifier></feat>
+<feat><name>Investigator</name><proficiency>Investigation</proficiency><text>You have an eye for detail and can pick out the smallest clues. You gain the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can take the Search action as a bonus action.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Blade Mastery</name><text>You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain the following benefits when using any of them:
+	
+• You gain a +1 bonus to attack rolls you make with the weapon.
+	
+• On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants you a +1 bonus to your AC until the start of your next turn or until you’re not holding the weapon.
+	
+• When you make an opportunity attack with the weapon, you have advantage on the attack roll.
+ 
+Source: Unearthed Arcana: Feats, p. 2</text></feat>
+<feat><name>Theologian</name><proficiency>Religion</proficiency><text>Your extensive study of religion rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Everybody&#39;s Friend (Proficient in Both)</name><prerequisite>Half-Elf</prerequisite><text>You develop your magnetic personality to ease your way through the world. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, up to a maximum of 20. 
+	 
+• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Deception + Proficiency Bonus</modifier><modifier category="Skill">Persuasion + Proficiency Bonus</modifier></feat>
+<feat><name>Menacing (Proficient)</name><text>You become fearsome to others, gaining the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Intimidation + Proficiency Bonus</modifier></feat>
+<feat><name>Grudge-Bearer (Strength)</name><prerequisite>Dwarf</prerequisite><text>You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits: 
+	 
+• Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20. 
+	 
+• During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage. 
+	 
+• When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage. 
+	 
+• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Strength Score +1</modifier></feat>
+<feat><name>Animal Handler</name><proficiency>Animal Handling</proficiency><text>You master the techniques needed to train and handle animals. You gain the following benefits. 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Quick-Fingered</name><proficiency>Sleight of Hand</proficiency><text>Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Human Determination (Intelligence)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Barbed Hide (Charisma)</name><prerequisite>Tiefling</prerequisite><proficiency>Intimidation</proficiency><text>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits: 
+	 
+• Increase your Constitution or Charisma score by 1, up to a maximum of 20. 
+	 
+• As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you. 
+	 
+• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Stealthy (Proficient)</name><text>You know how best to hide. You gain the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Dexterity Score +1</modifier><modifier category="Skill">Stealth + Proficiency Bonus</modifier></feat>
+<feat><name>Empathic</name><proficiency>Insight</proficiency><text>You possess keen insight into how other people think and feel. You gain the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Medic (Proficient)</name><text>You master the physician’s arts, gaining the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Wisdom Score +1</modifier><modifier category="Skill">Medicine + Proficiency Bonus</modifier></feat>
+<feat><name>Burglar</name><text>You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
+	
+• Increase your Dexterity score by 1, to a maximum of 20.
+	
+• You gain proficiency with thieves’ tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+ 
+Source: Unearthed Arcana: Feats, p. 4</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Gourmand</name><text>You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
+	
+• Increase your Constitution score by 1, to a maximum of 20.
+	
+• You gain proficiency with cook’s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+	
+• As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+	
+• During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
+ 
+Source: Unearthed Arcana: Feats, p. 4</text><modifier category="Ability Score">Constitution Score +1</modifier></feat>
+<feat><name>Perceptive (Proficient)</name><text>You hone your senses until they become razor sharp. You gain the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Wisdom Score +1</modifier><modifier category="Skill">Perception + Proficiency Bonus</modifier></feat>
+<feat><name>Historian (Proficient)</name><text>Your study of history rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Intelligence Score +1</modifier><modifier category="Skill">History + Proficiency Bonus</modifier></feat>
+<feat><name>Arcanist</name><proficiency>Arcana</proficiency><text>You study the arcane arts, gaining the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Spear Mastery</name><text>Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits.
+	
+• You gain a +1 bonus to attack rolls you make with a spear.
+	
+• When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
+	
+• You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creatures moves within your spear’s reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can’t use this ability if the creature used the Disengage action before moving.
+	
+• As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
+ 
+Source: Unearthed Arcana: Feats, p. 3</text></feat>
+<feat><name>Investigator (Proficient)</name><text>You have an eye for detail and can pick out the smallest clues. You gain the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can take the Search action as a bonus action.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Intelligence Score +1</modifier><modifier category="Skill">Investigation + Proficiency Bonus</modifier></feat>
+<feat><name>Critter Friend</name><prerequisite>Gnome (forest)</prerequisite><proficiency>Animal Handling</proficiency><text>Your friendship with animals mystically deepens. You gain the following benefits: 
+	 
+• You gain proficiency in the Animal Handling skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it. 
+	 
+• You learn the speak with animals spell and can cast it at will, without expending a spell slot. You also learn the animal friendship spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text></feat>
+<feat><name>Wonder Maker (Dexterity)</name><prerequisite>Gnome (rock)</prerequisite><text>You master the tinker techniques of your people. You gain the following benefits: 
+	 
+• Increase your Dexterity or Intelligence score by 1, to a maximum of 20. 
+	 
+• When you make a check using your proficiency with tinker’s tools, you add double your proficiency bonus to the check. 
+	 
+• When you make a device with your Tinker trait, you have the following additional options for what you make: 
+	 
+Alarm: This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away. 
+	 
+Calculator: This device makes doing sums easy. 
+	 
+Lifter: This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift. 
+	 
+Timekeeper: This pocket watch keeps accurate time. 
+	 
+Weather Sensor: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 4</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Everybody&#39;s Friend (Proficient in Deception)</name><prerequisite>Half-Elf</prerequisite><proficiency>Persuasion</proficiency><text>You develop your magnetic personality to ease your way through the world. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, up to a maximum of 20. 
+	 
+• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Deception + Proficiency Bonus</modifier></feat>
+<feat><name>Naturalist</name><proficiency>Nature</proficiency><text>Your extensive study of nature rewards you with the following benefits: 
+	 
+• Increase your Intelligence score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Diplomat (Proficient)</name><text>You master the arts of diplomacy, gaining the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Persuasion skill. If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Persuasion + Proficiency Bonus</modifier></feat>
+<feat><name>Grudge-Bearer (Wisdom)</name><prerequisite>Dwarf</prerequisite><text>You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits: 
+	 
+• Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20. 
+	 
+• During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage. 
+	 
+• When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage. 
+	 
+• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Acrobat (Proficient)</name><text>You become more nimble, gaining the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Dexterity Score +1</modifier><modifier category="Skill">Acrobatics + Proficiency Bonus</modifier></feat>
+<feat><name>Quick-Fingered (Proficient)</name><text>Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Dexterity Score +1</modifier><modifier category="Skill">Sleight of Hand + Proficiency Bonus</modifier></feat>
+<feat><name>Human Determination (Strength)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Strength Score +1</modifier></feat>
+<feat><name>Barbed Hide (Constitution)</name><prerequisite>Tiefling</prerequisite><proficiency>Intimidation</proficiency><text>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits: 
+	 
+• Increase your Constitution or Charisma score by 1, up to a maximum of 20. 
+	 
+• As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you. 
+	 
+• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text><modifier category="Ability Score">Constitution Score +1</modifier></feat>
+<feat><name>Survivalist</name><proficiency>Survival</proficiency><text>You master wilderness lore, gaining the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Wisdom Score +1</modifier></feat>
+<feat><name>Empathic (Proficient)</name><text>You possess keen insight into how other people think and feel. You gain the following benefits: 
+	 
+• Increase your Wisdom score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Wisdom Score +1</modifier><modifier category="Skill">Insight + Proficiency Bonus</modifier></feat>
+<feat><name>Menacing</name><proficiency>Intimidation</proficiency><text>You become fearsome to others, gaining the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Critter Friend (Proficient)</name><prerequisite>Gnome (forest)</prerequisite><text>Your friendship with animals mystically deepens. You gain the following benefits: 
+	 
+• You gain proficiency in the Animal Handling skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it. 
+	 
+• You learn the speak with animals spell and can cast it at will, without expending a spell slot. You also learn the animal friendship spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text><modifier category="Skill">Animal Handling + Proficiency Bonus</modifier></feat>
+<feat><name>Flail Mastery</name><text>The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits.
+	
+• You gain a +1 bonus to attack rolls you make with a flail.
+	
+• As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets’ shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
+	
+• When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
+	 
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+	
+• The creature has disadvantage on attack rolls.
+	
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+ 
+Source: Unearthed Arcana: Feats, p. 3</text></feat>
+<feat><name>Performer</name><proficiency>Performance</proficiency><text>You master performance so that you can command any stage. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 3</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Human Determination (Charisma)</name><prerequisite>Human</prerequisite><text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits: 
+	 
+• Increase one ability score of your choice by 1, to a maximum of 20. 
+	 
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Barbed Hide (Charisma) (Proficient)</name><prerequisite>Tiefling</prerequisite><text>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits: 
+	 
+• Increase your Constitution or Charisma score by 1, up to a maximum of 20. 
+	 
+• As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you. 
+	 
+• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 1</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Intimidation + Proficiency Bonus</modifier></feat>
+<feat><name>Stealthy</name><proficiency>Stealth</proficiency><text>You know how best to hide. You gain the following benefits: 
+	 
+• Increase your Dexterity score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 4</text><modifier category="Ability Score">Dexterity Score +1</modifier></feat>
+<feat><name>Master of Disguise</name><text>You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:
+	
+• Increase your Charisma score by 1, to a maximum of 20.
+	
+• You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
+	
+• If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.
+ 
+Source: Unearthed Arcana: Feats, p. 4</text><modifier category="Ability Score">Charisma Score +1</modifier></feat>
+<feat><name>Brawny</name><proficiency>Athletics</proficiency><text>You become stronger, gaining the following benefits: 
+	 
+• Increase your Strength score by 1, to a maximum of 20. 
+	 
+• You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
+	 
+• You count as if you were one size larger for the purpose of determining your carrying capacity.
+ 
+Source: Unearthed Arcana: Feats for Skills, p. 1</text><modifier category="Ability Score">Strength Score +1</modifier></feat>
+<feat><name>Wonder Maker (Intelligence)</name><prerequisite>Gnome (rock)</prerequisite><text>You master the tinker techniques of your people. You gain the following benefits: 
+	 
+• Increase your Dexterity or Intelligence score by 1, to a maximum of 20. 
+	 
+• When you make a check using your proficiency with tinker’s tools, you add double your proficiency bonus to the check. 
+	 
+• When you make a device with your Tinker trait, you have the following additional options for what you make: 
+	 
+Alarm: This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away. 
+	 
+Calculator: This device makes doing sums easy. 
+	 
+Lifter: This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift. 
+	 
+Timekeeper: This pocket watch keeps accurate time. 
+	 
+Weather Sensor: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 4</text><modifier category="Ability Score">Intelligence Score +1</modifier></feat>
+<feat><name>Everybody&#39;s Friend (Proficient in Persuasion)</name><prerequisite>Half-Elf</prerequisite><proficiency>Persuasion</proficiency><text>You develop your magnetic personality to ease your way through the world. You gain the following benefits: 
+	 
+• Increase your Charisma score by 1, up to a maximum of 20. 
+	 
+• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 2</text><modifier category="Ability Score">Charisma Score +1</modifier><modifier category="Skill">Persuasion + Proficiency Bonus</modifier></feat>
+<feat><name>Orcish Aggression</name><prerequisite>Half-Orc</prerequisite><text>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+ 
+Source: Unearthed Arcana: Feats for Races, p. 3</text></feat>
+
+</compendium>
