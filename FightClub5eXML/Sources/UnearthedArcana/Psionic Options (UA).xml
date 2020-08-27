@@ -137,7 +137,7 @@
 		<autolevel level="6">
 			<feature optional="YES">
 				<name>Psychic Strike (Psionic Soul (UA))</name>
-				<textAt 6th-level, you have learned to channel additional psychic energy into your spells. Immediately after you deal damage to a creature with a sorcerer spell for which you expend a spell slot, you can roll your Psionic Talent die and also deal psychic damage to that creature equal to the number rolled. You can deal this extra damage only once per turn.</text>
+				<text>At 6th-level, you have learned to channel additional psychic energy into your spells. Immediately after you deal damage to a creature with a sorcerer spell for which you expend a spell slot, you can roll your Psionic Talent die and also deal psychic damage to that creature equal to the number rolled. You can deal this extra damage only once per turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Psionic Options, p. 6</text>
 			</feature>
@@ -397,7 +397,6 @@
 
    <feat>
         <name>Wild Talent</name>
-	</prerequisite>
         <text>You awaken to your psionic potential, which enhances your mind or body. Increase one ability score of your choice by 1, to a maximum of 20, to represent this enhancement. </text>
 	<text>	You also harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6. </text>
 	<text>	 Psionic Talent Options. You can use your Psionic Talent die in the following ways: </text>
@@ -409,7 +408,7 @@
         <text>	Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6. </text>
         <text>	Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). </text>
 	<text>	If you have a Psionic Talent die from another source, such as a class feature, you don’t get more than one die; use only the one with the largest starting size. </text>
-	<text>	 Psi Replenishment. As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.
+	<text>	 Psi Replenishment. As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.</text>
         <text>    </text>
 	<text>Source: Unearthed Arcana: Psionic Options, p. 9</text>
    </feat>
