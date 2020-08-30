@@ -1552,7 +1552,7 @@
         <name>Orc (Eberron)</name>
         <size>M</size>
         <speed>30</speed>
-        <ability>Str 2, Con 1, Int -2, Str 2, Con 1</ability>
+        <ability>Str 2, Con 1</ability>
         <proficiency></proficiency>
         <spellAbility></spellAbility>
         <trait>
@@ -3298,7 +3298,7 @@
         <text/>
         <text>Requirements: A simple or martial weapon with the ammunition property (requires attunement)</text>
         <text/>
-    </spell> 
+    </spell>
     <spell>
         <name>Infusion: Replicate Magic Item</name>
         <level>0</level>
