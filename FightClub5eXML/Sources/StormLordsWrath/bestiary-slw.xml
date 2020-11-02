@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Expert</name>
+    <size>M</size>
+    <type>humanoid</type>
+    <alignment>Any alignment</alignment>
+    <ac>15 (studded leather armor)</ac>
+    <hp>44 (8d8+8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>16</dex>
+    <con>12</con>
+    <int>14</int>
+    <wis>10</wis>
+    <cha>14</cha>
+    <save>Dex +6</save>
+    <skill>Acrobatics +9, Performance +5, Persuasion +5, Sleight of hand +6, Stealth +9</skill>
+    <passive>10</passive>
+    <languages>Common, plus one of your choice</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Helpful</name>
+      <text>The expert can take the Help action as a bonus action, and the creature who receives the help gains a 1d6 bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.</text>
+      </trait>
+    <trait>
+        <name>Tools</name>
+      <text>The expert has thieves' tools and a musical instrument.</text>
+      </trait>
+    <action>
+        <name>Extra Attack</name>
+      <text>The expert can attack twice, instead of once, whenever it takes the Attack action on its turn.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+6|1d6+3</attack>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <attack>Dagger|+6|1d4+3</attack>
+      </action>
+    <action>
+        <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortbow|+6|1d6+3</attack>
+      </action>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Skull Flier</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>24 (3d8)</hp>
+    <speed>walk 10 ft., fly 50 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Sting</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
+      <attack>Sting|+4|1d6+2</attack>
+      <attack>Sting||3d6</attack>
+      </action>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Spellcaster (Healer)</name>
+    <size>M</size>
+    <type>humanoid</type>
+    <alignment>Any alignment</alignment>
+    <ac>13 (studded leather armor)</ac>
+    <hp>36 (8d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>12</dex>
+    <con>10</con>
+    <int>15</int>
+    <wis>16</wis>
+    <cha>13</cha>
+    <save>Wis +6</save>
+    <skill>Arcana +5, Investigation +5, Religion +5</skill>
+    <passive>13</passive>
+    <languages>Common, plus one of your choice</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Potent Cantrip</name>
+      <text>The spellcaster can add its spellcasting ability modifier to the damage it deals with any cantrip.</text>
+      </trait>
+    <action>
+        <name>Quarterstaff</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.</text>
+      <attack>Quarterstaff|+3|1d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting (Healer)</name>
+      <text>The spellcaster's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The spellcaster has following cleric spells prepared:</text>
+      <text>Cantrips (at will): guidance, light, resistance, sacred flame</text>
+      <text>• 1st level (4 slots): bless, cure wounds, shield of faith</text>
+      <text>• 2nd level (3 slots): aid, lesser restoration</text>
+      <text>• 3rd level (3 slots): protection from energy, revivify</text>
+      <text>• 4th level (1 slots): death ward</text>
+      </trait>
+    <slots>4, 3, 3, 1</slots>
+    <spells>guidance, light, resistance, sacred flame, bless, cure wounds, shield of faith, aid, lesser restoration, protection from energy, revivify, death ward</spells>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Spellcaster (Mage)</name>
+    <size>M</size>
+    <type>humanoid</type>
+    <alignment>Any alignment</alignment>
+    <ac>13 (studded leather armor)</ac>
+    <hp>36 (8d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>12</dex>
+    <con>10</con>
+    <int>16</int>
+    <wis>14</wis>
+    <cha>13</cha>
+    <save>Wis +5</save>
+    <skill>Arcana +6, Investigation +6, Religion +6</skill>
+    <passive>12</passive>
+    <languages>Common, plus one of your choice</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Potent Cantrip</name>
+      <text>The spellcaster can add its spellcasting ability modifier to the damage it deals with any cantrip.</text>
+      </trait>
+    <action>
+        <name>Quarterstaff</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.</text>
+      <attack>Quarterstaff|+3|1d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting (Mage)</name>
+      <text>The spellcaster's spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The spellcaster has following wizard spells prepared:</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, minor illusion</text>
+      <text>• 1st level (4 slots): burning hands, shield, sleep</text>
+      <text>• 2nd level (3 slots): flaming sphere, invisibility</text>
+      <text>• 3rd level (3 slots): fireball, fly</text>
+      <text>• 4th level (1 slots): wall of fire</text>
+      </trait>
+    <slots>4, 3, 3, 1</slots>
+    <spells>fire bolt, light, mage hand, minor illusion, burning hands, shield, sleep, flaming sphere, invisibility, fireball, fly, wall of fire</spells>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Statue of Talos</name>
+    <size>L</size>
+    <type>elemental</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>147 (14d10+70)</hp>
+    <speed>walk 30 ft., fly 60 ft.</speed>
+    <str>19</str>
+    <dex>11</dex>
+    <con>20</con>
+    <int>6</int>
+    <wis>11</wis>
+    <cha>9</cha>
+    <save>Wis +4</save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>Terran</languages>
+    <cr>10</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the statue remains motionless, it is indistinguishable from an inanimate statue.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The statue makes five attacks: one with its headbutt and four with its lightning bolt blades.</text>
+      </action>
+    <action>
+        <name>Headbutt</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Headbutt|+8|2d6+4</attack>
+      </action>
+    <action>
+        <name>Lightning Bolt Blades</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (2d4 + 4) slashing damage.</text>
+      <attack>Lightning Bolt Blades|+8|2d4+4</attack>
+      </action>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Tooth-N-Claw</name>
+    <size>M</size>
+    <type>fiend</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>45 (7d8+14)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>17</str>
+    <dex>12</dex>
+    <con>14</con>
+    <int>6</int>
+    <wis>13</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +5</skill>
+    <passive>15</passive>
+    <languages>understands Infernal but can't speak it</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Hearing and Smell</name>
+      <text>Tooth-N-Claw has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>Tooth-N-Claw has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage plus 7 (2d6) cold damage.</text>
+      <attack>Bite|+5|1d8+3</attack>
+      </action>
+    <action>
+        <name>Freezing Breath (Recharge 5-6)</name>
+      <text>Tooth-N-Claw exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Freezing Breath (Recharge 5-6)||6d6</attack>
+      </action>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Warrior</name>
+    <size>M</size>
+    <type>humanoid</type>
+    <alignment>Any alignment</alignment>
+    <ac>20 (plate armor, shield)</ac>
+    <hp>52 (8d8+16)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>10</cha>
+    <save>Con +5</save>
+    <skill>Athletics +6, Perception +4, Survival +4</skill>
+    <passive>14</passive>
+    <languages>Common, plus one of your choice</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Battle Readiness</name>
+      <text>The warrior has advantage on initiative rolls.</text>
+      </trait>
+    <trait>
+        <name>Improved Critical</name>
+      <text>The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20.</text>
+      </trait>
+    <trait>
+        <name>Martial Role</name>
+      <text>The warrior has one of the following traits of your choice:</text>
+      <text>• Attacker: The warrior gains a +2 bonus to attack rolls.</text>
+      <text>• Defender: The warrior gains the Protection reaction below.</text>
+      </trait>
+    <action>
+        <name>Extra Attack</name>
+      <text>The warrior can attack twice, instead of once, whenever it takes the Attack action on its turn.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
+      <attack>Longsword|+6|1d8+3</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <attack>Longbow|+5|1d8+2</attack>
+      </action>
+    <reaction>
+        <name>Protection (Defender Only)</name>
+      <text>The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker.</text>
+      </reaction>
+    <description>
+Source: Essentials Kit: Storm Lord's Wrath</description>
+    <environment></environment>
+    </monster>
+  </compendium>

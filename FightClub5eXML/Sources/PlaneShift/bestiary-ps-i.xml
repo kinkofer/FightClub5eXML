@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Creepy Doll</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>12</ac>
+    <hp>21 (6d4+6)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>6</str>
+    <dex>14</dex>
+    <con>13</con>
+    <int>12</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Stealth +4</skill>
+    <passive>10</passive>
+    <languages>speaks and understands the languages known by its creator</languages>
+    <cr>2</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the creepy doll remains motionless, it is indistinguishable from an ordinary, inanimate doll.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The creepy doll makes one attack with its scissors and uses Psychic Assault.</text>
+      </action>
+    <action>
+        <name>Scissors</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) slashing damage.</text>
+      <attack>Scissors|+4|2d4+2</attack>
+      </action>
+    <action>
+        <name>Psychic Assault</name>
+      <text>The creepy doll targets one creature it can see within 10 feet of it that has a brain. The target must succeed on a DC 12 Intelligence saving throw or take 11 (2d10) psychic damage. Also on a failure, roll 3d6. If the total equals or exceeds the target's Intelligence score, that score is reduced to 0. The target is stunned until it regains at least one point of Intelligence, as from the greater restoration spell or similar magic.</text>
+      <attack>Psychic Assault||2d10</attack>
+      </action>
+    <action>
+        <name>Body Exchange</name>
+      <text>The creepy doll initiates an Intelligence contest with an incapacitated humanoid within 5 feet of it. If it wins the contest, the creepy doll's spirit inhabits the target's body while the target's spirit is placed into the creepy doll's body. The creepy doll controls the target's body completely. It retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies. The target retains its alignment, Intelligence, Wisdom, and Charisma while inhabiting the creepy doll's body.</text>
+      <text>The body exchange lasts until the doll's spirit is forced out by magic. (The dispel evil and good spell will accomplish this, though the doll is not one of the creature types whose possession that spell normally ends.) The body and the doll must be within 5 feet of each other for such an effect to work. The target is immune to this doll's Body Exchange for 24 hours after winning the Intelligence contest or after the exchange ends.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 25</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Demonlord of Ashmouth</name>
+    <size>L</size>
+    <type>fiend (demon)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>178 (17d10+85)</hp>
+    <speed>walk 20 ft., fly 60 ft.</speed>
+    <str>22</str>
+    <dex>17</dex>
+    <con>21</con>
+    <int>12</int>
+    <wis>16</wis>
+    <cha>17</cha>
+    <save>Str +10, Dex +7, Wis +7, Cha +7</save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Infernal, telepathy 120 ft.</languages>
+    <cr>11</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Magical darkness doesn't impede the demon's darkvision.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The demon has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The demon makes three melee attacks: two with its battleaxe and one with its tail. It can use Hurl Flame in place of any melee attack.</text>
+      </action>
+    <action>
+        <name>Battleaxe</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 15 (2d8 + 6) slashing damage, or 17 (2d10 + 6) slashing damage if used with two hands.</text>
+      <attack>Battleaxe|+10|2d8+6</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the demon hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</text>
+      <attack>Tail|+10|1d8+6</attack>
+      <attack>Tail||3d6</attack>
+      </action>
+    <action>
+        <name>Hurl Flame</name>
+      <text>Ranged Spell Attack: +7 to hit, range 150 ft., one target. 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.</text>
+      <attack>Hurl Flame|+7|4d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 37</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Flight Alabaster Angel</name>
+    <size>M</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The angel's weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The angel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The angel makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.</text>
+      <attack>Mace|+8|1d6+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The angel touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The angel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the angel's choice).</text>
+      <text>In a new form, the angel retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The angel's spellcasting ability is Charisma (spell save DC 17). The angel can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good, protection from evil and good</text>
+      <text>1/day each: commune, raise dead</text>
+      </trait>
+    <spells>detect evil and good, protection from evil and good, commune, raise dead</spells>
+    <description>
+Source: Plane Shift: Innistrad p. 26</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Flight Goldnight Angel</name>
+    <size>M</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The angel's weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The angel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Goldnight Menace</name>
+      <text>As an action, an angel of Flight Goldnight can strike fear into the hearts of its enemies. Each creature of the angel's choice that is within 120 feet of it and is aware of it must succeed on a Wisdom saving throw or become frightened for 1 minute. The DC for this saving throw is the same as for the angel's Innate Spellcasting trait. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to that angel's Goldnight Menace for the next 24 hours.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The angel makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.</text>
+      <attack>Mace|+8|1d6+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The angel touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The angel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the angel's choice).</text>
+      <text>In a new form, the angel retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The angel's spellcasting ability is Charisma (spell save DC 17). The angel can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good</text>
+      <text>1/day each: commune, raise dead</text>
+      </trait>
+    <spells>detect evil and good, commune, raise dead</spells>
+    <description>
+Source: Plane Shift: Innistrad p. 26</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Flight of Moonsilver Angel</name>
+    <size>M</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The angel's weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The angel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Moonsilver Spear</name>
+      <text>An angel of the Flight of Moonsilver wields a spear made from a shard of the Helvault. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means. Once per turn, when the angel hits a creature with an attack using this weapon, it can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time the angel has wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The angel makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.</text>
+      <attack>Mace|+8|1d6+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The angel touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The angel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the angel's choice).</text>
+      <text>In a new form, the angel retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The angel's spellcasting ability is Charisma (spell save DC 17). The angel can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good</text>
+      <text>1/day each: commune, raise dead</text>
+      </trait>
+    <spells>detect evil and good, commune, raise dead</spells>
+    <description>
+Source: Plane Shift: Innistrad p. 26</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Geist</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Any alignment</alignment>
+    <ac>11</ac>
+    <hp>45 (10d8)</hp>
+    <speed>walk 0 ft., fly 40 ft.</speed>
+    <str>7</str>
+    <dex>13</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>17</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages>any languages it knew in life</languages>
+    <cr>4</cr>
+    <resist>acid, fire, lightning, thunder, bludgeoning</resist>
+    <immune>cold, necrotic, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, grappled</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Ethereal Sight</name>
+      <text>The geist can see 60 feet into the Ethereal Plane when</text>
+      <text>it is on the Material Plane, and vice versa.</text>
+      </trait>
+    <trait>
+        <name>Incorporeal Movement</name>
+      <text>The geist can move through other creatures</text>
+      <text>and objects as if they were difficult terrain. It takes 5 (1d10) force</text>
+      <text>damage if it ends its turn inside an object.</text>
+      </trait>
+    <trait>
+        <name>Geist Powers</name>
+      <text>Geists are as varied as the humans they were in life. In addition to the traits and actions all geists possess, an individual geist might have any of the following special characteristics. </text>
+      </trait>
+    <trait>
+        <name>Geist Powers: Intangible Virtue</name>
+      <text>A living creature possessed by a white-aligned geist gains immunity to the charmed and frightened conditions, and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. While the creature is possessed, the geist can allow it to take control of its body, but the geist can regain control at any time (no action required).</text>
+      </trait>
+    <trait>
+        <name>Geist Powers: Horrifying Visage</name>
+      <text>Black-aligned geists can make themselves terrible to behold, even when they are possessing the living. Each non-undead creature within 60 feet of the geist that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 x 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this geist's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.</text>
+      </trait>
+    <action>
+        <name>Withering Touch</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target 17 (4d6 + 3) necrotic damage.</text>
+      <attack>Withering Touch|+5|4d6+3</attack>
+      </action>
+    <action>
+        <name>Etherealness</name>
+      <text>The geist enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.</text>
+      </action>
+    <action>
+        <name>Possession (Recharge 6)</name>
+      <text>One creature that the geist can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the geist; the geist then disappears, and the target is incapacitated and loses control of its body. The geist now controls the body but doesn't deprive the target of awareness. The geist can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies. The possession lasts until the body drops to 0 hit points, the geist ends it as a bonus action, or the geist is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the geist reappears in an unoccupied space within 5 feet of the body. The target is immune to this geist's Possession for 24 hours after succeeding on the saving throw or after the possession ends. The geist can instead target the corpse of a creature, effectively using its own life force to animate the corpse as a zombie. The animated corpse uses zombie statistics and returns to death if the geist ends the possession.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 19</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Host of Herons Angel</name>
+    <size>M</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The angel's weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The angel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Heron Protection</name>
+      <text>Whenever an angel of the Host of Herons or a friendly creature within 10 feet of it makes a saving throw, the creature gains a bonus to the saving throw equal to the angel's Charisma modifier. The angel must be conscious to receive or grant this bonus.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The angel makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.</text>
+      <attack>Mace|+8|1d6+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The angel touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The angel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the angel's choice).</text>
+      <text>In a new form, the angel retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The angel's spellcasting ability is Charisma (spell save DC 17). The angel can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good</text>
+      <text>1/day each: commune, raise dead</text>
+      </trait>
+    <spells>detect evil and good, commune, raise dead</spells>
+    <description>
+Source: Plane Shift: Innistrad p. 26</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Keeper of the Feather</name>
+    <size>M</size>
+    <type>humanoid (human, shapechanger)</type>
+    <alignment>Lawful Good</alignment>
+    <ac>12</ac>
+    <hp>31 (7d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>15</dex>
+    <con>11</con>
+    <int>13</int>
+    <wis>15</wis>
+    <cha>14</cha>
+    <save></save>
+    <skill>Insight +4, Perception +6</skill>
+    <passive>16</passive>
+    <languages>Common (can't speak in raven form)</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Shapechanger</name>
+      <text>The keeper can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.</text>
+      </trait>
+    <trait>
+        <name>Mimicry</name>
+      <text>The keeper can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</text>
+      </trait>
+    <action>
+        <name>Multiattack (Human or Hybrid Form Only)</name>
+      <text>The keeper makes two weapon attacks, one of which can be with its hand crossbow.</text>
+      </action>
+    <action>
+        <name>Beak (Raven or Hybrid Form Only)</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 1 piercing damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form.</text>
+      <attack>Beak (Raven or Hybrid Form Only)|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Shortsword (Human or Hybrid Form Only)</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortsword (Human or Hybrid Form Only)|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Hand Crossbow (Human or Hybrid Form Only)</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Hand Crossbow (Human or Hybrid Form Only)|+4|1d6+2</attack>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 40</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Skaab</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Neutral</alignment>
+    <ac>9</ac>
+    <hp>93 (11d8+44)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>19</str>
+    <dex>9</dex>
+    <con>18</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands the languages of its creator but can't speak</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Berserk</name>
+      <text>Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.</text>
+      <text>The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.</text>
+      </trait>
+    <trait>
+        <name>Aversion of Fire</name>
+      <text>If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</text>
+      </trait>
+    <trait>
+        <name>Immutable Form</name>
+      <text>The golem is immune to any spell or effect that would alter its form.</text>
+      </trait>
+    <trait>
+        <name>Lightning Absorption</name>
+      <text>Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The golem has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The golem's weapon attacks are magical.</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristics</name>
+      <text>The most basic skaabs are simply flesh golems, as described in the Monster Manual. But the aspiration of every skaberen is to produce a truly unique masterpiece, a goal that might see a stitcher create golems with one of the following special characteristics.</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristic: Armor Plating</name>
+      <text>Increase the skaab's Armor Class to 14 and increase its challenge rating to 6 (2,300 XP).</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristic: Six Arms</name>
+      <text>The skaab's multiattack action allows it to make three slam attacks. Increase its challenge rating to 6 (2,300 XP).</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristic: Three Heads</name>
+      <text>The skaab has advantage on Wisdom (Perception) checks and on saving throws against being blinded, deafened, stunned, and knocked unconscious. (Its challenge rating doesn't change.)</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristic: Skaab Goliath</name>
+      <text>This skaab has three heads, six arms, and armor plating. Increase its challenge rating to 7 (2,900 XP).</text>
+      </trait>
+    <trait>
+        <name>Skaab Characteristic: Winged Skaab</name>
+      <text>The skaab has a flying speed of 30 feet.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The golem makes two slam attacks.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) bludgeoning damage.</text>
+      <attack>Slam|+7|2d8+4</attack>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 20</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Vampire Neonate</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>82 (11d8+33)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>16</dex>
+    <con>16</con>
+    <int>11</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save>Dex +6, Wis +3</save>
+    <skill>Perception +3, Stealth +6</skill>
+    <passive>13</passive>
+    <languages>Common</languages>
+    <cr>5</cr>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks not made with living wood weapons</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Regeneration</name>
+      <text>The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The vampire makes two attacks, only one of which can be a bite attack.</text>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).</text>
+      <attack>Claws|+6|2d4+3</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
+      <attack>Bite|+6|1d6+3</attack>
+      </action>
+    <action>
+        <name>Vampiric Glamer</name>
+      <text>The vampire obscures its form with mind-affecting magic that makes others perceive it as a beautiful human of the same size and shape. The illusion ends if the vampire takes a bonus action to end it or if the vampire dies. A creature that can see the vampire can take an action to visually inspect it, ending the mental effect on itself and seeing the vampire's true form with a successful DC 20 Wisdom (Perception) check.</text>
+      </action>
+    <action>
+        <name>Aura of Silence</name>
+      <text>The vampire shrouds itself in a cloak of silence to a radius of 2 feet. Within that radius, the effect is the same as the silence spell.</text>
+      </action>
+    <action>
+        <name>Variant: Elder Vampires</name>
+      <text>The basic vampire statistics represent a "neonate"—a newly spawned vampire. Older vampires can learn powerful magic of many different kinds, and might have any of the following traits and abilities.</text>
+      <text>Shapechanger. The vampire has the Shapechanger trait of the vampire in the Monster Manual, as well as the shapechanger tag. Some vampires can turn into bat form, some can assume mist form, and a few can choose either form.</text>
+      <text>Charm. The vampire has the Charm action of the vampire in the Monster Manual.</text>
+      <text>Flight. The vampire has a flying speed of 30 feet.</text>
+      <text>Gorger. The vampire has advantage on melee attack rolls, but attack rolls against it have advantage.</text>
+      <text>Spellcasting. The vampire has the spellcasting abilities of a wizard or cleric.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 17</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Werewolf (Krallenhorde)</name>
+    <size>M</size>
+    <type>humanoid (human, shapechanger)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>11 (in humanoid form, 12 (natural armor) in canid form)</ac>
+    <hp>58 (9d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>13</dex>
+    <con>14</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +3</skill>
+    <passive>14</passive>
+    <languages>Common (can't speak in canid form)</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Shapechanger</name>
+      <text>The werewolf polymorphs into a wolf-humanoid canid form, or back into its true human form. This change is dictated by the moon, but can also be induced by trauma or strong emotion. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+      </trait>
+    <trait>
+        <name>Keen Hearing and Smell</name>
+      <text>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+      </trait>
+    <trait>
+        <name>Howlpack: Vildin</name>
+      <text>Vildin Rampage (Canid Form Only). When the werewolf reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.</text>
+      </trait>
+    <action>
+        <name>Multiattack (Canid Form Only)</name>
+      <text>The werewolf makes two attacks: one with its bite and one with its claws or spear.</text>
+      </action>
+    <action>
+        <name>Bite (Canid Form Only)</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <attack>Bite (Canid Form Only)|+4|1d8+2</attack>
+      </action>
+    <action>
+        <name>Claws (Canid Form Only)</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) slashing damage.</text>
+      <attack>Claws (Canid Form Only)|+4|2d4+2</attack>
+      </action>
+    <action>
+        <name>Spear (Human Form Only)</name>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</text>
+      <attack>Spear (Human Form Only)|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Variant: Howlpack</name>
+      <text>The basic werewolf statistics represent a member of the Krallenhorde, Innistrad's largest howlpack. Werewolves of other packs might have additional abilities such as the following.</text>
+      </action>
+    <action>
+        <name>Variant: Mondronen</name>
+      <text>Mondronen Wounded Fury. While it has 10 hit points or fewer, the werewolf has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.</text>
+      </action>
+    <action>
+        <name>Variant: Leeraug</name>
+      <text>Leeraug Blood Frenzy. The werewolf has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 15</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Zombie Cat</name>
+    <size>T</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>2 (1d4)</hp>
+    <speed>walk 40 ft., climb 30 ft.</speed>
+    <str>3</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The cat has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. 1 slashing damage.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 17</description>
+    <environment>grassland, forest, urban, desert</environment>
+    </monster>
+  <monster>
+      <name>Zombie Rat</name>
+    <size>T</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>10</ac>
+    <hp>1 (1d4-1)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>2</str>
+    <dex>11</dex>
+    <con>9</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>4</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 30 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The rat has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. 1 piercing damage.</text>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 17</description>
+    <environment>swamp, urban</environment>
+    </monster>
+  <monster>
+      <name>Zombie Snake</name>
+    <size>T</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13</ac>
+    <hp>2 (1d4)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>2</str>
+    <dex>16</dex>
+    <con>11</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Bite|+5|2d4</attack>
+      </action>
+    <description>
+Source: Plane Shift: Innistrad p. 17</description>
+    <environment>grassland, forest, swamp, hill, desert, coastal</environment>
+    </monster>
+  </compendium>

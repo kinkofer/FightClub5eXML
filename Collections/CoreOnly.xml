@@ -4,29 +4,29 @@
     <doc href="../FightClub5eXML/Sources/CoreRulebooks.xml" />
     
     <!-- Supplements -->
-    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes.xml" />
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters.xml" />
-    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide.xml" />
-    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica.xml" />
-    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron.xml" />
-    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar.xml" />
-    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio.xml" />
-    <doc href="../FightClub5eXML/Sources/TheTortlePackage.xml" />
-    <doc href="../FightClub5eXML/Sources/OneGrungAbove.xml" />
-    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/XanatharsGuideToEverything.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/MordenkainensTomeOfFoes.xml" />
+    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/VolosGuideToMonsters.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/SwordCoastAdventurersGuide.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/GuildmastersGuideToRavnica.xml" />
+    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron/WayfindersGuideToEberron.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/EberronRisingFromTheLastWar.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/AcquisitionsIncorporated.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/ExplorersGuideToWildemount.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio/MordenkainensFiendishFolio.xml" />
+    <doc href="../FightClub5eXML/Sources/TheTortlePackage/TheTortlePackage.xml" />
+    <doc href="../FightClub5eXML/Sources/OneGrungAbove/OneGrungAbove.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/MythicOdysseysOfTheros.xml" />
     
     <!-- Adventures -->
     <doc href="../FightClub5eXML/Sources/Adventures.xml" />
-    <doc href="../FightClub5eXML/Sources/BaldursGateDescentIntoAvernus.xml" />
-    <doc href="../FightClub5eXML/Sources/HuntForTheThesselhydra.xml" />
-    <doc href="../FightClub5eXML/Sources/InfernalMachineRebuild.xml" />
-    <doc href="../FightClub5eXML/Sources/LocathahRising.xml" />
-    <doc href="../FightClub5eXML/Sources/LostLaboratoryOfKwalish.xml" />
-    <doc href="../FightClub5eXML/Sources/DragonOfIcespirePeak.xml" />
-    <doc href="../FightClub5eXML/Sources/DivineContention.xml" />
-    <doc href="../FightClub5eXML/Sources/StormLordsWrath.xml" />
-    <doc href="../FightClub5eXML/Sources/SleepingDragonsWake.xml" />
+    <doc href="../FightClub5eXML/Sources/BaldursGateDescentIntoAvernus/BaldursGateDescentIntoAvernus.xml" />
+    <doc href="../FightClub5eXML/Sources/HuntForTheThesselhydra/HuntForTheThesselhydra.xml" />
+    <doc href="../FightClub5eXML/Sources/InfernalMachineRebuild/InfernalMachineRebuild.xml" />
+    <doc href="../FightClub5eXML/Sources/LocathahRising/LocathahRising.xml" />
+    <doc href="../FightClub5eXML/Sources/LostLaboratoryOfKwalish/LostLaboratoryOfKwalish.xml" />
+    <doc href="../FightClub5eXML/Sources/DragonOfIcespirePeak/DragonOfIcespirePeak.xml" />
+    <doc href="../FightClub5eXML/Sources/DivineContention/DivineContention.xml" />
+    <doc href="../FightClub5eXML/Sources/StormLordsWrath/StormLordsWrath.xml" />
+    <doc href="../FightClub5eXML/Sources/SleepingDragonsWake/SleepingDragonsWake.xml" />
 </collection>

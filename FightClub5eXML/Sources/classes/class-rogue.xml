@@ -1,0 +1,1568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <hd>8</hd>
+    <proficiency>Dexterity, Intelligence, Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight Of Hand, Stealth</proficiency>
+    <numSkills>4</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Rogue</name>
+        <text>As a 1st-level Rogue, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: simple, hand crossbows, longswords, rapiers, shortswords</text>
+        <text>• Tools: {@item thieves' tools|PHB}</text>
+        <text>• Skills: Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight Of Hand, Stealth</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a rapier or (b) a shortsword</text>
+        <text>• (a) a shortbow and quiver of arrows (20) or (b) a shortsword</text>
+        <text>• (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack</text>
+        <text>• Leather armor, two dagger, and thieves' tools</text>
+        <text></text>
+        <text>Alternatively, you may start with 4d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Rogue</name>
+        <text>To multiclass as a Rogue, you must meet the following prerequisites:</text>
+        <text>• Dexterity 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: none</text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <armor>light</armor>
+    <weapons>simple, hand crossbows, longswords, rapiers, shortswords</weapons>
+    <tools>{@item thieves' tools|PHB}</tools>
+    <wealth>4d4 x 10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Expertise</name>
+        <text>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</text>
+        <text>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Sneak Attack</name>
+        <text>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</text>
+        <text>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</text>
+        <text>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Thieves' Cant</name>
+        <text>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.</text>
+        <text>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Cunning Action</name>
+        <text>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Cunning Action: Aim</name>
+        <text>2nd-level rogue feature (enhances Cunning Action)</text>
+        <text>You gain an additional way to use your Cunning Action: carefully aiming your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Roguish Archetype</name>
+        <text>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Arcane Trickster</name>
+        <text>Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Trickster: Mage Hand Legerdemain</name>
+        <text>Starting at 3rd level, when you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:</text>
+        <text>• You can stow one object the hand is holding in a container worn or carried by another creature.</text>
+        <text>• You can retrieve an object in a container worn or carried by another creature.</text>
+        <text>• You can use thieves' tools to pick locks and disarm traps at range.</text>
+        <text>You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.</text>
+        <text>In addition, you can use the bonus action granted by your Cunning Action to control the hand.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Trickster: Spellcasting</name>
+        <text>When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.</text>
+        <text></text>
+        <text>Cantrips</text>
+        <text>   You learn three cantrips: mage hand and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.</text>
+        <text></text>
+        <text>Spell Slots</text>
+        <text>   The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.</text>
+        <text></text>
+        <text>Spells Known of 1st-Level and Higher</text>
+        <text>   You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.</text>
+        <text>   The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>   The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</text>
+        <text>   Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.</text>
+        <text></text>
+        <text>Spellcasting Ability</text>
+        <text>   Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Assassin</name>
+        <text>You focus your training on the grim art of death. Those who adhere to this archetype are diverse - hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.</text>
+        <text>Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Assassin: Assassinate</name>
+        <text>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Assassin: Bonus Proficiencies</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, allowing you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Inquisitive</name>
+        <text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for details, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Ear for Deceit</name>
+        <text>When you choose this archetype at 3rd level, you develop a keen ear for picking out lies. Whenever you make a Wisdom (Insight) check to sense if a creature is lying, you use the total of your check or 8 + your Wisdom modifier, whichever is higher. If you are proficient in Insight, you add your proficiency bonus to the fixed result. If you chose Insight as a skill augmented by your Expertise feature, add double your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Eye for Detail</name>
+        <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action feature to make a Wisdom (Perception) check to spot a hidden creature or object, to make an Intelligence (Investigation) check to uncover and decipher clues, or to use Insightful Fighting.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Insightful Fighting</name>
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As an action (or as a bonus action using Eye for Detail), you make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, opposed by the target's Charisma (Deception) check. If you succeed, you can use Sneak Attack against that creature even if you do not have advantage against it or if no enemy of the target is within 5 feet of it. You can use Sneak Attack in this way even if you have disadvantage against the target.</text>
+        <text>This benefit lasts for 1 minute or until you successfully use Insightful Fighting against a different target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Rakes, duelists, and pirates typically follow this archetype.</text>
+        <text>A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your unmistakable confidence propels you into battle. You add your Charisma modifier to your initiative rolls.</text>
+        <text>In addition, you don't need advantage on your attack roll to use your Sneak Attack if no creature other than your target is within 5 feet of you. All the other rules for the Sneak Attack class feature still apply to you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.</text>
+        <text>A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.</text>
+        <text>You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Thief</name>
+        <text>You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Thief: Fast Hands</name>
+        <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Thief: Second-Story Work</name>
+        <text>When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.</text>
+        <text>In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Scout</name>
+        <text>You are skilled in woodcraft and stealth, allowing you to range ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and fighters, as they serve as the eyes and ears of war bands across the world. Compared to other rogues, you are skilled at surviving in the wilds.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Skirmisher</name>
+        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Survivalist</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Inquisitive</name>
+        <text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Ear for Deceit</name>
+        <text>When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Eye for Detail</name>
+        <text>Starting at 3rd level, you can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Insightful Fighting</name>
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.</text>
+        <text>This benefit lasts for 1 minute or until you successfully use this feature against a different target.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, allowing you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Scout</name>
+        <text>You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter—these are just a few of the roles that Scouts assume as they range the world.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout: Skirmisher</name>
+        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout: Survivalist</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Rakes, duelists, and pirates typically follow this archetype.</text>
+        <text>A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your unmistakable confidence propels you into battle. You add your Charisma modifier to your initiative rolls.</text>
+        <text>In addition, you don't need advantage on your attack roll to use your Sneak Attack if no creature other than your target is within 5 feet of you. All the other rules for the Sneak Attack class feature still apply to you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.</text>
+        <text>A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.</text>
+        <text>You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Acrobat</name>
+        <text>Transcribed on 2018-04-07. [Square bracketed text] denotes transcriber's annotations.</text>
+        <text>Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Aerial Artistry</name>
+        <text>Starting at 3rd level, you gain the ability [to] move with incredible speed, precision, and power, Few obstacles can prevent you from reaching your destination.</text>
+        <text>When you move, you can instead take two short movements by flying. Each movement is half your speed, and you must end each one on a solid object or [the] ground. If you do not, you fall and your movement ends.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>The Revived (UA): The Revived</name>
+        <text>You've had a soul-shaking realization: you've been dead before, yet somehow you are alive again. This life isn't your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn't done with you. You might have convinced a deity to let you return to the Material Plane, perhaps you signed a deal with a fiend, or maybe you used an artifact that revived you. Whatever force brought you back, you now know the truth about yourself: that you are one of death's representatives among the living.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>The Revived (UA): Bolts from the Grave</name>
+        <text>3rd-level Revived feature</text>
+        <text>You have learned to unleash bolts of necrotic energy from within your revived body. Immediately after you use your Cunning Action, you can make a ranged spell attack against a creature within 30 feet of you, provided you haven't used your Sneak Attack this turn. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. A creature hit by this attack takes necrotic damage equal to your Sneak Attack. This uses your Sneak Attack for the turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>The Revived (UA): Revived Nature</name>
+        <text>3rd-level Revived feature</text>
+        <text>Your newfound connection to death gives you the following benefits:</text>
+        <text>• You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.</text>
+        <text>• You don't need to eat, drink, or breathe.</text>
+        <text>• You don't need to sleep. When you take a long rest, you must spend at least four hours in an inactive, motionless state, rather than sleeping. In this state, you remain semiconscious, and you can hear as normal.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>The Revived (UA): Tokens of Past Lives</name>
+        <text>3rd-level Revived feature</text>
+        <text>You remember talents you had in your previous life. When you finish a long rest, you gain one skill or tool proficiency of your choice. You can replace this proficiency with another when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.</text>
+        <text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King's rule.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Talent</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.</text>
+        <name>Soulknife (UA): Psionic Talent Options</name>
+        <text>   You can use your Psionic Talent die in the following ways:</text>
+        <text></text>
+        <text>   Psi-Bolstered Knack.</text>
+        <text>• When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success.</text>
+        <text>   Psychic Whispers.</text>
+        <text>• You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.</text>
+        <text></text>
+        <name>Soulknife (UA): Changing the Die's Size</name>
+        <text>   If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it's a d4 and you roll a 4, it becomes unusable until you finish a long rest.</text>
+        <text>   Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.</text>
+        <text>   Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).</text>
+        <name>Soulknife (UA): Psi Replenishment</name>
+        <text>   As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can't use Psi Replenishment again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blades</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can manifest your psionic power as shimmering blades of psychic energy. When you are about to make a melee or ranged weapon attack against a creature, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</text>
+        <text>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Enhancement</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can focus your psionic power to give yourself an extraordinary ability. When you finish a long rest, you gain one of the following benefits of your choice, which lasts until you finish a long rest:</text>
+        <text>• You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
+        <text>• Increase your walking speed by 5 feet.</text>
+        <text>• Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blade</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can't hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you're incapacitated.</text>
+        <text>The blade is a simple melee weapon with the finesse, light, and thrown properties. It has a normal range of 30 feet and a long range of 60 feet, and it deals 1d6 psychic damage on a hit. If you throw the blade as part of an attack, it vanishes immediately after it hits or misses its target. The blade otherwise disappears the instant it leaves your hand.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.</text>
+        <text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King's rule.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Talent</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.</text>
+        <name>Soulknife (UA): Psionic Talent Options</name>
+        <text>   You can use your Psionic Talent die in the following ways:</text>
+        <text></text>
+        <text>   Psi-Bolstered Knack.</text>
+        <text>• When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success.</text>
+        <text>   Psychic Whispers.</text>
+        <text>• You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.</text>
+        <text></text>
+        <name>Soulknife (UA): Changing the Die's Size</name>
+        <text>   If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it's a d4 and you roll a 4, it becomes unusable until you finish a long rest.</text>
+        <text>   Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.</text>
+        <text>   Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).</text>
+        <name>Soulknife (UA): Psi Replenishment</name>
+        <text>   As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can't use Psi Replenishment again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blades</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can manifest your psionic power as shimmering blades of psychic energy. When you are about to make a melee or ranged weapon attack against a creature, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</text>
+        <text>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Enhancement</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can focus your psionic power to give yourself an extraordinary ability. When you finish a long rest, you gain one of the following benefits of your choice, which lasts until you finish a long rest:</text>
+        <text>• You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
+        <text>• Increase your walking speed by 5 feet.</text>
+        <text>• Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blade</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can't hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you're incapacitated.</text>
+        <text>The blade is a simple melee weapon with the finesse, light, and thrown properties. It has a normal range of 30 feet and a long range of 60 feet, and it deals 1d6 psychic damage on a hit. If you throw the blade as part of an attack, it vanishes immediately after it hits or misses its target. The blade otherwise disappears the instant it leaves your hand.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Phantom</name>
+        <text>Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.</text>
+        <text>Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay (Forgotten Realms) and Karrnath (Eberron), where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.</text>
+        <text>How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a god of death?</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Wails from the Grave</name>
+        <text>3rd-level Phantom feature</text>
+        <text>As you nudge someone closer to the grave, you can cause deathly wails to be heard near them. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes psychic damage equal to the roll's total, as wails of the dead sound around them for a moment.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Whispers of the Dead</name>
+        <text>3rd-level Phantom feature</text>
+        <text>Echoes of those who have died begin to cling to you. Whenever you finish a short or long rest, you can gain one skill or tool proficiency of your choice, as a ghostly presence shares its knowledge with you. This proficiency lasts until you use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>4th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Uncanny Dodge</name>
+        <text>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Expertise</name>
+        <text>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Evasion</name>
+        <text>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>8th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature>
+          <name>Roguish Archetype feature</name>
+        <text>At 9th level, you gain a feature granted by your Roguish Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Arcane Trickster: Magical Ambush</name>
+        <text>Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Assassin: Infiltration Expertise</name>
+        <text>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.</text>
+        <text>Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Steady Eye</name>
+        <text>At 9th level, you gain advantage on any Wisdom (Perception) check made on your turn to find a hidden creature or object if you do not move during that turn. If you use this ability before moving, you cannot move or ready movement during your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Thief: Supreme Sneak</name>
+        <text>Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Scout (UA): Superior Mobility</name>
+        <text>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Inquisitive: Steady Eye</name>
+        <text>Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Scout: Superior Mobility</name>
+        <text>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Fearless Aerialist</name>
+        <text>Starting at 9th level, you no longer take damage from falling.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>The Revived (UA): Connect with the Dead</name>
+        <text>9th-level Revived feature</text>
+        <text>You can create a link with a spirit through their corpse. When you do so, you cast the speak with dead spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell.</text>
+        <text>Speaking with the dead in this way temporarily gives you a capability from a past life—you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Revived Capabilities table. The benefit lasts until you finish a short or long rest.</text>
+        <text></text>
+        <text>Revived Capabilities</text>
+        <text>d3 | Capability</text>
+        <text>1 | You learn how to speak, read, and write one language of your choice.</text>
+        <text>2 | You gain one skill or tool proficiency of your choice.</text>
+        <text>3 | You gain proficiency with one saving throw of your choice.</text>
+        <text>After you cast the spell with this feature, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soul Blades</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways:</text>
+        <text></text>
+        <text>   Homing Strikes.</text>
+        <text>• If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.</text>
+        <text>   Psychic Teleportation.</text>
+        <text>• If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.</text>
+        <text></text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Terrifying Blade</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn't frightened and is immune to your Terrifying Blade for 24 hours.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soul Blades</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways:</text>
+        <text></text>
+        <text>   Homing Strikes.</text>
+        <text>• If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.</text>
+        <text>   Psychic Teleportation.</text>
+        <text>• If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.</text>
+        <text></text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Terrifying Blade</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn't frightened and is immune to your Terrifying Blade for 24 hours.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Phantom (UA): Tokens of the Departed</name>
+        <text>9th-level Phantom feature</text>
+        <text>When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you open your free hand and a Tiny trinket appears there, a soul trinket. The DM chooses the trinket's form or has you roll on the Trinket table in the Player's Handbook to determine it.</text>
+        <text>While the soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, as your vitality is enhanced by the life essence within the object. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.</text>
+        <text>As an action, you can destroy one of your soul trinkets, no matter where it's located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It's under no obligation to be truthful, and it answers as concisely as possible, eager to be free.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>10th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Reliable Talent</name>
+        <text>By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>12th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Roguish Archetype feature</name>
+        <text>At 13th level, you gain a feature granted by your Roguish Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Arcane Trickster: Versatile Trickster</name>
+        <text>At 13th level, you gain the ability to distract targets with your mage hand. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Assassin: Impostor</name>
+        <text>At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerism.</text>
+        <text>Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Unerring Eye</name>
+        <text>At 13th level, you gain the ability to detect magical deception. As an action, you sense the presence within 30 feet of you of illusions, shapechanger creatures not in their true form, and other magic designed to deceive the senses. Though you determine that an effect is attempting to trick you, you gain no special insight into what is hidden or its true nature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Thief: Use Magic Device</name>
+        <text>By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Scout (UA): Ambush Master</name>
+        <text>Starting at 13th level, you excel at leading ambushes. If any of your foes are surprised, you can use a bonus action on your turn in the first round of the combat to grant each ally who can see you a +5 bonus to initiative that lasts until the combat ends. If the initiative bonus would increase an ally's initiative above yours, the ally's initiative instead equals your initiative.</text>
+        <text>Each of the allies also receives a 10-foot increase to speed that lasts until the end of the ally's next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Inquisitive: Unerring Eye</name>
+        <text>Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Scout: Ambush Master</name>
+        <text>Starting at 13th level, you excel at leading ambushes and acting first in a fight.</text>
+        <text>You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Unchained Agility</name>
+        <text>At 13th level, your agility, speed and flexibility allow you to escape from almost any danger. You gain the benefits of freedom of movement.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>The Revived (UA): Audience with Death</name>
+        <text>13th-level Revived feature</text>
+        <text>When at death's door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died.</text>
+        <text>In addition, whenever you have 0 hit points and are healed or stabilized, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes or until you dismiss this effect (no action required). This invisibility ends if you deal damage to a creature or if you force a creature to make a saving throw.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psionic static to mask your physical presence. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes. This invisibility ends if you make an attack or if you force a creature to make a saving throw.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes or until you dismiss this effect (no action required). This invisibility ends if you deal damage to a creature or if you force a creature to make a saving throw.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psionic static to mask your physical presence. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes. This invisibility ends if you make an attack or if you force a creature to make a saving throw.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Phantom (UA): Ghost Walk</name>
+        <text>13th-level Phantom feature</text>
+        <text>You can now phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
+        <text>You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Blindsense</name>
+        <text>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Slippery Mind</name>
+        <text>By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>16th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Roguish Archetype feature</name>
+        <text>At 17th level, you gain a feature granted by your Roguish Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Arcane Trickster: Spell Thief</name>
+        <text>At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.</text>
+        <text>Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Assassin: Death Strike</name>
+        <text>Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by making a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful, if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Eye for Weakness</name>
+        <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 2d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure to success in combat. If you miss with an attack roll, you can choose to roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Thief: Thief's Reflexes</name>
+        <text>When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Scout (UA): Sudden Strike</name>
+        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but only if the attack is the only one you make against the target this turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Inquisitive: Eye for Weakness</name>
+        <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by making a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful, if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Scout: Sudden Strike</name>
+        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure to success in combat. If you miss with an attack roll, you can choose to roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Aerial Mastery</name>
+        <text>At 17th level your Aerial Artistry ability improves. When you move you can instead take four short movements by flying. [Each short movement is still limited to half your speed, and between each movement you must still touch a solid object or the ground. If you do not, you fall and your movement ends.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>The Revived (UA): Ethereal Jaunt</name>
+        <text>17th-level Revived feature</text>
+        <text>Like a ghost, you have the ability to slip in and out of the Ethereal Plane. You can now use your Cunning Action to teleport to an unoccupied space within 30 feet of you. You don't need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force. If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blade directly through a creature's mind. As an action while you have at least one Psychic Blade manifested, you can force a creature you can see within 30 feet of you to make an Intelligence saving throw (DC equal to 10 + your proficiency bonus + your Intelligence modifier). If you are hidden from the target, it has disadvantage on the save. On a failed save, the target takes 12d6 psychic damage, and it is stunned until the start of your next turn. On a successful save, the target takes half as much damage and isn't stunned. One of your Psychic Blades vanishes after using this feature.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blade directly through a creature's mind. As an action while you have at least one Psychic Blade manifested, you can force a creature you can see within 30 feet of you to make an Intelligence saving throw (DC equal to 10 + your proficiency bonus + your Intelligence modifier). If you are hidden from the target, it has disadvantage on the save. On a failed save, the target takes 12d6 psychic damage, and it is stunned until the start of your next turn. On a successful save, the target takes half as much damage and isn't stunned. One of your Psychic Blades vanishes after using this feature.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Phantom (UA): Death Knell</name>
+        <text>17th-level Phantom feature</text>
+        <text>When you use your Wails from the Grave feature, you can now deal the psychic damage to both the first and the second creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Elusive</name>
+        <text>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>19th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Stroke of Luck</name>
+        <text>At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 94</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

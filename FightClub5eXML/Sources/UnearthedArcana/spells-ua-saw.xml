@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Mind Sliver</name>
+    <level>0</level>
+    <school>EN</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components>V</components>
+    <duration>1 round</duration>
+    <classes>Sorcerer, Warlock, Wizard</classes>
+    <text>You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must make an Intelligence saving throw. Unless the saving throw is successful, the target takes 1d6 psychic damage, and the first time it makes a saving throw before the end of your next turn, it must roll a d4 and subtract the number rolled from the save.
+This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Source: Unearthed Arcana: Sorcerer And Warlock p. 4</text>
+    <roll>1d6</roll>
+    <roll>2d6</roll>
+    <roll>3d6</roll>
+    <roll>4d6</roll>
+    </spell>
+  </compendium>

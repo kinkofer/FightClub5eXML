@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Adult Amonkhet Dragon</name>
+    <size>H</size>
+    <type>dragon</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>19 (natural armor)</ac>
+    <hp>256 (19d12+133)</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 80 ft.</speed>
+    <str>27</str>
+    <dex>10</dex>
+    <con>25</con>
+    <int>16</int>
+    <wis>13</wis>
+    <cha>21</cha>
+    <save>Dex +6, Con +13, Wis +7, Cha +11</save>
+    <skill>Perception +13, Stealth +6</skill>
+    <passive>23</passive>
+    <languages>Common, Draconic</languages>
+    <cr>17</cr>
+    <resist></resist>
+    <immune>fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the dragon fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.</text>
+      <attack>Bite|+14|2d10+8</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 5 ft., one target. 15 (2d6 + 8) slashing damage.</text>
+      <attack>Claw|+14|2d6+8</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 15 ft., one target. 17 (2d8 + 8) bludgeoning damage.</text>
+      <attack>Tail|+14|2d8+8</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||18d6</attack>
+      </action>
+    <legendary>
+        <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Detect</name>
+      <text>The dragon makes a Wisdom (Perception) check.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>The dragon makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Wing Attack (Costs 2 Actions)</name>
+      <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
+      <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
+      <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
+      <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
+      <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
+      <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
+      <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment>mountain, hill</environment>
+    </monster>
+  <monster>
+      <name>Ammit</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>85 (9d12+27)</hp>
+    <speed>walk 30 ft., swim 50 ft.</speed>
+    <str>21</str>
+    <dex>9</dex>
+    <con>17</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Stealth +5</skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hold Breath</name>
+      <text>The ammit can hold its breath for 30 minutes.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The ammit makes two attacks: one with its bite and one with its tail.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the ammit can't bite another target.</text>
+      <attack>Bite|+8|3d10+5</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the ammit. 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.</text>
+      <attack>Tail|+8|2d8+5</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 30</description>
+    <environment>swamp</environment>
+    </monster>
+  <monster>
+      <name>Amonkhet Dragon Wyrmling</name>
+    <size>M</size>
+    <type>dragon</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>75 (10d8+30)</hp>
+    <speed>walk 30 ft., climb 30 ft., fly 60 ft.</speed>
+    <str>19</str>
+    <dex>10</dex>
+    <con>17</con>
+    <int>12</int>
+    <wis>11</wis>
+    <cha>15</cha>
+    <save>Dex +2, Con +5, Wis +2, Cha +4</save>
+    <skill>Perception +4, Stealth +2</skill>
+    <passive>14</passive>
+    <languages>Draconic</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune>fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.</text>
+      <attack>Bite|+6|1d10+4</attack>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||7d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Amonkhet Hydra</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>172 (15d12+75)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>20</str>
+    <dex>12</dex>
+    <con>20</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +6</skill>
+    <passive>16</passive>
+    <languages></languages>
+    <cr>8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hold Breath</name>
+      <text>The hydra can hold its breath for 1 hour.</text>
+      </trait>
+    <trait>
+        <name>Multiple Heads</name>
+      <text>The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</text>
+      <text>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.</text>
+      <text>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.</text>
+      </trait>
+    <trait>
+        <name>Reactive Heads</name>
+      <text>For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.</text>
+      </trait>
+    <trait>
+        <name>Wakeful</name>
+      <text>While the hydra sleeps, at least one of its heads is awake.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The hydra makes as many bite attacks as it has heads.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 7 (1d4 + 5) piercing damage, and the target must make on a DC 16 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Bite|+8|1d4+5</attack>
+      <attack>Bite||2d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 35</description>
+    <environment>swamp</environment>
+    </monster>
+  <monster>
+      <name>Amonkhet Sphinx</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>199 (19d10+95)</hp>
+    <speed>walk 40 ft., fly 60 ft.</speed>
+    <str>22</str>
+    <dex>10</dex>
+    <con>20</con>
+    <int>16</int>
+    <wis>18</wis>
+    <cha>23</cha>
+    <save>Dex +6, Con +11, Int +9, Wis +10</save>
+    <skill>Arcana +9, Perception +10, Religion +15</skill>
+    <passive>20</passive>
+    <languages>Common, Sphinx</languages>
+    <cr>17</cr>
+    <resist></resist>
+    <immune>psychic; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Inscrutable</name>
+      <text>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The sphinx's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The sphinx makes two claw attacks.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 17 (2d10 + 6) slashing damage.</text>
+      <attack>Claw|+12|2d10+6</attack>
+      </action>
+    <action>
+        <name>Roar (3/Day)</name>
+      <text>The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.</text>
+      <text>• First Roar: Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>• Second Roar: Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>• Third Roar: Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.</text>
+      <attack>Roar (3/Day)||8d10</attack>
+      </action>
+    <legendary>
+        <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Claw Attack</name>
+      <text>The sphinx makes one claw attack.</text>
+      </legendary>
+    <legendary>
+        <name>Teleport (Costs 2 Actions)</name>
+      <text>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</text>
+      </legendary>
+    <legendary>
+        <name>Cast a Spell (Costs 3 Actions)</name>
+      <text>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:</text>
+      <text>• The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
+      <text>• The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.</text>
+      <text>• The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
+      <text>• The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
+      </legendary>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): sacred flame, spare the dying, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, detect evil and good, detect magic</text>
+      <text>• 2nd level (3 slots): lesser restoration, zone of truth</text>
+      <text>• 3rd level (3 slots): dispel magic, tongues</text>
+      <text>• 4th level (3 slots): banishment, freedom of movement</text>
+      <text>• 5th level (2 slots): flame strike, greater restoration</text>
+      <text>• 6th level (1 slots): heroes' feast</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1</slots>
+    <spells>sacred flame, spare the dying, thaumaturgy, command, detect evil and good, detect magic, lesser restoration, zone of truth, dispel magic, tongues, banishment, freedom of movement, flame strike, greater restoration, heroes' feast</spells>
+    <description>
+Source: Plane Shift: Amonkhet p. 31</description>
+    <environment>desert</environment>
+    </monster>
+  <monster>
+      <name>Ancient Amonkhet Dragon</name>
+    <size>G</size>
+    <type>dragon</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>22 (natural armor)</ac>
+    <hp>546 (28d20+252)</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 80 ft.</speed>
+    <str>30</str>
+    <dex>10</dex>
+    <con>29</con>
+    <int>18</int>
+    <wis>15</wis>
+    <cha>23</cha>
+    <save>Dex +7, Con +16, Wis +9, Cha +13</save>
+    <skill>Perception +16, Stealth +7</skill>
+    <passive>26</passive>
+    <languages>Common, Draconic</languages>
+    <cr>24</cr>
+    <resist></resist>
+    <immune>fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the dragon fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 15 ft., one target. 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage.</text>
+      <attack>Bite|+17|2d10+10</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 10 ft., one target. 17 (2d6 + 10) slashing damage.</text>
+      <attack>Claw|+17|2d6+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 20 ft., one target. 19 (2d8 + 10) bludgeoning damage.</text>
+      <attack>Tail|+17|2d8+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||26d6</attack>
+      </action>
+    <legendary>
+        <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Detect</name>
+      <text>The dragon makes a Wisdom (Perception) check.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>The dragon makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Wing Attack (Costs 2 Actions)</name>
+      <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
+      <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
+      <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
+      <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
+      <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
+      <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
+      <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment>mountain, hill</environment>
+    </monster>
+  <monster>
+      <name>Angel of Amonkhet</name>
+    <size>M</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The angel's weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The angel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The angel makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Staff</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d8 + 4) bludgeoning damage plus 18 (4d8) radiant damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the angel can't attack another target with its staff.</text>
+      <attack>Staff|+8|1d8+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The angel touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The angel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the angel's choice).</text>
+      <text>In a new form, the angel retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The angel's spellcasting ability is Charisma (spell save DC 17). The angel can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good</text>
+      <text>1/day each: commune, raise dead</text>
+      </trait>
+    <spells>detect evil and good, commune, raise dead</spells>
+    <description>
+Source: Plane Shift: Amonkhet p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Anointed</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>8</ac>
+    <hp>22 (3d8+9)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>13</str>
+    <dex>6</dex>
+    <con>16</con>
+    <int>3</int>
+    <wis>6</wis>
+    <cha>5</cha>
+    <save>Wis +0</save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>understands all languages it spoke in life but can't speak</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces the anointed to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the anointed drops to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
+      <attack>Slam|+3|1d6+1</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 34</description>
+    <environment>urban</environment>
+    </monster>
+  <monster>
+      <name>Archfiend of Ifnir</name>
+    <size>L</size>
+    <type>fiend (demon)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>184 (16d10+96)</hp>
+    <speed>walk 20 ft., fly 30 ft.</speed>
+    <str>21</str>
+    <dex>10</dex>
+    <con>22</con>
+    <int>19</int>
+    <wis>12</wis>
+    <cha>15</cha>
+    <save>Con +11, Int +9, Wis +6, Cha +7</save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages>Abyssal, telepathy 120 ft.</languages>
+    <cr>13</cr>
+    <resist>cold, fire, lightning; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The archfiend has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The archfiend uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 32 (5d10 + 5) piercing damage.</text>
+      <attack>Bite|+10|5d10+5</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 15 (3d6 + 5) slashing damage.</text>
+      <attack>Claw|+10|3d6+5</attack>
+      </action>
+    <action>
+        <name>Horror Nimbus (Recharge 5-6)</name>
+      <text>The archfiend magically emits scintillating, multicolored light. Each creature within 15 feet of the archfiend that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the archfiend's Horror Nimbus for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Teleport</name>
+      <text>The archfiend magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</text>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Cerodon</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>126 (11d12+55)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>24</str>
+    <dex>9</dex>
+    <con>21</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Trampling Charge</name>
+      <text>If the cerodon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the cerodon can make one stomp attack against it as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The cerodon deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Gore</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 25 (4d8 + 7) piercing damage.</text>
+      <attack>Gore|+10|4d8+7</attack>
+      </action>
+    <action>
+        <name>Stomp</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. 29 (4d10 + 7) bludgeoning damage.</text>
+      <attack>Stomp|+10|4d10+7</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 37</description>
+    <environment>arctic</environment>
+    </monster>
+  <monster>
+      <name>Criosphinx</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>228 (24d10+96)</hp>
+    <speed>walk 30 ft., fly 60 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>18</con>
+    <int>16</int>
+    <wis>16</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Arcana +8, History +8, Perception +8, Religion +8</skill>
+    <passive>18</passive>
+    <languages>understands Common, Sphinx</languages>
+    <cr>13</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Inscrutable</name>
+      <text>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The sphinx's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The sphinx makes a ram attack and two claw attacks.</text>
+      </action>
+    <action>
+        <name>Ram</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 17 (3d8 + 4) bludgeoning damage.</text>
+      <attack>Ram|+9|3d8+4</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
+      <attack>Claw|+9|2d8+4</attack>
+      </action>
+    <legendary>
+        <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Ram Attack</name>
+      <text>The sphinx makes one ram attack.</text>
+      </legendary>
+    <legendary>
+        <name>Teleport (Costs 2 Actions)</name>
+      <text>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Amonkhet p. 32</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Eternal</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>14 (studded leather armor)</ac>
+    <hp>45 (6d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>13</wis>
+    <cha>15</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>3</cr>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, the eternal has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The eternal makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.</text>
+      </action>
+    <action>
+        <name>Life Drain</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
+      <attack>Life Drain|+4|1d6+2</attack>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the eternal's control, unless the humanoid is restored to life or its body is destroyed. The eternal can have no more than twelve zombies under its control at one time.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
+      <attack>Longsword|+4|1d8+2</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <attack>Longbow|+4|1d8+2</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 34</description>
+    <environment>underdark, swamp, urban, desert</environment>
+    </monster>
+  <monster>
+      <name>Giant River Serpent</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>168 (16d12+64)</hp>
+    <speed>walk 50 ft., climb 40 ft.</speed>
+    <str>23</str>
+    <dex>16</dex>
+    <con>18</con>
+    <int>7</int>
+    <wis>14</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Perception +6, Stealth +7</skill>
+    <passive>16</passive>
+    <languages>Draconic</languages>
+    <cr>11</cr>
+    <resist></resist>
+    <immune>lightning</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 90 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The serpent makes two attacks: one with its bite and one to constrict.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 22 (3d10 + 6) piercing damage.</text>
+      <attack>Bite|+10|3d10+6</attack>
+      </action>
+    <action>
+        <name>Constrict</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature. 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the serpent isn't already constricting a creature, and the target is restrained until this grapple ends.</text>
+      <attack>Constrict|+10|2d10+6</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The serpent makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the serpent, and it takes 21 (6d6) acid damage at the start of each of the serpent's turns. A serpent can have only one creature swallowed at a time.</text>
+      <text>If the serpent takes 30 damage or more on a single turn from the swallowed creature, the serpent must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the serpent. If the serpent dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</text>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 38</description>
+    <environment>underdark</environment>
+    </monster>
+  <monster>
+      <name>Hippopotamus</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>76 (8d12+24)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>22</str>
+    <dex>9</dex>
+    <con>17</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Trampling Charge</name>
+      <text>If the hippopotamus moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the hippopotamus can make one stomp attack against it as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Hold Breath</name>
+      <text>The hippopotamus can hold its breath for 30 minutes.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 19 (3d8 + 6) piercing damage.</text>
+      <attack>Bite|+8|3d8+6</attack>
+      </action>
+    <action>
+        <name>Stomp</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. 22 (3d10 + 6) bludgeoning damage.</text>
+      <attack>Stomp|+8|3d10+6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 38</description>
+    <environment>grassland</environment>
+    </monster>
+  <monster>
+      <name>Large Drake</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Neutral Good</alignment>
+    <ac>13</ac>
+    <hp>26 (4d10+4)</hp>
+    <speed>walk 10 ft., fly 80 ft.</speed>
+    <str>16</str>
+    <dex>17</dex>
+    <con>13</con>
+    <int>8</int>
+    <wis>14</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>Giant Eagle, understands Common and Auran but can't speak them</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Sight</name>
+      <text>The drake has advantage on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The drake makes two attacks: one with its beak and one with its talons.</text>
+      </action>
+    <action>
+        <name>Beak</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Beak|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Talons</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage.</text>
+      <attack>Talons|+5|2d6+3</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment>mountain, grassland, hill, coastal</environment>
+    </monster>
+  <monster>
+      <name>Manticore, Heart-Piercer</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>136 (16d10+48)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>19</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>5</int>
+    <wis>12</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages></languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The manticore makes two attacks, one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
+      <attack>Claws|+7|2d8+4</attack>
+      </action>
+    <action>
+        <name>Stinger</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 11 (2d6 + 4) piercing damage. The target must make a DC 14 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Stinger|+7|2d6+4</attack>
+      <attack>Stinger||7d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 36</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mindful Marauder</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>97 (13d8+39)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>18</str>
+    <dex>10</dex>
+    <con>17</con>
+    <int>11</int>
+    <wis>18</wis>
+    <cha>16</cha>
+    <save>Con +8, Int +5, Wis +9, Cha +8</save>
+    <skill>History +5, Religion +5</skill>
+    <passive>14</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>15</cr>
+    <resist></resist>
+    <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The marauder has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Rejuvenation</name>
+      <text>A destroyed marauder gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the marauder's heart.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The mummy can use its Dreadful Glare and makes one attack with its rotting fist.</text>
+      </action>
+    <action>
+        <name>Rotting Fist</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.</text>
+      <attack>Rotting Fist|+9|3d6+4</attack>
+      </action>
+    <action>
+        <name>Dreadful Glare</name>
+      <text>The marauder targets one creature it can see within 60 feet of it. If the target can see the marauder, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and marauders for the next 24 hours.</text>
+      </action>
+    <legendary>
+        <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The marauder makes one attack with its rotting fist or uses its Dreadful Glare.</text>
+      </legendary>
+    <legendary>
+        <name>Blinding Dust</name>
+      <text>Blinding dust and sand swirls magically around the marauder. Each creature within 5 feet of the marauder must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Blasphemous Word (Costs 2 Actions)</name>
+      <text>The marauder utters a blasphemous word. Each non-undead creature within 10 feet of the marauder that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the marauder's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Channel Negative Energy (Costs 2 Actions)</name>
+      <text>The marauder magically unleashes negative energy. Creatures within 60 feet of the marauder, including ones behind barriers and around corners, can't regain hit points until the end of the marauder's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Whirlwind of Sand (Costs 2 Actions)</name>
+      <text>The marauder magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the marauder is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the marauder remain in its possession.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
+      <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
+      <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
+      <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
+      <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
+      <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
+      <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
+      <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
+      </legendary>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The marauder is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The marauder has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, guiding bolt, shield of faith</text>
+      <text>• 2nd level (3 slots): hold person, silence, spiritual weapon</text>
+      <text>• 3rd level (3 slots): animate dead, dispel magic</text>
+      <text>• 4th level (3 slots): divination, guardian of faith</text>
+      <text>• 5th level (2 slots): contagion, insect plague</text>
+      <text>• 6th level (1 slots): harm</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1</slots>
+    <spells>sacred flame, thaumaturgy, command, guiding bolt, shield of faith, hold person, silence, spiritual weapon, animate dead, dispel magic, divination, guardian of faith, contagion, insect plague, harm</spells>
+    <description>
+Source: Plane Shift: Amonkhet p. 34</description>
+    <environment>desert</environment>
+    </monster>
+  <monster>
+      <name>Mindless Marauder</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>11 (natural armor)</ac>
+    <hp>58 (9d8+18)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>16</str>
+    <dex>8</dex>
+    <con>15</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save>Wis +2</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>3</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>necrotic, poison</immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The marauder can use its Dreadful Glare and makes one attack with its rotting fist.</text>
+      </action>
+    <action>
+        <name>Rotting Fist</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with marauder rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.</text>
+      <attack>Rotting Fist|+5|2d6+3</attack>
+      </action>
+    <action>
+        <name>Dreadful Glare</name>
+      <text>The marauder targets one creature it can see within 60 feet of it. If the target can see the marauder, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the marauder's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not marauder lords) for the next 24 hours.</text>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 34</description>
+    <environment>desert</environment>
+    </monster>
+  <monster>
+      <name>River Serpent</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>60 (8d12+8)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>19</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages></languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Bite|+6|2d6+4</attack>
+      </action>
+    <action>
+        <name>Constrict</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.</text>
+      <attack>Constrict|+6|2d8+4</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 38</description>
+    <environment>underwater, underdark, forest, swamp, desert</environment>
+    </monster>
+  <monster>
+      <name>Sandwurm</name>
+    <size>G</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>247 (15d20+90)</hp>
+    <speed>walk 50 ft., burrow 30 ft.</speed>
+    <str>28</str>
+    <dex>7</dex>
+    <con>22</con>
+    <int>1</int>
+    <wis>8</wis>
+    <cha>4</cha>
+    <save>Con +11, Wis +4</save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages></languages>
+    <cr>15</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Tunneler</name>
+      <text>The wurm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The wurm makes two attacks: one with its bite and one with its stinger.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the wurm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the wurm, and it takes 21 (6d6) acid damage at the start of each of the wurm's turns.</text>
+      <attack>Bite|+14|3d8+9</attack>
+      <attack>Bite||6d6</attack>
+      <text>If the wurm takes 30 damage or more on a single turn from a creature inside it, the wurm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the wurm. If the wurm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <action>
+        <name>Tail Stinger</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Tail Stinger|+14|3d6+9</attack>
+      <attack>Tail Stinger||12d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 35</description>
+    <environment>underdark, desert</environment>
+    </monster>
+  <monster>
+      <name>Serpopard</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>52 (7d10+14)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +6</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The serpopard has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Pounce</name>
+      <text>If the serpopard moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the serpopard can make one bite attack against it as a bonus action.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (1d10 + 4) piercing damage, and the target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Bite|+6|1d10+4</attack>
+      <attack>Bite||3d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 37</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Small Drake</name>
+    <size>M</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>13 (3d8)</hp>
+    <speed>walk 10 ft., fly 60 ft.</speed>
+    <str>12</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>2</int>
+    <wis>9</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill>Perception +1</skill>
+    <passive>11</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Flyby</name>
+      <text>The drake doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 6 (2d4 + 1) piercing damage</text>
+      <attack>Bite|+3|2d4+1</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment>mountain, grassland, coastal</environment>
+    </monster>
+  <monster>
+      <name>Soulstinger Demon</name>
+    <size>L</size>
+    <type>fiend (demon)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>19 (natural armor)</ac>
+    <hp>142 (15d10+60)</hp>
+    <speed>walk 40 ft., fly 40 ft.</speed>
+    <str>18</str>
+    <dex>16</dex>
+    <con>18</con>
+    <int>13</int>
+    <wis>14</wis>
+    <cha>16</cha>
+    <save>Int +5, Wis +6, Cha +7</save>
+    <skill>Deception +7, Insight +6</skill>
+    <passive>12</passive>
+    <languages>Infernal, telepathy 120 ft.</languages>
+    <cr>9</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Magical darkness doesn't impede the demon's darkvision.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The demon has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The demon makes three attacks: two with its claws and one with its sting.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 8 (1d8 + 4) slashing damage.</text>
+      <attack>Claw|+8|1d8+4</attack>
+      </action>
+    <action>
+        <name>Sting</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Sting|+8|2d8+4</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Young Amonkhet Dragon</name>
+    <size>L</size>
+    <type>dragon</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>178 (17d10+85)</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 80 ft.</speed>
+    <str>23</str>
+    <dex>10</dex>
+    <con>21</con>
+    <int>14</int>
+    <wis>11</wis>
+    <cha>19</cha>
+    <save>Dex +4, Con +9, Wis +4, Cha +8</save>
+    <skill>Perception +8, Stealth +4</skill>
+    <passive>18</passive>
+    <languages>Common, Draconic</languages>
+    <cr>10</cr>
+    <resist></resist>
+    <immune>fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft., darkvision 120 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragon makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.</text>
+      <attack>Bite|+10|2d10+6</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage.</text>
+      <attack>Claw|+10|2d6+6</attack>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||16d6</attack>
+      </action>
+    <description>
+Source: Plane Shift: Amonkhet p. 33</description>
+    <environment>mountain, hill</environment>
+    </monster>
+  </compendium>

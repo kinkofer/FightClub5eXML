@@ -1,0 +1,1183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Bard</name>
+    <hd>8</hd>
+    <proficiency>Dexterity, Charisma, Athletics, Acrobatics, Sleight Of Hand, Stealth, Arcana, History, Investigation, Nature, Religion, Animal Handling, Insight, Medicine, Perception, Survival, Deception, Intimidation, Performance, Persuasion</proficiency>
+    <numSkills>3</numSkills>
+    <spellAbility>Charisma</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Bard</name>
+        <text>As a 1st-level Bard, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: simple, hand crossbows, longswords, rapiers, shortswords</text>
+        <text>• Tools: three {@item musical instrument|PHB|musical instruments} of your choice</text>
+        <text>• Skills: Choose 3 from Athletics, Acrobatics, Sleight Of Hand, Stealth, Arcana, History, Investigation, Nature, Religion, Animal Handling, Insight, Medicine, Perception, Survival, Deception, Intimidation, Performance, Persuasion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a rapier, (b) a longsword, or (c) any simple weapon</text>
+        <text>• (a) a diplomat's pack or (b) an entertainer's pack</text>
+        <text>• (a) a lute or (b) any other musical instrument</text>
+        <text>• Leather armor, and a dagger</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Bard</name>
+        <text>To multiclass as a Bard, you must meet the following prerequisites:</text>
+        <text>• Charisma 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: none</text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <armor>light</armor>
+    <weapons>simple, hand crossbows, longswords, rapiers, shortswords</weapons>
+    <tools>three {@item musical instrument|PHB|musical instruments} of your choice</tools>
+    <wealth>5d4 x 10</wealth>
+    <autolevel level="1">
+        <slots>2, 2</slots>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Bardic Inspiration</name>
+        <text>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</text>
+        <text>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</text>
+        <text>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</text>
+        <text>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Magical Inspiration</name>
+        <text>1st-level bard feature (enhances Bardic Inspiration)</text>
+        <text>If a creature has a Bardic Inspiration die from you and casts a spell, the creature can roll that die and add the number rolled to one damage or healing roll of the spell. The Bardic Inspiration die is then lost.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Spellcasting</name>
+        <text>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   You know four 1st-level spells of your choice from the bard spell list.</text>
+        <text>   You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>   Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Ritual Casting:</text>
+        <text>   You can cast any bard spell you know as a ritual if that spell has the ritual tag.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use a musical instrument as a spellcasting focus for your bard spells.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Spell Versatility</name>
+        <text>1st-level bard feature (enhances Spellcasting)</text>
+        <text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the bard spell list. The new spell must be the same level as the spell you replace.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>2, 3</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Jack of All Trades</name>
+        <text>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Song of Rest (d6)</name>
+        <text>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.</text>
+        <text>The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>2, 4, 2</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Bard College</name>
+        <text>At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Lore</name>
+        <text>Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.</text>
+        <text>The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.</text>
+        <text>The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Lore: Bonus Proficiencies</name>
+        <text>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Lore: Cutting Words</name>
+        <text>Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Valor</name>
+        <text>Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Valor: Bonus Proficiencies</name>
+        <text>When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Valor: Combat Inspiration</name>
+        <text>Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): College of Glamour</name>
+        <text>The College of Glamour is open to those bards who mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.</text>
+        <text>The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. The bards of this college are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Enthralling Performance</name>
+        <text>Starting at 3rd level, you can charge your performance with seductive fey magic.</text>
+        <text>If you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.</text>
+        <text>If a target succeeds on its save against this effect, the target has no hint that you tried to charm it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Inspiration</name>
+        <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed.</text>
+        <text>As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points.</text>
+        <text>When a target gains these temporary hit points, it can also use its reaction to move up to its speed toward you, without provoking opportunity attacks. It must take the shortest, safest path to you.</text>
+        <text>The number of temporary hit points increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): College of Whispers</name>
+        <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</text>
+        <text>Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards' reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Venomous Blades</name>
+        <text>When you join the College of Whispers at 3rd level, you gain the ability to magically make your weapon attacks toxic for a moment.</text>
+        <text>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn.</text>
+        <text>The additional damage increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Venomous Words</name>
+        <text>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic. A creature that hears you speak can become plunged into fear and paranoia.</text>
+        <text>If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there.</text>
+        <text>If the target succeeds on its save, the target has no hint that you tried to frighten it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short rest or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords (UA): College of Swords</name>
+        <text>Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. But though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.</text>
+        <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust them.</text>
+        <text>Blades who abandon lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most performer troupes. With their weapon skills as their greatest asset, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords (UA): Blade Flourish</name>
+        <text>At 3rd level, you learn to conduct impressive displays of skill with your weapons. When you use the Attack action on your turn and attack with a dagger, longsword, rapier, scimitar, or shortsword, you can attempt one of the following flourishes.</text>
+        <name>College of Swords (UA): Defensive Flourish</name>
+        <text>   You spin your weapon around you in swift circles, creating a hypnotic display. As a bonus action, you expend one use of Bardic Inspiration, rolling a Bardic Inspiration die and applying the number rolled as a bonus to your AC until the start of your next turn.</text>
+        <name>College of Swords (UA): Trick Shooter's Flourish</name>
+        <text>   This favorite trick of knife throwers allows you to expend one use of Bardic Inspiration as a bonus action. Roll a Bardic Inspiration die and apply the number rolled as a bonus to the next ranged attack roll you make with a dagger this turn. If the target of the attack is an unattended, inanimate object, the bonus equals double the die roll.</text>
+        <name>College of Swords (UA): Unnerving Flourish</name>
+        <text>   Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one use of Bardic Inspiration, and instead leave the creature at 1 hit point.</text>
+        <text>   The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your spellcasting DC + a bonus equal to the roll of your Bardic Inspiration die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords (UA): Bonus Proficiencies</name>
+        <text>When you join the College of Blades at 3rd level, you gain proficiency with medium armor and with scimitars.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords (UA): Fighting Style</name>
+        <text>The College of Blades emphasizes mastery with weapons, granting you access to the two-weapon fighting option for the Fighting Style class feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): College of Swords v2</name>
+        <text>Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. But though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.</text>
+        <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust them.</text>
+        <text>Blades who abandon lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most performer troupes. With their weapon skills as their greatest asset, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): Blade Flourish</name>
+        <text>At 3rd level, you learn to conduct impressive displays of skill with your weapons. As a standard action, you can make a standard melee attack and increase your walking speed by 10 feet until the end of the current turn. Whenever you use this option, you can also use one of the following Blade Flourish options with it.</text>
+        <name>College of Swords v2 (UA): Defensive Flourish</name>
+        <text>   You spin your weapon around you in swift circles, creating a hypnotic display. You can expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and applying the number rolled as a bonus to your AC until the start of your next turn.</text>
+        <name>College of Swords v2 (UA): Slashing Flourish</name>
+        <text>   If the attack hits its target, you can expend one of your uses of Bardic Inspiration to cause the weapon to damage each creature of your choice, other than the target, that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.</text>
+        <name>College of Swords v2 (UA): Mobile Flourish</name>
+        <text>   If the attack hits its target, you can expend one of your uses of Bardic Inspiration to push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on the Bardic Inspiration die. You can then immediately use your reaction to move up to your speed to an unoccupied space within 5 feet of the target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): Bonus Proficiencies</name>
+        <text>When you join the College of Blades at 3rd level, you gain proficiency with medium armor and with scimitars. If you are proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your Bard spells.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): Fighting Style</name>
+        <text>The College of Blades emphasizes mastery with weapons, granting you access to either the dueling or two-weapon fighting option for the Fighting Style class feature, which are as follows.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Satire (UA): College of Satire</name>
+        <text>Bards of the College of Satire are called jesters. They use lowbrow stories, daring acrobatics, and cutting jokes to entertain audiences, ranging from the crowds in a rundown dockside pub to the nobles of a king's royal court. Where other bards seek forgotten lore or tales of epic bravery, jesters ferret out embarrassing and hilarious stories of all kinds. Whether telling the ribald tale of a brawny stable hand's affair with an aged duchess or a mocking satire of a paladin of Helm's cloying innocence, a jester never lets taste, social decorum, or shame get in the way of a good laugh.</text>
+        <text>While jesters are masters of puns, jokes, and verbal barbs, they are much more than just comic relief. They are expected to mock and provoke, taking advantage of how even the most powerful folk are expected by tradition to endure a jester's barbs with good humor. This expectation allows a jester to serve as a critic or a voice of reason when others are too intimidated to speak the truth.</text>
+        <text>For the duchess with a taste for strapping young laborers, such tales might serve to warn the targets of her affections and force her to change her ways for lack of willing partners. Striking back at the jester only ruins her already damaged reputation, and might provide the best evidence that the jester's satires have hit their mark. But if she is kind and generous to her conquests, the jokes and stories cast her as a kind of folk hero, while drawing even more potential partners to her.</text>
+        <text>Jesters are loyal to only one cause: the pursuit and propagation of the truth. They use their comedy and innocuous appearance to break down social barriers and expose corruption, incompetence, and stupidity among the rich and powerful. Whether revealing a con artist's treachery or exposing a baron's plans for war as driven by greed and bloodlust, a jester serves as the conscience of a realm.</text>
+        <text>Jesters adventure to safeguard the common folk and to undermine the plans of the rich, powerful, and arrogant. Their magic bolsters allies' spirits while casting doubt into foes' minds. Among bards, jesters are unmatched acrobats, and their ability to tumble, dodge, leap, and climb makes them slippery opponents in battle.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Satire (UA): Bonus Proficiencies</name>
+        <text>When you join the College of Satire at 3rd level, you gain proficiency with thieves' tools. You also gain proficiency in Sleight of Hand and one additional skill of your choice. If you are already proficient with thieves' tools or in Sleight of Hand, choose another skill proficiency for each proficiency you already have.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Satire (UA): Tumbling Fool</name>
+        <text>At 3rd level, you master a variety of acrobatic techniques that allow you to evade danger. As a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:</text>
+        <text>• You gain the benefits of taking the Dash and Disengage actions.</text>
+        <text>• You gain a climbing speed equal to your current speed.</text>
+        <text>• You take half damage from falling.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Glamour</name>
+        <text>The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under the tutelage of someone who dwelled there. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.</text>
+        <text>The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. These bards are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, misusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 14</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour: Enthralling Performance</name>
+        <text>Starting at 3rd level, you can charge your performance with seductive, fey magic.</text>
+        <text>If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who talks to it, and it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.</text>
+        <text>If a target succeeds on its saving throw, the target has no hint that you tried to charm it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 14</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour: Mantle of Inspiration</name>
+        <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.</text>
+        <text>As a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and that can see you within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one). Each of them gains 5 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.</text>
+        <text>The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 14</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Swords</name>
+        <text>Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.</text>
+        <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust a blade in their ranks.</text>
+        <text>Blades who abandon their lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Blade Flourish</name>
+        <text>At 3rd level, you learn to perform impressive displays of martial prowess and speed.</text>
+        <text>Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Bonus Proficiencies</name>
+        <text>When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the scimitar.</text>
+        <text>If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Fighting Style</name>
+        <text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Defensive Flourish</name>
+        <text>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Mobile Flourish</name>
+        <text>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Swords: Slashing Flourish</name>
+        <text>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Whispers</name>
+        <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</text>
+        <text>Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard's reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 16</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers: Psychic Blades</name>
+        <text>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.</text>
+        <text>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra 2d6 psychic damage to that target. You can do so only once per round on your turn.</text>
+        <text>The psychic damage increases when you reach certain levels in this class, increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 16</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers: Words of Terror</name>
+        <text>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.</text>
+        <text>If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you or another creature of your choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.</text>
+        <text>If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 16</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence (UA): College of Eloquence</name>
+        <text>Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more powerful than objective truth. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments, and plucking at heartstrings to appeal to the emotions of entire audiences.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence (UA): Soothing Words</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You can now cast calm emotions without expending a spell slot. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses of this feature when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence (UA): Universal Speech</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You have gained the ability to speak and reason with any creature. As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, roll your Bardic Inspiration die, and choose a number of creatures within 60 feet of you that you can see equal to the roll. For 10 minutes, the chosen creatures can magically understand you, regardless of the language you speak, and you have advantage on Charisma checks made to influence them. This feature works even on a creature that doesn't speak any languages.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Creation (UA): College of Creation</name>
+        <text>Bards believe the multiverse was given existence through word and sound, esoteric harmonies that continue to resound through existence: the Song of Creation. The bards of this college draw on this ancient power through performances of dance, music, or song to bring into being what they need most.</text>
+        <text>Members of this college might have developed their powers during experiences on other worlds or planes of existence. Those who have seen the commonalities of multiple realities might have learned how to tap into truths most mortals glimpse only for a moment. Alternatively, the bard might find themselves out of step with their own home plane, reality, or time, their connections to elsewhere allowing them to manipulate the space around them. Regardless of where a bard draws their powers from, other performers might be drawn to them, either to learn their secrets or to put an end to their dangerous manipulation of the Song of Creation.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Creation (UA): Note of Potential</name>
+        <text>3rd-level College of Creation feature</text>
+        <text>You can manipulate the Song of Creation to summon a floating musical note of possibility: Whenever you give a creature a Bardic Inspiration die, you can create a Note of Potential. The note orbits within 5 feet of the creature. The note is a Tiny object that is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. A creature with a note can use it in the following ways.</text>
+        <name>College of Creation (UA): Note of Destruction</name>
+        <text>   Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll, the creature can expend the note to create a burst of sound. Each other creature within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.</text>
+        <name>College of Creation (UA): Note of Protection</name>
+        <text>   Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the creature can expend the note to gain temporary hit points equal to the number rolled on the Bardic Inspiration die + your Charisma modifier, provided the creature doesn't already have temporary hit points.</text>
+        <name>College of Creation (UA): Note of Ingenuity</name>
+        <text>   When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can expend the note to roll the Bardic Inspiration die again and choose which roll to use.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Eloquence</name>
+        <text>Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence: Silver Tongue</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You are a master at saying the right thing at the right time. When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence: Unsettling Words</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a bonus action, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Spirits (UA): College of Spirits</name>
+        <text>Stories of the past are powerful; they hold lessons of history, philosophy, and magic. Bards of the College of Spirits seek the stories of those from beyond the material plane. Using gaming sets, they reach out to hear their stories, but the bards have no control over what story they find.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Guiding Whispers</name>
+        <text>3rd-level College of Spirits feature</text>
+        <text>You can reach out to spirits to guide you and others. You learn the guidance cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Spiritual Focus</name>
+        <text>3rd-level College of Spirits feature</text>
+        <text>Your practice of contacting spirits can employ special tools. You can use the following objects as a spellcasting focus for your bard spells: a candle, a crystal ball, a talking board, a tarokka deck, or a skull.</text>
+        <text>At 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a d6, and you gain a bonus to one roll of the spell equal to the number rolled.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Tales from Beyond</name>
+        <text>3rd-level College of Spirits feature</text>
+        <text>You reach out to spirits who tell their tales through you. While you are holding your Spiritual Focus, you can use a bonus action to expend one use of your Bardic Inspiration and roll on the Spirits' Tales table using your Bardic Inspiration die to determine the tale told. You retain the tale in mind until you bestow the tale's effect or you finish a short or long rest.</text>
+        <text>You can use an action to choose one creature you can see within 30 feet of you (this can be you) to be the target of the tale's effect. Once you do so, you can't bestow the tale's effect again until you roll it again.</text>
+        <text>You can retain only one of these tales in mind at a time, and rolling on the Spirits' Tales table immediately ends the effect of the previous tale. If the tale requires a saving throw, the DC equals your spell save DC.</text>
+        <text></text>
+        <text>Spirits' Tales</text>
+        <text>Bardic Insp. Die | Tale</text>
+        <text>1 | 1 Beast. You recite the tale of a clever animal. For 1 minute, the target has advantage on Wisdom (Perception) checks and advantage on attack rolls against a creature if another enemy is within 5 feet of it, and that enemy isn't incapacitated.</text>
+        <text>2 | 2 Warrior. You recount the story of a renowned duelist. Make a melee spell attack against the target as an attacking spectral warrior briefly appears in an unoccupied space within 5 feet of the target before vanishing. On a hit, the target takes force damage equal to two rolls of your Bardic Inspiration die + your Charisma modifier.</text>
+        <text>3 | 3 Friends. You recite the tale of friends who found each other in the afterlife. The target and another creature of its choice it can see within 5 feet of it regains hit points equal to a roll of your Bardic Inspiration die + your Charisma modifier.</text>
+        <text>4 | 4 Runaway. You tell the tale of an adventurer that could escape any confinement. The target can immediately use its reaction to teleport up to 30 feet to an unoccupied space it can see. When the target teleports, it can choose a number of creatures it can see within 30 feet of it up to your Charisma modifier (minimum of 1) to immediately use the same reaction.</text>
+        <text>5 | 5 Avenger. You recount the tale of an avenging knight. For 1 minute, whenever a creature the target can see within 30 feet of it is damaged by a creature, the target can use its reaction to deal force damage equal to a roll of your Bardic Inspiration die to the attacker.</text>
+        <text>6 | 6 Hero. You speak the tale of an epic hero. Choose a creature you can see within 30 feet of you. The target gains temporary hit points equal to a roll of your Bardic Inspiration die + your bard level. While it has these temporary hit points, the target's walking speed increases by 10 feet.</text>
+        <text>7 | 7 Fey. You recount the tale of a mischievous fey. The target must succeed on a Wisdom saving throw or become charmed by you until the end of its next turn. The charmed target must use its action to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no other creature.</text>
+        <text>8 | 8 Dark Spirit. You speak a dreadful tale of a slayer in the dark. The target becomes invisible until the end of its next turn or until it hits a creature with an attack. If it hits a creature with an attack during this invisibility, that creature takes necrotic damage equal to a roll of your Bardic Inspiration die and is frightened of the target until the end of its next turn.</text>
+        <text>9 | 9 Giant. You speak of the deeds of a mighty giant. Each creature of the target's choice it can see within 30 feet of it must make a Strength saving throw, taking force damage equal to two rolls of your Bardic Inspiration die on a failed save and is knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone.</text>
+        <text>10 | 10 Dragon. You breathe a poem of a wrathful dragon. The target magically spews fire from their mouth in a 30-foot cone. Each creature in that area must make a Dexterity saving throw, taking fire damage equal to three rolls of your Bardic Inspiration die on a failed save, or half as much damage on a successful one.</text>
+        <text>11 | 11 Celestial. You speak of the exalted deeds of a celestial. The target regains hit points equal to two rolls of your Bardic Inspiration die + your bard level, and you end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, petrified, or poisoned.</text>
+        <text>12 | 12 Unknown. You utter an incomprehensible fable from a being beyond the stars. Choose a creature you can see within 30 feet of you. The target must succeed on an Intelligence saving throw or take psychic damage equal to three rolls of your Bardic Inspiration die, and the target is unable to speak any language for 1 minute.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Expertise</name>
+        <text>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</text>
+        <text>At 10th level, you can choose another two skill proficiencies to gain this benefit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>3, 4, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>4th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>3, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Bardic Inspiration (d8)</name>
+        <text>At 5th level, your Bardic Inspiration die changes to a d8.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Font of Inspiration</name>
+        <text>Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>3, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Countercharm</name>
+        <text>At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Bard College feature</name>
+        <text>At 6th level, you gain a feature from your Bard College.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Lore: Additional Magical Secrets</name>
+        <text>At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Valor: Extra Attack</name>
+        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Majesty</name>
+        <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Mantle of Whispers</name>
+        <text>At 6th level, you gain the ability to adopt a creature's persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you're Small), and you can have only one shadow captured at a time.</text>
+        <text>After you capture a creature's shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature's appearance for 1 hour or until you end this effect as a bonus action.</text>
+        <text>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</text>
+        <text>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</text>
+        <text>The disguise and the knowledge it grants disappears when this ability's duration ends.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Swords (UA): Extra Attack</name>
+        <text>Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): Cunning Flourish</name>
+        <text>Beginning at 6th level, you can attack twice, instead of once, whenever you take the Blade Flourish action on your turn. You can, nevertheless, only use one Blade Flourish option when you take that action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Satire (UA): Fool's Insight</name>
+        <text>At 6th level, your ability to gather stories and lore gains a supernatural edge. You can cast detect thoughts up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.</text>
+        <text>If a creature resists your attempt to probe deeper and succeeds at its saving throw against your detect thoughts, it immediately suffers an embarrassing social gaffe. It might loudly pass gas, unleash a thunderous burp, trip and fall, or be compelled to tell a tasteless joke.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Glamour: Mantle of Majesty</name>
+        <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast command, without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your concentration ends (as if you were concentrating on a spell). During this time, you can cast command as a bonus action on each of your turns, without expending a spell slot.</text>
+        <text>Any creature charmed by you automatically fails its saving throw against the command you cast with this feature.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 14</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Swords: Extra Attack</name>
+        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Whispers: Mantle of Whispers</name>
+        <text>At 6th level, you gain the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.</text>
+        <text>You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.</text>
+        <text>While you're in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.</text>
+        <text>Another creature can see through this disguise by succeeding on a Wisdom (Insight) check contested by your Charisma (Deception) check. You gain a +5 bonus to your check.</text>
+        <text>Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 16</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Eloquence (UA): Undeniable Logic</name>
+        <text>6th-level College of Eloquence feature</text>
+        <text>You can spin words laced with magic into a knot of reasoning that can be encouraging or impossible to follow.</text>
+        <text>As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, choose a creature you can see within 60 of you that can hear you, then roll your Bardic Inspiration die and choose one of the following:</text>
+        <text>• The creature takes psychic damage equal to the number you roll on the Bardic Inspiration die, and the creature must succeed on an Intelligence saving throw against your spell save DC or have disadvantage on the next saving throw it makes before the end of your next turn.</text>
+        <text>• The creature regains hit points equal to the number you roll on the Bardic Inspiration die, and the creature has advantage on the next saving throw it makes before the end of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Creation (UA): Animating Performance</name>
+        <text>6th-level College of Creation feature</text>
+        <text>Your mastery over the Song of Creation allows you to magically bring items to life. As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the Dancing Item stat block and is under your control for 1 hour or until it is reduced to 0 hit points.</text>
+        <text>In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
+        <text>When you use your Bardic Inspiration feature, you can command which action your animated item takes as part of the same bonus action.</text>
+        <text>Once you animate an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher to use this feature. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Eloquence: Unfailing Inspiration</name>
+        <text>6th-level College of Eloquence feature</text>
+        <text>Your inspiring words are so persuasive that others feel driven to succeed. When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Eloquence: Universal Speech</name>
+        <text>6th-level College of Eloquence feature</text>
+        <text>You have gained the ability to make your speech intelligible to any creature. As an action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest, unless you expend a spell slot to use it again.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Spirit Session</name>
+        <text>6th-level College of Spirits feature</text>
+        <text>You can channel spirits to gain insights into magic. You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your Spiritual Focus. You can conduct the ritual with a number of creatures equal to your proficiency bonus (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.</text>
+        <text>The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must of a level you can cast, and it must be in the school of divination or necromancy. The chosen spell counts as a bard spell for you but doesn't count against the number of bard spells you know.</text>
+        <text>Once you perform the ritual, you can't do so again until you start a long rest, and you know the chosen spell until you start a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Spiritual Focus</name>
+        <text>6th-level College of Spirits feature</text>
+        <text>At 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a d6, and you gain a bonus to one roll of the spell equal to the number rolled.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>3, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>3, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>8th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>3, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="9">
+        <feature>
+          <name>Song of Rest (d8)</name>
+        <text>At 9th level, the extra hit points gained from Song of Rest increases to 1d8.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <slots>4, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Bardic Inspiration (d10)</name>
+        <text>At 10th level, your Bardic Inspiration die changes to a d10.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Expertise</name>
+        <text>At 10th level, you can choose another two skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Magical Secrets</name>
+        <text>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</text>
+        <text>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</text>
+        <text>You learn two additional spells from any classes at 14th level and again at 18th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>4, 4, 3, 3, 3, 2, 1</slots>
+      </autolevel>
+    <autolevel level="12">
+        <slots>4, 4, 3, 3, 3, 2, 1</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>12th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>4, 4, 3, 3, 3, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Song of Rest (d10)</name>
+        <text>At 13th level, the extra hit points gained from Song of Rest increases to 1d10.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <slots>4, 4, 3, 3, 3, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Magical Secrets</name>
+        <text>At 14th level, choose two additional spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</text>
+        <text>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Bard College feature</name>
+        <text>At 14th level, you gain a feature from your Bard College.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Lore: Peerless Skill</name>
+        <text>Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Valor: Battle Magic</name>
+        <text>At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Majesty</name>
+        <text>At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely.</text>
+        <text>In addition, through this feature, you can cast sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn.</text>
+        <text>Once you cast sanctuary using this feature, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Shadow Lore</name>
+        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.</text>
+        <text>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</text>
+        <text>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</text>
+        <text>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</text>
+        <text>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Swords (UA): Battle Magic</name>
+        <text>At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Swords v2 (UA): Master's Flourish</name>
+        <text>Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Satire (UA): Fool's Luck</name>
+        <text>Jesters seem to have a knack for pulling themselves out of tight situations, transforming what looks like sure failure into an embarrassing but effective success.</text>
+        <text>At 14th level, you can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one.</text>
+        <text>If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Kits Of Old p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Glamour: Unbreakable Majesty</name>
+        <text>At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.</text>
+        <text>In addition, as a bonus action, you can assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.</text>
+        <text>Once you assume this majestic presence, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 14</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Swords: Master's Flourish</name>
+        <text>Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 15</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Whispers: Shadow Lore</name>
+        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.</text>
+        <text>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</text>
+        <text>On a failed saving throw, the target is charmed by you for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.</text>
+        <text>The charmed creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</text>
+        <text>When the effect ends, the creature has no understanding of why it held you in such fear.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 16</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Eloquence (UA): Infectious Inspiration</name>
+        <text>14th-level College of Eloquence feature</text>
+        <text>When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.</text>
+        <text>In addition, when a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses. You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Creation (UA): Performance of Creation</name>
+        <text>14th-level College of Creation feature</text>
+        <text>Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level and must be Large or smaller. Tiny glimmering, intangible notes float around it, and a creature can faintly hear music when touching it. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, Tools, and Mounts and Vehicles tables in chapter 5, "Equipment," of the Player's Handbook.</text>
+        <text>The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item's duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.</text>
+        <text>Once you create an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 5th level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Eloquence: Infectious Inspiration</name>
+        <text>14th-level College of Eloquence feature</text>
+        <text>When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.</text>
+        <text>You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Spirits (UA): Mystical Connection</name>
+        <text>14th-level College of Spirits feature</text>
+        <text>Your connection to spirits has become semi-permanent. Whenever you use your Tales from Beyond feature, you can roll a d6 and use it instead of expending a Bardic Inspiration die. You still use your Bardic Inspiration die for the tale's effect, without expending it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>4, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Bardic Inspiration (d12)</name>
+        <text>At 15th level, your Bardic Inspiration die changes to a d12.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>4, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>16th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>4, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Song of Rest (d12)</name>
+        <text>At 17th level, the extra hit points gained from Song of Rest increases to 1d12.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <slots>4, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Magical Secrets</name>
+        <text>At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</text>
+        <text>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>4, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>19th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>4, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Superior Inspiration</name>
+        <text>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 51</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

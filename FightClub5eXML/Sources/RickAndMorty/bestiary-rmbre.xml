@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Billy Beaver</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>34 (7d10+21)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>20</str>
+    <dex>12</dex>
+    <con>17</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +3</skill>
+    <passive>13</passive>
+    <languages>Common</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Sight and Smell</name>
+      <text>Billy Beaver has advantage on Wisdom (Perception) checks that rely on sight or smell.</text>
+      </trait>
+    <action>
+        <name>Beak</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 10 (1d10 + 5) piercing damage.</text>
+      <attack>Beak|+7|1d10+5</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 27</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Buster the Bear</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>16 (hide armor, shield)</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>13</con>
+    <int>8</int>
+    <wis>11</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill>Stealth +6, Survival +2</skill>
+    <passive>10</passive>
+    <languages>Common</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Surprise Attack</name>
+      <text>If Buster the Bear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</text>
+      </trait>
+    <action>
+        <name>Bashin' Banjo</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage.</text>
+      <attack>Bashin' Banjo|+4|1d8+2</attack>
+      </action>
+    <description>Buster the Bear is a lovable, roly-poly teddy bear with a plaid shirt, torn jeans, and a banjo.
+The five automatons that serve as the tavern's wait staff each have a name tag, are super friendly to the patrons, and attend to everyone's needs until it comes time for the Slaughterfest. If an automaton is attacked before the Slaughterfest, it giggles and repeats folksy homilies until it is destroyed. The next round, it magically pops back to life fully healed, then asks, "What can I do for ya?"
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 27</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Large Mimic (Multiattack)</name>
+    <size>L</size>
+    <type>monstrosity (shapechanger)</type>
+    <alignment>Neutral</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>75 (9d8+18)</hp>
+    <speed>walk 15 ft.</speed>
+    <str>17</str>
+    <dex>12</dex>
+    <con>15</con>
+    <int>5</int>
+    <wis>13</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Stealth +5</skill>
+    <passive>11</passive>
+    <languages></languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune>acid</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>prone</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Shapechanger</name>
+      <text>The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+      </trait>
+    <trait>
+        <name>Adhesive (Object Form Only)</name>
+      <text>The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.</text>
+      </trait>
+    <trait>
+        <name>False Appearance (Object Form Only)</name>
+      <text>While the mimic remains motionless, it is indistinguishable from an ordinary object.</text>
+      </trait>
+    <trait>
+        <name>Grappler</name>
+      <text>The mimic has advantage on attack rolls against any creature grappled by it.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The mimic makes three attacks: two with its pseudopods and one with its bite.</text>
+      </action>
+    <action>
+        <name>Pseudopod</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.</text>
+      <attack>Pseudopod|+5|1d8+3</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.</text>
+      <attack>Bite|+5|1d8+3</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 122</description>
+    <environment>underdark, urban</environment>
+    </monster>
+  <monster>
+      <name>Layla the Lizard</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>12</ac>
+    <hp>22 (5d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>13</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>7</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. 9 (2d6 + 2) piercing damage.</text>
+      <attack>Bite|+2|2d6+2</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) slashing damage.</text>
+      <attack>Claws|+4|2d4+2</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 28</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Lycanthropickle</name>
+    <size>S</size>
+    <type>plant</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>4 (1d6+1)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>6</str>
+    <dex>13</dex>
+    <con>12</con>
+    <int>4</int>
+    <wis>8</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill>Stealth +3</skill>
+    <passive>9</passive>
+    <languages>Common understands but can't speak</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune>blinded, deafened</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the lycanthropickle remains motionless, it is indistinguishable from a pickle.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage.</text>
+      <attack>Claws|+3|1d4+1</attack>
+      </action>
+    <description>Curse of Lycanthropickling. 
+------
+A humanoid creature has a 20 percent chance to be afflicted with the curse of lycanthropickling after being wounded by a lycanthropickle. The curse lasts for 3 days. Each long rest the creature spends in a vat or jar of pickling brine prolongs the curse by 1 day.
+A lycanthropickle can either resist its curse or embrace it. By resisting the curse, a lycanthropickle retains its normal alignment and personality while in humanoid form. It lives its boring life as it always has, burying deep its raging, murderous urges just like the rest of us.
+Some individuals see little point in fighting the curse and accept what they are. They can assume pickle form or hybrid form at will. Most lycanthropickles that embrace their briny natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
+In hybrid form, a lycanthropickle has the same statistics as a twig blight with the altered ability noted here.
+In pickle form, a lycanthropickle has no statistics and is indistinguishable from a pickle... because it's a pickle.
+------
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 11</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Meeseeks</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>10</ac>
+    <hp>0</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>—(immune to damage)</text>
+      </trait>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Club|+2|1d4</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 16</description>
+    <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
+    </monster>
+  <monster>
+      <name>Piggy Wiggle Butt</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>13 (hide armor)</ac>
+    <hp>15 (2d8+6)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>12</dex>
+    <con>16</con>
+    <int>7</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Intimidation +2</skill>
+    <passive>10</passive>
+    <languages>Common</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Aggressive</name>
+      <text>As a bonus action, Piggy Wiggle Butt can move up to its speed toward a hostile creature that it can see.</text>
+      </trait>
+    <action>
+        <name>Clay Jug</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage.</text>
+      <attack>Clay Jug|+5|1d8+3</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 28</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Thomas T. Toad</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>11 (hide armor)</ac>
+    <hp>59 (7d10+21)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>19</str>
+    <dex>8</dex>
+    <con>16</con>
+    <int>5</int>
+    <wis>7</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>Common</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Webby Hands</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) bludgeoning damage.</text>
+      <attack>Webby Hands|+6|1d8+4</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 28</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Tommy Two-Butts</name>
+    <size>M</size>
+    <type>humanoid (goblinoid)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>16 (hide armor, shield)</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>13</con>
+    <int>8</int>
+    <wis>11</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill>Stealth +6, Survival +2</skill>
+    <passive>10</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Brute</name>
+      <text>A melee weapon deals one extra die of its damage when Tommy hits with it (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Surprise Attack</name>
+      <text>If Tommy surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</text>
+      </trait>
+    <action>
+        <name>Morningstar</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 11 (2d8 + 2) piercing damage.</text>
+      <attack>Morningstar|+4|2d8+2</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.</text>
+      <attack>Javelin|+4|2d6+2</attack>
+      </action>
+    <description>
+Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 18</description>
+    <environment>underdark, grassland, forest</environment>
+    </monster>
+  </compendium>

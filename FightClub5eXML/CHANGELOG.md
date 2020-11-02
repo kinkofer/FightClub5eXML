@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2020-11-02
+
+Added "Everything" collection, a preview for the new format.
+
 ### 2020-06-06
 
 Added Mythic Odysseys of Theros as a supplement source.

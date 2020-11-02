@@ -1,0 +1,2930 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Abyssal Chicken</name>
+    <size>T</size>
+    <type>fiend (demon)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>10 (3d4+3)</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>6</str>
+    <dex>14</dex>
+    <con>13</con>
+    <int>4</int>
+    <wis>9</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages>understands Abyssal but can't speak</languages>
+    <cr>1/4</cr>
+    <resist>cold, fire, lightning</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, poisoned</conditionImmune>
+    <senses>blindsight 30ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Bad Flier</name>
+      <text>The abyssal chicken falls at the end of a turn if it's airborne and the only thing holding it aloft is its flying speed.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The abyssal chicken makes two attacks: one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Bite|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
+      <attack>Claws|+4|1d6+2</attack>
+      </action>
+    <description>Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.
+With your permission, a character who casts the find familiar spell can henceforth choose to conjure an abyssal chicken instead of a raven.
+Source: Baldur's Gate: Descent Into Avernus p. 97</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Amrik Vanthampur</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (leather armor, charisma modifier)</ac>
+    <hp>66 (12d8+12)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>12</str>
+    <dex>18</dex>
+    <con>12</con>
+    <int>14</int>
+    <wis>14</wis>
+    <cha>15</cha>
+    <save></save>
+    <skill>Acrobatics +6, Athletics +3, Deception +6, Insight +6</skill>
+    <passive>12</passive>
+    <languages>Common, Infernal</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Suave Defense</name>
+      <text>While Amrik is wearing light or no armor and wielding no shield, his AC includes his Charisma modifier.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Amrik makes three dagger attacks.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
+      <attack>Dagger|+6|1d4+4</attack>
+      </action>
+    <action>
+        <name>Smoke Bomb (1/Day)</name>
+      <text>Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is heavily obscured. A strong wind disperses the cloud, which otherwise remains until the end of Amrik's next turn.</text>
+      </action>
+    <description>Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master's Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
+Source: Baldur's Gate: Descent Into Avernus p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Archduke Zariel of Avernus</name>
+    <size>L</size>
+    <type>fiend (devil)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>21 (natural armor)</ac>
+    <hp>580 (40d10+360)</hp>
+    <speed>walk 50 ft., fly 150 ft.</speed>
+    <str>27</str>
+    <dex>24</dex>
+    <con>28</con>
+    <int>26</int>
+    <wis>27</wis>
+    <cha>30</cha>
+    <save>Int +16, Wis +16, Cha +18</save>
+    <skill>Intimidation +18, Perception +16</skill>
+    <passive>26</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>26</cr>
+    <resist>cold, fire, radiant; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>necrotic, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Magical darkness doesn't impede Zariel's darkvision.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Zariel's weapon attacks are magical. When she hits with any weapon, the weapon deals an extra 36 (8d8) fire damage (included in the weapon attacks below).</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Zariel fails a saving throw, she can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Zariel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Zariel attacks twice with her flail and once with Matalotok. She can substitute Horrid Touch for Matalotok.</text>
+      </action>
+    <action>
+        <name>Flail</name>
+      <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 17 (2d8 + 8) piercing damage plus 36 (8d8) fire damage.</text>
+      <attack>Flail|+16|2d8+8</attack>
+      </action>
+    <action>
+        <name>Matalotok (Warhammer)</name>
+      <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 17 (2d8 + 8) bludgeoning, or 19 (2d10 + 8) bludgeoning damage if used with two hands, plus 36 (8d8) fire damage. In addition, the weapon emits a burst of cold that deals 10 (3d6) cold damage to each creature within 30 feet of it.</text>
+      <attack>Matalotok (Warhammer)|+16|2d8+8</attack>
+      </action>
+    <action>
+        <name>Horrid Touch (Recharge 5-6)</name>
+      <text>Zariel touches one creature within 10 feet of her. The target must succeed on a DC 26 Constitution saving throw or take 44 (8d10) necrotic damage and be poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Horrid Touch (Recharge 5-6)||8d10</attack>
+      </action>
+    <action>
+        <name>Teleport</name>
+      <text>Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.</text>
+      </action>
+    <legendary>
+        <text>Archduke can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Archduke regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Immolating Gaze (Costs 2 Actions)</name>
+      <text>Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.</text>
+      </legendary>
+    <legendary>
+        <name>Teleport</name>
+      <text>Zariel uses her Teleport action.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:</text>
+      <text>• Zariel casts major image four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become frightened of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>• Zariel casts her innate fireball spell.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing Zariel's lair is warped by her magic, which creates one or more of the following effects:</text>
+      <text>• The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.</text>
+      <text>• Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 (2d6) fire damage, though it can take this damage no more than once per round.</text>
+      <text>• The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away.</text>
+      <text>If Zariel dies, these effects fade over the course of 1d10 days.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Zariel's innate spellcasting ability is Charisma (spell save DC 26). She can innately cast the following spells, requiring no material components:</text>
+      <text>At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire</text>
+      <text>3/day each: blade barrier, dispel evil and good, finger of death</text>
+      </trait>
+    <spells>alter self, detect evil and good, fireball, invisibility, wall of fire, blade barrier, dispel evil and good, finger of death</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 243</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Arkhan the Cruel</name>
+    <size>M</size>
+    <type>humanoid (dragonborn)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>23 (obsidian flint dragon plate, shield)</ac>
+    <hp>221 (26d8+104)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>20</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>18</cha>
+    <save>Wis +5, Cha +9</save>
+    <skill>Athletics +10, Deception +9, Intimidation +9</skill>
+    <passive>10</passive>
+    <languages>Common, Draconic</languages>
+    <cr>16</cr>
+    <resist>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses>darkvision 60 ft. (can see invisible creatures out to the same range)</senses>
+    <trait>
+        <name>Aura of Hate</name>
+      <text>While Arkhan isn't incapacitated, he and all fiends and undead within 30 feet of him deal 4 extra damage whenever they hit with a melee weapon attack (already factored into Arkhan's attacks). This extra damage is of the same type as the weapon's damage type.</text>
+      </trait>
+    <trait>
+        <name>Hand of Vecna</name>
+      <text>The Hand of Vecna has 8 charges and regains 1d4 + 4 expended charges daily at dawn. Arkhan can cast the following spells from the hand by expending the specified number of charges (spell save DC 18): finger of death (5 charges), sleep (1 charge), slow (2 charges), and teleport (3 charges).</text>
+      </trait>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Arkhan wields Fane-Eater and wears a suit of Obsidian Flint Dragon Plate. The armor gives Arkhan advantage on ability checks and saving throws made to avoid or end the grappled condition on him.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Arkhan makes three weapon attacks.</text>
+      </action>
+    <action>
+        <name>Fane-Eater (Battleaxe)</name>
+      <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. 16 (1d8 + 12) slashing damage, or 17 (1d10 + 12) slashing damage when used with two hands, plus 9 (2d8) cold damage. If the target is a creature and Arkhan rolls a 20 on the attack roll, the creature takes an extra 9 (2d8) necrotic damage, and Arkhan regains an amount of hit points equal to the necrotic damage dealt.</text>
+      <attack>Fane-Eater (Battleaxe)|+13|1d8+12</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 30/120 ft., one target. 8 (1d6 + 5) piercing damage, plus 4 piercing damage and 9 (2d8) cold damage if the javelin was used to make a melee attack.</text>
+      <attack>Javelin|+10|1d6+5</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Arkhan's spellcasting ability is Charisma (spell save DC 17). He can cast the following spells, requiring no material components:</text>
+      <text>3/day each: animate dead, branding smite (at 4th level), revivify</text>
+      <text>1/day each: geas, raise dead</text>
+      </trait>
+    <spells>animate dead, branding smite, revivify, geas, raise dead</spells>
+    <description>Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn't kill him first. The hand is slowly corrupting Arkhan's flesh and decomposing his body on one side.
+In battle, Arkhan uses branding smite to channel the radiant power of Tiamat into his weapon attacks. If a fight turns against him, he uses the teleport power of the Hand of Vecna to return to his tower with as many allies as possible. Should one or more of his comrades fall in battle, Arkhan uses revivify and raise dead spells to bring them back to life as soon as possible.
+If Arkhan finds himself overwhelmed with opposition, he orders the abishai to attack. Arkhan can also use a bonus action to call forth Asojano, a chimera lairing in the depths of the colossal dragon skull.
+Source: Baldur's Gate: Descent Into Avernus p. 111</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bel</name>
+    <size>L</size>
+    <type>fiend (devil)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>19 (natural armor)</ac>
+    <hp>364 (27d10+216)</hp>
+    <speed>walk 30 ft., fly 60 ft.</speed>
+    <str>28</str>
+    <dex>14</dex>
+    <con>26</con>
+    <int>25</int>
+    <wis>19</wis>
+    <cha>26</cha>
+    <save>Dex +10, Con +16, Wis +12</save>
+    <skill>Arcana +15, Deception +16, Insight +12, Persuasion +16</skill>
+    <passive>14</passive>
+    <languages>Common, Infernal, telepathy 120 ft.</languages>
+    <cr>25</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Fear Aura</name>
+      <text>Any creature hostile to Bel that starts its turn within 20 feet of him must make a DC 23 Wisdom saving throw, unless Bel is incapacitated. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to Bel's Fear Aura for the next 24 hours.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Bel fails a saving throw, he can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Bel has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Bel's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Bel makes three attacks: two with his greatsword and one with his tail.</text>
+      </action>
+    <action>
+        <name>Greatsword</name>
+      <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 23 (4d6 + 9) slashing damage plus 21 (6d6) fire damage. If the target is a flammable object that is not being held or worn, it catches fire.</text>
+      <attack>Greatsword|+16|4d6+9</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or be stunned until the end of its next turn.</text>
+      <attack>Tail|+16|3d10+9</attack>
+      </action>
+    <legendary>
+        <text>The fiend (devil) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Fireball</name>
+      <text>Bel casts fireball.</text>
+      </legendary>
+    <legendary>
+        <name>Tactical Edge (Costs 2 Actions)</name>
+      <text>Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.</text>
+      </legendary>
+    <legendary>
+        <name>Summon Ice Devil (Costs 3 Actions)</name>
+      <text>Bel magically summons an ice devil with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it as an action.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Bel's spellcasting ability is Charisma (spell save DC 23). Bel can innately cast the following spells, requiring no material components:</text>
+      <text>At will: detect magic, fireball</text>
+      <text>3/day each: dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire</text>
+      <text>1/day each: imprisonment, meteor swarm</text>
+      </trait>
+    <spells>detect magic, fireball, dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire, imprisonment, meteor swarm</spells>
+    <description>From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
+Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Zariel's rulership of the layer of the Nine Hells that was once his, but he won't challenge her directly as long as he thinks Asmodeus supports Zariel.
+Source: Baldur's Gate: Descent Into Avernus p. 115</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bitter Breath</name>
+    <size>L</size>
+    <type>fiend (devil)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>178 (17d10+85)</hp>
+    <speed>walk 20 ft., fly 60 ft.</speed>
+    <str>22</str>
+    <dex>17</dex>
+    <con>21</con>
+    <int>12</int>
+    <wis>16</wis>
+    <cha>17</cha>
+    <save>Str +10, Dex +7, Wis +7, Cha +7</save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Infernal, telepathy 120 ft.</languages>
+    <cr>11</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Magical darkness doesn't impede Bitter Breath's darkvision.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Bitter Breath has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Bitter Breath makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.</text>
+      </action>
+    <action>
+        <name>Fork</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 15 (2d8 + 6) piercing damage.</text>
+      <attack>Fork|+10|2d8+6</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time Bitter Breath hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</text>
+      <attack>Tail|+10|1d8+6</attack>
+      <attack>Tail||3d6</attack>
+      </action>
+    <action>
+        <name>Hurl Flame</name>
+      <text>Ranged Spell Attack: +7 to hit, range 150 ft., one target. 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.</text>
+      <attack>Hurl Flame|+7|4d6</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Black Gauntlet of Bane</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (chain mail)</ac>
+    <hp>51 (6d8+24)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>11</dex>
+    <con>18</con>
+    <int>12</int>
+    <wis>15</wis>
+    <cha>18</cha>
+    <save>Wis +5</save>
+    <skill>Intimidation +7, Perception +5</skill>
+    <passive>15</passive>
+    <languages>Common</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Aura of Terror</name>
+      <text>When a hostile creature within 5 feet of the black gauntlet makes an attack roll or a saving throw, it has disadvantage on the roll. Creatures that are immune to the frightened condition are immune to this trait.</text>
+      </trait>
+    <trait>
+        <name>Tactical Discipline</name>
+      <text>The black gauntlet has advantage on all ability checks and saving throws made during combat.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The black gauntlet makes two attacks with its mace.</text>
+      </action>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
+      <attack>Mace|+7|1d6+4</attack>
+      </action>
+    <action>
+        <name>Guiding Bolt (1st-Level Spell; Requires a Spell Slot)</name>
+      <text>Ranged Spell Attack: +7 to hit, range 120 ft., one creature. 14 (4d6) radiant damage, and the next attack roll made against the target before the end of the black gauntlet's next turn has advantage. If the black gauntlet casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</text>
+      <attack>Guiding Bolt (1st-Level Spell; Requires a Spell Slot)|+7|4d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The black gauntlet is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): guidance, sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): bane, bless, cure wounds, guiding bolt (see "Actions" below)</text>
+      <text>• 2nd level (3 slots): blindness/deafness, hold person, silence</text>
+      <text>• 3rd level (2 slots): sending, spirit guardians</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>guidance, sacred flame, thaumaturgy, bane, bless, cure wounds, guiding bolt, blindness/deafness, hold person, silence, sending, spirit guardians</spells>
+    <description>Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
+Cruel Tyrants. Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty.
+Warrior Cult. Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist.
+Cult Ranks. Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls.
+Source: Baldur's Gate: Descent Into Avernus p. 235</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bone Whelk</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>27 (5d10)</hp>
+    <speed>walk 15 ft., climb 15 ft.</speed>
+    <str>10</str>
+    <dex>5</dex>
+    <con>11</con>
+    <int>6</int>
+    <wis>9</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Adhesive</name>
+      <text>The bone whelk can cause Medium or smaller objects to adhere to it. A Medium or smaller creature that touches the bone whelk is grappled by it (escape DC 10).</text>
+      </trait>
+    <trait>
+        <name>Death Scream</name>
+      <text>When the bone whelk dies, it emits a blood-curdling shriek than can be heard out to a range of 120 feet. This shriek causes nonmagical, organic material within 10 feet of the bone whelk to rot. Each creature within 10 feet of the bone whelk when it dies takes 9 (2d8) necrotic damage.</text>
+      </trait>
+    <trait>
+        <name>Spider Climb</name>
+      <text>The bone whelk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. 4 (1d8) piercing damage.</text>
+      <attack>Bite|+2|1d8</attack>
+      </action>
+    <description>Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones, and other detritus to their bodies for protection.
+Source: Baldur's Gate: Descent Into Avernus p. 119</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Burney the Barber</name>
+    <size>G</size>
+    <type>dragon</type>
+    <alignment>Chaotic Good</alignment>
+    <ac>21 (natural armor)</ac>
+    <hp>350 (20d20+140)</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 80 ft.</speed>
+    <str>27</str>
+    <dex>12</dex>
+    <con>25</con>
+    <int>20</int>
+    <wis>17</wis>
+    <cha>19</cha>
+    <save>Dex +8, Con +14, Wis +10, Cha +11</save>
+    <skill>Deception +11, Perception +17, Stealth +8</skill>
+    <passive>27</passive>
+    <languages>Common, Draconic</languages>
+    <cr>21</cr>
+    <resist></resist>
+    <immune>acid</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Burney fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Healer</name>
+      <text>Burney has the benefits of the healer feat as well as proficiency with both the healer's kit and the herbalism kit.</text>
+      </trait>
+    <trait>
+        <name>Bahamut's Blessings</name>
+      <text>Burney has received several blessings in her service to Bahamut:</text>
+      <text>• Unless Burney decided otherwise, once any creature less powerful than a deity has taken three steps from her, they can no longer remember her or having interacted with her specifically.</text>
+      <text>• Burney is under the effect of a permanent mind blank spell, and cannot be detected by magical or mundane means unless she wishes it. In exchange for this blessing, Burney can take no direct action against the denizens of the Nine Hells, though she can certainly enlist the help of those who can.</text>
+      <text>• Burney always knows the location of the Wandering Emporium and can transport herself there as though by a word of recall spell. This explains why Burney simply seems to appear amid the fully deployed marketplace each morning it is active to provide service and tell stories.</text>
+      <text>• Once each day, when Burney so desires, she can instantly transport herself to the court of Bahamut via a powerful blessing akin to the plane shift spell.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Burney can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 15 ft., one target. 19 (2d10 + 8) piercing damage.</text>
+      <attack>Bite|+15|2d10+8</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 15 (2d6 + 8) slashing damage.</text>
+      <attack>Claw|+15|2d6+8</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 20 ft., one target. 17 (2d8 + 8) bludgeoning damage.</text>
+      <attack>Tail|+15|2d8+8</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of Burney's choice that is within 120 feet of Burney and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Burney's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Breath Weapons (Recharge 5-6)</name>
+      <text>Burney uses one of the following breath weapons.</text>
+      <text>• Acid Breath. Burney exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Breath Weapons (Recharge 5-6)||14d8</attack>
+      <text>• Slowing Breath. Burney exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>Burney magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (Burney's choice).</text>
+      <text>In a new form, Burney retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</text>
+      </action>
+    <legendary>
+        <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Detect</name>
+      <text>Burney makes a Wisdom (Perception) check.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>Burney makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Wing Attack (Costs 2 Actions)</name>
+      <text>Burney beats its wings. Each creature within 15 feet of Burney must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. Burney can then fly up to half its flying speed.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
+      <text>• The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
+      <text>• The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a legendary copper dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
+      <text>• Magic carvings of the dragon's smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon's lair.</text>
+      <text>• Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon's lair. These creatures speak well of the dragon, but can't divulge its whereabouts.</text>
+      <text>• Intelligent creatures within 1 mile of the dragon's lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
+      <text>If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
+      </legendary>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 129</description>
+    <environment>hill</environment>
+    </monster>
+  <monster>
+      <name>Chukka</name>
+    <size>M</size>
+    <type>humanoid (kenku)</type>
+    <alignment>Chaotic Neutral</alignment>
+    <ac>13</ac>
+    <hp>13 (3d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>16</dex>
+    <con>10</con>
+    <int>11</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Deception +4, Perception +2, Stealth +5</skill>
+    <passive>12</passive>
+    <languages>understands Auran and Common but speaks only through the use of its Mimicry trait</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Ambusher</name>
+      <text>In the first round of a combat, Chukka has advantage on attack rolls against any creature it surprised.</text>
+      </trait>
+    <trait>
+        <name>Mimicry</name>
+      <text>Chukka can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.</text>
+      </trait>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortbow|+5|1d6+3</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 83</description>
+    <environment>forest, urban</environment>
+    </monster>
+  <monster>
+      <name>Clonk</name>
+    <size>M</size>
+    <type>humanoid (kenku)</type>
+    <alignment>Chaotic Neutral</alignment>
+    <ac>13</ac>
+    <hp>13 (3d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>16</dex>
+    <con>10</con>
+    <int>11</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Deception +4, Perception +2, Stealth +5</skill>
+    <passive>12</passive>
+    <languages>understands Auran and Common but speaks only through the use of its Mimicry trait</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Ambusher</name>
+      <text>In the first round of a combat, Clonk has advantage on attack rolls against any creature it surprised.</text>
+      </trait>
+    <trait>
+        <name>Mimicry</name>
+      <text>Clonk can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.</text>
+      </trait>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortbow|+5|1d6+3</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 83</description>
+    <environment>forest, urban</environment>
+    </monster>
+  <monster>
+      <name>Crokek'toeck</name>
+    <size>G</size>
+    <type>fiend (demon)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>297 (17d20+119)</hp>
+    <speed>walk 60 ft., swim 60 ft.</speed>
+    <str>28</str>
+    <dex>10</dex>
+    <con>24</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>13</cha>
+    <save>Con +12, Wis +5</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands Abyssal but can't speak</languages>
+    <cr>14</cr>
+    <resist>cold, fire, lightning; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>Crokek'toeck can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Crokek'toeck has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Crokek'toeck's weapon attacks are magical.</text>
+      </trait>
+    <trait>
+        <name>Secure Memory</name>
+      <text>Crokek'toeck is immune to the waters of the River Styx as well as any effect that would steal or modify its memories or detect or read its thoughts.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>Crokek'toeck's long jump is up to 60 feet and its high jump is up to 30 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 15 ft., one target. 44 (10d6 + 9) piercing damage.</text>
+      <attack>Bite|+14|10d6+9</attack>
+      </action>
+    <action>
+        <name>Disgorge Allies (Recharge 6)</name>
+      <text>Crokek'toeck opens its mouth and disgorges 1d4 barlgura, 3d6 gnoll led by 1 gnoll fang of Yeenoghu, 6d6 dretch, or 1d3 vrock. Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the next closest unoccupied space.</text>
+      </action>
+    <description>Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
+Source: Baldur's Gate: Descent Into Avernus p. 231</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Death's Head of Bhaal</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15</ac>
+    <hp>76 (8d8+40)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>20</str>
+    <dex>20</dex>
+    <con>20</con>
+    <int>14</int>
+    <wis>13</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Intimidation +6, Perception +4, Persuasion +6, Stealth +11</skill>
+    <passive>14</passive>
+    <languages>Common</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Aura of Murder</name>
+      <text>As long as the death's head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The death's head has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The death's head uses Stunning Gaze and makes two dagger attacks.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+      <attack>Dagger|+7|1d4+5</attack>
+      </action>
+    <action>
+        <name>Stunning Gaze</name>
+      <text>The death's head targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its next turn.</text>
+      </action>
+    <reaction>
+        <name>Unstoppable (3/Day)</name>
+      <text>The death's head reduces the damage it takes from an attack to 0.</text>
+      </reaction>
+    <description>Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
+Bloodletters. All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding.
+Killers from the Shadows. Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn invisible for a crucial moment.
+Cult Ranks. Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with darkvision and superior stealth. Reapers are the next rank up. They gain the ability to turn invisible and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile.
+Source: Baldur's Gate: Descent Into Avernus p. 233</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Dryad Spirit</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>12</ac>
+    <hp>58 (13d8)</hp>
+    <speed>walk 0 ft., fly 40 ft.</speed>
+    <str>1</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>12</int>
+    <wis>11</wis>
+    <cha>17</cha>
+    <save>Wis +2, Cha +5</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common, Elvish</languages>
+    <cr>4</cr>
+    <resist>acid, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>cold, necrotic, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Detect Life</name>
+      <text>The dryad can magically sense the presence of living creatures up to 5 miles away that aren't undead or constructs. She knows the general direction they're in but not their exact locations.</text>
+      </trait>
+    <trait>
+        <name>Incorporeal Movement</name>
+      <text>The dryad can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</text>
+      </trait>
+    <action>
+        <name>Corrupting Touch</name>
+      <text>Melee Spell Attack: +4 to hit, reach 5 ft., one target. 12 (3d6 + 2) necrotic damage.</text>
+      <attack>Corrupting Touch|+4|3d6+2</attack>
+      </action>
+    <action>
+        <name>Horrifying Visage</name>
+      <text>Each non-undead creature within 60 feet of the dryad that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the dryad is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the dryad's Horrifying Visage for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Wail (1/Day)</name>
+      <text>The dryad releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.</text>
+      <attack>Wail (1/Day)||3d6</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 108</description>
+    <environment>forest, coastal</environment>
+    </monster>
+  <monster>
+      <name>Duke Thalamra Vanthampur</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>10</ac>
+    <hp>78 (12d8+24)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>17</str>
+    <dex>10</dex>
+    <con>15</con>
+    <int>13</int>
+    <wis>16</wis>
+    <cha>18</cha>
+    <save></save>
+    <skill>Deception +6, Insight +5, Intimidation +6, Religion +3</skill>
+    <passive>13</passive>
+    <languages>Common, Infernal</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft. (see devil's sight below)</senses>
+    <trait>
+        <name>Dark Devotion</name>
+      <text>Thalamra has advantage on saving throws against being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Thalamra can see normally in darkness, both magical and nonmagical, out to a distance of 120 feet.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Thalamra uses eldritch blast twice or makes two unarmed strikes.</text>
+      </action>
+    <action>
+        <name>Eldritch Blast (Cantrip)</name>
+      <text>Ranged Spell Attack: +6 to hit, range 120 ft., one creature. 9 (1d10 + 4) force damage.</text>
+      <attack>Eldritch Blast (Cantrip)|+6|1d10+4</attack>
+      </action>
+    <action>
+        <name>Unarmed Strike</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 bludgeoning damage.</text>
+      </action>
+    <reaction>
+        <name>Hellish Rebuke (1st-Level Spell; 2/Day)</name>
+      <text>When Thalamra is damaged by a creature within 60 feet of her that she can see, the creature that damaged her is engulfed in hellish flames and must make a DC 14 Dexterity saving throw, taking 16 (3d10) fire damage on a failed save, or half as much damage on a successful one.</text>
+      </reaction>
+    <description>Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
+Years of political dealing, blame shuffling, and bribery paid off when Thalamra was elected to the Council of Four. Although she has served on the council for the shortest amount of time, Duke Vanthampur is easily the most politically savvy council member. She speaks little during meetings of the council, preferring to further her political agenda through meetings in her private offices and at her family estate. When she does choose to debate, she speaks with a strength beyond what it seems like her age should allow, and is known for leveling insults that land unsettlingly close to (supposedly) hidden truths.
+Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late sixties who can stare down a hell hound without flinching. She is barrel-bodied, with strong hands and forearms that speak to her beginnings as a manual laborer. Her youth was spent in the cellars and sewers of Baldur's Gate, repairing pipes and clearing out the city's filth. Thalamra rose from such lowly work to become the minister of the city's sewers and waterworks. Now she dresses in the finery that suits her station as a duke of Baldur's Gate.
+Source: Baldur's Gate: Descent Into Avernus p. 38</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elliach</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>40 (9d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>14</dex>
+    <con>11</con>
+    <int>17</int>
+    <wis>12</wis>
+    <cha>11</cha>
+    <save>Int +6, Wis +4</save>
+    <skill>Arcana +6, History +6</skill>
+    <passive>11</passive>
+    <languages>any four languages</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+5|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Elliach is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Elliach has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
+      <text>• 2nd level (3 slots): misty step, suggestion</text>
+      <text>• 3rd level (3 slots): counterspell, fireball, fly</text>
+      <text>• 4th level (3 slots): greater invisibility, ice storm</text>
+      <text>• 5th level (1 slots): cone of cold</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 130</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Feonor</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>99 (18d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>20</int>
+    <wis>15</wis>
+    <cha>16</cha>
+    <save>Int +9, Wis +6</save>
+    <skill>Arcana +13, History +13</skill>
+    <passive>12</passive>
+    <languages>any six languages</languages>
+    <cr>12</cr>
+    <resist>damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin)</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Feonor has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+6|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Feonor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
+      <text>At will: disguise self, invisibility</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+      <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
+      <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+      <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+      <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
+      <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
+      <text>• 6th level (1 slots): globe of invulnerability</text>
+      <text>• 7th level (1 slots): teleport</text>
+      <text>• 8th level (1 slots): mind blank*</text>
+      <text>• 9th level (1 slots): time stop</text>
+      <text>*Feonor casts these spells on itself before combat.</text>
+      </trait>
+    <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 130</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Fiendish Flesh Golem</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>210 (20d10+100)</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>20</str>
+    <dex>9</dex>
+    <con>20</con>
+    <int>7</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands the languages of its creator but can't speak</languages>
+    <cr>8</cr>
+    <resist>cold, fire</resist>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine or silvered</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Berserk</name>
+      <text>Whenever the golem starts its turn with 100 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points. If the golem's creator is within 60 feet of the berserk golem, the creator can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 100 hit points or fewer, the golem might go berserk again.</text>
+      </trait>
+    <trait>
+        <name>Immutable Form</name>
+      <text>The golem is immune to any spell or effect that would alter its form.</text>
+      </trait>
+    <trait>
+        <name>Lightning Absorption</name>
+      <text>Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The golem has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The golem's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The golem makes two slam attacks.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 16 (2d10 + 5) bludgeoning damage.</text>
+      <attack>Slam|+8|2d10+5</attack>
+      </action>
+    <description>A fiendish flesh golem is a particularly big flesh golem made of stitched-together body parts from devils, demons, yugoloths, and other fiends. As these parts can come from different creatures and be combined in different ways, no two fiendish flesh golems look exactly alike. Night hags guard the secret to making such golems, rarely sharing it with anyone else.
+Some fiendish flesh golems have wings. However, the magic used to create these golems allows them to fly and hover even without wings.
+Source: Baldur's Gate: Descent Into Avernus p. 236</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Fist of Bane</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>18 (chain mail, shield)</ac>
+    <hp>22 (4d8+4)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>11</dex>
+    <con>13</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages>Common</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Tactical Discipline</name>
+      <text>The fist of Bane has advantage on all ability checks and saving throws made during combat.</text>
+      </trait>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage.</text>
+      <attack>Mace|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. 4 (1d8) piercing damage.</text>
+      <attack>Longbow|+2|1d8</attack>
+      </action>
+    <description>Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
+Cruel Tyrants. Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty.
+Warrior Cult. Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist.
+Cult Ranks. Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls.
+Source: Baldur's Gate: Descent Into Avernus p. 232</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Flying Dagger</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>7 (3d4)</hp>
+    <speed>walk 0 ft., fly 50 ft.</speed>
+    <str>12</str>
+    <dex>15</dex>
+    <con>11</con>
+    <int>1</int>
+    <wis>5</wis>
+    <cha>1</cha>
+    <save>Dex +4</save>
+    <skill></skill>
+    <passive>7</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Antimagic Susceptibility</name>
+      <text>The dagger is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the dagger must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</text>
+      </trait>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the dagger remains motionless and isn't flying, it is indistinguishable from a normal dagger.</text>
+      </trait>
+    <action>
+        <name>Longdagger</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
+      <attack>Longdagger|+3|1d8+1</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Gideon Lightward</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>11</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>18</con>
+    <int>10</int>
+    <wis>18</wis>
+    <cha>13</cha>
+    <save>Dex +4, Con +7, Wis +7</save>
+    <skill>Insight +7, Religion +6</skill>
+    <passive>14</passive>
+    <languages>Common</languages>
+    <cr>6</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>necrotic, poison</immune>
+    <vulnerable>radiant</vulnerable>
+    <conditionImmune>exhaustion, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Regeneration</name>
+      <text>Gideon regains 10 hit points at the start of each of his turns. If he takes radiant damage, this trait doesn't function at the start of his next turn. Gideon is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Gideon attacks twice with his fists.</text>
+      </action>
+    <action>
+        <name>Fist</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) bludgeoning damage.</text>
+      <attack>Fist|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Withering Gaze</name>
+      <text>Gideon targets one creature he can see within 60 feet of him. The target must make a DC 15 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Withering Gaze||4d10</attack>
+      </action>
+    <description>Gideon Lightward was a priest of Lathander who served Elturel and his deity proudly. Zariel saw that his fervor could be an asset to her, so she sent devils to corrupt him in the months leading up to the fall of Elturel. The devils posed as angels, offering Gideon increased power if he would dedicate himself to fighting the ever-present threat of demons.
+Gideon slowly gave up his sanity and free will to the devils, leaving him corrupted by Zariel and fully serving her in the months leading up to Elturel's fall. He died during the destruction wrought as the city was drawn to Avernus, but the priest rose as an undead creature. Even as an undead, Gideon remains his mistress's most loyal servant in Elturel. He sees his cause as a noble one—fighting the demons whose chaos marks the end of all things. But his mind is broken and filled with hatred for those who refuse to follow his commands.
+Source: Baldur's Gate: Descent Into Avernus p. 65</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Harkina Hunt</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>10</ac>
+    <hp>4 (1d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Club|+2|1d4</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 4 (1d8) piercing damage.</text>
+      <attack>Longbow|+2|1d8</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 53</description>
+    <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
+    </monster>
+  <monster>
+      <name>Hellwasp</name>
+    <size>L</size>
+    <type>fiend</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>19 (natural armor)</ac>
+    <hp>52 (8d10+8)</hp>
+    <speed>walk 10 ft., fly 60 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save>Dex +5, Wis +3</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Infernal, telepathy 300 ft. (with other hellwasps only)</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune>fire</immune>
+    <vulnerable>cold</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The hellwasp's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The hellwasp makes two attacks: one with its sting and one with its sword talons.</text>
+      </action>
+    <action>
+        <name>Sting</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 8 (1d8 + 4) piercing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Sting|+7|1d8+4</attack>
+      </action>
+    <action>
+        <name>Sword Talons</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Sword Talons|+7|2d6+4</attack>
+      </action>
+    <description>A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist's fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.
+Hellwasps thrive in hot weather, but extreme cold causes their shells to crack and their metabolisms to shut down. Consequently, they avoid the icy layers of the Nine Hells (Stygia and Cania).
+Nests. Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a commune of 1d10 + 10 hellwasps, with each hellwasp having an equal voice and role in the society.
+Hellwasp Telepathy. Hellwasps communicate with one another via a form of telepathy perceptible only to their kind.
+Source: Baldur's Gate: Descent Into Avernus p. 236</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Hellwasp Grub</name>
+    <size>S</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>4 (1d6+1)</hp>
+    <speed>walk 30 ft., climb 30 ft.</speed>
+    <str>5</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>1</int>
+    <wis>7</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
+      <attack>Bite|+4|1d4+2</attack>
+      <attack>Bite||3d6</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 95</description>
+    <environment>underdark, urban</environment>
+    </monster>
+  <monster>
+      <name>Hollyphant</name>
+    <size>S</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>36 (8d6+8)</hp>
+    <speed>walk 20 ft., fly 120 ft.</speed>
+    <str>10</str>
+    <dex>11</dex>
+    <con>12</con>
+    <int>16</int>
+    <wis>19</wis>
+    <cha>16</cha>
+    <save>Dex +3, Con +4, Cha +6</save>
+    <skill></skill>
+    <passive>14</passive>
+    <languages>Celestial, telepathy 120 ft.</languages>
+    <cr>5</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Aura of Invulnerability</name>
+      <text>An invisible aura forms a 10-foot-radius sphere around the hollyphant for as long as it lives. Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells. The hollyphant can use an action to suppress this trait until its concentration ends (as if concentrating on a spell).</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The hollyphant's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Tusks</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
+      <attack>Tusks|+3|1d6</attack>
+      </action>
+    <action>
+        <name>Trumpet (3/Day)</name>
+      <text>The hollyphant blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by the hollyphant:</text>
+      </action>
+    <action>
+        <name>Trumpet of Blasting</name>
+      <text>Each creature in the cone must make a DC 14 Constitution saving throw. On a failed save, a creature takes 17 (5d6) thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Nonmagical objects in the cone that aren't being held or worn take 35 (10d6) thunder damage.</text>
+      <attack>Trumpet of Blasting||5d6</attack>
+      </action>
+    <action>
+        <name>Trumpet of Sparkles</name>
+      <text>Creatures in the cone must make a DC 14 Constitution saving throw, taking 22 (4d8 + 4) radiant damage on a failed save, or half as much damage on a successful one. Evil creatures have disadvantage on the saving throw. Good creatures in the cone take no damage.</text>
+      <attack>Trumpet of Sparkles||4d8+4</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The hollyphant's innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: light</text>
+      <text>2/day each: bless, cure wounds, protection from evil and good</text>
+      <text>1/day each: banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
+      </trait>
+    <spells>light, bless, cure wounds, protection from evil and good, banishment, heal, raise dead, shapechange, teleport</spells>
+    <description>Hollyphants are gentle, stalwart creatures native to the Upper Planes. Good-aligned deities and angels use them as messengers and helpers. Hollyphants treasure friendship and honesty.
+A hollyphant looks like a miniature elephant with luminous gold fur and small, rapidly fluttering wings that not only hold it aloft but also propel it at great speed. Although kind, a hollyphant won't bear witness to an evil act without punishing the malefactor. Its pearlescent tusks are far from formidable, but it can unleash trumpet blasts from its trunk that can deafen creatures or engulf evildoers in radiant sparkles of positive energy. A hollyphant is also blessed with powerful innate magic to help it combat evil and protect its friends.
+Source: Baldur's Gate: Descent Into Avernus p. 237</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Iron Consul</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (chain mail)</ac>
+    <hp>45 (6d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>17</str>
+    <dex>11</dex>
+    <con>16</con>
+    <int>12</int>
+    <wis>15</wis>
+    <cha>16</cha>
+    <save>Wis +4</save>
+    <skill>Intimidation +5, Perception +4</skill>
+    <passive>14</passive>
+    <languages>Common</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Tactical Discipline</name>
+      <text>The iron consul has advantage on all ability checks and saving throws made during combat.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The iron consul makes one attack with its spear and can use its Voice of Command ability.</text>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage when used with two hands to make a melee attack.</text>
+      <attack>Spear|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Voice of Command</name>
+      <text>The iron consul selects up to two allies within 90 feet of it that can hear its commands. Each ally can immediately use its reaction to make one melee attack.</text>
+      </action>
+    <description>Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
+Cruel Tyrants. Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty.
+Warrior Cult. Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist.
+Cult Ranks. Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls.
+Source: Baldur's Gate: Descent Into Avernus p. 232</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Kostchtchie</name>
+    <size>L</size>
+    <type>fiend (demon)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>243 (18d10+144)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>12</dex>
+    <con>27</con>
+    <int>18</int>
+    <wis>22</wis>
+    <cha>19</cha>
+    <save>Dex +9, Con +16, Wis +14</save>
+    <skill>Intimidation +12, Perception +14, Survival +14</skill>
+    <passive>24</passive>
+    <languages>Abyssal, Giant, telepathy 120 ft</languages>
+    <cr>25</cr>
+    <resist>fire, lightning</resist>
+    <immune>cold, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, poisoned</conditionImmune>
+    <senses>truesight 120 ft</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Kostchtchie fails a saving throw, he can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Kostchtchie has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Kostchtchie makes two melee attacks, only one of which can be a bite attack.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +18 to hit, reach 5 ft., one creature. 13 (1d6 + 10) piercing damage.</text>
+      <attack>Bite|+18|1d6+10</attack>
+      </action>
+    <action>
+        <name>Matalotok (Warhammer)</name>
+      <text>Melee Weapon Attack: +18 to hit, reach 10 ft., one target. 19 (2d8 + 10) bludgeoning damage, or 21 (2d10 + 10) bludgeoning damage when used with two hands, and the weapon emits a burst of cold that deals 10 (3d6) cold damage to each creature within 30 feet of it.</text>
+      <attack>Matalotok (Warhammer)|+18|2d8+10</attack>
+      </action>
+    <legendary>
+        <text>Kostchtchie can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Kostchtchie regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>Kostchtchie makes one melee weapon attack.</text>
+      </legendary>
+    <legendary>
+        <name>Charge</name>
+      <text>Kostchtchie moves up to his speed.</text>
+      </legendary>
+    <legendary>
+        <name>Curse (Costs 2 Actions)</name>
+      <text>Kostchtchie curses one creature he can see within 60 feet of him. The cursed creature gains vulnerability to all damage dealt by Kostchtchie until the end of Kostchtchie's next turn.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Kostchtchie's innate spellcasting ability is Charisma (spell save DC 20). He can innately cast the following spells, requiring no material components:</text>
+      <text>At will: command, darkness</text>
+      <text>1/day each: dispel evil and good, gate, harm, telekinesis, teleport, wind walk</text>
+      </trait>
+    <spells>command, darkness, dispel evil and good, gate, harm, telekinesis, teleport, wind walk</spells>
+    <description>The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
+Frost giants who forsake their gods and turn to demon worship can summon Kostchtchie with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants' call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss.
+Source: Baldur's Gate: Descent Into Avernus p. 105</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Krull</name>
+    <size>M</size>
+    <type>humanoid (tortle)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>117 (18d8+36)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>20</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>12</int>
+    <wis>20</wis>
+    <cha>12</cha>
+    <save>Wis +8, Cha +4</save>
+    <skill>Arcana +4, Medicine +8, Nature +4, Survival +8</skill>
+    <passive>15</passive>
+    <languages>Aquan, Common, Draconic</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hold Breath</name>
+      <text>Krull can hold his breath for 1 hour.</text>
+      </trait>
+    <trait>
+        <name>Inescapable Destruction</name>
+      <text>Necrotic damage dealt by Krull's spells ignores resistance to necrotic damage.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+      <attack>Claws|+8|1d4+5</attack>
+      </action>
+    <action>
+        <name>+1 Maul</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d6 + 6) bludgeoning damage plus 9 (2d8) necrotic damage.</text>
+      <attack>+1 Maul|+9|2d6+6</attack>
+      </action>
+    <action>
+        <name>Shell Defense</name>
+      <text>Krull withdraws into his shell. Until he emerges as a bonus action, he has a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in his shell, Krull is prone, his speed is 0 and can't increase, he has disadvantage on Dexterity saving throws, he can't take reactions, and the only action he can take is to emerge from his shell.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Krull is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy</text>
+      <text>• 1st level (4 slots): cure wounds, detect evil and good, false life, inflict wounds, ray of sickness</text>
+      <text>• 2nd level (3 slots): blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon</text>
+      <text>• 3rd level (3 slots): animate dead, magic circle, speak with dead, spirit guardians, vampiric touch</text>
+      <text>• 4th level (3 slots): banishment, blight, death ward, divination, locate creature</text>
+      <text>• 5th level (2 slots): antilife shell, cloudkill, contagion, greater restoration</text>
+      <text>• 6th level (1 slots): create undead, true seeing</text>
+      <text>• 7th level (1 slots): divine word, regenerate</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1, 1</slots>
+    <spells>chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy, cure wounds, detect evil and good, false life, inflict wounds, ray of sickness, blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon, animate dead, magic circle, speak with dead, spirit guardians, vampiric touch, banishment, blight, death ward, divination, locate creature, antilife shell, cloudkill, contagion, greater restoration, create undead, true seeing, divine word, regenerate</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 110</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Lulu</name>
+    <size>S</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>36 (8d6+8)</hp>
+    <speed>walk 20 ft., fly 120 ft.</speed>
+    <str>10</str>
+    <dex>11</dex>
+    <con>12</con>
+    <int>16</int>
+    <wis>19</wis>
+    <cha>16</cha>
+    <save>Dex +3, Con +4, Cha +6</save>
+    <skill></skill>
+    <passive>14</passive>
+    <languages>Celestial, telepathy 120 ft.</languages>
+    <cr>5</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Aura of Invulnerability</name>
+      <text>An invisible aura forms a 10-foot-radius sphere around Lulu for as long as it lives. Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells. Lulu can use an action to suppress this trait until its concentration ends (as if concentrating on a spell).</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Lulu's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Tusks</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
+      <attack>Tusks|+3|1d6</attack>
+      </action>
+    <action>
+        <name>Trumpet (3/Day)</name>
+      <text>Lulu blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by Lulu:</text>
+      </action>
+    <action>
+        <name>Trumpet of Blasting</name>
+      <text>Each creature in the cone must make a DC 14 Constitution saving throw. On a failed save, a creature takes 17 (5d6) thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Nonmagical objects in the cone that aren't being held or worn take 35 (10d6) thunder damage.</text>
+      <attack>Trumpet of Blasting||5d6</attack>
+      </action>
+    <action>
+        <name>Trumpet of Sparkles</name>
+      <text>Creatures in the cone must make a DC 14 Constitution saving throw, taking 22 (4d8 + 4) radiant damage on a failed save, or half as much damage on a successful one. Evil creatures have disadvantage on the saving throw. Good creatures in the cone take no damage.</text>
+      <attack>Trumpet of Sparkles||4d8+4</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Lulu's innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: light</text>
+      <text>2/day each: bless, cure wounds, protection from evil and good</text>
+      <text>1/day each: banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
+      </trait>
+    <spells>light, bless, cure wounds, protection from evil and good, banishment, heal, raise dead, shapechange, teleport</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 5</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mad Maggie</name>
+    <size>M</size>
+    <type>fiend</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>112 (15d8+45)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>16</con>
+    <int>16</int>
+    <wis>14</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Deception +6, Insight +5, Perception +5, Stealth +5</skill>
+    <passive>16</passive>
+    <languages>Abyssal, Common, Infernal, Primordial</languages>
+    <cr>5</cr>
+    <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Maggie has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Night Hag Items</name>
+      <text>A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.</text>
+      <text>Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.</text>
+      <text>Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, Maggie catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</text>
+      </trait>
+    <trait>
+        <name>Hag Coven</name>
+      <text>When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of Maggies continues to desire more personal power.</text>
+      <text>A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</text>
+      </trait>
+    <trait>
+        <name>Hag Eye (Coven Only)</name>
+      <text>A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. Maggie eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what Maggie eye sees if Maggie eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.</text>
+      <text>A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and Maggies can't perform it while blinded. During the ritual, if Maggies take any action other than performing the ritual, they must start over.</text>
+      </trait>
+    <action>
+        <name>Claws (Hag Form Only)</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
+      <attack>Claws (Hag Form Only)|+7|2d8+4</attack>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>Maggie magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.</text>
+      </action>
+    <action>
+        <name>Etherealness</name>
+      <text>Maggie magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, Maggie must have a heartstone in her possession.</text>
+      </action>
+    <action>
+        <name>Nightmare Haunting (1/Day)</name>
+      <text>While on the Ethereal Plane, Maggie magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in Maggie's soul bag. The reduction to the target's hit point maximum lasts until removed by the  greater restoration spell or similar magic.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Maggie's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
+      <text>At will: detect magic, magic missile</text>
+      <text>2/day each: plane shift (self only), ray of enfeeblement, sleep</text>
+      </trait>
+    <trait>
+        <name>Shared Spellcasting (Coven Only)</name>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:</text>
+      <text>• 1st level (4 slots): identify, ray of sickness</text>
+      <text>• 2nd level (3 slots): hold person, locate object</text>
+      <text>• 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
+      <text>• 4th level (3 slots): phantasmal killer, polymorph</text>
+      <text>• 5th level (2 slots): contact other plane, scrying</text>
+      <text>• 6th level (1 slots): eyebite</text>
+      <text>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + Maggie's Intelligence modifier, and the spell attack bonus is 4 + Maggie's Intelligence modifier.</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1</slots>
+    <spells>detect magic, magic missile, plane shift, ray of enfeeblement, sleep, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 74</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mahadi the Rakshasa</name>
+    <size>M</size>
+    <type>fiend</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>195 (23d8+92)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>14</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>14</int>
+    <wis>18</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +10</save>
+    <skill>Arcana +7, Deception +10, Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all (can read only), Common, Infernal</languages>
+    <cr>14</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable>piercing from magic weapons wielded by good creatures</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Limited Magic Immunity</name>
+      <text>Mahadi can't be affected or detected by spells of 6th level or lower unless he wishes to be. He has advantage on saving throws against all other spells and magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Mahadi's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Mahadi makes four claw attacks.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (2d6 + 2) slashing damage, and the target is cursed if it's a creature. The curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.</text>
+      <attack>Claw|+7|2d6+2</attack>
+      </action>
+    <action>
+        <name>Summon Erinyes (1/Day)</name>
+      <text>Mahadi summons Ilzabet, an erinyes bound to him by an infernal contract. The erinyes appears in an unoccupied space within 60 feet of him, acts as his ally, and can't summon other devils. The erinyes remains for 10 minutes or until Mahadi dismisses it as an action. If the erinyes dies, Mahadi loses this action option.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Mahadi's innate spellcasting ability is Charisma (spell save DC 18, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
+      <text>At will: detect thoughts, disguise self, mage hand, minor illusion</text>
+      <text>3/day each: charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion</text>
+      <text>1/day each: banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</text>
+      </trait>
+    <spells>detect thoughts, disguise self, mage hand, minor illusion, charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion, banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</spells>
+    <description>Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.
+In his role as the master of the Wandering Emporium, Mahadi has received special dispensation from Asmodeus to travel freely between the Material Plane and the Nine Hells to operate his business, as well as to pursue information and broker contracts and other such arrangements as needed.
+In addition to managing the Wandering Emporium, Mahadi is also the proprietor and host of Infernal Rapture, a restaurant and spa. Since the establishment exists within a demiplane, patrons can comfortably visit it at any time, even while the caravan is on the move. As long as they can pay for services rendered, guests need not fear being trapped within, since Mahadi is very serious about maintaining the contract between host and guest. Each guest must agree to this formal arrangement prior to gaining entrance.
+Mahadi presents himself as a charismatic and gracious host. He makes each guest of Infernal Rapture feel as though they're the most important person in all the planes of existence, catering to their every whim and desire. While he is equally cordial to all guests of the Wandering Emporium, those entering his establishment fall under a special contract and therefore rank most highly in his esteem.
+Of course, guests leaving Infernal Rapture are expected to pay their bills in full prior to departure. If a guest cannot pay for whatever reason, the contract they signed on entry clearly stipulates their soul is forfeit. They're required to pay off their debt through service. All such individuals fall under the effect of a geas cast as a 9th-level spell, which cannot be willingly broken by the affected individual until their debt is paid in full. What Mahadi does with such defaulters depends on their capabilities. Some become indentured servants, working at Infernal Rapture. If they possess a talent for sales, they might eventually obtain a business to run within the Wandering Emporium.
+Source: Baldur's Gate: Descent Into Avernus p. 127</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Master of Souls</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>12</ac>
+    <hp>45 (6d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>17</con>
+    <int>19</int>
+    <wis>14</wis>
+    <cha>13</cha>
+    <save>Wis +4</save>
+    <skill>Arcana +6, Religion +6</skill>
+    <passive>12</passive>
+    <languages>Abyssal, Common, Infernal</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Grave Magic</name>
+      <text>When the master of souls cast a spell that deals damage, it can change the spell's damage type to necrotic.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The master of souls attacks twice with its flail.</text>
+      </action>
+    <action>
+        <name>Silvered Skull Flail</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 4 (1d8) bludgeoning damage plus 14 (4d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the master of souls' next turn.</text>
+      <attack>Silvered Skull Flail|+2|1d8</attack>
+      </action>
+    <action>
+        <name>Chill Touch (Cantrip)</name>
+      <text>Ranged Spell Attack: +6 to hit, range 120 ft., one creature. 13 (2d8) necrotic damage, and the target can't regain hit points until the start of the master of souls' next turn. If the target is undead, it has disadvantage on attack rolls against the master of souls for the same duration.</text>
+      <attack>Chill Touch (Cantrip)|+6|2d8</attack>
+      </action>
+    <action>
+        <name>Ray of Sickness (1st-Level Spell; Requires a Spell Slot)</name>
+      <text>Ranged Spell Attack: +6 to hit, range 60 ft., one creature. 9 (2d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned until the end of the master of souls' next turn. If the master of souls casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+      <attack>Ray of Sickness (1st-Level Spell; Requires a Spell Slot)|+6|2d8</attack>
+      </action>
+    <action>
+        <name>Scorching Ray (2nd-Level Spell; Requires a Spell Slot)</name>
+      <text>Ranged Spell Attack: +6 to hit, range 120 ft., one target per ray (3 rays if a 2nd-level spell slot is used, 4 rays if a 3rd-level spell slot is used). 7 (2d6) fire damage per ray.</text>
+      <attack>Scorching Ray (2nd-Level Spell; Requires a Spell Slot)|+6|2d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The master of souls is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): chill touch (see "Actions" below), mage hand, message, prestidigitation</text>
+      <text>• 1st level (4 slots): burning hands, detect magic, ray of sickness (see "Actions" below), shield</text>
+      <text>• 2nd level (3 slots): darkness, misty step, scorching ray (see "Actions" below)</text>
+      <text>• 3rd level (2 slots): animate dead, fireball</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>chill touch, mage hand, message, prestidigitation, burning hands, detect magic, ray of sickness, shield, darkness, misty step, scorching ray, animate dead, fireball</spells>
+    <description>Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
+Delvers into Lore. Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult.
+Cult Ranks. A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic.
+Source: Baldur's Gate: Descent Into Avernus p. 234</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mortlock Vanthampur</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>12</ac>
+    <hp>90 (12d8+36)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>17</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>13</cha>
+    <save></save>
+    <skill>Athletics +6, Intimidation +5</skill>
+    <passive>11</passive>
+    <languages>Common</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Indomitable (2/Day)</name>
+      <text>Mortlock can reroll a saving throw that he fails. He must use the new roll.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Mortlock makes two attacks with his greatclub.</text>
+      </action>
+    <action>
+        <name>Greatclub</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (2d4 + 4) bludgeoning damage, plus 5 (2d4) bludgeoning damage if Mortlock has taken any damage since his last turn.</text>
+      <attack>Greatclub|+6|2d4+4</attack>
+      </action>
+    <action>
+        <name>Heavy Crossbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. 7 (1d10 + 2) piercing damage.</text>
+      <attack>Heavy Crossbow|+4|1d10+2</attack>
+      </action>
+    <description>Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
+Source: Baldur's Gate: Descent Into Avernus p. 26</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Necromite of Myrkul</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>11</ac>
+    <hp>13 (2d8+4)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>13</dex>
+    <con>15</con>
+    <int>16</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Arcana +5, Religion +5</skill>
+    <passive>10</passive>
+    <languages>Abyssal, Common, Infernal</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Skull Flail</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 4 (1d8) bludgeoning damage.</text>
+      <attack>Skull Flail|+2|1d8</attack>
+      </action>
+    <action>
+        <name>Claws of the Grave</name>
+      <text>Ranged Spell Attack: +5 to hit, range 90 ft., one target. 8 (2d4 + 3) necrotic damage.</text>
+      <attack>Claws of the Grave|+5|2d4+3</attack>
+      </action>
+    <description>Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
+Delvers into Lore. Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult.
+Cult Ranks. A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic.
+Source: Baldur's Gate: Descent Into Avernus p. 234</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Necrotic Centipede</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>195 (17d12+85)</hp>
+    <speed>walk 30 ft., burrow 20 ft.</speed>
+    <str>24</str>
+    <dex>13</dex>
+    <con>21</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>11</cr>
+    <resist></resist>
+    <immune>cold, fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Heated Body</name>
+      <text>A creature that touches the centipede or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 40 (6d10 + 7) piercing damage plus 10 (3d6) necrotic damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the centipede can't bite another target.</text>
+      <attack>Bite|+11|6d10+7</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The centipede makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the centipede, and it takes 21 (6d6) acid damage at the start of each of the centipede's turns.</text>
+      <text>If the centipede takes 30 damage or more on a single turn from a creature inside it, the centipede must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet oft he centipede. If the centipede dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</text>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 119</description>
+    <environment>arctic</environment>
+    </monster>
+  <monster>
+      <name>Night Blade</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>12</ac>
+    <hp>11 (2d8+2)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>11</str>
+    <dex>15</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>14</cha>
+    <save></save>
+    <skill>Intimidation +4, Stealth +6</skill>
+    <passive>10</passive>
+    <languages>Common</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60</senses>
+    <trait>
+        <name>Aura of Murder</name>
+      <text>As long as the night blade is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+4|1d4+2</attack>
+      </action>
+    <description>Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
+Bloodletters. All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding.
+Killers from the Shadows. Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn invisible for a crucial moment.
+Cult Ranks. Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with darkvision and superior stealth. Reapers are the next rank up. They gain the ability to turn invisible and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile.
+Source: Baldur's Gate: Descent Into Avernus p. 233</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Nine-Fingers Keene</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral</alignment>
+    <ac>15 (leather armor)</ac>
+    <hp>84 (13d8+26)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>12</str>
+    <dex>18</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>17</wis>
+    <cha>14</cha>
+    <save>Dex +7, Int +4</save>
+    <skill>Acrobatics +10, Deception +5, Insight +6, Intimidation +5, Perception +6, Sleight of hand +10, Stealth +10</skill>
+    <passive>16</passive>
+    <languages>Common, Thieves' cant</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Cunning Action</name>
+      <text>On each of her turns in combat, Nine-Fingers can use a bonus action to take the Dash, Disengage, or Hide action.</text>
+      </trait>
+    <trait>
+        <name>Dagger Thrower</name>
+      <text>Nine-Fingers adds double her proficiency bonus to the damage she deals on ranged attacks made with daggers (already factored into her attacks).</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Nine-Fingers attacks three times with her daggers.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage, plus 6 piercing damage if it's a ranged attack.</text>
+      <attack>Dagger|+7|1d4+4</attack>
+      </action>
+    <reaction>
+        <name>Uncanny Dodge</name>
+      <text>Nine-Fingers halves the damage that she takes from an attack that hits her. She must be able to see the attacker.</text>
+      </reaction>
+    <description>The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
+Keene has become increasingly intolerant of the populous tide turning against her organization. While the occasional rabble-rouser has always impeded criminal business, the rise of organized crews and vigilantes is interfering with Guild operations. After a carefully coordinated attack on a patriar's estate fell to pieces when a vigilante clumsily alerted the estate guards, Keene declared open season on do-gooders of all stripes.
+Source: Baldur's Gate: Descent Into Avernus p. 170</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Peacock</name>
+    <size>M</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>10</ac>
+    <hp>5 (1d8+1)</hp>
+    <speed>walk 10 ft., fly 50 ft.</speed>
+    <str>7</str>
+    <dex>10</dex>
+    <con>13</con>
+    <int>2</int>
+    <wis>12</wis>
+    <cha>4</cha>
+    <save></save>
+    <skill>Perception +3</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Sight and Smell</name>
+      <text>The peacock has advantage on Wisdom (Perception) checks that rely on sight or smell.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The peacock has advantage on an attack roll against a creature if at least one of the peacock's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Beak</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage.</text>
+      <attack>Beak|+2|1d4</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 195</description>
+    <environment>grassland, hill, desert</environment>
+    </monster>
+  <monster>
+      <name>Princeps Kovik</name>
+    <size>M</size>
+    <type>fiend (devil)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>85 (10d8+40)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>18</con>
+    <int>11</int>
+    <wis>12</wis>
+    <cha>14</cha>
+    <save>Con +7, Wis +4, Cha +5</save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>Infernal, telepathy 120 ft.</languages>
+    <cr>8</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Devil's Sight</name>
+      <text>Magical darkness doesn't impede Kovik's darkvision.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Kovik has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Kovik makes two attacks with its chains.</text>
+      </action>
+    <action>
+        <name>Chain</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if Kovik isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.</text>
+      <attack>Chain|+8|2d6+4</attack>
+      </action>
+    <action>
+        <name>Animate Chains (Recharges after a Short or Long Rest)</name>
+      <text>Up to four chains Kovik can see within 60 feet of it magically sprout razor-edged barbs and animate under Kovik's control, provided that the chains aren't being worn or carried.</text>
+      <text>Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When Kovik uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if Kovik is incapacitated or dies.</text>
+      </action>
+    <reaction>
+        <name>Unnerving Mask</name>
+      <text>When a creature Kovik can see starts its turn within 30 feet of Kovik, Kovik can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see Kovik, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.</text>
+      </reaction>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Raggadragga</name>
+    <size>M</size>
+    <type>humanoid (human, shapechanger)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>10 (in humanoid form, 11 (natural armor) in boar or hybrid form)</ac>
+    <hp>120 (12d8+24)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>17</str>
+    <dex>10</dex>
+    <con>15</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Common (can't speak in boar form)</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Shapechanger</name>
+      <text>Raggadragga can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+      </trait>
+    <trait>
+        <name>Charge (Boar or Hybrid Form Only)</name>
+      <text>If Raggadragga moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+      </trait>
+    <trait>
+        <name>Relentless (Recharges after a Short or Long Rest)</name>
+      <text>If Raggadragga takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack (Humanoid or Hybrid Form Only)</name>
+      <text>Raggadragga makes two attacks, only one of which can be with its tusks.</text>
+      </action>
+    <action>
+        <name>Maul (Humanoid or Hybrid Form Only)</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
+      <attack>Maul (Humanoid or Hybrid Form Only)|+5|2d6+3</attack>
+      </action>
+    <action>
+        <name>Tusks (Boar or Hybrid Form Only)</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.</text>
+      <attack>Tusks (Boar or Hybrid Form Only)|+5|2d6+3</attack>
+      </action>
+    <action>
+        <name>Variant: Nonhuman Lycanthropes</name>
+      <text>The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait.</text>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 87</description>
+    <environment>grassland, forest, hill</environment>
+    </monster>
+  <monster>
+      <name>Reaper of Bhaal</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>11</str>
+    <dex>20</dex>
+    <con>13</con>
+    <int>15</int>
+    <wis>12</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Intimidation +5, Perception +3, Persuasion +5, Stealth +9</skill>
+    <passive>13</passive>
+    <languages>Common</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Aura of Murder</name>
+      <text>As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The reaper makes two dagger attacks and uses Shroud Self.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+      <attack>Dagger|+7|1d4+5</attack>
+      </action>
+    <action>
+        <name>Shroud Self</name>
+      <text>The reaper magically turns invisible until the start of its next turn. This invisibility ends if the reaper makes an attack roll, makes a damage roll, or casts a spell.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The reaper's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:</text>
+      <text>1/day each: charm person, disguise self, sanctuary</text>
+      </trait>
+    <spells>charm person, disguise self, sanctuary</spells>
+    <description>Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
+Bloodletters. All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding.
+Killers from the Shadows. Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn invisible for a crucial moment.
+Cult Ranks. Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with darkvision and superior stealth. Reapers are the next rank up. They gain the ability to turn invisible and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile.
+Source: Baldur's Gate: Descent Into Avernus p. 233</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Rilsa Rael</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral</alignment>
+    <ac>15 (leather armor)</ac>
+    <hp>52 (8d8+16)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>18</dex>
+    <con>14</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>15</cha>
+    <save>Dex +6, Wis +2</save>
+    <skill>Acrobatics +6, Athletics +4, Deception +4, Perception +2, Sleight of hand +6, Stealth +6</skill>
+    <passive>12</passive>
+    <languages>Common, Thieves' cant</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Cunning Action</name>
+      <text>On each of her turns in combat, Rilsa can use a bonus action to take the Dash, Disengage, or Hide action.</text>
+      </trait>
+    <trait>
+        <name>Focus</name>
+      <text>If Rilsa damages a creature with a weapon attack, she gains advantage on attack rolls against that target until the end of her next turn.</text>
+      </trait>
+    <trait>
+        <name>Tactical Leadership</name>
+      <text>As a bonus action, Rilsa chooses one creature she can see within 30 feet of her. The creature doesn't provoke opportunity attacks until the end of its next turn, provided it can hear Rilsa's commands.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Rilsa makes three weapon attacks.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Shortsword|+6|1d6+4</attack>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
+      <attack>Dagger|+6|1d4+4</attack>
+      </action>
+    <description>The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
+Source: Baldur's Gate: Descent Into Avernus p. 199</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Skeletal Rats</name>
+    <size>M</size>
+    <type>swarm of Medium beasts</type>
+    <alignment>Unaligned</alignment>
+    <ac>10</ac>
+    <hp>24 (7d8-7)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>11</dex>
+    <con>9</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist>bludgeoning, piercing, slashing</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</conditionImmune>
+    <senses>darkvision 30 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The swarm has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Swarm</name>
+      <text>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</text>
+      </trait>
+    <action>
+        <name>Bites</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.</text>
+      <attack>Bites|+2|2d6</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 23</description>
+    <environment>swamp, urban</environment>
+    </monster>
+  <monster>
+      <name>Skull Lasher of Myrkul</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>12</ac>
+    <hp>32 (5d8+10)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>16</int>
+    <wis>13</wis>
+    <cha>10</cha>
+    <save>Wis +3</save>
+    <skill>Arcana +5, Religion +5</skill>
+    <passive>11</passive>
+    <languages>Abyssal, Common, Infernal</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The skull lasher makes two attacks with its flail.</text>
+      </action>
+    <action>
+        <name>Iron Skull Flail</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher's next turn.</text>
+      <attack>Iron Skull Flail|+2|1d8</attack>
+      </action>
+    <action>
+        <name>Ray of Sickness (1st-Level Spell; Requires a Spell Slot)</name>
+      <text>Ranged Spell Attack: +5 to hit, range 60 ft., one creature. 9 (2d8) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the skull lasher's next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+      <attack>Ray of Sickness (1st-Level Spell; Requires a Spell Slot)|+5|2d8</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): mage hand, message, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, protection from evil and good, ray of sickness (see "Actions" below), shield</text>
+      <text>• 2nd level (2 slots): darkness, misty step</text>
+      </trait>
+    <slots>4, 2</slots>
+    <spells>mage hand, message, prestidigitation, detect magic, protection from evil and good, ray of sickness, shield, darkness, misty step</spells>
+    <description>Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
+Delvers into Lore. Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult.
+Cult Ranks. A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic.
+Source: Baldur's Gate: Descent Into Avernus p. 234</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Smiler the Defiler</name>
+    <size>M</size>
+    <type>fey (elf)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>18 (+2 leather armor)</ac>
+    <hp>165 (22d8+66)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>20</dex>
+    <con>16</con>
+    <int>18</int>
+    <wis>11</wis>
+    <cha>18</cha>
+    <save></save>
+    <skill>Deception +7, Persuasion +7</skill>
+    <passive>10</passive>
+    <languages>Common, Elvish, Sylvan</languages>
+    <cr>7</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Fey Step (Recharge 4-6)</name>
+      <text>As a bonus action, Smiler can teleport up to 30 feet to an unoccupied space that he can see or to the empty seat of his infernal war machine.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Smiler has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Equipment</name>
+      <text>Smiler wears +2 leather armor. He carries seven soul coins in a bag and a +1 shortsword</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Smiler makes two weapon attacks. He can cast a spell in place of one of these attacks.</text>
+      </action>
+    <action>
+        <name>+1 Shortsword</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
+      <attack>+1 Shortsword|+9|1d6+6</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Smiler's innate spellcasting ability is Charisma (spell save DC 15). He can innately cast the following spells, requiring no material components:</text>
+      <text>At will: charm person, Tasha's hideous laughter</text>
+      <text>3/day each: confusion, enthrall, suggestion</text>
+      <text>1/day each: hallucinatory terrain, Otto's irresistible dance</text>
+      </trait>
+    <spells>charm person, Tasha's hideous laughter, confusion, enthrall, suggestion, hallucinatory terrain, Otto's irresistible dance</spells>
+    <description>Smiler has an unnerving smile—hence his name.
+A more apt name for this eladrin would be Smiler the Beguiler, as he's constantly trying to intoxicate others with his relentless optimism and shocking recklessness. Smiler thinks he can accomplish anything with a positive attitude and some death-defying stunt. Although he admits others might end up getting killed by his actions, he believes he can bend the multiverse to his whims if he tries hard enough. He's really quite insane.
+One of Smiler's favorite antics is to use a hallucinatory terrain spell to create a little bit of the Feywild in Avernus: a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.
+This eladrin adventurer from the Feywild became stranded in Avernus after his companions abandoned him. He has spent the past seventy years roaming Avernus, making deals with fiends to survive. Smiler eventually sold his soul to a pit fiend, who gave him the means to topple a nycaloth warlord named Yarrasto. Smiler took control of the nycaloth's warband and their infernal war machines. Smiler's gang came to be known as Smiler's Defilers, and their ferocity terrified the other warlords of Avernus for a while.
+Three of Smiler's rivals—Bitter Breath, Feonor, and Princeps Kovik—joined forces to wipe out Smiler's Defilers. Smiler escaped and tears around Avernus on a Devil's Ride, looking for adventurers willing to help him get revenge on the warlords who ganged up on him. Mad Maggie remains his only ally, though he refuses to join her gang.
+Source: Baldur's Gate: Descent Into Avernus p. 133</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sylvira Savikas</name>
+    <size>M</size>
+    <type>humanoid (tiefling)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>99 (18d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>20</int>
+    <wis>15</wis>
+    <cha>16</cha>
+    <save>Int +9, Wis +6</save>
+    <skill>Arcana +13, History +13, Investigation +2</skill>
+    <passive>12</passive>
+    <languages>any six languages, Infernal</languages>
+    <cr>12</cr>
+    <resist>damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin), fire</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Sylvira has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+6|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Sylvira is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Sylvira can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
+      <text>At will: disguise self, invisibility</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+      <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
+      <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+      <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+      <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
+      <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
+      <text>• 6th level (1 slots): globe of invulnerability</text>
+      <text>• 7th level (1 slots): teleport</text>
+      <text>• 8th level (1 slots): mind blank*</text>
+      <text>• 9th level (1 slots): time stop</text>
+      <text>*Sylvira casts these spells on itself before combat.</text>
+      </trait>
+    <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>&lt;$title_short_name$&gt;'s innate spellcasting ability is Charisma (spell save DC 15). &lt;$title_short_name$&gt; can innately cast the following spells, requiring no material components:</text>
+      <text>At will: thaumaturgy</text>
+      <text>1/day each: darkness, hellish rebuke</text>
+      </trait>
+    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop, thaumaturgy, darkness, hellish rebuke</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 46</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Thavius Kreeg</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>10</ac>
+    <hp>40 (9d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>12</str>
+    <dex>10</dex>
+    <con>11</con>
+    <int>15</int>
+    <wis>18</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Deception +5, Medicine +6, Persuasion +5, Religion +4</skill>
+    <passive>14</passive>
+    <languages>Abyssal, Common, Infernal</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Shadow of Guilt</name>
+      <text>Thavius's shadow is that of a pudgy, horned devil with small wings.</text>
+      </trait>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
+      <attack>Mace|+3|1d6+1</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 42</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Thurstwell Vanthampur</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>9</ac>
+    <hp>5 (2d8-4)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>7</str>
+    <dex>8</dex>
+    <con>6</con>
+    <int>15</int>
+    <wis>17</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Deception +3, Insight +5, Perception +5, Religion +4</skill>
+    <passive>15</passive>
+    <languages>Common, Elvish, Infernal</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Dark Devotion</name>
+      <text>Thurstwell has advantage on saving throws against being charmed or frightened.</text>
+      </trait>
+    <action>
+        <name>Sacred Flame (Cantrip)</name>
+      <text>Flame-like radiance descends on one creature Thurstwell can see within 60 feet of him. The target must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) radiant damage, gaining no benefit from cover.</text>
+      <attack>Sacred Flame (Cantrip)||1d8</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13). He has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): guidance, sacred flame (see "Actions" below), thaumaturgy</text>
+      <text>• 1st level (3 slots): command, detect evil and good, sanctuary</text>
+      </trait>
+    <slots>3</slots>
+    <spells>guidance, sacred flame, thaumaturgy, command, detect evil and good, sanctuary</spells>
+    <description>Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them—Amrik for being their mother's favorite, and Mortlock for being a monstrous dolt.
+Source: Baldur's Gate: Descent Into Avernus p. 34</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Torogar Steelfist</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>168 (16d10+80)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>25</str>
+    <dex>17</dex>
+    <con>20</con>
+    <int>8</int>
+    <wis>9</wis>
+    <cha>16</cha>
+    <save>Str +11, Con +9</save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages>Abyssal, Common</languages>
+    <cr>11</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Goring Rush</name>
+      <text>Immediately after using the Dash action, Torogar can make one melee attack with his horns.</text>
+      </trait>
+    <trait>
+        <name>Labyrinthine Recall</name>
+      <text>Torogar can perfectly recall any path he has traveled.</text>
+      </trait>
+    <trait>
+        <name>Rage (Recharges after a Short or Long Rest)</name>
+      <text>As a bonus action, Torogar can enter a rage that lasts for 1 minute. The rage ends early if Torogar is knocked unconscious or if his turn ends and he hasn't attacked a hostile creature or taken damage since his last turn. While raging, Torogar gains the following benefits:</text>
+      <text>He has advantage on Strength checks and Strength saving throws.</text>
+      <text>He deals an extra 3 damage when he hits a target with a melee weapon attack.</text>
+      <text>He has resistance to bludgeoning, piercing, and slashing damage.</text>
+      </trait>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Torogar wears gauntlets of flaming fury and a belt of fire giant strength. Without the belt, his Strength is 21. He also carries a soul coin.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Torogar makes three attacks: two with his scimitars and one with his horns.</text>
+      </action>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage, or 17 (2d6 + 10) slashing damage while raging, plus 3 (1d6) fire damage from the gauntlets of flaming fury.</text>
+      <attack>Scimitar|+11|2d6+7</attack>
+      </action>
+    <action>
+        <name>Horns</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 16 (2d8 + 7) piercing damage, or 19 (2d8 + 10) piercing damage while raging.</text>
+      <attack>Horns|+11|2d8+7</attack>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 112</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Traxigor</name>
+    <size>T</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>99 (18d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>20</int>
+    <wis>15</wis>
+    <cha>16</cha>
+    <save>Int +9, Wis +6</save>
+    <skill>Arcana +13, History +13</skill>
+    <passive>12</passive>
+    <languages>any six languages</languages>
+    <cr>12</cr>
+    <resist>damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin)</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Traxigor has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+6|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Traxigor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Traxigor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
+      <text>At will: disguise self, invisibility</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+      <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
+      <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+      <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+      <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
+      <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
+      <text>• 6th level (1 slots): globe of invulnerability</text>
+      <text>• 7th level (1 slots): plane shift</text>
+      <text>• 8th level (1 slots): mind blank*</text>
+      <text>• 9th level (1 slots): time stop</text>
+      <text>*Traxigor casts these spells on itself before combat.</text>
+      </trait>
+    <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, plane shift, mind blank, time stop</spells>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 50</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Tressym (monstrosity)</name>
+    <size>T</size>
+    <type>beast</type>
+    <alignment>Chaotic Neutral</alignment>
+    <ac>12</ac>
+    <hp>5 (2d4)</hp>
+    <speed>walk 40 ft., climb 30 ft., fly 40 ft.</speed>
+    <str>3</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>11</int>
+    <wis>12</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Perception +5, Stealth +4</skill>
+    <passive>15</passive>
+    <languages>understands Common but can't speak</languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Detect Invisibility</name>
+      <text>Within 60 feet of the Tressym (monstrosity), magical invisibility fails to conceal anything from the Tressym (monstrosity)'s sight</text>
+      </trait>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The Tressym (monstrosity) has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Poison Sense</name>
+      <text>The Tressym (monstrosity) can detect whether a substance is poisonous by taste, touch, or smell.</text>
+      </trait>
+    <trait>
+        <name>Familiar</name>
+      <text>With the DM's permission, a person who casts the find familiar spell can choose to conjure a Tressym (monstrosity) in stead of a normal cat.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. 1 slashing damage.</text>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 241, Infernal Machine Rebuild</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ulder Ravengard</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral</alignment>
+    <ac>20 (plate armor, shield)</ac>
+    <hp>112 (15d8+45)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>17</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>11</int>
+    <wis>10</wis>
+    <cha>17</cha>
+    <save>Con +6, Wis +3</save>
+    <skill>Athletics +6, Intimidation +6, Perception +3</skill>
+    <passive>13</passive>
+    <languages>Common</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>Ulder makes three melee attacks, only one of which can be with his shield.</text>
+      </action>
+    <action>
+        <name>+1 Longsword</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage when used with two hands.</text>
+      <attack>+1 Longsword|+7|1d8+4</attack>
+      </action>
+    <action>
+        <name>Shield</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 6 (1d6 + 3) bludgeoning damage, and Ulder pushes the target 5 feet away from him. Ulder then enters the space vacated by the target. If the target is pushed to within 5 feet of a creature friendly to Ulder, the target provokes an opportunity attack from that creature.</text>
+      <attack>Shield|+6|1d6+3</attack>
+      </action>
+    <reaction>
+        <name>Guardian Strike</name>
+      <text>If an enemy within 5 feet of Ulder attacks a target other than him, Ulder can make a melee attack against that enemy.</text>
+      </reaction>
+    <description>Ulder Ravengard is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.
+Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popularity. His only concerns are the stability and prosperity of Baldur's Gate, and he doesn't trust any of the other dukes or anyone in the Parliament of Peers to put the city's interests before their own.
+Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and invisible bureaucracy. Despite this, he's been a voice of reason and common sense on the Council of Four—if not the egalitarianism some hoped. He's also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm's Rock.
+Ravengard was recently tricked into attending a diplomatic summit in Elturel, unaware that his political enemies in Baldur's Gate orchestrated this meeting in a fiendish plot to remove him from power. In his absence, the Flaming Fist is leaderless, the council rudderless.
+Source: Baldur's Gate: Descent Into Avernus p. 70</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Undead Tree</name>
+    <size>H</size>
+    <type>plant</type>
+    <alignment>Chaotic Good</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>138 (12d12+60)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>23</str>
+    <dex>8</dex>
+    <con>21</con>
+    <int>12</int>
+    <wis>16</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Common, Druidic, Elvish, Sylvan</languages>
+    <cr>9</cr>
+    <resist>bludgeoning, piercing</resist>
+    <immune></immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the tree remains motionless, it is indistinguishable from a normal tree.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The tree deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The tree makes two slam attacks.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
+      <attack>Slam|+10|3d6+6</attack>
+      </action>
+    <action>
+        <name>Rock</name>
+      <text>Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
+      <attack>Rock|+10|4d10+6</attack>
+      </action>
+    <action>
+        <name>Animate Trees (1/Day)</name>
+      <text>The tree magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a tree, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the tree. The tree remains animate for 1 day or until it dies; until the tree dies or is more than 120 feet from the tree; or until the tree takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.</text>
+      </action>
+    <description>
+Source: Baldur's Gate: Descent Into Avernus p. 23</description>
+    <environment>forest</environment>
+    </monster>
+  </compendium>

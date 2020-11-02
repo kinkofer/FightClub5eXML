@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Adult Sapphire Dragon</name>
+    <size>H</size>
+    <type>dragon</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>19 (natural armor)</ac>
+    <hp>207 (18d12+60)</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 80 ft., burrow 40 ft.</speed>
+    <str>23</str>
+    <dex>16</dex>
+    <con>21</con>
+    <int>18</int>
+    <wis>17</wis>
+    <cha>18</cha>
+    <save>Dex +8, Con +10, Wis +8, Cha +9</save>
+    <skill>History +9, Perception +13, Persuasion +14, Stealth +8</skill>
+    <passive>23</passive>
+    <languages>telepathy 120 ft., Common, Draconic</languages>
+    <cr>15</cr>
+    <resist></resist>
+    <immune>thunder</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (2/Day)</name>
+      <text>If the dragon fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Spider Climb</name>
+      <text>The dragon can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <trait>
+        <name>Tunneler</name>
+      <text>The dragon can burrow through solid rock at half its burrow speed and can choose to leave a 10-foot-diameter tunnel in its wake.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragon can use its Frightful Presence. It then makes two melee attacks, one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 17 (2d10 + 6) piercing damage plus 3 (1d6) thunder damage.</text>
+      <attack>Bite|+11|2d10+6</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 19 (3d8 + 6) slashing damage.</text>
+      <attack>Claws|+11|3d8+6</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 15 (2d8 + 6) bludgeoning damage.</text>
+      <attack>Tail|+11|2d8+6</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Debilitating Breath (Recharge 5-6)</name>
+      <text>The dragon exhales a pulse of high-pitched, nearly inaudible sound in a 60-foot-cone. Each creature in that cone must make a DC 18 Constitution saving throw. On a failed save, the creature takes 45 (13d6) thunder damage and is incapacitated until the end of its next turn. On a successful save, the creature takes half as much damage and isn't incapacitated.</text>
+      <attack>Debilitating Breath (Recharge 5-6)||13d6</attack>
+      </action>
+    <legendary>
+        <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>The dragon makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Telekinetic Fling</name>
+      <text>The dragon chooses a Small or smaller object that isn't being worn or carried that it can see within 60 feet of it, and magically hurls the object at a creature it can see within 60 feet of the object. The target must succeed on a DC 17 Dexterity saving throw or take 15 (4d6) bludgeoning damage.</text>
+      </legendary>
+    <legendary>
+        <name>Teleport (Costs 2 Actions)</name>
+      <text>The dragon magically teleports to an unoccupied space it can see within 30 feet of it.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
+      <text>• The dragon targets a creature within 120 feet of it that can hear and understand it. The creature must succeed on a DC 15 Wisdom saving throw or be charmed by the dragon until initiative count 20 on the following round. A creature charmed in this way obeys to the best of its ability any command the dragon issues that isn't directly harmful to itself.</text>
+      <text>• The dragon touches a section of stone up to 10 feet in any dimension. The dragon can form the stone into any shape that suits its purpose.</text>
+      <text>• A wall of stone springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 1 foot thick. When the wall appears, each creature in its space is pushed to either side of the wall the creature wants. Each 5-foot section of wall has AC 17, 20 hit points, vulnerability to thunder damage, and immunity to poison and psychic damage. The wall vanishes when the dragon uses this lair action again or when the dragon dies.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region surrounding a legendary sapphire dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
+      <text>• Giant spider are attracted to the area within 6 miles of the lair and settle there in large numbers.</text>
+      <text>• Natural stone within 6 miles of the lair grows plentiful crystal formations and sapphire gemstone veins, particularly underground.</text>
+      <text>• Natural stone within 6 miles of the lair becomes a conduit for the dragon's psionic presence. As an action, the dragon can cast the clairvoyance spell, requiring no components, targeting any natural stone formation in that region.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting (Psionics)</name>
+      <text>The dragon's innate spellcasting ability is Intelligence (spell save DC 17). It can innately cast the following spells, requiring no components:</text>
+      <text>1/day each: scrying, telekinesis, teleportation circle</text>
+      </trait>
+    <spells>scrying, telekinesis, teleportation circle</spells>
+    <description>The glittering sapphire dragons are the most territorial of all the gem dragons to a dangerous degree. They collect magical weapons and armor as the centerpieces of their hoards and vault them away in isolated caverns.
+A sapphire dragon's psionic nature is evident in horn and bone structures of their body. Their tail barbs and horn tips are all separate pieces, but they float in places, held aloft by the dragon's psychic force while the dragon lives. These levitating horns and spines shift slightly with the dragon's mood, bobbing in amusement or flaring dangerously with anger. Its scales and wing membranes are varied shades of blue, ranging from the light tones of a spring sky, to the rich crystalline azure of sapphire gems and compressed glacial ice. In the light, many of their scales glitter and shine with luminous starburst images.
+Unlike most dragons, hatchling sapphire dragons' scales are the rich shades of blue, and sparkling luster they will have for their entire lives.
+Cavern Dwellers. Sapphire dragons dwell in massive caverns and tunnel networks deep within the earth. They sculpt and excavate secret passages and hidden blinds they can use to navigate their lair, and to stalk and ambush intruders. As the dragons grow older and more powerful, there might be no accessible entrance or exit. Those have been long sealed with natural-looking stone thanks to the dragon's command over its lair's substance.
+Giant spiders are the favorite food of sapphire dragons, and the dragons take great delight in hunting the creatures in their subterranean homes.
+Martial and Territorial. Sapphire dragons are militaristic and warlike, defending their territory with fervor seen in few other dragon kinds. They devise strategies and ambushes utilizing their natural abilities to maneuver underground, and when they reach a certain age, their magical command over the stone that comprises their lairs. Despite this, they don't strike immediately, instead preferring to watch and gauge intruders to devise the most advantageous approach.
+Rivals and Vassals. Peoples that dwell and delve deep into the earth easily find themselves at odds with sapphire dragons, as a result, the dragons often despise both drow and dwarves in addition to their animosity toward aberrations.
+Sapphire dragons sometimes form peaceful contact with communities of rock or deep homes, using their influence to shape the gnome settlements into militant groups that help protect the territory surrounding the dragon's lair.
+Hoarded Armory. Gold and jewels, art and magical artifacts are as coveted by sapphire dragons as by any other kind, but they most highly prize magical weapons and armor, as well as written accounts of military history and tactics. The centerpiece of a sapphire's hoard is a catalogued, orderly collection of its accumulated war gear, often containing ancient relics of immense power.
+A Sapphire Dragon's Lair. Sapphire dragons make their lairs in sprawling caverns and tunnels. As they grow older, the make extensive renovations and customization to their lairs thanks to their command over the stone's substance, and their natural tunneling abilities.
+The dragons eventually create a dizzying honeycomb of hidden passages, thin walls, and secret chambers that allow them to traverse their entire lair unseen by intruders. There might be no easily accessible entrances or exists in the lair itself, without using magic or tunneling.
+Gem Dragons
+While the metallic dragons follow Bahamut and the chromatic ones owe fealty to Tiamat, the gem dragons are disciples of the enigmatic ruby dragon Sardior. Gem dragons include amethyst crystal, emerald, sapphire, and topaz dragons.
+Reclusive Sentinels. Gem dragons set themselves apart from the affairs of other beings, even their own kind. They search out lairs far from established populations which they can tend in solitude, or so they can carefully cultivate a circle of servants or vassals to tend their interests in the surrounding region.
+Gem dragons break their natural inclination to solitude to mate and protect their clutches of eggs, but rarely for any other reason.
+Charismatic and Suave. Despite their isolationist tendencies, when gem dragons do interact with other creatures, they can be scintillating hosts and conversationalists. They have a way with making their guests feel at home and relaxed, such that the dragons can often convince a guest of ideas they would never ordinarily entertain.
+Powerful Minds. Gem dragons are all inherently psionic creatures. They develop telepathic abilities shortly after hatching—sometimes even before—that grow in strength as they age. Some hone these mental powers further, manifesting powerful magical abilities through their minds.
+These psychically adept dragons often find themselves at odds with aberrations, particularly mind flayers and aboleths. The gem dragons are skilled at at locating areas where the Far Realm intrudes upon the Material PLane and set themselves against the alien creatures spawned or twisted in such places.
+Sovereign of Gem Dragons. Of all the gem dragons, the unique ruby dragon, Sardior, is the greatest. He is the king of the gem dragons, and dwells in a floating castle carved of ruby and red gold. His ruby citadel flies far above the surface of the world, always in the night sky. When glimpsed, it crosses the sky like a crimson star, invading the constellations wheeling slowly overhead.
+Sardior is attended in his hold by a council of five, composed of witheringly powerful ancient dragons of each of the gem dragon kinds.
+Source: Sapphire Anniversary Dice Set p. 1</description>
+    <environment></environment>
+    </monster>
+  </compendium>

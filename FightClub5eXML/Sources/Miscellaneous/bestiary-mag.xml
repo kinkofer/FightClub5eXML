@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Spider Shark</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>162 (13d12+78)</hp>
+    <speed>walk 30 ft., climb 30 ft.</speed>
+    <str>16</str>
+    <dex>17</dex>
+    <con>16</con>
+    <int>4</int>
+    <wis>14</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill></skill>
+    <passive>15</passive>
+    <languages></languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 60 ft.</senses>
+    <trait>
+        <name>Spider Climb</name>
+      <text>The spider shark can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <trait>
+        <name>Web Sense</name>
+      <text>While in contact with a web, the spider shark knows the exact location of any other creature in contact with the same web.</text>
+      </trait>
+    <trait>
+        <name>Web Walker</name>
+      <text>The spider shark ignores movement restrictions caused by webbing.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The spider shark can make a hooked claw attack, a burrowing tooth attack, and a barbed web attack.</text>
+      </action>
+    <action>
+        <name>Burrowing Tooth</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. 16 (3d8 + 3) damage, and the target must make a DC 18 Constitution saving throw, or take an additional 4 (1d8) damage at the beginning of its turn each round. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Burrowing Tooth|+7|3d8+3</attack>
+      </action>
+    <action>
+        <name>Hooked Claw</name>
+      <text>Melee Weapon Attack: +7 to hit, range 10 ft., one creature. 12 (2d8 + 3) damage, and the target must make a DC 18 Strength saving throw, or be grappled and pulled towards the spider shark. While the target is grappled, attacks against it have advantage.</text>
+      </action>
+    <action>
+        <name>Barbed Web Attack</name>
+      <text>Ranged Weapon Attack: +7 to hit, range 90/90 ft., one creature. 18 (3d10 + 2) damage, and the target is retrained. As an action, the restrained creature can make a DC 18 Strength check, destroying from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 15; 25 hit points; is vulnerable to fire damage; and is immune to bludgeoning, poison, and psychic damage.</text>
+      <attack>Barbed Web Attack|+7|3d10+2</attack>
+      </action>
+    <action>
+        <name>Web Net (Recharge 5-6)</name>
+      <text>The spider shark launches webs at a 30-foot radius area within 90 feet. Each creature in that area must succeed on a DC 16 Dexterity save. On a failed save, the creature takes 18 (3d10 + 2) damage and is restrained by webbing. As an action, the restrained creature can make a DC 18 Strength check, destroying from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 15; 25 hit points; is vulnerable to fire damage; and is immune to bludgeoning, poison, and psychic damage.</text>
+      </action>
+    <description>
+Source: Dragon Magazine p. 32</description>
+    <environment></environment>
+    </monster>
+  </compendium>

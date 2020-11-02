@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Decapus</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>75 (10d10+20)</hp>
+    <speed>walk 15 ft., climb 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Athletics +4, Perception +2, Stealth +4</skill>
+    <passive>12</passive>
+    <languages></languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The decapus makes two attacks: one with its bite and one with its tentacles.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature grappled by the decapus. 7 (2d4 + 2) piercing damage.</text>
+      <attack>Bite|+4|2d4+2</attack>
+      </action>
+    <action>
+        <name>Tentacles</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. 24 (9d4 + 2) bludgeoning damage or 14 (5d4 + 2) bludgeoning damage if the decapus is grappling a creature other than the target or if the decapus is on the ground or floor. The target is also grappled (escape DC 14) unless the decapus is already grappling a creature. Until this grapple ends, the target is restrained.</text>
+      <attack>Tentacles|+4|9d4+2</attack>
+      </action>
+    <description>Decapuses are carnivorous, solitary hunters that swing through trees, scooping up prey with their 10-foot-long, suckered tentacles. Decapuses also use their tentacles to climb walls and ceilings.
+After securing a high vantage point, a decapus hangs by one tentacle and attacks with the other nine. On the ground, a decapus is slower and less dangerous. It must use half of its tentacles to support its weight upright, leaving five tentacles with which it can attack and defend itself.
+Marine Decapus. A marine decapus is similar to its land-dwelling cousin, except that it gains a swimming speed of 30 feet and can breathe only underwater.
+Source: The Tortle Package p. 21</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Geonid</name>
+    <size>S</size>
+    <type>elemental</type>
+    <alignment>Neutral</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>26 (4d6+12)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>12</str>
+    <dex>10</dex>
+    <con>16</con>
+    <int>9</int>
+    <wis>14</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +2</skill>
+    <passive>14</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft., tremorsense 30 ft.</senses>
+    <trait>
+        <name>Boulder Guise</name>
+      <text>While fully withdrawn into its shell, the geonid can't see and is indistinguishable from a small boulder</text>
+      </trait>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) bludgeoning damage.</text>
+      <attack>Club|+3|1d4+1</attack>
+      </action>
+    <action>
+        <name>Stone Tell</name>
+      <text>The geonid touches a stone object or surface and knows what types of creatures have been within 10 feet of that stone in the past 24 hours. The geonid can also determine the number of creatures of each type, but not their identities.</text>
+      </action>
+    <description>Also known as rocklings and rock hermits, geonids are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its tremorsense to detect other creatures nearby.
+Dark Lairs. Geonids live in natural tunnels and caves. They feed primarily on lizards, rats, slugs, and other vermin, as well as on cave lichen and moss. Geonids like to collect coins and gemstones, and they rarely confront creatures larger than themselves except to rob them or scare them away.
+Stone Tell. Geonids can attune to stone in a way that lets them discern what other creatures have been in the area recently. Geonids use this ability to track prey and to determine whether other creatures have trespassed in their territory. The information gleaned is imprecise and doesn't include the specific identities of such creatures or the precise times when they passed nearby.
+Source: The Tortle Package p. 22</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Giant Slug</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>66 (6d10+18)</hp>
+    <speed>walk 10 ft., climb 10 ft.</speed>
+    <str>14</str>
+    <dex>13</dex>
+    <con>16</con>
+    <int>1</int>
+    <wis>12</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill>Perception +3</skill>
+    <passive>13</passive>
+    <languages>Abyssal, Aquan, Common</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The slug has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Spider Climb</name>
+      <text>The slug can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The slug makes two attacks: one with its tentacles and one with its bite.</text>
+      </action>
+    <action>
+        <name>Tentacles</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.</text>
+      <attack>Tentacles|+8|1d4+2</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) piercing damage.</text>
+      <attack>Bite|+4|2d4+2</attack>
+      </action>
+    <reaction>
+        <name>Animate Tentacle</name>
+      <text>When the slug takes damage in this cave (Shrine of Umberlee), it can use its reaction to animate one of the tentacles of the kraken statue and cause it to make a melee weapon attack (+3 to hit) against one creature within 20 feet of the statue that the slug can see. The tentacle deals 8 (1d8 + 4) bludgeoning damage on a hit.</text>
+      </reaction>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The slug's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
+      <text>1/day each: guiding bolt, sanctuary, spiritual weapon</text>
+      </trait>
+    <spells>guiding bolt, sanctuary, spiritual weapon</spells>
+    <description>
+Source: The Tortle Package p. 18</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Topi</name>
+    <size>S</size>
+    <type>undead</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>13 (3d6+3)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>7</str>
+    <dex>15</dex>
+    <con>12</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands the languages it knew in life but can't speak</languages>
+    <cr>1/2</cr>
+    <resist>bludgeoning</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Turn Resistance</name>
+      <text>The topi has advantage on saving throws against any effect that turns undead.</text>
+      </trait>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces the topi to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the topi drops to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Venomous Claws</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage plus 2 (1d4) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned until the end of the target's next turn.</text>
+      <attack>Venomous Claws|+4|1d4+2</attack>
+      </action>
+    <description>Topis are similar to zombies. Before a topi is animated, its corpse is shrunk until it stands only 2 feet tall, and its heart is cut out and replaced with a leather bag that contains a live poisonous snake. The snake requires neither air nor sustenance, and it magically renders the topi's claws venomous. When a topi dies, the snake inside it dies too. The process of creating a topi is known only to a handful of evil priests and necromancers.
+Topis are more difficult to turn than ordinary zombies, and their spongy bodies make them resistant to bludgeoning.
+Undead Traits. A topi doesn't require air, food, drink, or sleep.
+Source: The Tortle Package p. 22</description>
+    <environment></environment>
+    </monster>
+  </compendium>

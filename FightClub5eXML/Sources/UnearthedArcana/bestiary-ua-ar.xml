@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Alchemical Homunculus (Unearthed Arcana)</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Neutral</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>0</hp>
+    <speed>walk 20 ft., fly 30 ft.</speed>
+    <str>4</str>
+    <dex>15</dex>
+    <con>11</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +4</skill>
+    <passive>10</passive>
+    <languages>understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>acid, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal to five times your level in this class + your Intelligence modifier</text>
+      </trait>
+    <trait>
+        <name>Might of the Master</name>
+      <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the homunculus's skill bonuses and the bonuses to hit and damage of its Acidic Spittle.</text>
+      </trait>
+    <action>
+        <name>Acidic Spittle</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 30 ft., one target you can see. 1d6 + 2 acid damage.</text>
+      </action>
+    <action>
+        <name>Alchemical Salve (3/Day)</name>
+      <text>The homunculus produces a salve and touches one creature you designate. The target receives one of the following magical benefits of your choice:</text>
+      <text>• Buoyancy: The target gains a flying speed of 10 feet for 10 minutes.</text>
+      <text>• Inspiration: The target feels giddy and effective, gaining advantage on certain ability checks in the next hour. The target chooses the checks before or after rolling. The magic runs out after the target has used it on a number of checks equal to your Intelligence modifier (minimum of 1).</text>
+      <text>• Resilience: The target gains a number of temporary hit points equal to 2d6 + your Intelligence modifier.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: Artificer Revisited p. 6</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Iron Defender (Unearthed Arcana)</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Neutral</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>0</hp>
+    <speed>walk 40 ft.</speed>
+    <str>14</str>
+    <dex>12</dex>
+    <con>14</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>10</passive>
+    <languages>understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal to five times your level in this class + your Intelligence modifier + the Iron Defender (Unearthed Arcana)'s Constitution modifier</text>
+      </trait>
+    <trait>
+        <name>Might of the Master</name>
+      <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the Iron Defender (Unearthed Arcana)'s skill bonuses, the bonuses to hit and damage of its bite, and the number of hit points restored by its Repair action.</text>
+      </trait>
+    <trait>
+        <name>Vigilant</name>
+      <text>The Iron Defender (Unearthed Arcana) can't be surprised.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target you can see. 1d8 + 2 piercing damage.</text>
+      </action>
+    <action>
+        <name>Repair (3/Day)</name>
+      <text>The magical mechanisms inside the Iron Defender (Unearthed Arcana) restore 2d8 + 2 hit points to itself or to one construct or object within 5 feet of it.</text>
+      </action>
+    <reaction>
+        <name>Defensive Pounce</name>
+      <text>The Iron Defender (Unearthed Arcana) imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the Iron Defender (Unearthed Arcana).</text>
+      </reaction>
+    <description>
+Source: Unearthed Arcana: Artificer Revisited p. 11</description>
+    <environment></environment>
+    </monster>
+  </compendium>

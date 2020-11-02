@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Animated Object (Huge)</name>
+    <size>H</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>10 (natural armor)</ac>
+    <hp>80 (80d1)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>6</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Animated</name>
+      <text>If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0.</text>
+      <text>When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.</text>
+      <text>The DM might rule that a specific objects slam attack inflicts slashing or piercing damage based on its form.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 16 (2d12 + 4) bludgeoning damage.</text>
+      <attack>Slam|+8|2d12+4</attack>
+      </action>
+    <description>
+Source: Player's Handbook p. 213</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Animated Object (Large)</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>10 (natural armor)</ac>
+    <hp>50 (50d1)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Animated</name>
+      <text>If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0.</text>
+      <text>When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.</text>
+      <text>The DM might rule that a specific objects slam attack inflicts slashing or piercing damage based on its form.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 12 (2d10 + 2) bludgeoning damage.</text>
+      <attack>Slam|+6|2d10+2</attack>
+      </action>
+    <description>
+Source: Player's Handbook p. 213</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Animated Object (Medium)</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>40 (40d1)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>12</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Animated</name>
+      <text>If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0.</text>
+      <text>When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.</text>
+      <text>The DM might rule that a specific objects slam attack inflicts slashing or piercing damage based on its form.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (2d6 + 1) bludgeoning damage.</text>
+      <attack>Slam|+5|2d6+1</attack>
+      </action>
+    <description>
+Source: Player's Handbook p. 213</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Animated Object (Small)</name>
+    <size>S</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>25 (25d1)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>6</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Animated</name>
+      <text>If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0.</text>
+      <text>When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.</text>
+      <text>The DM might rule that a specific objects slam attack inflicts slashing or piercing damage based on its form.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage.</text>
+      <attack>Slam|+6|1d8+2</attack>
+      </action>
+    <description>
+Source: Player's Handbook p. 213</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Animated Object (Tiny)</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>20 (20d1)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>4</str>
+    <dex>18</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Animated</name>
+      <text>If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0.</text>
+      <text>When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.</text>
+      <text>The DM might rule that a specific objects slam attack inflicts slashing or piercing damage based on its form.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 6 (1d4 + 4) bludgeoning damage.</text>
+      <attack>Slam|+8|1d4+4</attack>
+      </action>
+    <description>
+Source: Player's Handbook p. 213</description>
+    <environment></environment>
+    </monster>
+  </compendium>

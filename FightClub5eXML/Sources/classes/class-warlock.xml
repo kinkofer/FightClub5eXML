@@ -1,0 +1,1539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <hd>8</hd>
+    <proficiency>Wisdom, Charisma, Arcana, Deception, History, Intimidation, Investigation, Nature, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Charisma</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Warlock</name>
+        <text>As a 1st-level Warlock, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: simple</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 2 from Arcana, Deception, History, Intimidation, Investigation, Nature, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a light crossbow and crossbow bolts (20) or (b) any simple weapon</text>
+        <text>• (a) a component pouch or (b) an arcane focus</text>
+        <text>• (a) a scholar's pack or (b) a dungeoneer's pack</text>
+        <text>• Leather armor, any simple weapon, and two dagger</text>
+        <text></text>
+        <text>Alternatively, you may start with 4d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Warlock</name>
+        <text>To multiclass as a Warlock, you must meet the following prerequisites:</text>
+        <text>• Charisma 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <armor>light</armor>
+    <weapons>simple</weapons>
+    <tools>none</tools>
+    <wealth>4d4 x 10</wealth>
+    <autolevel level="1">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Pact Magic</name>
+        <text>Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the warlock spell list.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</text>
+        <text>   For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   At 1st level, you know two 1st-level spells of your choice from the warlock spell list.</text>
+        <text>   The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.</text>
+        <text>   Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use an arcane focus as a spellcasting focus for your warlock spells.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Spell Versatility</name>
+        <text>1st-level warlock feature (enhances Pact Magic)</text>
+        <text>Whenever you finish a long rest, you can replace one spell you learned from this Pact Magic feature with another spell from the warlock spell list. The new spell must be the same level as the spell you replace.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 10</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Otherworldly Patron</name>
+        <text>At 1st level, you have struck a bargain with an otherworldly being chosen from the list of available patrons. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Archfey</name>
+        <text>Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Archfey Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | faerie fire, sleep</text>
+        <text>2nd | calm emotions, phantasmal force</text>
+        <text>3rd | blink, plant growth</text>
+        <text>4th | dominate beast, greater invisibility</text>
+        <text>5th | dominate person, seeming</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Archfey: Fey Presence</name>
+        <text>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Fiend</name>
+        <text>You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.</text>
+        <name>The Fiend: Expanded Spell List</name>
+        <text>   The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Fiend Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | burning hands, command</text>
+        <text>2nd | blindness/deafness, scorching ray</text>
+        <text>3rd | fireball, stinking cloud</text>
+        <text>4th | fire shield, wall of fire</text>
+        <text>5th | flame strike, hallow</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Fiend: Dark One's Blessing</name>
+        <text>Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Ghost in the Machine</name>
+        <text>You have made a bargain for power granted by an entity that you believe to be completely digital. Whether it is a rogue AI or the spirit of a deceased hacker, the Ghost in the Machine is capable of feats that defy explanation.</text>
+        <name>Ghost in the Machine (UA): Expanded Spell List</name>
+        <text>   The Ghost in the Machine lets you choose from an expanded list of spells when you learn a warlock spell. You gain the on/off cantrip, and the following new spells are added to the warlock spell list for you.</text>
+        <text>   Spells marked with an asterisk can be found in Unearthed Arcana: Modern Magic.</text>
+        <text></text>
+        <text>Ghost in the Machine Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | infallible relay (UA)*, remote access (UA)*</text>
+        <text>2nd | arcane hacking (UA)*, digital phantom (UA)*</text>
+        <text>3rd | haywire (UA)*, invisibility to cameras (UA)*</text>
+        <text>4th | conjure knowbot (UA)*, system backdoor (UA)*</text>
+        <text>5th | shutdown (UA)*, synchronicity (UA)*</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Bonus Proficiency</name>
+        <text>At 1st level, you gain proficiency with hacking tools.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Information Surge</name>
+        <text>At 1st level, you gain the ability to temporarily render computerized devices inoperable. As an action, you can target a computerized device within 30 feet of you. If the targeted device is held or otherwise actively used by a living creature, that creature must make an Intelligence saving throw against your spell save DC. On a failed save, the targeted device ceases to function until the end of your next turn. If the targeted device is not held or used by a creature, the DM makes a special saving throw for the device with disadvantage and a +0 modifier. Certain shielded devices might negate the disadvantage, at the DM's determination.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Great Old One</name>
+        <text>Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.</text>
+        <name>The Great Old One: Expanded Spell List</name>
+        <text>   The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Great Old One Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | dissonant whispers, Tasha's hideous laughter</text>
+        <text>2nd | detect thoughts, phantasmal force</text>
+        <text>3rd | clairvoyance, sending</text>
+        <text>4th | dominate beast, Evard's black tentacles</text>
+        <text>5th | dominate person, telekinesis</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Great Old One: Awakened Mind</name>
+        <text>Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Undying</name>
+        <text>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.</text>
+        <text>In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.</text>
+        <name>The Undying: Expanded Spell List</name>
+        <text>   The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Undying Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | false life, ray of sickness</text>
+        <text>2nd | blindness/deafness, silence</text>
+        <text>3rd | feign death, speak with dead</text>
+        <text>4th | aura of life, death ward</text>
+        <text>5th | contagion, legend lore</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 139</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undying: Among the Dead</name>
+        <text>Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</text>
+        <text>Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 139</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undying Light (UA): The Undying Light</name>
+        <text>Your patron is not a specific entity, but the energy that radiates from the Positive Plane. Your pact allows you to experience the barest touch of the raw stuff of life that powers the multiverse. Anything more, and you would be instantly incinerated by its energy.</text>
+        <text>Contact with the Positive Plane causes subtle changes to your behavior and beliefs. You are driven to bring light to dark places, to annihilate undead creatures, and to protect all living things. At the same time, you crave the light and find total darkness a suffocating experience akin to drowning.</text>
+        <text>As an optional way to add more flavor to your character, you can pick from or roll on the following table of flaws associated with warlocks of the Undying Light.</text>
+        <text></text>
+        <text>Undying Light Flaws</text>
+        <text>d6 | Quirk</text>
+        <text>1 | You are afraid of the dark, and must always have a light source at hand.</text>
+        <text>2 | You have a nervous compulsion to keep a bright light in even the barest shadow.</text>
+        <text>3 | You have a compulsion to enter and illuminate dark areas.</text>
+        <text>4 | You have an overwhelming hatred of undead creatures.</text>
+        <text>5 | You fidget and are irritable when you can't see the sun.</text>
+        <text>6 | In a dark area, you always carry a lit torch or lantern. Putting it down is an unbearable thought.</text>
+        <name>The Undying Light (UA): Expanded Spell List</name>
+        <text>   The Undying Light lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Undying Light Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | burning hands</text>
+        <text>2nd | flaming sphere</text>
+        <text>3rd | daylight</text>
+        <text>4th | fire shield</text>
+        <text>5th | flame strike</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Radiant Soul</name>
+        <text>Starting at 1st level, your link to the Positive Plane allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant damage or fire damage, you add your Charisma modifier to that damage. Additionally, you know the sacred flame and light cantrips and can cast them at will. They don't count against your number of cantrips known.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Celestial (UA): The Celestial</name>
+        <text>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, or unicorn or to another entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.</text>
+        <text>Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.</text>
+        <name>The Celestial (UA): Expanded Spell List</name>
+        <text>   The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Celestial Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | burning hands, cure wounds</text>
+        <text>2nd | flaming sphere, lesser restoration</text>
+        <text>3rd | daylight, revivify</text>
+        <text>4th | guardian of faith, wall of fire</text>
+        <text>5th | flame strike, greater restoration</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Celestial (UA): Bonus Cantrips</name>
+        <text>At 1st level, you learn the sacred flame and light cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Celestial (UA): Healing Light</name>
+        <text>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</text>
+        <text>As a bonus action, you can touch a creature and heal it, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</text>
+        <text>Your pool regains all expended dice when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Seeker (UA): The Seeker</name>
+        <text>Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron's gifts, you wander the world seeking lore that you can share with the Seeker.</text>
+        <text>Your patron could be any deity or other powerful entity dedicated to knowledge or forgotten lore. Celestian is an ideal patron for a Greyhawk campaign, and was the inspiration for this concept. In the Forgotten Realms, your patron might be Azuth or Oghma. Aureon makes an excellent patron in Eberron, while in Krynn and the Dragonlance campaign setting, Gilean is a good match for the Seeker's role.</text>
+        <name>The Seeker (UA): Expanded Spell List</name>
+        <text>   The Seeker lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Seeker Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | feather fall, jump</text>
+        <text>2nd | levitate, locate object</text>
+        <text>3rd | clairvoyance, sending</text>
+        <text>4th | arcane eye, locate creature</text>
+        <text>5th | legend lore, passwall</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Seeker (UA): Shielding Aurora</name>
+        <text>Starting at 1st level, you can invoke the Seeker's power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes radiant damage equal to your warlock level + your Charisma modifier.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): The Raven Queen</name>
+        <text>You patron is the Raven Queen, a mysterious being who rules the Shadowfell from a palace of ice deep within that dread realm. The Raven Queen watches over the world, anticipating each creature's death and ensuring that it meets its end at the proscribed time and place. As the ruler of the Shadowfell, she dwells in a decayed, dark reflection of the world. Her ability to reach into the world is limited. Thus, she turns to mortal warlocks to serve her will. Warlocks sworn to the Raven Queen receive visions and whispers from her in their dreams, sending them on quests and warning them of impending dangers.</text>
+        <text>The Raven Queen's followers are expected to serve her will in the world. She concerns herself with ensuring that those fated to die pass from the world as expected, and bids her agents to defeat those who seek to cheat death through undeath or other imitations of immortality. She hates intelligent undead and expects her followers to strike them down, whereas mindless undead such as skeletons and zombies are little more than stumbling automatons in her eyes.</text>
+        <name>The Raven Queen (UA): Expanded Spell List</name>
+        <text>   The Raven Queen lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Raven Queen Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | false life, sanctuary</text>
+        <text>2nd | silence, spiritual weapon</text>
+        <text>3rd | feign death, speak with dead</text>
+        <text>4th | ice storm, locate creature</text>
+        <text>5th | commune, cone of cold</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Sentinel Raven</name>
+        <text>Starting at 1st level, you gain the service of a spirit sent by the Raven Queen to watch over you. The spirit assumes the form and game statistics of a raven, and it always obeys your commands, which you can give telepathically while it is within 100 feet of you.</text>
+        <text>While the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and a bonus to your passive Wisdom (Perception) score and to Wisdom (Perception) checks. The bonus equals your Charisma modifier. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.</text>
+        <text>You can see through the raven's eyes and hear what it hears while it is within 100 feet of you. In combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.</text>
+        <text>The raven doesn't require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action. The raven vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles.</text>
+        <text>At the end of a short or long rest, you can call the raven back to you—no matter where it is or whether it died—and it reappears within 5 feet of you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): The Hexblade</name>
+        <text>You have made your pact with a powerful, sentient magic weapon carved from the stuff of the Shadowfell. The mighty sword Blackrazor is the most notable of these weapons, several of which have spread across the multiverse over the ages. These weapons grow stronger as they consume the life essence of their victims. The strongest of them can use their ties to the Shadowfell to offer power to mortals who serve them. The Raven Queen forged the first of these weapons. They, along with the hexblade warlocks, are another tool she can use to manipulate events in the Material Plane to her inscrutable ends.</text>
+        <name>The Hexblade (UA): Expanded Spell List</name>
+        <text>   The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Hexblade Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | shield, wrathful smite</text>
+        <text>2nd | branding smite, magic weapon</text>
+        <text>3rd | blink, elemental weapon</text>
+        <text>4th | phantasmal killer, staggering smite</text>
+        <text>5th | cone of cold, destructive wave</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Hex Warrior</name>
+        <text>At 1st level, you gain proficiency with medium armor, shields, and martial weapons. In addition, when attacking with a melee weapon that you are proficient with and that lacks the two-handed property, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Hexblade's Curse</name>
+        <text>Starting at 1st level, you gain the ability to place a baleful curse on an enemy. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. Until the curse ends, you gain the following benefits:</text>
+        <text>• You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.</text>
+        <text>• Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>• If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier.</text>
+        <text>You can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Celestial</name>
+        <text>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.</text>
+        <text>Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.</text>
+        <name>The Celestial: Expanded Spell List</name>
+        <text>   The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Celestial Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | cure wounds, guiding bolt</text>
+        <text>2nd | flaming sphere, lesser restoration</text>
+        <text>3rd | daylight, revivify</text>
+        <text>4th | guardian of faith, wall of fire</text>
+        <text>5th | flame strike, greater restoration</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Celestial: Bonus Cantrips</name>
+        <text>At 1st level, you learn the sacred flame and light cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Celestial: Healing Light</name>
+        <text>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</text>
+        <text>As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</text>
+        <text>Your pool regains all expended dice when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Hexblade</name>
+        <text>You have made your pact with a mysterious entity from the Shadowfell—a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.</text>
+        <text>Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.</text>
+        <name>The Hexblade: Expanded Spell List</name>
+        <text>   The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Hexblade Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | shield, wrathful smite</text>
+        <text>2nd | blur, branding smite</text>
+        <text>3rd | blink, elemental weapon</text>
+        <text>4th | phantasmal killer, staggering smite</text>
+        <text>5th | banishing smite, cone of cold</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade: Hex Warrior</name>
+        <text>At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.</text>
+        <text>The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade: Hexblade's Curse</name>
+        <text>Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapacitated. Until the curse ends, you gain the following benefits:</text>
+        <text>• You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.</text>
+        <text>• Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>• If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).</text>
+        <text>You can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Kraken (Livestream)</name>
+        <text>You made a pact with a Kraken somewhere in the world's ocean.</text>
+        <name>The Kraken (Livestream): Expanded Spell List</name>
+        <text>   The Kraken lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Kraken Patron Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | thunderwave, create or destroy water</text>
+        <text>2nd | augury, gust of wind</text>
+        <text>3rd | call lightning, water breathing</text>
+        <text>4th | evard's black tentacles, control water</text>
+        <text>5th | commune with nature, cone of cold</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Grasp of the Kraken</name>
+        <text>Starting at 1st level, you gain the ability to call forth spectral tentacles that grab at your foes. As an action, pick a point that you can see within 60 ft. of you. A horde of grasping tendrils appears at that point. Creatures of your choice within 10 ft. of that point must make a Strength saving throw against your Warlock spell save DC. Creatures that fail their saving throws are grappled for 1 minute or until you use this ability again. The spectral tentacle's Strength (Athletics) bonus is 2 + your proficiency bonus and its reach is 10 feet.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: Lolth (Twitter)</name>
+        <text>Your patron is Lolth, queen of the dark fey. She rules over the drow that dwell within the Feywild, and commands the loyalty of all hags. Evil fey pay her respect, though not all obey her edicts. She is a sworn enemy of Torog, due to the constant threat he and his minions pose to her Underdark domains.</text>
+        <name>Lolth (Twitter): Expanded Spell List</name>
+        <text>   Lolth lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Lolth Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | faerie fire, jump</text>
+        <text>2nd | darkness, web</text>
+        <text>3rd | fear, vampiric touch</text>
+        <text>4th | dimension door, giant insect</text>
+        <text>5th | cloudkill, hold monster</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Dark Queen's Servitor</name>
+        <text>Starting at 1st level, you gain the ability to transform into Lolth's most beloved servitor, a giant spider. As a bonus action you turn into a spider. You gain a +2 bonus to AC. You gain 3 temporary hit points per level. You gain a climb speed equal to your normal speed. You can climb difficult surfaces, such as along a ceiling, without needing to make a check. You gain a bite attack. You are proficient with this attack and it inflicts poison damage based on your level. You can use your choice of Strength or Dexterity to modify your bite attack's attack and damage rolls. While in this form, you lack hands and cannot do anything that normally requires them. However, you can cast spells but can only cast the ones listed on your expanded spell list for Lolth.</text>
+        <text>Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Spider Form Bite Damage</text>
+        <text>Level | Damage</text>
+        <text>1st—4th | 1d10 poison</text>
+        <text>5th—10th | 2d10 poison</text>
+        <text>11th—16th | 3d10 poison</text>
+        <text>17th+ | 4d10 poison</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): The Lurker in the Deep</name>
+        <text>You made a pact with an entity that lurks somewhere deep in the ocean, or even on the Elemental Plane of Water, such as a mighty kraken, an ancient primordial, or a monstrous being from creation's earliest days. You serve as this creature's eyes and ears, watching the world beyond its domain and reporting your findings. You may have gained this pact as a member of a cult dedicated to the entity or after your patron saved your life when you nearly drowned at sea.</text>
+        <name>The Lurker in the Deep (UA): Expanded Spell List</name>
+        <text>   1st-level Lurker in the Deep feature</text>
+        <text>   The Lurker in the Deep lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Lurker Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | create or destroy water, thunderwave</text>
+        <text>2nd | gust of wind, silence</text>
+        <text>3rd | lightning bolt, sleet storm</text>
+        <text>4th | control water, Evard's black tentacles</text>
+        <text>5th | commune with nature, cone of cold</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Grasp of the Deep</name>
+        <text>1st-level Lurker in the Deep feature</text>
+        <text>At 1st level, you gain the ability to magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.</text>
+        <text>When you create the tentacle, you can make a melee spell attack against a creature within 10 feet of it. On a hit, the target takes 1d8 cold or lightning damage (your choice when it takes the damage) and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage dealt by the tentacle increases to 2d8.</text>
+        <text>As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack. You can summon the tentacle a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Scion of the Deep</name>
+        <text>1st-level Lurker in the Deep feature</text>
+        <text>At 1st level, your patron accepts you into its inner court of servitors. You can telepathically communicate with any aberration, beast, elemental, or monstrosity that has an innate swimming speed, while it is within 120 feet of you. The creature can understand you and can respond telepathically.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): The Lurker's Clutches</name>
+        <text>Several features of the Lurker in the Deep create tentacles or a maw that reach into the world. The form of these appendages should reflect the nature of your specific patron. For example, a kraken's warlock might summon great squid-like tentacles, serrated crab claws, or a massive octopus beak, while the servant of a primordial water elemental might create tendrils or swells of living water.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): The Noble Genie</name>
+        <text>You made a pact with one of the rarest of geniekind, a noble genie. Such entities are rulers of vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations but are all arrogant collectors of creatures, knowledge, and treasure. A genie values their collection and will protect that which they claim ownership over. Through your connection to the noble, you can leverage their influence and extend their ownership of things in the multiverse.</text>
+        <name>The Noble Genie (UA): Expanded Spell List</name>
+        <text>   1st-level Noble Genie feature</text>
+        <text>   The Noble Genie lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Noble Genie Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | fog cloud, sleep</text>
+        <text>2nd | enlarge/reduce, phantasmal force</text>
+        <text>3rd | create food and water, protection from energy</text>
+        <text>4th | polymorph, phantasmal killer</text>
+        <text>5th | Bigby's hand, creation</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): Collector's Vessel</name>
+        <text>1st-level Noble Genie feature</text>
+        <text>Your patron gives you a magical vessel with which you can bind a creature to you and to your patron's menagerie. The vessel is a Tiny object, and it is a spellcasting focus for you. You decide what the object is, or you can determine what it is randomly by rolling on the Collector's Vessel table.</text>
+        <text></text>
+        <text>Collector's Vessel</text>
+        <text>d6 | Vessel</text>
+        <text>1 | Oil lamp</text>
+        <text>2 | Urn</text>
+        <text>3 | Ring with a compartment</text>
+        <text>4 | Stoppered bottle</text>
+        <text>5 | Hollow statuette</text>
+        <text>6 | Ornate lantern</text>
+        <text>If you lose your vessel, you can perform a 1 hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous vessel. The vessel vanishes in a flare of elemental power when you die.</text>
+        <text>As an action while you are holding the vessel, you target a willing creature you can see within 100 feet of you and create a tether of wispy elemental material that links the target to you. The tether lasts for 1 hour, until you use this feature to create another tether, until the bound target is reduced to 0 hit points, or until the target ends its turn more than 100 feet from you.</text>
+        <text>While you are tethered to a creature, you gain the following benefits:</text>
+        <text>• You gain a bonus to your Wisdom (Perception) checks equal to your Charisma modifier (minimum of +1).</text>
+        <text>• When you can cast a spell, you can deliver the spell from your space or the bound creature's space.</text>
+        <text>You can create the tether a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <name>The Noble Genie (UA): Collector's Vessel and Pact Boons</name>
+        <text>   When you create a tether with your Collector's Vessel, the tether takes on a form that reflects your patron's type of geniekind: swirling mist and wind for a djinni, sand and flecks of rock or gems for a dao, smoke and embers for an efreeti, and foamy water for a marid.</text>
+        <text>   When you gain the Pact Boon feature at 3rd level, if you choose a boon that grants you a physical object, your vessel transforms into that object. For example, a warlock whose patron is a noble efreeti and chooses the Pact of the Tome might find their bottle transformed into an elaborate scroll made of a red dragon's wing, with brass and iron rolling rods.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Genie (UA): The Genie</name>
+        <text>You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities are rulers of vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations but are all arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals who so love to bind genies into servitude, readily entering into pacts that expand their reach across the multiverse.</text>
+        <text>You choose your patron's kind or determine it randomly, using the Genie Kind table. Each kind of genie is associated with a particular element, as shown in the table.</text>
+        <text></text>
+        <text>Genie Kind</text>
+        <text>d4 | Kind | Element</text>
+        <text>1 | Dao | Earth</text>
+        <text>2 | Djinni | Air</text>
+        <text>3 | Efreeti | Fire</text>
+        <text>4 | Marid | Water</text>
+        <name>The Genie (UA): Expanded Spell List</name>
+        <text>   1st-level Genie feature</text>
+        <text>   The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.</text>
+        <text></text>
+        <text>Genie Expanded Spells</text>
+        <text>Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells</text>
+        <text>1st | detect evil and good | sanctuary | thunderwave | burning hands | fog cloud</text>
+        <text>2nd | phantasmal force | spike growth | gust of wind | scorching ray | blur</text>
+        <text>3rd | create food and water | meld into stone | wind wall | fireball | sleet storm</text>
+        <text>4th | phantasmal killer | stone shape | greater invisibility | fire shield | control water</text>
+        <text>5th | creation | wall of stone | seeming | flame strike | cone of cold</text>
+        <text>9th | wish | — | — | — | —</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Genie (UA): Genie's Vessel</name>
+        <text>1st-level Genie feature</text>
+        <text>Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.</text>
+        <text></text>
+        <text>Genie's Vessel</text>
+        <text>d6 | Vessel</text>
+        <text>1 | Oil lamp</text>
+        <text>2 | Urn</text>
+        <text>3 | Ring with a compartment</text>
+        <text>4 | Stoppered bottle</text>
+        <text>5 | Hollow statuette</text>
+        <text>6 | Ornate lantern</text>
+        <text>While you are touching the vessel, you can use it in the following ways:</text>
+        <text></text>
+        <text>   Bottled Respite.</text>
+        <text>• As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is comfortably appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.</text>
+        <text>   Genie's Wrath.</text>
+        <text>• Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
+        <text></text>
+        <text>The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.</text>
+        <text>If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undead (UA): The Undead</name>
+        <text>The Undead is an entity that resides in the dark corners of the multiverse. Your patron could be Acererak, Azalin, Lord Soth, Strahd, or some other ancient undead being. You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan.</text>
+        <name>The Undead (UA): Expanded Spell List</name>
+        <text>   1st-level Undead feature</text>
+        <text>   The Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Undead Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | bane, false life</text>
+        <text>2nd | blindness/deafness, phantasmal force</text>
+        <text>3rd | speak with dead, phantom steed</text>
+        <text>4th | death ward, greater invisibility</text>
+        <text>5th | antilife shell, cloudkill</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undead (UA): Form of Dread</name>
+        <text>1st-level Undead feature</text>
+        <text>You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:</text>
+        <text>• You gain temporary hit points equal to 1d10 + your warlock level.</text>
+        <text>• Once during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.</text>
+        <text>• You are immune to the frightened condition.</text>
+        <text>You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text>The appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your face might transform into bat-like features due to your vampire patron.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Eldritch Invocations</name>
+        <text>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.</text>
+        <text>   At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the Optional Features page. When you gain certain warlock levels, you gain additional invocations of your choice.</text>
+        <text>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.</text>
+        <text>A level prerequisite in an invocation refers to warlock level, not character level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Pact Boon</name>
+        <text>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Chain</name>
+        <text>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</text>
+        <text>When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.</text>
+        <text>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 107</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Blade</name>
+        <text>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</text>
+        <text>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 107</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Tome</name>
+        <text>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Star Chain</name>
+        <text>At 3rd level, a character dedicated to the Warlock can select this option instead of one of the warlock's existing Pact Boon options.</text>
+        <text>The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While the chain is on your person, you know the augury spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</text>
+        <text>Additionally, you can invoke the Seeker's power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text>If you lose your Star Chain, you can perform a 1-hour ceremony to receive a replacement from the Seeker. The ceremony can be performed during a short or long rest, and it destroys the previous chain. The chain disappears in a flash of light when you die.</text>
+        <text>The exact form of this item might be different depending on your patron. The Star Chain is inspired by the Greyhawk deity Celestian.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Talisman</name>
+        <text>Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll.</text>
+        <text>If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.</text>
+        <text>The talisman turns to ash when you die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>4th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 6th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Archfey: Misty Escape</name>
+        <text>Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Fiend: Dark One's Own Luck</name>
+        <text>Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Wire Walk</name>
+        <text>Starting at 6th level, you gain the ability to travel short distances over electrical wires, data lines, or telephone cables. As a bonus action, you can touch a device or socket connected to a hardwired network and teleport along this network to another device or socket within your line of sight. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Great Old One: Entropic Ward</name>
+        <text>At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Undying: Defy Death</name>
+        <text>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 139</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Searing Vengeance</name>
+        <text>Starting at 6th level, the radiant energy you channel allows you to overcome grievous injuries. When you would make a death saving throw, you can instead spring back to your feet with a burst of radiant energy. You immediately stand up (if you so choose), and you regain hit points equal to half your hit point maximum. All hostile creatures within 30 feet of you take 10 + your Charisma modifier radiant damage and are blinded until the end of your turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Celestial (UA): Radiant Soul</name>
+        <text>Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you add your Charisma modifier to that damage against one target of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Seeker (UA): Astral Refuge</name>
+        <text>At 6th level, you gain the ability to step into an astral refuge. As an action, you disappear from the world for a brief moment and enter the Astral Plane, taking advantage of its timeless nature. While in your astral refuge, you can take two actions to cast spells that target only you. After using those two actions, you return to the space you occupied and your turn ends.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Soul of the Raven</name>
+        <text>At 6th level, you gain the ability to merge with your raven spirit. As a bonus action when your raven is perched on your shoulder, your body merges with your raven's form. While merged, you become Tiny, you replace your speed with the raven's, and you can use your action only to Dash, Disengage, Dodge, Help, Hide, or Search. During this time, you gain the benefits of your raven being perched on your shoulder. As an action, you and the raven return to normal.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Shadow Hound</name>
+        <text>Starting at 6th level, your shadow can split from you and transform into a hound of pure darkness. Most of the time, your shadow hound masquerades as your normal shadow. As a bonus action, you can command it to magically slip into the shadow of a creature you can see within 60 feet of you. While the shadow hound is merged in this manner, the target can't gain the benefits of half cover or three-quarters cover against your attack rolls, and you know the distance and direction to the target even if it is hidden. The hound can't be seen by anyone but you and those with truesight, and it is unaffected by light. The target has a vague feeling of dread while the hound is present.</text>
+        <text>As a bonus action, you can command your shadow hound to return to you. It also automatically returns to you if you and the target are on different planes of existence, if you're incapacitated, or if dispel magic, remove curse, or similar magic is used on the target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Celestial: Radiant Soul</name>
+        <text>Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you can add your Charisma modifier to one radiant or fire damage roll of that spell against one of its targets.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Hexblade: Accursed Specter</name>
+        <text>Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a specter, the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).</text>
+        <text>The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.</text>
+        <text>Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Inky Escape</name>
+        <text>At 6th level, you gain the ability to call upon your patron to escape from your foes. As a reaction when you take damage, you can cast darkness centered on a point within 5 ft. of you. The spell lasts until the end of your next turn, and it has no effect on your vision.</text>
+        <text>Once you use this ability, you cannot use it until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Poisoned Beauty</name>
+        <text>At 6th level, you gain the ability to use a shard of Lolth's alien beauty, causing other creatures to become enraptured by your appearance. As a bonus action, pick a creature you can see. That creature must succeed on a Charisma saving throw or become charmed by you. While charmed, it also gains vulnerability to poison damage. This benefit lasts for one minute or until you or your allies damages the creature. Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Fathomless Soul</name>
+        <text>6th-level Lurker in the Deep feature</text>
+        <text>At 6th level, your patron grants you greater abilities. You gain the following benefits:</text>
+        <text>• You can breathe both air and water.</text>
+        <text>• You gain a swimming speed equal to your walking speed.</text>
+        <text>• You gain resistance to cold damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Guardian Grasp</name>
+        <text>6th-level Lurker in the Deep feature</text>
+        <text>At 6th level, the tentacle you create with Grasp of the Deep can defend you and others. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to the chosen creature by half. After doing so, the tentacle vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): Elemental Resistance</name>
+        <text>6th-level Noble Genie feature</text>
+        <text>Your patron grants you protection from an element. Whenever you finish a long rest, you gain resistance to acid, cold, fire, or lightning damage (your choice) until the end of your next long rest.</text>
+        <text>While the tether of your Collector's Vessel is active, the tethered creature gains resistance to the damage type you chose.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Genie (UA): Elemental Gift</name>
+        <text>6th-level Genie feature</text>
+        <text>You begin to take on characteristics of your patron's kind. You now have resistance to a damage type determined by your patron's kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
+        <text>In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Undead (UA): Grave Touched</name>
+        <text>6th-level Undead feature</text>
+        <text>Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.</text>
+        <text>In addition, when you hit a creature with an attack and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>8th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 10th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Archfey: Beguiling Defenses</name>
+        <text>Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Fiend: Fiendish Resilience</name>
+        <text>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Personal Encryption</name>
+        <text>Beginning at 10th level, you have learned to apply your innate knowledge of encryption to your thoughts, memories, and presence. You have advantage on saving throws against scrying, thought detection, or any other method of magically learning your whereabouts or reading your thoughts. For any such effect that does not grant you a saving throw but which requires the creature targeting you to make an ability check, the check is made with disadvantage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Great Old One: Thought Shield</name>
+        <text>Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Undying: Undying Nature</name>
+        <text>Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.</text>
+        <text>In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 139</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Radiant Resilience</name>
+        <text>Starting at 10th level, you gain temporary hit points whenever you finish a long or short rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of your rest. Those creatures gain temporary hit points equal to half your warlock level + your Charisma modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Celestial (UA): Celestial Resilience</name>
+        <text>Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Seeker (UA): Far Wanderer</name>
+        <text>At 10th level, you no longer need to breathe, and you gain resistance to fire damage and cold damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Raven's Shield</name>
+        <text>At 10th level, the Raven Queen grants you a protective blessing. You gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Armor of Hexes</name>
+        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, roll a d6. On a 4 or higher, the attack instead misses you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Celestial: Celestial Resilience</name>
+        <text>Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Hexblade: Armor of Hexes</name>
+        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Scion of the Depths</name>
+        <text>Starting at 10th level, your patron accepts you into his inner court of servitors. You gain the ability to breathe water, and a swim speed equal to your normal speed.</text>
+        <text>You gain immunity to lightning damage. When your immunity reduces damage from an effect to 0, as a reaction you can cause creatures of your choice that you can see within 30 ft. of you to take lightning damage equal to your Charisma modifier + your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Spider Queen's Chosen</name>
+        <text>At 10th level, Lolth extends her protection to you while you are in her favored form. You gain resistance to bludgeoning, piercing, and slashing damage from non-magical sources while in your spider form.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Devouring Maw</name>
+        <text>10th-level Lurker in the Deep feature</text>
+        <text>Starting at 10th level, you can magically draw forth a manifestation of your patron's insatiable hunger. As an action, choose a point you can see within 60 feet of you. For 1 minute, a translucent maw manifests in a 10-foot radius centered on that point. Each creature in that area when the maw appears must succeed on a Strength saving throw against your spell save DC or be restrained. Any creature that starts its turn in the maw's area takes 3d6 cold or lightning damage (your choice when it takes the damage). As an action, a restrained creature can repeat the saving throw, ending the restraint on a success. At the start of your turn, if there is a creature in the maw's area, you gain temporary hit points equal to your warlock level.</text>
+        <text>Once you use this feature, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): Genie's Entertainment</name>
+        <text>10th-level Noble Genie feature</text>
+        <text>As an action, you attempt to send a creature you can see within 90 feet to your patron's court. The target must succeed on a Charisma saving throw against your warlock spell save DC or be magically drawn into your vessel and teleported to your patron's court in the Elemental Planes. While there, the target is stunned and your patron marvels at the target with amusement but brings no harm to it. The target can repeat the saving throw at the end of each of its turns, reappearing in the space it left or in the nearest unoccupied space if that space is occupied on a success.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest. If the target remains in your patron's court for 1 minute, the genie sends the target back at the end of its turn as if it successfully saved, and you regain the use of this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): Protective Wish</name>
+        <text>10th-level Noble Genie feature</text>
+        <text>You're now able to use your Collector's Vessel to wish for protection for yourself or your tethered creature. If you or the tethered creature is hit by an attack, you can use your reaction to teleport, swapping places with the creature and switching which one of you is hit by the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Genie (UA): Sanctuary Vessel</name>
+        <text>10th-level Genie feature</text>
+        <text>When you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.</text>
+        <text>As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or the vessel is destroyed.</text>
+        <text>In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Undead (UA): Mortal Husk</name>
+        <text>10th-level Undead feature</text>
+        <text>Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.</text>
+        <text>In addition, when you are reduced to 0 hit points, you can cause your body to explode. Each creature within 30 feet of you takes necrotic damage equal to 2d10 + your warlock level. You then revive with 1 hit point in your previous space, along with your gear, and you gain 1 level of exhaustion. Once you revive this way, you can't do so again until you finish 1d4 long rests.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Mystic Arcanum (6th level)</name>
+        <text>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>12th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Mystic Arcanum (7th level)</name>
+        <text>At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one 7th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 14th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Archfey: Dark Delirium</name>
+        <text>Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.</text>
+        <text>Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.</text>
+        <text>You must finish a short or long rest before you can use this feature again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Fiend: Hurl Through Hell</name>
+        <text>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</text>
+        <text>At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Ghost in the Machine (UA): Technovirus</name>
+        <text>At 14th level, you gain the ability to infect a humanoid's body with living circuitry. You can use an action to make a melee attack against a humanoid creature using your spell attack modifier. The target must make a Constitution saving throw against your spell save DC as a techno-organic virus quickly spreads through its body. On a failed save, the target takes 8d10 psychic damage, or half as much damage on a successful one.</text>
+        <text>Additionally, if the target fails the saving throw, you can use an action to issue it a single command, as if you were casting the command spell. The target makes its saving throw against your command with disadvantage. You can issue this command at any time while the target remains infected.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest, at which point the target is cured of the technovirus. The infection can also be removed with a lesser restoration spell.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Modern Magic p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Great Old One: Create Thrall</name>
+        <text>At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.</text>
+        <text>You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Undying: Indestructible Life</name>
+        <text>When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 139</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Healing Light</name>
+        <text>At 14th level, you gain the ability to channel the Undying Light to heal yourself and other creatures. As a bonus action, you can touch a creature and heal it. With each touch, a creature regains from 1d6 to 5d6 hit points (your choice). You have a total pool of 15d6 you can expend. Subtract the dice you use with each touch from that total.</text>
+        <text>You regain all expended dice from your pool when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Celestial (UA): Healing Light</name>
+        <text>Starting at 14th level, the radiant energy you channel allows you to overcome grievous injuries. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up, if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Seeker (UA): Astral Sequestration</name>
+        <text>Starting at 14th level, you gain the ability to sequester yourself and your allies on the Astral Plane.</text>
+        <text>By performing a special ritual over the course of 5 minutes, you shift yourself and up to ten willing creatures you can see to the Astral Plane. You and those creatures gain the benefits of a short rest while sequestered on the Astral Plane. You then return to the spaces you all occupied when you used this ability, with no time having passed in the world.</text>
+        <text>During this short rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.</text>
+        <text>Once you use this ability, you cannot use it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Queen's Right Hand</name>
+        <text>Starting at 14th level, you can channel the Raven Queen's power to slay a creature. You can cast finger of death. After you cast the spell with this feature, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Master of Hexes</name>
+        <text>Starting at 14th level, you can use your Hexblade's Curse again without resting, but when you apply it to a new target, the curse immediately ends on the previous target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Celestial: Searing Vengeance</name>
+        <text>Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 54</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Hexblade: Master of Hexes</name>
+        <text>Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 55</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Unleash the Kraken</name>
+        <text>At 14th level, you gain the ability to call upon your patron for aid. As an action, you open a portal at a point you can see within 30 ft. of you and choose one of the following effects.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Fury</name>
+        <text>The tentacles slam into your foes. Pick up to 5 creatures that you can see within 30 ft. of the portal. Those creatures must make Dexterity saving throws against your Warlock spell save DC. Creatures that fail their saving throws take 10d6 bludgeoning damage and are restrained for 1 minute. Creatures that succeed take half the bludgeoning damage and are not restrained. On its turn, a restrained creature can use its action to attempt a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to end its restrained condition.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Transport</name>
+        <text>You and up to 5 creatures of your choosing that you can see are grasped by tentacles that emerge from the portal. A second portal opens at a point of your choice within 100 miles that you have visited in the past 24 hours, depositing you and your chosen allies there.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Kiss of the Spider Queen</name>
+        <text>Starting at 14th level, you can channel Lolth's malevolence into a deadly kiss. As an action, you touch a creature within your reach. The target takes 12d10 poison or psychic damage (your choice), or half as much on a successful Constitution save. A creature charmed by you has disadvantage on its saving throw. After you use this ability, you cannot cast it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Lurker in the Deep (UA): Unleash the Depths</name>
+        <text>14th-level Lurker in the Deep feature</text>
+        <text>Starting at 14th level, you gain the ability to call upon your patron for aid. As an action, you choose a point within 30 feet of you where your patron tears through reality, manifesting a measure of its thalassic grandeur. Choose one of the following effects to issue from this manifestation point. Once you use either effect, you can't use this feature again until you finish a long rest.</text>
+        <name>The Lurker in the Deep (UA): Transport</name>
+        <text>   You and up to five willing creatures of your choice that you can see within 30 feet of the manifestation point are grasped by spectral tentacles and yanked through your patron's realm. The tentacles teleport you and the chosen creatures to a point of your choice within 100 miles that you have visited within the past 24 hours. The tentacles then vanish.</text>
+        <name>The Lurker in the Deep (UA): Fury</name>
+        <text>   You can direct a barrage of spectral tentacles to issue forth and strike up to five creatures you can see within 30 feet of the manifestation point. Each target must make a Dexterity saving throw against your spell save DC. On a failed save, the creature takes 6d10 cold or lightning damage (your choice) and is knocked prone. On a successful save, it takes half as much damage and is not knocked prone. The tentacles then vanish.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer And Warlock p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Noble Genie (UA): Collector's Call</name>
+        <text>14th-level Noble Genie feature</text>
+        <text>In exchange for extending your patron's influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
+        <text>• A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>
+        <text>• A creature you can see within 60 feet of you has disadvantage on attack rolls and saving throws until the start of your next turn.</text>
+        <text>• You cast the legend lore spell without material components.</text>
+        <text>Whether the check succeeds or fails, you can't use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron's realm, provided you have the vessel of your Collector's Vessel in hand.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Genie (UA): Limited Wish</name>
+        <text>14th-level Genie feature</text>
+        <text>You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.</text>
+        <text>Once you use this feature, you can't use it again until you finish 1d4 long rests.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Undead (UA): Spirit Projection</name>
+        <text>14th-level Undead feature</text>
+        <text>Your body is now simply a vessel for your spirit. As an action, you can project your spirit from your body. The body you leave behind is unconscious and in a state of suspended animation.</text>
+        <text>Your spirit can remain outside your body for up to 1 hour or until your concentration is broken (as if concentrating on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).</text>
+        <text>While projecting your spirit, you gain the following benefits:</text>
+        <text>• Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.</text>
+        <text>• When you cast a spell of the conjuration or necromancy school, the spell doesn't require verbal, somatic, or material components that lack a gold cost.</text>
+        <text>• You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
+        <text>• While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Mystic Arcanum (8th level)</name>
+        <text>At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one 8th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>16th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Mystic Arcanum (9th level)</name>
+        <text>At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one 9th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="19">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>19th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Eldritch Master</name>
+        <text>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

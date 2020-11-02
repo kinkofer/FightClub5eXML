@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Tiny Servant</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>10 (4d4)</hp>
+    <speed>walk 30 ft., climb 30 ft.</speed>
+    <str>4</str>
+    <dex>16</dex>
+    <con>10</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) bludgeoning damage.</text>
+      <attack>Slam|+5|1d4+3</attack>
+      </action>
+    <description>
+Source: Xanathar's Guide to Everything p. 169</description>
+    <environment></environment>
+    </monster>
+  </compendium>

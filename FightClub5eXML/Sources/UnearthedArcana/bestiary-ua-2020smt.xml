@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Aberrant Spirit</name>
+    <size>M</size>
+    <type>aberration</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>2</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>16</str>
+    <dex>10</dex>
+    <con>15</con>
+    <int>16</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Deep Speech, understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the aberration's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Regeneration (Slaadi Only)</name>
+      <text>The aberration regains 10 hit points at the start of its turn if it has at least 1 hit point.</text>
+      </trait>
+    <trait>
+        <name>Whispering Aura (Star Spawn Only)</name>
+      <text>At the start of each of the aberration's turns, each creature within 5 feet of it must succeed on a Wisdom saving throw against your spell save DC or take 3d6 psychic damage, provided that the aberration isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The aberration makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Eye Ray (Beholderkin Only)</name>
+      <text>Ranged Spell Attack: +3 + the spell's level to hit, range 30 ft., one creature. 1d8 + 3 + the spell's level psychic damage.</text>
+      </action>
+    <action>
+        <name>Claws (Slaadi Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn.</text>
+      </action>
+    <action>
+        <name>Psychic Slam (Star Spawn Only)</name>
+      <text>Melee Spell Attack: +3 + the spell's level to hit, reach 5 ft., one creature. 1d6 + 3 + the spell's level psychic damage.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 3</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bestial Spirit</name>
+    <size>S</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>3</hp>
+    <speed>walk 30 ft., climb 30 ft., fly 60 ft., swim 30 ft.</speed>
+    <str>18</str>
+    <dex>11</dex>
+    <con>16</con>
+    <int>4</int>
+    <wis>14</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>12</passive>
+    <languages>understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the beast's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Amphibious (Water Only)</name>
+      <text>The beast can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Flyby (Air Only)</name>
+      <text>The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics (Land and Water Only)</name>
+      <text>The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The beast makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Maul</name>
+      <text>Melee Weapon Attack: +4 + the spell's level to hit, reach 5 ft., one target. 1d8 + 4 + the spell's level piercing damage.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Celestial Spirit</name>
+    <size>L</size>
+    <type>celestial</type>
+    <alignment>Neutral Good</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>3</hp>
+    <speed>walk 30 ft., fly 40 ft.</speed>
+    <str>16</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>14</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Celestial, understands the languages you speak</languages>
+    <cr></cr>
+    <resist>radiant</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the celestial's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The celestial makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Radiant Bow (Avenger Only)</name>
+      <text>Ranged Weapon Attack: +2 + the spell's level to hit, range 150/600 ft., one target. 2d6 + 2 + the spell's level radiant damage.</text>
+      </action>
+    <action>
+        <name>Radiant Mace (Defender Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d10 + 3 + the spell's level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains temporary hit points equal to the damage dealt, provided it doesn't already have temporary hit points.</text>
+      </action>
+    <action>
+        <name>Healing Touch (1/Day)</name>
+      <text>The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell's level.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elemental Spirit</name>
+    <size>M</size>
+    <type>elemental</type>
+    <alignment>Neutral</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>3</hp>
+    <speed>walk 40 ft., fly 40 ft., burrow 40 ft., swim 40 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>17</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Primordial, understands the languages you speak</languages>
+    <cr></cr>
+    <resist>lightning; thunder (air only), piercing; slashing (earth only); acid (water only)</resist>
+    <immune>poison; fire (fire only)</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, paralyzed, petrified, poisoned, unconscious</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the elemental's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Amorphous Form (Air, Fire, and Water Only)</name>
+      <text>The elemental can move through a space as narrow as 1 inch wide without squeezing.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elemental makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +4 + the spell's level to hit, reach 5 ft., one target. 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth, and Water only) or fire damage (Fire only).</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 5</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Fey Spirit</name>
+    <size>S</size>
+    <type>fey</type>
+    <alignment>Chaotic Good</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>2</hp>
+    <speed>walk 40 ft.</speed>
+    <str>13</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>14</int>
+    <wis>11</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Sylvan, understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the fey's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Fey Step</name>
+      <text>As a bonus action, the fey can magically teleport up to 30 feet to an unoccupied space it can see.</text>
+      </trait>
+    <trait>
+        <name>Darkening Step (Deceitful Only)</name>
+      <text>Immediately after using its Fey Step, the fey can fill a 5-foot cube within 5 feet of it with magical darkness, which remains until the end of the fey's next turn.</text>
+      </trait>
+    <trait>
+        <name>Ecstatic Step (Joyful Only)</name>
+      <text>Immediately after using its Fey Step, the fey can choose a creature it can see within 10 feet of it and force it to succeed on a Wisdom saving throw against your spell save DC or be charmed by the fey for 1 minute. The charm ends if the fey or any of its companions deals any damage to the target.</text>
+      </trait>
+    <trait>
+        <name>Impassioned Step (Furious Only)</name>
+      <text>Immediately after using its Fey Step, the fey has advantage on the next attack roll it makes before the end of its turn.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The fey makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d6 + 3 + the spell's level piercing damage + 1d6 force damage.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 5</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Fiendish Spirit</name>
+    <size>L</size>
+    <type>fiend</type>
+    <alignment></alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>2</hp>
+    <speed>walk 40 ft., climb 40 ft., fly 60 ft.</speed>
+    <str>13</str>
+    <dex>16</dex>
+    <con>15</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Abyssal, Infernal, telepathy 60 ft.</languages>
+    <cr></cr>
+    <resist>fire</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the fiend's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The fiend has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Death Throes (Demon Only)</name>
+      <text>When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against your spell save DC. A creature takes 2d10 + this spell's level fire damage on a failed save, or half as much damage on a successful one.</text>
+      </trait>
+    <trait>
+        <name>Devil's Sight (Devil Only)</name>
+      <text>Magical darkness doesn't impede the fiend's darkvision.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The fiend makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Bite (Demon Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d12 + 3 + the spell's level necrotic damage.</text>
+      </action>
+    <action>
+        <name>Claws (Yugoloth Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d8 + 3 + the spell's level slashing damage. Immediately after the attack hits or misses, the fiend can magically teleport up to 30 feet to an unoccupied space it can see.</text>
+      </action>
+    <action>
+        <name>Hurl Flame (Devil Only)</name>
+      <text>Ranged Spell Attack: +3 + the spell's level to hit, range 150 ft., one target. 2d6 + 3 + the spell's level fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 6</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Shadow Spirit</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>2</hp>
+    <speed>walk 40 ft.</speed>
+    <str>13</str>
+    <dex>16</dex>
+    <con>15</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common, understands the languages you speak</languages>
+    <cr></cr>
+    <resist>necrotic</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the shadow's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Bloodthirsty Frenzy (Fury Only)</name>
+      <text>The spirit has advantage on attack rolls against frightened creatures.</text>
+      </trait>
+    <trait>
+        <name>Shadow Stealth (Fear Only)</name>
+      <text>While in dim light or darkness, the spirit can take the Hide action as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Weight of Ages (Despair Only)</name>
+      <text>Any beast or humanoid, other than you, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that beast or humanoid's next turn.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The spirit makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Chilling Rend</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 2d8 + 3 + the spell's level cold damage.</text>
+      </action>
+    <action>
+        <name>Dreadful Scream (1/Day)</name>
+      <text>The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened of the spirit for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 7</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Undead Spirit</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>11 + the level of the spell (natural armor)</ac>
+    <hp>2</hp>
+    <speed>walk 30 ft., fly 40 ft.</speed>
+    <str>12</str>
+    <dex>16</dex>
+    <con>15</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common, understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>necrotic, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the undead's Constitution modifier + your spellcasting ability modifier + ten times the spell's level</text>
+      </trait>
+    <trait>
+        <name>Incorporeal Movement (Ghostly Only)</name>
+      <text>The undead can become incorporeal while moving and pass through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.</text>
+      </trait>
+    <trait>
+        <name>Festering Aura (Putrid Only)</name>
+      <text>Any creature, other than you, that starts its turn within 5 feet of the undead must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The spirit makes a number of attacks equal to half this spell's level (rounded down).</text>
+      </action>
+    <action>
+        <name>Deathly Touch (Ghostly Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one creature. 1d8 + 3 + the spell's level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target's next turn.</text>
+      </action>
+    <action>
+        <name>Grave Bolt (Skeletal Only)</name>
+      <text>Ranged Spell Attack: +3 + the spell's level to hit, range 150 ft., one target. 2d8 + 3 + the spell's level necrotic damage.</text>
+      </action>
+    <action>
+        <name>Rotting Claw (Putrid Only)</name>
+      <text>Melee Weapon Attack: +3 + the spell's level to hit, reach 5 ft., one target. 1d6 + 3 + the spell's level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 8</description>
+    <environment></environment>
+    </monster>
+  </compendium>
