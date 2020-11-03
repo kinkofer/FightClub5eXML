@@ -63,15 +63,15 @@ Source: Unearthed Arcana: Of Ships And Sea p. 2</description>
     <size>G</size>
     <type>vehicle (90 ft. x 30 ft.)</type>
     <alignment>Unaligned</alignment>
-    <ac></ac>
+    <ac>0</ac>
     <hp>0</hp>
     <speed>12 miles per hour (288 miles per day)</speed>
-    <str>-</str>
-    <dex>-</dex>
-    <con>-</con>
-    <int>-</int>
-    <wis>-</wis>
-    <cha>-</cha>
+    <str>0</str>
+    <dex>0</dex>
+    <con>0</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
     <save></save>
     <skill></skill>
     <languages></languages>
@@ -100,15 +100,15 @@ Source: Mordenkainen's Tome of Foes p. 90</description>
     <size>H</size>
     <type>vehicle (30 ft. x 10 ft.)</type>
     <alignment>Unaligned</alignment>
-    <ac></ac>
+    <ac>0</ac>
     <hp>0</hp>
     <speed>15 miles per hour (360 miles per day)</speed>
-    <str>-</str>
-    <dex>-</dex>
-    <con>-</con>
-    <int>-</int>
-    <wis>-</wis>
-    <cha>-</cha>
+    <str>0</str>
+    <dex>0</dex>
+    <con>0</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
     <save></save>
     <skill></skill>
     <languages></languages>
@@ -859,15 +859,15 @@ Source: Acquisitions Incorporated p. 219</description>
     <size>H</size>
     <type>vehicle (120 ft. x 40 ft.)</type>
     <alignment>Unaligned</alignment>
-    <ac></ac>
+    <ac>0</ac>
     <hp>0</hp>
     <speed>12 miles per hour (288 miles per day)</speed>
-    <str>-</str>
-    <dex>-</dex>
-    <con>-</con>
-    <int>-</int>
-    <wis>-</wis>
-    <cha>-</cha>
+    <str>0</str>
+    <dex>0</dex>
+    <con>0</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
     <save></save>
     <skill></skill>
     <languages></languages>
@@ -1222,7 +1222,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 219</description>
     <size>L</size>
     <type>CREATURE</type>
     <alignment>Unaligned</alignment>
-    <ac>U (n, k, n, o, w, n)</ac>
+    <ac>16 (natural armor)</ac>
     <hp>67 (9d10+18)</hp>
     <speed>walk 30 ft.</speed>
     <str>18</str>
