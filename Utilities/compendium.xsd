@@ -101,39 +101,39 @@
     
     <xs:simpleType name="itemEnum">
         <xs:restriction base="xs:string">
-            <xs:enumeration value="LA"/>
-            <xs:enumeration value="MA"/>
-            <xs:enumeration value="HA"/>
-            <xs:enumeration value="S"/>
-            <xs:enumeration value="M"/>
-            <xs:enumeration value="R"/>
-            <xs:enumeration value="A"/>
-            <xs:enumeration value="RD"/>
-            <xs:enumeration value="ST"/>
-            <xs:enumeration value="WD"/>
-            <xs:enumeration value="RG"/>
-            <xs:enumeration value="P"/>
-            <xs:enumeration value="SC"/>
-            <xs:enumeration value="W"/>
-            <xs:enumeration value="G"/>
-            <xs:enumeration value="$"/>
+            <xs:enumeration value="LA"/><!-- light armor -->
+            <xs:enumeration value="MA"/><!-- medium armor -->
+            <xs:enumeration value="HA"/><!-- heavy armor -->
+            <xs:enumeration value="S"/><!-- shield -->
+            <xs:enumeration value="M"/><!-- melee weapon -->
+            <xs:enumeration value="R"/><!-- ranged weapon -->
+            <xs:enumeration value="A"/><!-- ammunication -->
+            <xs:enumeration value="RD"/><!-- rod -->
+            <xs:enumeration value="ST"/><!-- staff -->
+            <xs:enumeration value="WD"/><!-- wand -->
+            <xs:enumeration value="RG"/><!-- ring -->
+            <xs:enumeration value="P"/><!-- potion -->
+            <xs:enumeration value="SC"/><!-- scroll -->
+            <xs:enumeration value="W"/><!-- wonderous item -->
+            <xs:enumeration value="G"/><!-- adventuring gear -->
+            <xs:enumeration value="$"/><!-- money -->
         </xs:restriction>
     </xs:simpleType>
     
     <xs:simpleType name="damageEnum">
         <xs:restriction base="xs:string">
-            <xs:enumeration value="B"/>
-            <xs:enumeration value="P"/>
-            <xs:enumeration value="S"/>
-            <xs:enumeration value="A"/>
-            <xs:enumeration value="C"/>
-            <xs:enumeration value="F"/>
-            <xs:enumeration value="FC"/>
-            <xs:enumeration value="L"/>
-            <xs:enumeration value="N"/>
-            <xs:enumeration value="PS"/>
-            <xs:enumeration value="R"/>
-            <xs:enumeration value="T"/>
+            <xs:enumeration value="B"/><!-- bludgeoning -->
+            <xs:enumeration value="P"/><!-- piercing -->
+            <xs:enumeration value="S"/><!-- slashing -->
+            <xs:enumeration value="A"/><!-- acid -->
+            <xs:enumeration value="C"/><!-- cold -->
+            <xs:enumeration value="F"/><!-- fire -->
+            <xs:enumeration value="FC"/><!-- force -->
+            <xs:enumeration value="L"/><!-- lightning -->
+            <xs:enumeration value="N"/><!-- necrotic -->
+            <xs:enumeration value="PS"/><!-- poison -->
+            <xs:enumeration value="R"/><!-- radiant -->
+            <xs:enumeration value="T"/><!-- thunder -->
             <xs:enumeration value=""/>
         </xs:restriction>
     </xs:simpleType>

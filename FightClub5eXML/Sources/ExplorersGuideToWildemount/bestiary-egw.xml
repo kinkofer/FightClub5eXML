@@ -1,0 +1,2680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Aeorian Absorber</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>171 (18d10+72)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>21</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>6</int>
+    <wis>14</wis>
+    <cha>8</cha>
+    <save>Wis +6, Cha +3</save>
+    <skill>Perception +6, Stealth +8, Survival +6</skill>
+    <passive>16</passive>
+    <languages>understands Draconic but can't speak</languages>
+    <cr>10</cr>
+    <resist></resist>
+    <immune>necrotic, radiant</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The absorber has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Pounce</name>
+      <text>If the absorber moves at least 20 feet straight toward a creature and then hits its claws attack on the same turn, that target must succeed on a DC 17 Strength saving throw or be knocked prone. If the target is prone, the absorber can make one bite attack against it as a bonus action.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The absorber makes three attacks: one with its bite or Mind Bolt and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. 10 (1d10 + 5) piercing damage plus 5 (1d10) force damage.</text>
+      <attack>Bite|+9|1d10+5</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 8 (1d6 + 5) slashing damage plus 3 (1d6) force damage.</text>
+      <attack>Claws|+9|1d6+5</attack>
+      </action>
+    <action>
+        <name>Mind Bolt</name>
+      <text>Ranged Spell Attack: +8 to hit, range 120 ft., one creature. 22 (4d10) psychic damage.</text>
+      <attack>Mind Bolt|+8|4d10</attack>
+      </action>
+    <reaction>
+        <name>Tail Ray</name>
+      <text>When the absorber takes damage from a spell, the absorber takes only half the triggering damage. If the spellcaster is within 60 feet of the absorber, the absorber can force the caster to make a DC 16 Dexterity saving throw. Unless the save succeeds, the caster takes the other half of the damage.</text>
+      </reaction>
+    <description>Resembling some sort of canine or feline quadruped at a distance, the absorber's monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
+Created by Experimentation
+Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
+Madness through Immortality. Aeorian hunters do not age. As such, the lust for violence their creators instilled in their minds has grown ravenous after centuries without war. Most immediately attack any creature they see.
+Never Harm Another Hunter. Though they crave violence, Aeorian hunters have never been seen attacking each other. Most scholars believe that Aeor's mages must have enchanted this behavior into them, given the cost in gold and magic required to create each hunter. Some adventurers in Eiselcross boast about sneaking past Aeorian hunters using disguises or illusions to mimic a hunter's form, but these are most likely tall tales.
+Ageless Memories. Each Aeorian hunter has perfect recall of every experience since the moment of its creation. Their limited intellects and desire for violence prevent them from effectively communicating, but each hunter holds a wealth of knowledge—often including the location of rare Aeorian relics—inside its mind.
+Perfect Soldiers. Aeorian hunters don't require food or drink.
+Source: Explorer's Guide to Wildemount p. 283</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Aeorian Nullifier</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>180 (19d10+76)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>19</str>
+    <dex>14</dex>
+    <con>18</con>
+    <int>7</int>
+    <wis>14</wis>
+    <cha>18</cha>
+    <save>Wis +6, Cha +8</save>
+    <skill>Perception +6, Survival +6</skill>
+    <passive>16</passive>
+    <languages>understands Draconic but can't speak</languages>
+    <cr>12</cr>
+    <resist></resist>
+    <immune>necrotic, radiant</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Horrid Gnashing</name>
+      <text>The nullifier's mouths gnash incoherently while it can see any enemies. Each creature that starts its turn within 20 feet of the nullifier and can hear it must make a DC 16 Wisdom saving throw. Unless the save succeeds, the creature rolls a d8 to determine what it does during the current turn:</text>
+      <text>1-4: The creature is stunned until the end of the turn.</text>
+      <text>5-6: The creature is frightened until the end of the turn and uses its movement to get as far as possible from the nullifier.</text>
+      <text>7-8: The creature doesn't move, and it uses its action to make one melee attack against a random creature (other than itself) if one is within reach. It otherwise does nothing.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The nullifier has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The nullifier makes three attacks: one with its bites and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bites</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. 17 (2d12 + 4) piercing damage plus 11 (2d10) force damage.</text>
+      <attack>Bites|+8|2d12+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) slashing damage plus 11 (2d10) force damage, and the target is grappled (escape DC 16) if it's a creature. The nullifier has two claws, each of which can grapple one creature.</text>
+      <attack>Claws|+8|2d6+4</attack>
+      </action>
+    <reaction>
+        <name>Counterspell</name>
+      <text>The nullifier attempts to interrupt a creature that it can see within 60 feet in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, the nullifier makes a Charisma check with a DC equal to 10 + the spell's level. On a success, the creature's spell fails and has no effect.</text>
+      </reaction>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The nullifier's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: counterspell (see "Reactions" below), detect magic, dispel magic, see invisibility</text>
+      <text>1/day: antimagic field</text>
+      </trait>
+    <spells>counterspell, detect magic, dispel magic, see invisibility, antimagic field</spells>
+    <description>Nullifiers are the bane of all magic users, with their physical forms and innate powers shaped specifically to resist and cancel magical effects. Against other foes, a nullifier is no less fearsome for the grotesque mouths filled with razor-sharp teeth that cover its torso—and which set up a cacophony of gnashing that can drive other creatures mad.
+Created by Experimentation
+Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
+Madness through Immortality. Aeorian hunters do not age. As such, the lust for violence their creators instilled in their minds has grown ravenous after centuries without war. Most immediately attack any creature they see.
+Never Harm Another Hunter. Though they crave violence, Aeorian hunters have never been seen attacking each other. Most scholars believe that Aeor's mages must have enchanted this behavior into them, given the cost in gold and magic required to create each hunter. Some adventurers in Eiselcross boast about sneaking past Aeorian hunters using disguises or illusions to mimic a hunter's form, but these are most likely tall tales.
+Ageless Memories. Each Aeorian hunter has perfect recall of every experience since the moment of its creation. Their limited intellects and desire for violence prevent them from effectively communicating, but each hunter holds a wealth of knowledge—often including the location of rare Aeorian relics—inside its mind.
+Perfect Soldiers. Aeorian hunters don't require food or drink.
+Source: Explorer's Guide to Wildemount p. 283</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Aeorian Reverser</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>133 (14d10+56)</hp>
+    <speed>walk 40 ft., climb 40 ft.</speed>
+    <str>21</str>
+    <dex>16</dex>
+    <con>18</con>
+    <int>6</int>
+    <wis>14</wis>
+    <cha>8</cha>
+    <save>Wis +5, Cha +2</save>
+    <skill>Perception +5, Stealth +6, Survival +5</skill>
+    <passive>15</passive>
+    <languages>understands Draconic but can't speak</languages>
+    <cr>8</cr>
+    <resist></resist>
+    <immune>necrotic, radiant</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The reverser has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The reverser makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, range 5 ft., one creature. 11 (1d12 + 5) piercing damage plus 6 (1d12) force damage.</text>
+      <attack>Bite|+8|1d12+5</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 8 (1d6 + 5) slashing damage plus 7 (2d6) force damage.</text>
+      <attack>Claws|+8|1d6+5</attack>
+      </action>
+    <reaction>
+        <name>Reversal</name>
+      <text>When a creature the reverser can see within 30 feet of it regains hit points, the reverser reduces the number of hit points regained to 0, and the reverser deals 13 (3d8) force damage to the creature.</text>
+      </reaction>
+    <description>A reverser is a terrible foe in melee, laying into other creatures with teeth and claw. But the chaos it imposes is more fearful by far, as its enemies' healing magic are unraveled and turned against them.
+Created by Experimentation
+Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
+Madness through Immortality. Aeorian hunters do not age. As such, the lust for violence their creators instilled in their minds has grown ravenous after centuries without war. Most immediately attack any creature they see.
+Never Harm Another Hunter. Though they crave violence, Aeorian hunters have never been seen attacking each other. Most scholars believe that Aeor's mages must have enchanted this behavior into them, given the cost in gold and magic required to create each hunter. Some adventurers in Eiselcross boast about sneaking past Aeorian hunters using disguises or illusions to mimic a hunter's form, but these are most likely tall tales.
+Ageless Memories. Each Aeorian hunter has perfect recall of every experience since the moment of its creation. Their limited intellects and desire for violence prevent them from effectively communicating, but each hunter holds a wealth of knowledge—often including the location of rare Aeorian relics—inside its mind.
+Perfect Soldiers. Aeorian hunters don't require food or drink.
+Source: Explorer's Guide to Wildemount p. 284</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Allowak Abominable Yeti</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>137 (11d12+66)</hp>
+    <speed>walk 40 ft., climb 40 ft.</speed>
+    <str>24</str>
+    <dex>10</dex>
+    <con>22</con>
+    <int>9</int>
+    <wis>13</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill>Perception +5, Stealth +4</skill>
+    <passive>15</passive>
+    <languages>Yeti</languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Fear of Fire</name>
+      <text>If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</text>
+      </trait>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The yeti has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Snow Camouflage</name>
+      <text>The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The yeti can use its Chilling Gaze and makes two claw attacks.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage plus 7 (2d6) cold damage.</text>
+      <attack>Claw|+11|2d6+7</attack>
+      </action>
+    <action>
+        <name>Chilling Gaze</name>
+      <text>The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 18 Constitution saving throw against this magic or take 21 (6d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to this yeti's gaze for 1 hour.</text>
+      <attack>Chilling Gaze||6d6</attack>
+      </action>
+    <action>
+        <name>Cold Breath (Recharge 6)</name>
+      <text>The yeti exhales a 30-foot cone of frigid air. Each creature in that area must make a DC 18 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Cold Breath (Recharge 6)||10d8</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 126</description>
+    <environment>arctic</environment>
+    </monster>
+  <monster>
+      <name>Allowak Yeti</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>51 (6d10+18)</hp>
+    <speed>walk 40 ft., climb 40 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>16</con>
+    <int>8</int>
+    <wis>12</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +3</skill>
+    <passive>13</passive>
+    <languages>Yeti</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Fear of Fire</name>
+      <text>If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</text>
+      </trait>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The yeti has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Snow Camouflage</name>
+      <text>The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The yeti can use its Chilling Gaze and makes two claw attacks.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.</text>
+      <attack>Claw|+6|1d6+4</attack>
+      </action>
+    <action>
+        <name>Chilling Gaze</name>
+      <text>The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.</text>
+      <attack>Chilling Gaze||3d6</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 126</description>
+    <environment>arctic</environment>
+    </monster>
+  <monster>
+      <name>Animated Knife</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>12 (5d4)</hp>
+    <speed>walk 0 ft., fly 50 ft.</speed>
+    <str>12</str>
+    <dex>15</dex>
+    <con>11</con>
+    <int>1</int>
+    <wis>5</wis>
+    <cha>1</cha>
+    <save>Dex +4</save>
+    <skill></skill>
+    <passive>7</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Antimagic Susceptibility</name>
+      <text>The knife is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the knife must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</text>
+      </trait>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the knife remains motionless and isn't flying, it is indistinguishable from a normal knife.</text>
+      </trait>
+    <action>
+        <name>Longknife</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
+      <attack>Longknife|+3|1d8+1</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 248</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Animated Tree</name>
+    <size>H</size>
+    <type>plant</type>
+    <alignment>Chaotic Good</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>138 (12d12+60)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>23</str>
+    <dex>8</dex>
+    <con>21</con>
+    <int>12</int>
+    <wis>16</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Common, Druidic, Elvish, Sylvan</languages>
+    <cr>9</cr>
+    <resist>bludgeoning, piercing, necrotic, radiant</resist>
+    <immune></immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>False Appearance</name>
+      <text>While the tree remains motionless, it is indistinguishable from a normal tree.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The tree deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The tree makes two slam attacks.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
+      <attack>Slam|+10|3d6+6</attack>
+      </action>
+    <action>
+        <name>Rock</name>
+      <text>Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
+      <attack>Rock|+10|4d10+6</attack>
+      </action>
+    <action>
+        <name>Animate Trees (1/Day)</name>
+      <text>The tree magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a tree, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the tree. The tree remains animate for 1 day or until it dies; until the tree dies or is more than 120 feet from the tree; or until the tree takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.</text>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros</description>
+    <environment>forest</environment>
+    </monster>
+  <monster>
+      <name>Blood Hunter</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>16 (half plate armor)</ac>
+    <hp>65 (10d8+20)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>12</dex>
+    <con>15</con>
+    <int>9</int>
+    <wis>16</wis>
+    <cha>11</cha>
+    <save>Str +7, Wis +6</save>
+    <skill>Acrobatics +4, Insight +6, Perception +6</skill>
+    <passive>16</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Blood Curse of Binding (1/Day)</name>
+      <text>As a bonus action, the blood hunter targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Strength saving throw or have its speed reduced to 0 and be unable to take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </trait>
+    <trait>
+        <name>Blood Frenzy</name>
+      <text>The blood hunter has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The blood hunter has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The blood hunter attacks twice with a weapon.</text>
+      </action>
+    <action>
+        <name>Greatsword</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage.</text>
+      <attack>Greatsword|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Heavy Crossbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. 6 (1d10 + 1) piercing damage.</text>
+      <attack>Heavy Crossbow|+4|1d10+1</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting (1/Day)</name>
+      <text>The blood hunter can innately cast hex. Its innate spellcasting ability is Intelligence.</text>
+      <text>At will: hex</text>
+      </trait>
+    <spells>hex</spells>
+    <description>To mortals and monsters alike, the blood hunter is a legendary figure—a humanoid stalker said to embrace monstrous power. Long years ago, a group of mortals undertook dark rituals and alchemical experiments to gain the power of the deadliest monsters, allowing them to better hunt those monsters.
+Blood hunters are steely on the surface, but roiling emotion lies beneath that impassive mask. Bestial fury and fathomless sorrow drive every stroke of a blood hunter's blade. Humanoids who draw the ire of a blood hunter are often in league with monsters—or the victims of a terrible misunderstanding. Such misunderstandings are tough to clear up, for blood hunters are the kind of folk to slay first and ask questions later.
+Source: Explorer's Guide to Wildemount p. 284</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bol'bara</name>
+    <size>S</size>
+    <type>humanoid (goblinoid)</type>
+    <alignment>Chaotic Good</alignment>
+    <ac>13 (leather armor, 15 with mage armor)</ac>
+    <hp>40 (9d6+9)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>13</wis>
+    <cha>14</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages>Common, Goblin</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Dark One's Blessing</name>
+      <text>When Bol'bara reduces a hostile creature to 0 hit points, she gains 6 temporary hit points.</text>
+      </trait>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>Bol'bara can take the Disengage or Hide action as a bonus action on each of her turns.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Bol'bara makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Eldritch Blast (Cantrip)</name>
+      <text>Ranged Spell Attack: +4 to hit, range 120 ft., one creature. 7 (1d10 + 2) force damage.</text>
+      <attack>Eldritch Blast (Cantrip)|+4|1d10+2</attack>
+      </action>
+    <legendary>
+        <text>The humanoid (goblinoid) can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The humanoid (goblinoid) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Incorporeal Dash</name>
+      <text>Bol'bara moves up to her speed. She can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</text>
+      </legendary>
+    <legendary>
+        <name>Zone of Calamity (Costs 2 Actions)</name>
+      <text>A 15-foot-radius sphere of magical confusion extends from a point Bol'bara can see within 60 feet of her and spreads around corners. Each creature that starts its turn in that area is treated as if targeted by the confusion spell (save DC 12). The sphere lasts as long as Bol'bara maintains concentration, up to 1 minute (as if concentrating on a spell).</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Bol'bara's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
+      <text>At will: eldritch blast, false life, mage armor, mage hand</text>
+      <text>1/day each: charm person, hex, hold person, invisibility</text>
+      </trait>
+    <spells>eldritch blast, false life, mage armor, mage hand, charm person, hex, hold person, invisibility</spells>
+    <description>
+Source: Explorer's Guide to Wildemount p. 261</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Bristled Moorbounder</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>52 (7d10+14)</hp>
+    <speed>walk 70 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>2</int>
+    <wis>13</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages></languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Bladed Hide</name>
+      <text>At the start of each of its turns, the moorbounder deals 5 (2d4) piercing damage to any creature grappling it.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>The moorbounder's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The moorbounder makes two attacks: one with its blades and one with its claws.</text>
+      </action>
+    <action>
+        <name>Blades</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Blades|+6|2d6+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 14 (4d4 + 4) slashing damage.</text>
+      <attack>Claws|+6|4d4+4</attack>
+      </action>
+    <description>A weird and deadly offshoot of the moorbounder has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled moorbounder less suitable as a mount.
+Natural Hunters
+Moorbounders hunt with elongated tusks and retractable claws. With a vague resemblance to large hunting cats, their muscular bodies are built for combat, granting them incredible prowess at leaping and a running speed that makes them dominant carnivores.
+Source: Explorer's Guide to Wildemount p. 295</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Core Spawn Crawler</name>
+    <size>S</size>
+    <type>aberration</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>12</ac>
+    <hp>21 (6d6)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>7</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>9</int>
+    <wis>12</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +5</skill>
+    <passive>15</passive>
+    <languages>understands Deep Speech but can't speak</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded</conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius), tremorsense 60 ft.</senses>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The crawler has advantage on an attack roll against a creature if at least one of the crawler's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The crawler makes four attacks: one with its bite, two with its claws, and one with its tail.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage and the target must succeed on a DC 11 Wisdom saving throw or become frightened until the start of the crawler's next turn.</text>
+      <attack>Bite|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 15 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+      <attack>Claws|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 15 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Tail|+4|1d6+2</attack>
+      </action>
+    <description>The smallest and most numerous of the core spawn, these eyeless creatures scurry through the subterranean darkness with the help of their four irregular, gangly arms and hooked prehensile tails. Core spawn crawlers rarely travel alone, and a group of these agile predators is known as a vein of crawlers. Their clattering taloned limbs warn of their presence as they scuttle through the shadow-haunted depths of the earth.
+Offspring of Calamity
+The aberrant creatures known as core spawn are a subterranean breed of heralds, servants, foot soldiers, and lieutenants of the Elder Evils, awakened in the depths by the cataclysmic actions of the Betrayer Gods and their minions. They often appear on the surface world in the wake of seismic events, such as that which created the bottomless Miskath Pit of Eastern Wynandir. Warlocks and cultists sometimes gather together to hasten the arrival of core spawn to the Material Plane, focusing their arcane power on areas of natural seismic instability when the signs and stars are right.
+Source: Explorer's Guide to Wildemount p. 286</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Core Spawn Emissary</name>
+    <size>M</size>
+    <type>aberration</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>102 (12d8+48)</hp>
+    <speed>walk 40 ft., fly 60 ft.</speed>
+    <str>17</str>
+    <dex>15</dex>
+    <con>18</con>
+    <int>8</int>
+    <wis>13</wis>
+    <cha>8</cha>
+    <save>Dex +5, Wis +4, Cha +2</save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>telepathy 120 ft., understands Deep Speech but can't speak</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune>psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded</conditionImmune>
+    <senses>blindsight 30 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The emissary has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The emissary makes three talons attacks.</text>
+      </action>
+    <action>
+        <name>Talons</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 14 (2d10 + 3) slashing damage.</text>
+      <attack>Talons|+6|2d10+3</attack>
+      </action>
+    <action>
+        <name>Alluring Thrum (Recharges 5-6)</name>
+      <text>The emissary emits a dreadful yet alluring hum. Each creature within 20 feet of the emissary that can hear it and that isn't an aberration must succeed on a DC 14 Constitution saving throw or be charmed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <action>
+        <name>Crystal Spores (Recharge 6)</name>
+      <text>A 15-foot-radius cloud of toxic crystalline spores extends out from the emissary. The spores spread around corners. Each creature in the area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a creature takes 11 (2d10) poison damage at the start of each of its turns. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Crystal Spores (Recharge 6)||2d10</attack>
+      </action>
+    <description>These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary's arrival.
+The core spawn emissary can expel clouds of crystalline spores from tubes in its head. These spores act like a contact poison and can be deadly if inhaled.
+Offspring of Calamity
+The aberrant creatures known as core spawn are a subterranean breed of heralds, servants, foot soldiers, and lieutenants of the Elder Evils, awakened in the depths by the cataclysmic actions of the Betrayer Gods and their minions. They often appear on the surface world in the wake of seismic events, such as that which created the bottomless Miskath Pit of Eastern Wynandir. Warlocks and cultists sometimes gather together to hasten the arrival of core spawn to the Material Plane, focusing their arcane power on areas of natural seismic instability when the signs and stars are right.
+Source: Explorer's Guide to Wildemount p. 286</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Core Spawn Seer</name>
+    <size>M</size>
+    <type>aberration</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>153 (18d8+72)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>22</int>
+    <wis>19</wis>
+    <cha>16</cha>
+    <save>Dex +6, Int +11, Wis +9, Cha +8</save>
+    <skill>Perception +9</skill>
+    <passive>19</passive>
+    <languages>Common, Deep Speech, telepathy 120 ft., Undercommon</languages>
+    <cr>13</cr>
+    <resist></resist>
+    <immune>psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>blindsight 60 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Earth Glide</name>
+      <text>The seer can traverse through nonmagical, unworked earth and stone. While doing so, the seer doesn't disturb the material it moves through.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The seer has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The seer uses Fission Staff twice, Psychedelic Orb twice, or each one once.</text>
+      </action>
+    <action>
+        <name>Fission Staff</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. 9 (1d6 + 6) bludgeoning damage plus 18 (4d8) radiant damage, and the target is knocked prone.</text>
+      <attack>Fission Staff|+8|1d6+6</attack>
+      </action>
+    <action>
+        <name>Psychedelic Orb</name>
+      <text>The seer hurls a glimmering orb at one creature it can see within 120 of it. The target must succeed on a DC 19 Wisdom saving throw or take 27 (5d10) psychic damage and suffer a random condition until the start of the seer's next turn. Roll a d6 for the condition: (1-2) blinded, (3-4) frightened, or (5-6) stunned.</text>
+      <attack>Psychedelic Orb||5d10</attack>
+      </action>
+    <reaction>
+        <name>Fuse Damage</name>
+      <text>When the seer is hit by an attack, it takes only half of the triggering damage. The first time the seer hits with a melee attack on its next turn, the target takes an extra 1d6 radiant damage.</text>
+      </reaction>
+    <description>Core spawn seers are humanoid arcanists corrupted by the eldritch power of the Elder Evils through blasphemous rites or accursed encounters. Ravaged by otherworldly radiation and disease, their bodies are covered in horrible protrusions of fluorescent crystals, which emit a psychedelic glow from beneath the tattered folds of their robes.
+Offspring of Calamity
+The aberrant creatures known as core spawn are a subterranean breed of heralds, servants, foot soldiers, and lieutenants of the Elder Evils, awakened in the depths by the cataclysmic actions of the Betrayer Gods and their minions. They often appear on the surface world in the wake of seismic events, such as that which created the bottomless Miskath Pit of Eastern Wynandir. Warlocks and cultists sometimes gather together to hasten the arrival of core spawn to the Material Plane, focusing their arcane power on areas of natural seismic instability when the signs and stars are right.
+Source: Explorer's Guide to Wildemount p. 286</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Core Spawn Worm</name>
+    <size>G</size>
+    <type>aberration</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>279 (18d20+90)</hp>
+    <speed>walk 60 ft., burrow 40 ft.</speed>
+    <str>26</str>
+    <dex>5</dex>
+    <con>20</con>
+    <int>6</int>
+    <wis>8</wis>
+    <cha>4</cha>
+    <save>Con +10, Wis +4</save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>understands Deep Speech but can't speak</languages>
+    <cr>15</cr>
+    <resist></resist>
+    <immune>fire, psychic</immune>
+    <vulnerable>cold</vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>blindsight 30 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Illumination</name>
+      <text>The worm sheds dim light in a 20-foot radius.</text>
+      </trait>
+    <trait>
+        <name>Radiant Mirror</name>
+      <text>If the worm takes radiant damage, each creature within 20 feet of it takes that damage as well.</text>
+      </trait>
+    <trait>
+        <name>Tunneler</name>
+      <text>The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The worm makes two attacks: one with its barbed tentacles and one with its bite.</text>
+      </action>
+    <action>
+        <name>Barbed Tentacles</name>
+      <text>Melee Weapon Attack: +13 to hit, reach 10 ft., one creature. 25 (5d6 + 8) piercing damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The tentacles can grapple only one creature at a time.</text>
+      <attack>Barbed Tentacles|+13|5d6+8</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +13 to hit, reach 10 ft., one target. 30 (5d8 + 8) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) fire damage at the start of each of the worm's turns.</text>
+      <attack>Bite|+13|5d8+8</attack>
+      <attack>Bite||6d6</attack>
+      <text>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <description>This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm's cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
+Offspring of Calamity
+The aberrant creatures known as core spawn are a subterranean breed of heralds, servants, foot soldiers, and lieutenants of the Elder Evils, awakened in the depths by the cataclysmic actions of the Betrayer Gods and their minions. They often appear on the surface world in the wake of seismic events, such as that which created the bottomless Miskath Pit of Eastern Wynandir. Warlocks and cultists sometimes gather together to hasten the arrival of core spawn to the Material Plane, focusing their arcane power on areas of natural seismic instability when the signs and stars are right.
+Source: Explorer's Guide to Wildemount p. 287</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Damaged Flesh Golem</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Neutral</alignment>
+    <ac>9</ac>
+    <hp>5 (11d8+44)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>19</str>
+    <dex>9</dex>
+    <con>18</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands the languages of its creator but can't speak</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Berserk</name>
+      <text>Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.</text>
+      <text>The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.</text>
+      </trait>
+    <trait>
+        <name>Aversion of Fire</name>
+      <text>If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</text>
+      </trait>
+    <trait>
+        <name>Immutable Form</name>
+      <text>The golem is immune to any spell or effect that would alter its form.</text>
+      </trait>
+    <trait>
+        <name>Lightning Absorption</name>
+      <text>Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The golem has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The golem's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) bludgeoning damage.</text>
+      <attack>Slam|+7|2d8+4</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 248</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ferol Sal</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>14 (studded leather armor)</ac>
+    <hp>45 (6d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>13</wis>
+    <cha>15</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>3</cr>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, Ferol has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Ferol makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.</text>
+      </action>
+    <action>
+        <name>Life Drain</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
+      <attack>Life Drain|+4|1d6+2</attack>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Ferol's control, unless the humanoid is restored to life or its body is destroyed. Ferol can have no more than twelve zombies under its control at one time.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
+      <attack>Longsword|+4|1d8+2</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <attack>Longbow|+4|1d8+2</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 249</description>
+    <environment>underdark, swamp, urban, desert</environment>
+    </monster>
+  <monster>
+      <name>Frost Giant Zombie</name>
+    <size>H</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (patchwork armor)</ac>
+    <hp>138 (12d12+60)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>23</str>
+    <dex>6</dex>
+    <con>21</con>
+    <int>3</int>
+    <wis>6</wis>
+    <cha>5</cha>
+    <save>Wis +2</save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>understands Giant but can't speak</languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune>cold, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Numbing Aura</name>
+      <text>Any creature that starts its turn within 10 feet of the zombie must make a DC 17 Constitution saving throw. Unless the save succeeds, the creature can't make more than one attack, or take a bonus action on that turn.</text>
+      </trait>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is fire, radiant, or from a critical hit. On a success, the zombie drops to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The zombie makes two weapon attacks.</text>
+      </action>
+    <action>
+        <name>Greataxe</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 25 (3d12 + 6) slashing damage.</text>
+      <attack>Greataxe|+10|3d12+6</attack>
+      </action>
+    <action>
+        <name>Hurl Rock</name>
+      <text>Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
+      <attack>Hurl Rock|+10|4d10+6</attack>
+      </action>
+    <action>
+        <name>Freezing Stare</name>
+      <text>The zombie targets one creature it can see within 60 feet of it. The target must succeed on a DC 17 Constitution saving throw or take 35 (10d6) cold damage and be paralyzed until the end of its next turn.</text>
+      <attack>Freezing Stare||10d6</attack>
+      </action>
+    <description>An unknown Aeorian object of immense power and mystery was uncovered and brought to the Fortress of the Dead Jarl in Eiselcross to please the ruling frost giant, Conessa Berg. The object's unstable nature unleashed a burst of corroding arcane power, ravaging the denizens of the stronghold with twisting necromantic energies, transforming them into monstrous, rime-infused undead. These hulking brutes now wander the ruined landscape surrounding their cursed home, hunting and destroying all living things with a frightening ferocity.
+The battered, butchered, and frozen remains of would-be heroes litter battle sites where these undead giants have been encountered. Underestimating these towering horrors has been the folly of numerous expeditions to the northern reaches of Eiselcross, with only rumors often finding their way back as proof that these frigid monsters even exist.
+Source: Explorer's Guide to Wildemount p. 288</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Frost Worm</name>
+    <size>G</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>264 (16d20+96)</hp>
+    <speed>walk 40 ft., burrow 30 ft.</speed>
+    <str>28</str>
+    <dex>8</dex>
+    <con>22</con>
+    <int>1</int>
+    <wis>5</wis>
+    <cha>5</cha>
+    <save>Con +12, Wis +3</save>
+    <skill></skill>
+    <passive>7</passive>
+    <languages></languages>
+    <cr>17</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft., tremorsense 60 ft.</senses>
+    <trait>
+        <name>Freezing Body</name>
+      <text>A creature that touches the worm or hits it with a melee attack while within 5 feet of it takes 10 (3d6) cold damage.</text>
+      </trait>
+    <trait>
+        <name>Death Burst</name>
+      <text>When the worm dies, it explodes in a burst of frigid energy. Each creature within 60 feet of it must make a DC 20 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. Creatures inside the worm when it dies automatically fail this saving throw.</text>
+      </trait>
+    <trait>
+        <name>Tunneler</name>
+      <text>The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The worm makes two bite attacks, or uses its Trill and makes a bite attack.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the worm's turns.</text>
+      <attack>Bite|+15|3d8+9</attack>
+      <attack>Bite||3d6</attack>
+      <text>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm.</text>
+      </action>
+    <action>
+        <name>Trill</name>
+      <text>The frost worm emits a haunting cry. Each creature within 60 feet of the worm that can hear it must succeed on a DC 20 Wisdom saving throw or be stunned for 1 minute. A creature can repeat the saving throw each time it takes damage and at the end of each of its turns, ending the effect on itself on a success. Once a creature successfully saves against this effect, or if this effect ends for it, that creature is immune to the Trill of all frost worms for the next 24 hours. Frost worms are immune to this effect.</text>
+      </action>
+    <description>Frost worms burrow through the snow, dirt, ice, and rock of Wildemount's Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
+A frost worm spends most of its time beneath the frozen ground, conserving energy while it waits for prey to pass overhead. Smart travelers can identify a frost worm's hunting grounds by looking for recently iced-over tunnels. When the worm senses vibrations above, it bursts forth through dirt, ice, and snow. Those who escape its initial assault must still contend with the worm's haunting trill—a hypnotizing call that stops creatures in their tracks to make them easy prey.
+Source: Explorer's Guide to Wildemount p. 289</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Gearkeeper Construct</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>161 (17d10+68)</hp>
+    <speed>walk 60 ft.</speed>
+    <str>20</str>
+    <dex>16</dex>
+    <con>18</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands the languages of its creator but can't speak</languages>
+    <cr>10</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>fire, poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Immutable Form</name>
+      <text>The gearkeeper is immune to any spell or effect that would alter its form.</text>
+      </trait>
+    <trait>
+        <name>Rapid Shifting</name>
+      <text>Opportunity attacks made against the gearkeeper have disadvantage.</text>
+      </trait>
+    <trait>
+        <name>Whirling Blades</name>
+      <text>Any creature that starts its turn within 5 feet of the gearkeeper takes 4 (1d8) slashing damage.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The gearkeeper makes two Arm Blade attacks, or one Arm Blade attack and one Spear Launcher attack.</text>
+      </action>
+    <action>
+        <name>Arm Blade</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 18 (3d8 + 5) slashing damage.</text>
+      <attack>Arm Blade|+9|3d8+5</attack>
+      </action>
+    <action>
+        <name>Spear Launcher</name>
+      <text>Ranged Weapon Attack: +9 to hit, range 90 ft., one target. 12 (2d6 + 5) piercing damage, and the target is knocked prone.</text>
+      <attack>Spear Launcher|+9|2d6+5</attack>
+      </action>
+    <action>
+        <name>Shrapnel Blast (Recharge 6)</name>
+      <text>The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Shrapnel Blast (Recharge 6)||6d6</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 290</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Gloomstalker</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>90 (12d10+24)</hp>
+    <speed>walk 40 ft., fly 80 ft.</speed>
+    <str>22</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>5</int>
+    <wis>17</wis>
+    <cha>14</cha>
+    <save>Str +9, Dex +6</save>
+    <skill>Athletics +9, Intimidation +5, Perception +6, Stealth +6</skill>
+    <passive>16</passive>
+    <languages>understands Common but can't speak</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable>radiant</vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 240 ft</senses>
+    <trait>
+        <name>Shadowstep</name>
+      <text>As a bonus action, the gloomstalker can teleport up to 40 feet to an unoccupied space it can see.</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, the gloomstalker has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The gloomstalker makes two attacks: one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. 15 (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage.</text>
+      <attack>Bite|+9|2d8+6</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage.</text>
+      <attack>Claws|+9|2d6+6</attack>
+      </action>
+    <action>
+        <name>Snatch</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one Medium or smaller creature. 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and the target is grappled (escape DC 17). While grappled in this way, the target is restrained.</text>
+      <attack>Snatch|+9|2d6+6</attack>
+      </action>
+    <action>
+        <name>Shriek (Recharge 6)</name>
+      <text>The gloomstalker emits a terrible shriek. Each enemy within 60 feet of the gloomstalker that can hear it must succeed on a DC 13 Constitution saving throw or be paralyzed until the end of the enemy's next turn.</text>
+      </action>
+    <description>A gloomstalker is a terrifying, winged predator resembling a wyvern composed of twisting shadows, with glowing eyes and dagger-like teeth.
+Source: Explorer's Guide to Wildemount p. 291</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Guardian Wolf</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>66 (7d12+21)</hp>
+    <speed>walk 60 ft.</speed>
+    <str>22</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>5</int>
+    <wis>12</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +5, Stealth +4</skill>
+    <passive>15</passive>
+    <languages>Common, Elvish</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Hearing and Smell</name>
+      <text>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The wolf makes two attacks: one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (1d10 + 6) piercing damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.</text>
+      <attack>Bite|+8|1d10+6</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 15 (2d8 + 6) piercing damage.</text>
+      <attack>Claws|+8|2d8+6</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 272</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Horizonback Tortoise</name>
+    <size>G</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor, 22 while in its shell)</ac>
+    <hp>227 (13d20+91)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>28</str>
+    <dex>3</dex>
+    <con>25</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save>Str +12, Con +10</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands Goblin but can't speak</languages>
+    <cr>7</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The tortoise can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Massive Frame</name>
+      <text>The tortoise can carry up to 20,000 pounds of weight atop its shell, but moves at half speed if the weight exceeds 10,000 pounds. Medium or smaller creatures can move underneath the tortoise while it's not prone.</text>
+      <text>Any creature under the tortoise when it falls prone is grappled (escape DC 18). Until the grapple ends, the creature is prone and restrained.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 28 (3d12 + 9) bludgeoning damage.</text>
+      <attack>Bite|+12|3d12+9</attack>
+      </action>
+    <action>
+        <name>Shell Defense (Recharge 4-6)</name>
+      <text>The tortoise withdraws into its shell, falls prone, and gains a +5 bonus to AC. While the tortoise is in its shell, its speed is 0 and can't increase. The tortoise can emerge from its shell as an action, whereupon it is no longer prone.</text>
+      </action>
+    <description>Desolate badlands and soggy marshes are home to the ancient and massive horizonback tortoises of Eastern Wynandir. Nearly fifty feet from nose to tail, and with a habit of remaining stationary for long periods, a horizonback tortoise is easy to mistake for a low hill at a distance. But when these impressive creatures rise to begin their march, the sight inspires fear and awe in equal parts. An omnivore of incredible size, these scavengers prefer to feed on dead vegetation, but make use of whatever edible matter they come across.
+Source: Explorer's Guide to Wildemount p. 292</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Hulil Lutan</name>
+    <size>M</size>
+    <type>humanoid (dwarf)</type>
+    <alignment>Any Non-Good Alignment</alignment>
+    <ac>13 (leather armor)</ac>
+    <hp>33 (6d8+6)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>11</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>13</wis>
+    <cha>14</cha>
+    <save></save>
+    <skill>Deception +4, Persuasion +4, Religion +2</skill>
+    <passive>11</passive>
+    <languages>any one language (usually Common), Dwarvish</languages>
+    <cr>2</cr>
+    <resist>poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Dark Devotion</name>
+      <text>Hulil has advantage on saving throws against being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Dwarven Resilience</name>
+      <text>&lt;$title_short_name$&gt; has advantage on saving throws against poison, and has resistance against poison damage.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Hulil makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+4|1d4+2</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Hulil is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). Hulil has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, inflict wounds, shield of faith</text>
+      <text>• 2nd level (3 slots): hold person, spiritual weapon</text>
+      </trait>
+    <slots>4, 3</slots>
+    <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
+    <description>
+Source: Explorer's Guide to Wildemount p. 240</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Husk Zombie</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>10</ac>
+    <hp>37 (5d8+15)</hp>
+    <speed>walk 35 ft.</speed>
+    <str>16</str>
+    <dex>10</dex>
+    <con>16</con>
+    <int>3</int>
+    <wis>6</wis>
+    <cha>5</cha>
+    <save>Con +5, Wis +0</save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>understands the languages it knew in life but can't speak</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Curse of the Husk</name>
+      <text>A humanoid slain by a melee attack from the zombie revives as a husk zombie on its next turn.</text>
+      </trait>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The zombie makes two claw attacks. For each of these attacks that reduces a creature to 0 hit points, the zombie can make an additional claw attack.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
+      <attack>Claw|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Variant: Husk Zombie Bursters</name>
+      <text>Some husk zombies become bloated with disease and bile, their frenzied state pushing them to rush other living creatures, explode, and spread their horrid infection. A husk zombie burster has the following additional action option:</text>
+      <text>Burst. The zombie explodes and is destroyed. Each creature within 5 feet of it must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one. A humanoid creature killed by this damage rises as a husk zombie after 1 minute.</text>
+      </action>
+    <description>The wastes of Eastern Wynandir retain many curses and corruptions from the time of the Calamity, the worst of which pervert the sanctity of death. One such curse manifests as a terrible roving fog that draws the corpses of the fallen to rise as husk zombies—resilient undead of frightening speed and bloodlust. As well, some of the more heinous fiends that walk these scarred lands feed on the life force of the living, leaving these terrible undead in their wake.
+Source: Explorer's Guide to Wildemount p. 293</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ishel</name>
+    <size>M</size>
+    <type>humanoid (elf)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (chain shirt)</ac>
+    <hp>24 (3d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>11</int>
+    <wis>11</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Perception +2, Stealth +4</skill>
+    <passive>12</passive>
+    <languages>Elvish, Undercommon</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>Ishel has advantage on saving throws against being charmed, and magic can't put Ishel to sleep.</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, Ishel has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortsword|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Hand Crossbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
+      <attack>Hand Crossbow|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Variant: Drow Magic Armor and Weapons</name>
+      <text>Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.</text>
+      <text>A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Ishel's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: dancing lights</text>
+      <text>1/day each: darkness, faerie fire</text>
+      </trait>
+    <spells>dancing lights, darkness, faerie fire</spells>
+    <description>
+Source: Explorer's Guide to Wildemount p. 231</description>
+    <environment>underdark</environment>
+    </monster>
+  <monster>
+      <name>Karkethzerethzerus, the Sable Despoiler</name>
+    <size>G</size>
+    <type>dragon</type>
+    <alignment>Lawful Good</alignment>
+    <ac>22 (natural armor)</ac>
+    <hp>487 (25d20+225)</hp>
+    <speed>walk 40 ft., fly 80 ft.</speed>
+    <str>30</str>
+    <dex>10</dex>
+    <con>29</con>
+    <int>18</int>
+    <wis>15</wis>
+    <cha>23</cha>
+    <save>Dex +7, Con +16, Wis +9, Cha +13</save>
+    <skill>Arcana +11, History +11, Perception +16, Stealth +2</skill>
+    <passive>26</passive>
+    <languages>Common, Draconic</languages>
+    <cr>23</cr>
+    <resist>necrotic</resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the dragon fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Living Shadow</name>
+      <text>While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.</text>
+      </trait>
+    <trait>
+        <name>Shadow Stealth</name>
+      <text>While in dim light or darkness, the dragon can take the Hide action as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 15 ft., one target. 21 (2d10 + 10) piercing damage.</text>
+      <attack>Bite|+17|2d10+10</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 10 ft., one target. 17 (2d6 + 10) slashing damage.</text>
+      <attack>Claw|+17|2d6+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +17 to hit, reach 20 ft., one target. 19 (2d8 + 10) bludgeoning damage.</text>
+      <attack>Tail|+17|2d8+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Breath Weapons (Recharge 5-6)</name>
+      <text>The dragon uses one of the following breath weapons.</text>
+      <text>• Necrotic Breath. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Breath Weapons (Recharge 5-6)||15d8</attack>
+      <text>• Paralyzing Breath. The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <action>
+        <name>Change Shape</name>
+      <text>The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).</text>
+      <text>In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</text>
+      </action>
+    <legendary>
+        <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Detect</name>
+      <text>The dragon makes a Wisdom (Perception) check.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>The dragon makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Wing Attack (Costs 2 Actions)</name>
+      <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
+      <text>• The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
+      <text>• A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.</text>
+      <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
+      <text>• Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.</text>
+      <text>• Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.</text>
+      <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
+      </legendary>
+    <description>
+Source: Explorer's Guide to Wildemount p. 158</description>
+    <environment>mountain, urban</environment>
+    </monster>
+  <monster>
+      <name>Kobold Underling</name>
+    <size>S</size>
+    <type>humanoid (kobold)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>13</ac>
+    <hp>7 (3d6-3)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>7</str>
+    <dex>16</dex>
+    <con>9</con>
+    <int>8</int>
+    <wis>9</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages>Common, Draconic</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Messy End</name>
+      <text>The kobold explodes 3 rounds after it dies, or immediately if it was killed by a critical hit. The explosion destroys the kobold's body, leaving its equipment behind. Each creature within 5 feet of the exploding kobold must make a DC 10 Dexterity saving throw, taking 4 (1d8) bludgeoning damage on a failed save, or half as much damage on a successful one.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Hand Crossbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Hand Crossbow|+5|1d6+3</attack>
+      </action>
+    <description>Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Source: Explorer's Guide to Wildemount p. 221</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Merrow Shallowpriest</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>75 (10d10+20)</hp>
+    <speed>walk 10 ft., swim 40 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>11</int>
+    <wis>16</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Abyssal, Aquan</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The merrow can breathe air and water.</text>
+      </trait>
+    <action>
+        <name>Harpoon</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 11 (2d6 + 4) piercing damage. If the target is a Medium or smaller creature, the merrow can pull it 10 feet closer.</text>
+      <attack>Harpoon|+6|2d6+4</attack>
+      </action>
+    <action>
+        <name>Lightning Bolt (3rd-Level Spell; Requires a Spell Slot)</name>
+      <text>The merrow unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Lightning Bolt (3rd-Level Spell; Requires a Spell Slot)||8d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The merrow is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The merrow has the following druid spells prepared:</text>
+      <text>Cantrips (at will): druidcraft, minor illusion, shocking grasp</text>
+      <text>• 1st level (4 slots): cure wounds, fog cloud, thunderwave</text>
+      <text>• 2nd level (3 slots): hold person, mirror image, misty step</text>
+      <text>• 3rd level (3 slots): dispel magic, lightning bolt (see "Actions" below), sleet storm</text>
+      </trait>
+    <slots>4, 3, 3</slots>
+    <spells>druidcraft, minor illusion, shocking grasp, cure wounds, fog cloud, thunderwave, hold person, mirror image, misty step, dispel magic, lightning bolt, sleet storm</spells>
+    <description>Some of the many merrow that dwell in the watery shadows of the Menagerie Coast learn to harness the magical aspects of the elements. Often working as guides leading merrow hunting parties, some of these shallowpriests rise to become powerful leaders, inspiring their clans to terrorize coastal communities and passing ships.
+Rumors speak of underground waterways and lakes carved into the rock beneath Wildemount, where shallowpriests hold court over huge subterranean communities of merrow. These evil creatures are thought to seek the means of flooding the surface world, allowing them to steal away who and what they will to the dark waters below.
+While most shallowpriests do not bind themselves in the service of a specific deity, some are drawn to the worship of entities that reign over regions of the Elemental Plane of Water, hoping to find means of expanding their dominion into the seas of Exandria. These merrow often spearhead the construction of intricate shrines and temples along the bottom of the ocean, preparing a sacred space for planar doorways to their master's realm to be opened and maintained.
+Source: Explorer's Guide to Wildemount p. 294</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Moorbounder</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>30 (4d10+8)</hp>
+    <speed>walk 70 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>2</int>
+    <wis>13</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages></languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Standing Leap</name>
+      <text>The moorbounder's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 14 (4d4 + 4) slashing damage.</text>
+      <attack>Claws|+6|4d4+4</attack>
+      </action>
+    <description>Natural Hunters
+Moorbounders hunt with elongated tusks and retractable claws. With a vague resemblance to large hunting cats, their muscular bodies are built for combat, granting them incredible prowess at leaping and a running speed that makes them dominant carnivores.
+Source: Explorer's Guide to Wildemount p. 295</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mossback Steward</name>
+    <size>G</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor, 22 while in its shell)</ac>
+    <hp>227 (13d20+91)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>28</str>
+    <dex>3</dex>
+    <con>25</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save>Str +12, Con +10</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands Goblin but can't speak</languages>
+    <cr>7</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>Mossback Steward can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Massive Frame</name>
+      <text>Mossback Steward can carry up to 20,000 pounds of weight atop its shell, but moves at half speed if the weight exceeds 10,000 pounds. Medium or smaller creatures can move underneath Mossback Steward while it's not prone.</text>
+      <text>Any creature under Mossback Steward when it falls prone is grappled (escape DC 18). Until the grapple ends, the creature is prone and restrained.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 28 (3d12 + 9) bludgeoning damage.</text>
+      <attack>Bite|+12|3d12+9</attack>
+      </action>
+    <action>
+        <name>Shell Defense (Recharge 4-6)</name>
+      <text>Mossback Steward withdraws into its shell, falls prone, and gains a +5 bonus to AC. While Mossback Steward is in its shell, its speed is 0 and can't increase. Mossback Steward can emerge from its shell as an action, whereupon it is no longer prone.</text>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 256</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Nergaliid</name>
+    <size>L</size>
+    <type>fiend (devil)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>42 (4d10+20)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>12</dex>
+    <con>20</con>
+    <int>12</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Deception +5, Perception +2, Stealth +5</skill>
+    <passive>12</passive>
+    <languages>Common, Infernal</languages>
+    <cr>3</cr>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>fire, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Shadow Stealth</name>
+      <text>While in dim light or darkness, the nergaliid can take the Hide action as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>The nergaliid's long jump is up to 30 feet and its high jump is up to 20 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or become poisoned for 1 minute. The poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Bite|+6|2d8+4</attack>
+      </action>
+    <action>
+        <name>Tongue Lash</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 20 ft., one target. 10 (1d12 + 4) bludgeoning damage.</text>
+      <attack>Tongue Lash|+6|1d12+4</attack>
+      </action>
+    <action>
+        <name>Siphon Life (Recharge 4-6)</name>
+      <text>The nergaliid magically draws the life from a humanoid it can see within 40 feet of it. The target must make a DC 15 Wisdom saving throw. An incapacitated target fails the save automatically. On a failed save, the creature takes 10 (3d6) psychic damage, and the nergaliid gains temporary hit points equal to the damage taken. On a successful save, the target takes half as much damage, and the nergaliid doesn't gain temporary hit points. If this damage kills the target, its body rises at the end of the nergaliid's current turn as a husk zombie (see earlier in this chapter).</text>
+      <attack>Siphon Life (Recharge 4-6)||3d6</attack>
+      </action>
+    <description>Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid's feeding leave a corrupted undead corpse behind known as a husk zombie (see earlier in this chapter).
+The nergaliid favors feeding on the life force of sleeping humanoids, feasting on the same prey nightly—so long as its victim remains unaware. This ensures a lasting source of nourishment, with the victim beset by terrible nightmares as long as the feeding continues. When a nergaliid is discovered, it tries to strike a deal with the one who uncovered it. It might offer material wealth in exchange for freedom and silence. Only when an accord seems unlikely does the nergaliid attack.
+Source: Explorer's Guide to Wildemount p. 296</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ogre Lord Buhfal II</name>
+    <size>L</size>
+    <type>giant</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>11 (hide armor)</ac>
+    <hp>59 (7d10+21)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>19</str>
+    <dex>8</dex>
+    <con>16</con>
+    <int>5</int>
+    <wis>7</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>Common, Giant</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Greatclub</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 13 (2d8 + 4) bludgeoning damage.</text>
+      <attack>Greatclub|+6|2d8+4</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Javelin|+6|2d6+4</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 251</description>
+    <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
+    </monster>
+  <monster>
+      <name>Old Croaker</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>11</ac>
+    <hp>39 (6d10+6)</hp>
+    <speed>walk 20 ft., swim 40 ft.</speed>
+    <str>15</str>
+    <dex>13</dex>
+    <con>13</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 30 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>Old Croaker can breathe air and water</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>Old Croaker's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and Old Croaker can't bite another target.</text>
+      <attack>Bite|+4|1d10+2</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>Old Croaker makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside Old Croaker, and it takes 10 (3d6) acid damage at the start of each of Old Croaker's turns. Old Croaker can have only one target swallowed at a time.</text>
+      <text>If Old Croaker dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</text>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 240</description>
+    <environment>underdark, forest, swamp, desert, coastal</environment>
+    </monster>
+  <monster>
+      <name>Oracs the Enduring</name>
+    <size>G</size>
+    <type>undead</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>22 (natural armor)</ac>
+    <hp>367 (21d20+147)</hp>
+    <speed>walk 40 ft., fly 80 ft., swim 40 ft.</speed>
+    <str>27</str>
+    <dex>14</dex>
+    <con>25</con>
+    <int>16</int>
+    <wis>15</wis>
+    <cha>19</cha>
+    <save>Dex +9, Con +14, Wis +9, Cha +11</save>
+    <skill>Perception +16, Stealth +9</skill>
+    <passive>26</passive>
+    <languages>Common, Draconic</languages>
+    <cr>21</cr>
+    <resist>necrotic</resist>
+    <immune>acid, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned, exhaustion</conditionImmune>
+    <senses>blindsight 60 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the dracolich fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The dracolich has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 15 ft., one target. 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.</text>
+      <attack>Bite|+15|2d10+8</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 15 (2d6 + 8) slashing damage.</text>
+      <attack>Claw|+15|2d6+8</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +15 to hit, reach 20 ft., one target. 17 (2d8 + 8) bludgeoning damage.</text>
+      <attack>Tail|+15|2d8+8</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Acid Breath (Recharge 5-6)</name>
+      <text>The dracolich exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Acid Breath (Recharge 5-6)||15d8</attack>
+      </action>
+    <legendary>
+        <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Detect</name>
+      <text>The dracolich makes a Wisdom (Perception) check.</text>
+      </legendary>
+    <legendary>
+        <name>Tail Attack</name>
+      <text>The dracolich makes a tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Wing Attack (Costs 2 Actions)</name>
+      <text>The dracolich beats its wings. Each creature within 15 feet of the dracolich must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dracolich can then fly up to half its flying speed.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
+      <text>• Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked prone.</text>
+      <text>• A cloud of swarming insects fills a 20-foot-radius sphere centered on a point the dragon chooses within 120 feet of it. The cloud spreads around corners and remains until the dragon dismisses it as an action, uses this lair action again, or dies. The cloud is lightly obscured. Any creature in the cloud when it appears must make on a DC 15 Constitution saving throw, taking 10 (3d6) piercing damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud takes 10 (3d6) piercing damage.</text>
+      <text>• Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a legendary black dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
+      <text>• The land within 6 miles of the lair takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.</text>
+      <text>• Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.</text>
+      <text>• Fog lightly obscures the land within 6 miles of the lair.</text>
+      <text>If the dragon dies, vegetation remains as it has grown, but other effects fade over 1d10 days.</text>
+      </legendary>
+    <description>
+Source: Explorer's Guide to Wildemount p. 154</description>
+    <environment>swamp</environment>
+    </monster>
+  <monster>
+      <name>Parson Pellinost</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>13 (chain shirt)</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>12</con>
+    <int>13</int>
+    <wis>16</wis>
+    <cha>13</cha>
+    <save></save>
+    <skill>Medicine +7, Persuasion +3, Religion +5</skill>
+    <passive>13</passive>
+    <languages>any two languages</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Divine Eminence</name>
+      <text>As a bonus action, Pellinost can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Pellinost expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</text>
+      </trait>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage.</text>
+      <attack>Mace|+2|1d6</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Pellinost is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). Pellinost has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): cure wounds, guiding bolt, sanctuary</text>
+      <text>• 2nd level (3 slots): lesser restoration, spiritual weapon</text>
+      <text>• 3rd level (2 slots): dispel magic, spirit guardians</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, dispel magic, spirit guardians</spells>
+    <description>
+Source: Explorer's Guide to Wildemount p. 261</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Raegrin Mau</name>
+    <size>M</size>
+    <type>humanoid (elf)</type>
+    <alignment>Any Non-Good Alignment</alignment>
+    <ac>12 (leather armor)</ac>
+    <hp>9 (2d8)</hp>
+    <speed>walk 35 ft.</speed>
+    <str>11</str>
+    <dex>12</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Deception +2, Religion +2, Perception +1</skill>
+    <passive>10</passive>
+    <languages>any one language (usually Common), Elvish</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Dark Devotion</name>
+      <text>Raegrin has advantage on saving throws against being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>&lt;$title_short_name$&gt; has advantage on saving throws against being charmed, and magic can't put Raegrin to sleep.</text>
+      </trait>
+    <trait>
+        <name>Mask of the Wild</name>
+      <text>&lt;$title_short_name$&gt; can attempt to hide even when they are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</text>
+      </trait>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. 4 (1d6 + 1) slashing damage.</text>
+      <attack>Scimitar|+3|1d6+1</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 240</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sahuagin Warlock of Uk'otoa</name>
+    <size>M</size>
+    <type>humanoid (sahuagin)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>22 (5d8)</hp>
+    <speed>walk 30 ft., swim 40 ft.</speed>
+    <str>14</str>
+    <dex>10</dex>
+    <con>11</con>
+    <int>8</int>
+    <wis>8</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Arcana +1, Persuasion +5</skill>
+    <passive>9</passive>
+    <languages>Common, Sahuagin</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Blood Frenzy</name>
+      <text>The warlock has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+      </trait>
+    <trait>
+        <name>Limited Amphibiousness</name>
+      <text>The warlock can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</text>
+      </trait>
+    <trait>
+        <name>Shark Telepathy</name>
+      <text>The warlock can magically command any shark within 120 feet of it, using a limited telepathy.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The warlock makes two attacks: one with its bite and one with its Sword of Fathoms.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Bite|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Sword of Fathoms</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) slashing damage, and if the target is a creature, it must succeed on a DC 13 Constitution saving throw or begin choking. The choking creature is incapacitated until the end of its next turn, when the effect ends on it.</text>
+      <attack>Sword of Fathoms|+4|1d10+2</attack>
+      </action>
+    <action>
+        <name>Eldritch Blast (Cantrip)</name>
+      <text>Ranged Spell Attack: +5 to hit, range 120 ft., one creature. 5 (1d10) force damage.</text>
+      <attack>Eldritch Blast (Cantrip)|+5|1d10</attack>
+      </action>
+    <action>
+        <name>Variant: Rod of Retribution</name>
+      <text>Sahuagin warlocks of Uk'otoa who have exceptional potential in the eyes of the leviathan lord are granted a rod of retribution in addition to Uk'otoa's typical blessing, the Sword of Fathoms. A sahuagin warlock of Uk'otoa holding this rod gains the following reaction:</text>
+      <text>Retribution (3/Day). When a creature the warlock can see within 60 feet of it damages the warlock, the creature must make a DC 13 Dexterity saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: eldritch blast (see "Actions" below), minor illusion</text>
+      <text>1/day each: armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</text>
+      </trait>
+    <spells>eldritch blast, minor illusion, armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</spells>
+    <description>The slumbering leviathan Uk'otoa preys on the fears and ambitions of humanoids that brave the depths of the Lucidian Ocean. Countless communities of sahuagin inhabit uncharted pockets of water along the Menagerie Coast, and the most ambitious among them often hear the call of the leviathan in their dreams, urging them to take his power and use it to achieve their bloodsoaked dreams.
+Sahuagin who answer the call of Uk'otoa tend to have one ambition in common: vengeance against the land dwellers of the Clovis Concord for daring to sail oceans that do not belong to them. As these devotees receive dark boons from their leviathan lord, other sahuagin begin to gather to their side, drawn to their displays of power and seeking their own pathway to power. Over time, these warlocks eventually become empty husks, mere receptacles for Uk'otoa's power, and puppets that the slumbering leviathan can control as he pleases.
+Source: Explorer's Guide to Wildemount p. 297</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sea Fury</name>
+    <size>M</size>
+    <type>fey</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>105 (14d8+42)</hp>
+    <speed>walk 30 ft., swim 50 ft.</speed>
+    <str>19</str>
+    <dex>15</dex>
+    <con>16</con>
+    <int>12</int>
+    <wis>12</wis>
+    <cha>18</cha>
+    <save></save>
+    <skill>Deception +8, Insight +5, Perception +5, Stealth +6</skill>
+    <passive>15</passive>
+    <languages>Aquan, Common, Giant</languages>
+    <cr>12</cr>
+    <resist></resist>
+    <immune>cold, fire, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The sea fury can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the sea fury fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The sea fury has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The sea fury makes two attacks with its claws.</text>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
+      <attack>Claws|+8|2d8+4</attack>
+      </action>
+    <action>
+        <name>Death Glare</name>
+      <text>The sea fury targets one frightened creature it can see within 30 feet of it. The target must succeed on a DC 16 Wisdom saving throw or drop to 0 hit points.</text>
+      </action>
+    <legendary>
+        <text>The fey can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>As Water</name>
+      <text>The sea fury transforms into a wave of foaming seawater, along with whatever it is wearing or carrying, and moves up to its speed without provoking opportunity attacks. While in this form, it can't be grappled or restrained. It reverts to its true form at the end of this movement.</text>
+      </legendary>
+    <legendary>
+        <name>Fearsome Apparition (Costs 2 Actions)</name>
+      <text>The sea fury conjures an apparition of one of its dead sisters, which appears in an unoccupied space the sea fury can see within 30 feet of it. Enemies of the sea fury that can see the apparition must succeed on a DC 16 Wisdom saving throw or be frightened of it until it vanishes at the end of the sea fury's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Conjure Snakes (Costs 3 Actions)</name>
+      <text>The sea fury disgorges a swarm of poisonous snakes, which occupies the same space as the sea fury, acts on its own initiative count, and attacks as directed by the sea fury. The sea fury can control up to three of these swarms at a time.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>A sea fury lurks in the caverns where its coven once dwelled, decorating the walls with the bones of its slain kin, as well as baubles stolen from sunken wrecks.</text>
+      <text>On initiative count 20 (losing initiative ties), the sea fury can take a lair action to cause one of the following magical effects, but can't use the same effect two rounds in a row:</text>
+      <text>• Caverns, tunnels, and pools of water within 120 feet of the sea fury become foggy or murky, to the extent that the area becomes heavily obscured.</text>
+      <text>• The sea fury conjures a 15-foot cube of water that fills an unoccupied space it can see within 30 feet of it, then moves the water in a straight line up to 60 feet, after which the water disperses. Any creature that comes into contact with the rushing wave must succeed on a DC 16 Strength saving throw or be knocked prone by it and pushed 15 feet along its course.</text>
+      <text>• The sea fury calls forth the spirit of a dead sailor or sea hag that met its end in the lair. This spirit has the statistics of a specter and lasts until the sea fury uses another lair action. The specter appears in an unoccupied space within 30 feet of the sea fury and obeys the sea fury's commands.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region containing a sea fury's lair is warped by the sea fury's magic, which creates the following effects:</text>
+      <text>• Sea water within 5 miles of the lair becomes coarse and choppy, as if whipped by an unseen wind.</text>
+      <text>• Sea grass within 1 mile of the lair is imbued with a foul mockery of life, grasping ineffectually at any creature that passes within 5 feet of it.</text>
+      <text>• Ordinary crab and octopus within 1 mile of the lair grow in size to become giant crab and giant octopus, respectively. These creatures serve the sea fury as spies and guards.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The sea fury's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
+      <text>At will: witch bolt</text>
+      <text>1/day each: bestow curse, fear, thunderwave</text>
+      </trait>
+    <spells>witch bolt, bestow curse, fear, thunderwave</spells>
+    <description>In times of great danger, sea hags form massive covens to channel powerful magic against outside threats. But when the threat is vanquished, these covens often destroy themselves from within. One sea hag grows more powerful than the others, killing its kin one by one and siphoning their magical power as it does so.
+Driven to madness by the power it claims—and by the loneliness that is the cost of its killing spree—the hag becomes a sea fury, which hoards treasure, spreads rumors, and does everything within its power to lure sailors and explorers to its lair. By doing so, it hopes to break its loneliness for a time—and then to destroy its new playthings when they have outlived their usefulness.
+Source: Explorer's Guide to Wildemount p. 299</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Shadowghast</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15</ac>
+    <hp>49 (9d8+9)</hp>
+    <speed>walk 35 ft.</speed>
+    <str>14</str>
+    <dex>20</dex>
+    <con>12</con>
+    <int>12</int>
+    <wis>11</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +8</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>5</cr>
+    <resist>necrotic</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Stench</name>
+      <text>Any creature that starts its turn within 5 feet of the shadowghast must succeed on a DC 12 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to this Stench for 24 hours.</text>
+      </trait>
+    <trait>
+        <name>Shadow Stealth</name>
+      <text>While in dim light or darkness, the shadowghast can take the Hide action as a bonus action.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The shadowghast makes two attacks: one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. 11 (2d8 + 2) slashing damage plus 5 (1d10) necrotic damage.</text>
+      <attack>Bite|+8|2d8+2</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 12 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <attack>Claws|+8|2d6+5</attack>
+      </action>
+    <description>A shadowghast is an undead assassin. Leaping out from the shadows and trailing tendrils of darkness, it closes in on its prey with nary a sound, then tears into a victim with its paralyzing claws and furious bite.
+Source: Explorer's Guide to Wildemount p. 299</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sharkbody Abomination</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>45 (6d10+12)</hp>
+    <speed>swim 40 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>15</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>4</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages></languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 30 ft.</senses>
+    <trait>
+        <name>Blood Frenzy</name>
+      <text>The abomination has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+      </trait>
+    <trait>
+        <name>Water Breathing</name>
+      <text>The abomination can breathe only underwater.</text>
+      </trait>
+    <trait>
+        <name>Limited Amphibiousness</name>
+      <text>The abomination can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 13 (2d8 + 4) piercing damage.</text>
+      <attack>Bite|+6|2d8+4</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 215</description>
+    <environment>underwater</environment>
+    </monster>
+  <monster>
+      <name>Sken Zabriss</name>
+    <size>M</size>
+    <type>humanoid (goliath)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (breastplate, shield)</ac>
+    <hp>45 (7d8+14)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>11</dex>
+    <con>15</con>
+    <int>13</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common, Draconic, Giant</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Powerful Build</name>
+      <text>Sken counts as one size larger when determining her carrying capacity and the weight she can push, drag, or lift.</text>
+      </trait>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Sken wears a ring of obscuring. With it, she can cast the fog cloud spell centered on herself three times per day. The cloud lasts for 1 minute (no concentration required).</text>
+      </trait>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage when used with two hands.</text>
+      <attack>Longsword|+5|1d8+3</attack>
+      </action>
+    <reaction>
+        <name>Stone's Endurance (Recharges after a Short or Long Rest)</name>
+      <text>When Sken takes damage, she can use her reaction to reduce the damage taken by 8 (1d12 + 2).</text>
+      </reaction>
+    <description>
+Source: Explorer's Guide to Wildemount p. 221</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Skr'a S'orsk</name>
+    <size>M</size>
+    <type>humanoid (lizardfolk)</type>
+    <alignment>Neutral</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>15</str>
+    <dex>10</dex>
+    <con>13</con>
+    <int>10</int>
+    <wis>15</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +4, Survival +6</skill>
+    <passive>14</passive>
+    <languages>Draconic</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hold Breath</name>
+      <text>The lizardfolk can hold its breath for 15 minutes.</text>
+      </trait>
+    <action>
+        <name>Multiattack (Lizardfolk Form Only)</name>
+      <text>The lizardfolk makes two attacks: one with its bite and one with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If Skr'a S'orsk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and Skr'a S'orsk can't bite another target. If Skr'a S'orsk reverts to its true form, the grapple ends.</text>
+      <attack>Bite|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Claws (Lizardfolk Form Only)</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+      <attack>Claws (Lizardfolk Form Only)|+4|1d4+2</attack>
+      </action>
+    <action>
+        <name>Change Shape (Recharges after a Short or Long Rest)</name>
+      <text>The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+      </action>
+    <trait>
+        <name>Spellcasting (Lizardfolk Form Only)</name>
+      <text>The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:</text>
+      <text>Cantrips (at will): druidcraft, produce flame, thorn whip</text>
+      <text>• 1st level (4 slots): entangle, fog cloud</text>
+      <text>• 2nd level (3 slots): heat metal, spike growth</text>
+      <text>• 3rd level (2 slots): conjure animals (reptiles only), plant growth</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>druidcraft, produce flame, thorn whip, entangle, fog cloud, heat metal, spike growth, conjure animals, plant growth</spells>
+    <description>
+Source: Explorer's Guide to Wildemount p. 254</description>
+    <environment>forest, swamp</environment>
+    </monster>
+  <monster>
+      <name>Swarm of Undead Snakes</name>
+    <size>M</size>
+    <type>swarm of Medium beasts</type>
+    <alignment>Unaligned</alignment>
+    <ac>14</ac>
+    <hp>36 (8d8)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>8</str>
+    <dex>18</dex>
+    <con>11</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>2</cr>
+    <resist>bludgeoning, piercing, slashing</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned, poisoned</conditionImmune>
+    <senses>blindsight 10 ft.</senses>
+    <trait>
+        <name>Swarm</name>
+      <text>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.</text>
+      </trait>
+    <action>
+        <name>Bites</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Bites|+6|2d6</attack>
+      <attack>Bites||4d6</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 247</description>
+    <environment>forest, swamp</environment>
+    </monster>
+  <monster>
+      <name>Swavain Basilisk</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>85 (10d12+20)</hp>
+    <speed>walk 15 ft., swim 40 ft.</speed>
+    <str>15</str>
+    <dex>16</dex>
+    <con>15</con>
+    <int>2</int>
+    <wis>8</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages></languages>
+    <cr>7</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The basilisk can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Petrifying Secretions</name>
+      <text>A creature must make a DC 13 Constitution saving throw if it hits the basilisk with a weapon attack while within 5 feet of it or if it starts its turn grappled by the basilisk. Unless the save succeeds, the creature magically begins to turn to stone and is restrained, and it must repeat the saving throw at the end of its next turn. On a successful save, the effect ends. On a failure, the creature is petrified.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The basilisk makes two attacks: one with its bite and one with its tail.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 13 (3d6 + 3) piercing damage plus 10 (3d6) poison damage.</text>
+      <attack>Bite|+6|3d6+3</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 15 ft., one target. 14 (2d10 + 3) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 12).</text>
+      <attack>Tail|+6|2d10+3</attack>
+      </action>
+    <description>Pearl divers and seafloor scavengers sometimes tell tales of mysterious ocean gardens filled with statues of sea creatures and sailors—the underwater grottoes of the deadly Swavain basilisk. Though named for the Swavain Islands where they are most commonly found, these dangerous hunters have been known to wander inland waterways, and have even been spotted in subterranean sewer systems.
+Source: Explorer's Guide to Wildemount p. 300</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Three Earrings</name>
+    <size>M</size>
+    <type>humanoid (tabaxi)</type>
+    <alignment>Any Non-Lawful Alignment</alignment>
+    <ac>15 (studded leather armor)</ac>
+    <hp>65 (10d8+20)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>14</int>
+    <wis>11</wis>
+    <cha>14</cha>
+    <save>Str +4, Dex +5, Wis +2</save>
+    <skill>Athletics +4, Deception +4</skill>
+    <passive>10</passive>
+    <languages>any two languages</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Feline Agility</name>
+      <text>When &lt;$title_short_name$&gt; moves on its turn in combat, they can double their speed until the end of the turn. Once they uses this ability, &lt;$title_short_name$&gt; can't use it again until they moves 0 feet on one of their turns.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The captain makes three melee attacks: two with its scimitar and one with its dagger. Or Three Earrings makes two ranged attacks with its daggers.</text>
+      </action>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
+      <attack>Scimitar|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <attack>Dagger|+5|1d4+3</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: ++4 to hit, reach 5 ft., one target. 4 (1d4 +2) slashing damage.</text>
+      <attack>Claws|+4|1d4+2</attack>
+      </action>
+    <reaction>
+        <name>Parry</name>
+      <text>The captain adds 2 to its AC against one melee attack that would hit it. To do so, Three Earrings must see the attacker and be wielding a melee weapon.</text>
+      </reaction>
+    <description>
+Source: Explorer's Guide to Wildemount p. 211</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Udaak</name>
+    <size>G</size>
+    <type>fiend</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>165 (10d20+60)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>26</str>
+    <dex>14</dex>
+    <con>22</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save>Str +13, Con +11</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>16</cr>
+    <resist></resist>
+    <immune>poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable>thunder</vulnerable>
+    <conditionImmune>frightened, grappled, poisoned, restrained</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Charge</name>
+      <text>If the udaak moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 27 (6d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away from the udaak and knocked prone.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The udaak deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The udaak makes three attacks: one with its bite and two with its slam.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one creature. 21 (2d12 + 8) piercing damage, and the target is grappled (escape DC 21). Until this grapple ends, the target is restrained, and the udaak can't bite another target.</text>
+      <attack>Bite|+13|2d12+8</attack>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +13 to hit, reach 10 ft., one target. 21 (3d8 + 8) bludgeoning damage.</text>
+      <attack>Slam|+13|3d8+8</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The udaak makes one bite attack against a Large or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the udaak, and it takes 21 (6d6) acid damage at the start of each of the udaak's turns.</text>
+      <text>If the udaak takes 30 damage or more on a single turn from a creature inside it, the udaak must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the udaak. If the udaak dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <description>Known commonly as the brutes of Xhorhas, these enormous creatures resemble an immense, demonic cross between ox and gorilla. Udaaks are solitary wanderers, found most commonly along the edges of settled lands in the barrens of Eastern Wynandir. Though they often scavenge for food, a hungry udaak will attack almost any prey, its four sets of red eyes and its tangle of teeth and tusks striking fear into the heart of any creature.
+Living Siege Engine. Originally brought to Exandria from the Abyss, udaaks lost their connection to that realm after the Divergence and have roamed the world freely ever since. In recent years, the warmasters of the Kryn Dynasty have developed arcane collars that can keep an udaak under control, and they have begun using these dread creatures in the war against the Dwendalian Empire.
+Source: Explorer's Guide to Wildemount p. 301</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Vox Seeker</name>
+    <size>T</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>7 (2d4+2)</hp>
+    <speed>walk 20 ft., climb 20 ft.</speed>
+    <str>2</str>
+    <dex>10</dex>
+    <con>12</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Voice Lock</name>
+      <text>The vox seeker must move toward and attack the source of the nearest voice within 60 feet of it, to the exclusion of all other targets, for as long as it remains operational.</text>
+      </trait>
+    <trait>
+        <name>Spider Climb</name>
+      <text>The vox seeker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <action>
+        <name>Pincer</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage plus 3 lightning damage.</text>
+      <attack>Pincer|+2|1d4</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 270</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Yinra Emberwind</name>
+    <size>M</size>
+    <type>humanoid (elf)</type>
+    <alignment>Neutral Good</alignment>
+    <ac>15 (studded leather armor)</ac>
+    <hp>16 (3d8+3)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>16</dex>
+    <con>12</con>
+    <int>14</int>
+    <wis>13</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill>Investigation +4, Perception +3, Stealth +5</skill>
+    <passive>13</passive>
+    <languages>Common, Elvish</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>Yinra has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
+      </trait>
+    <trait>
+        <name>Keen Hearing and Sight</name>
+      <text>Yinra has advantage on Wisdom (Perception) checks that rely on hearing or sight.</text>
+      </trait>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 7 (1d8 + 3) piercing damage.</text>
+      <attack>Longbow|+5|1d8+3</attack>
+      </action>
+    <description>
+Source: Explorer's Guide to Wildemount p. 223</description>
+    <environment></environment>
+    </monster>
+  </compendium>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Homarid</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>44 (8d8+8)</hp>
+    <speed>walk 20 ft., swim 30 ft.</speed>
+    <str>13</str>
+    <dex>8</dex>
+    <con>13</con>
+    <int>9</int>
+    <wis>14</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +3</skill>
+    <passive>14</passive>
+    <languages>Homarid</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The homarid can breathe air and water.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The homarid makes two claw attacks.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage, and the target is grappled (escape DC 11). The homarid has two claws, each of which can grapple only one target.</text>
+      <attack>Claw|+3|1d8+1</attack>
+      </action>
+    <description>
+Source: Plane Shift: Dominaria p. 15</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Kavu Predator</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>75 (10d10+20)</hp>
+    <speed>walk 30 ft., climb 30 ft.</speed>
+    <str>18</str>
+    <dex>12</dex>
+    <con>15</con>
+    <int>6</int>
+    <wis>14</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +5</skill>
+    <passive>14</passive>
+    <languages>understands Elvish</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Pounce</name>
+      <text>If the kavu moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the kavu can make one bite attack against it as a bonus action.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The kavu makes two claw attacks.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (1d10 + 4) piercing damage.</text>
+      <attack>Bite|+6|1d10+4</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
+      <attack>Claw|+6|1d6+4</attack>
+      </action>
+    <description>
+Source: Plane Shift: Dominaria p. 24</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Steel Leaf Kavu</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>142 (15d10+60)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>20</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>6</int>
+    <wis>14</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>understands Elvish</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Raking Charge</name>
+      <text>If the kavu moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the kavu can make one rend attack against it as a bonus action.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 14 (2d8 + 5) piercing damage.</text>
+      <attack>Bite|+7|2d8+5</attack>
+      </action>
+    <action>
+        <name>Rend</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one prone creature. 23 (4d8 + 5) slashing damage.</text>
+      <attack>Rend|+7|4d8+5</attack>
+      </action>
+    <description>
+Source: Plane Shift: Dominaria p. 24</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Zombie Horse</name>
+    <size>L</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>8</ac>
+    <hp>22 (3d8+9)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>13</str>
+    <dex>6</dex>
+    <con>16</con>
+    <int>3</int>
+    <wis>6</wis>
+    <cha>5</cha>
+    <save>Wis +0</save>
+    <skill></skill>
+    <passive>8</passive>
+    <languages>understands all languages it spoke in life but can't speak</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</text>
+      </trait>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
+      <attack>Slam|+3|1d6+1</attack>
+      </action>
+    <description>
+Source: Plane Shift: Dominaria p. 17</description>
+    <environment>urban</environment>
+    </monster>
+  </compendium>

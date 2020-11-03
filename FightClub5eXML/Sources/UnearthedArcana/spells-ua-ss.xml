@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Cause Fear (UA)</name>
+    <level>1</level>
+    <school>N</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components>V, S</components>
+    <duration>Concentration, up to 1 minute</duration>
+    <classes>Warlock, Wizard</classes>
+    <text>You awaken the sense of mortality in one creature you can see within range. The target must succeed on a Wisdom saving throw or become frightened for the duration. A target with 25 hit points or fewer makes the saving throw with disadvantage. The spell has no effect on constructs or undead.
+Source: Unearthed Arcana: Starter Spells p. 2</text>
+    </spell>
+  <spell>
+      <name>Ceremony (UA)</name>
+    <level>1</level>
+    <school>EV</school>
+    <ritual>YES</ritual>
+    <time>1 hour</time>
+    <range>Touch</range>
+    <components>V, S, M (25 gp worth of powdered silver)</components>
+    <duration>Instantaneous</duration>
+    <classes>Cleric, Paladin</classes>
+    <text>You perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
+Atonement: You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a success, you restore the target to its original alignment.
+Bless Water: You touch one vial of water and cause it to become Holy Water (flask).
+Coming of Age: You touch one humanoid old enough to be a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this ceremony just once.
+Dedication: You touch one humanoid who would willingly convert to your religion or who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this ceremony just once.
+Funeral Rite: You bless one corpse within 5 feet of you. For the next 24 hours, the target can't become undead by any means short of a wish spell.
+Investiture: You touch one willing humanoid. Choose one 1st-level spell you have prepared and expend a spell slot and any material components as if you were casting that spell. The spell has no effect. Instead, the target can cast this spell once without having to expend a spell slot or use material components. If the target doesn't cast the spell within 1 hour, the invested spell is lost.
+Marriage: You touch adult humanoids willing to be bonded together in marriage. For the next 24 hours, each target gains a +2 bonus to AC and saving throws while they are within 30 feet of each other. A creature can benefit from this ceremony just once.
+Source: Unearthed Arcana: Starter Spells p. 2</text>
+    </spell>
+  <spell>
+      <name>Chaos Bolt (UA)</name>
+    <level>1</level>
+    <school>EV</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>120 feet</range>
+    <components>V, S</components>
+    <duration>Instantaneous</duration>
+    <classes>Sorcerer</classes>
+    <text>You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 damage. Choose one of the d8s. The number it rolled determines the type of damage, as shown below.
+Chaos Bolt
+d8 | Damage Type
+1 | Acid
+2 | Cold
+3 | Fire
+4 | Force
+5 | Lightning
+6 | Poison
+7 | Psychic
+8 | Thunder
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by this mass of chaotic energy.
+At Higher Levels:
+When you cast this spell using a spell slot of 2nd level or higher, each target takes extra damage of the type rolled. The extra damage equals 1d6 for each slot level above 1st.
+Source: Unearthed Arcana: Starter Spells p. 2</text>
+    <roll>2d8</roll>
+    </spell>
+  <spell>
+      <name>Guiding Hand (UA)</name>
+    <level>1</level>
+    <school>D</school>
+    <ritual>YES</ritual>
+    <time>1 minute</time>
+    <range>5 feet</range>
+    <components>V, S</components>
+    <duration>Concentration, up to 8 hours</duration>
+    <classes>Bard, Cleric, Druid, Wizard</classes>
+    <text>You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
+When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you. Someone in history must have visited the site and mapped it. If the landmark appears on no map in existence, the spell fails. Otherwise, whenever you move toward the hand, it moves away from you at the same speed you moved, and it moves in the direction of the landmark, always remaining 5 feet away from you.
+If you don't move toward the hand, it remains in place until you do and beckons for you to follow once every 1d4 minutes.
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    <roll>1d4</roll>
+    </spell>
+  <spell>
+      <name>Hand of Radiance (UA)</name>
+    <level>0</level>
+    <school>EV</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>Self (5-foot radius)</range>
+    <components>V, S</components>
+    <duration>Instantaneous</duration>
+    <classes>Cleric</classes>
+    <text>You raise your hand, and burning radiance erupts from it. Each creature of your choice that you can see within 5 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    <roll>1d6</roll>
+    <roll>2d6</roll>
+    <roll>3d6</roll>
+    <roll>4d6</roll>
+    </spell>
+  <spell>
+      <name>Healing Elixir (UA)</name>
+    <level>1</level>
+    <school>C</school>
+    <ritual>NO</ritual>
+    <time>1 minute</time>
+    <range>Self</range>
+    <components>V, S, M (alchemist's supplies)</components>
+    <duration>24 hours</duration>
+    <classes>Warlock, Wizard</classes>
+    <text>You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it's consumed, at which point the vial vanishes.
+As an action, a creature can drink the elixir or administer it to another creature. The drinker regains 2d4 + 2 hit points.
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    <roll>2d4+2</roll>
+    </spell>
+  <spell>
+      <name>Infestation (UA)</name>
+    <level>0</level>
+    <school>C</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>30 feet</range>
+    <components>V, S, M (a living flea)</components>
+    <duration>Instantaneous</duration>
+    <classes>Druid, Sorcerer, Warlock, Wizard</classes>
+    <text>You cause mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw or take 1d6 piercing damage. If the target takes any of that damage, the target moves 5 feet in a random direction. Roll a d8 for the direction: 1, north; 2, northeast; 3, east; 4, southeast; 5, south; 6, southwest; 7, west; or 8, northwest.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    <roll>1d6</roll>
+    <roll>2d6</roll>
+    <roll>3d6</roll>
+    <roll>4d6</roll>
+    </spell>
+  <spell>
+      <name>Primal Savagery (UA)</name>
+    <level>0</level>
+    <school>T</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>Self</range>
+    <components>S</components>
+    <duration>Instantaneous</duration>
+    <classes>Druid</classes>
+    <text>Your teeth or fingernails lengthen and sharpen. You choose which. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 piercing or slashing damage (your choice). After you make the attack, your teeth or fingernails return to normal.
+The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    <roll>1d10</roll>
+    <roll>2d10</roll>
+    <roll>3d10</roll>
+    <roll>4d10</roll>
+    </spell>
+  <spell>
+      <name>Puppet (UA)</name>
+    <level>1</level>
+    <school>EN</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>120 feet</range>
+    <components>S</components>
+    <duration>Instantaneous</duration>
+    <classes>Bard, Warlock, Wizard</classes>
+    <text>Your gesture forces one humanoid you can see within range to make a Constitution saving throw. On a failed save, the target must move up to its speed in a direction you choose. In addition, you can cause the target to drop whatever it is holding. This spell has no effect on a humanoid that is immune to being charmed.
+Source: Unearthed Arcana: Starter Spells p. 3</text>
+    </spell>
+  <spell>
+      <name>Sense Emotion (UA)</name>
+    <level>1</level>
+    <school>D</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>Self</range>
+    <components>V, S</components>
+    <duration>Concentration, up to 10 minutes</duration>
+    <classes>Warlock, Wizard</classes>
+    <text>You attune your senses to pick up the emotions of others for the duration. When you cast the spell, and as your action on each turn until the spell ends, you can focus your senses on one humanoid you can see within 30 feet of you. You instantly learn the target's prevailing emotion, whether it's love, anger, pain, fear, calm, or something else. If the target isn't actually humanoid or it is immune to being charmed, you sense that it is calm.
+Source: Unearthed Arcana: Starter Spells p. 4</text>
+    </spell>
+  <spell>
+      <name>Snare (UA)</name>
+    <level>1</level>
+    <school>A</school>
+    <ritual>NO</ritual>
+    <time>1 minute</time>
+    <range>Touch</range>
+    <components>V, S, M (30 feet of cord or rope, which is consumed by the spell)</components>
+    <duration>Until dispelled or triggered</duration>
+    <classes>Druid, Ranger, Wizard</classes>
+    <text>While you cast this spell, you use the cord or rope to create a circle with a 5-foot radius on a flat surface within your reach. When you finish casting, the cord or rope disappears to become a magical trap.
+The trap is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found. The trap triggers when a Small creature or larger moves into the area protected by the spell.
+The triggering creature must succeed on a Dexterity saving throw or fall prone and be hoisted into the air until it hangs upside down 3 feet above the protected surface, where it is restrained.
+The restrained creature can make a Dexterity saving throw with disadvantage at the end of each of its turns and ends the restrained effect on a success. Alternatively, another creature that can reach the restrained creature can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect also ends.
+Source: Unearthed Arcana: Starter Spells p. 4</text>
+    </spell>
+  <spell>
+      <name>Sudden Awakening (UA)</name>
+    <level>1</level>
+    <school>EN</school>
+    <ritual>NO</ritual>
+    <time>1 bonus action</time>
+    <range>10 feet</range>
+    <components>V</components>
+    <duration>Instantaneous</duration>
+    <classes>Bard, Ranger, Sorcerer, Wizard</classes>
+    <text>Each sleeping creature you choose within range awakens, and then each prone creature within range can stand up without expending any movement.
+Source: Unearthed Arcana: Starter Spells p. 4</text>
+    </spell>
+  <spell>
+      <name>Toll the Dead (UA)</name>
+    <level>0</level>
+    <school>N</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components>V, S</components>
+    <duration>Instantaneous</duration>
+    <classes>Cleric, Warlock</classes>
+    <text>You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
+The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
+Source: Unearthed Arcana: Starter Spells p. 4</text>
+    <roll>1d8</roll>
+    <roll>1d12</roll>
+    <roll>2d8</roll>
+    <roll>2d12</roll>
+    <roll>3d8</roll>
+    <roll>3d12</roll>
+    <roll>4d8</roll>
+    <roll>4d12</roll>
+    </spell>
+  <spell>
+      <name>Unearthly Chorus (UA)</name>
+    <level>1</level>
+    <school>I</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>Self (30-foot radius)</range>
+    <components>V</components>
+    <duration>Concentration, up to 10 minutes</duration>
+    <classes>Bard</classes>
+    <text>Music of a style you choose fills the air around you in a 30-foot radius. The music spreads around corners and can be heard from up to 100 feet away. The music moves with you, centered on you for the duration.
+Until the spell ends, you make Charisma (Performance) checks with advantage. In addition, you can use a bonus action on each of your turns to beguile one creature you choose within 30 feet of you that can see you and hear the music. The creature must make a Charisma saving throw. If you or your companions are attacking it, the creature automatically succeeds on the saving throw. On a failure, the creature becomes friendly to you for as long as it can hear the music and for 1 hour thereafter. You make Charisma (Deception) checks and Charisma (Persuasion) checks against creatures made friendly by this spell with advantage.
+Source: Unearthed Arcana: Starter Spells p. 4</text>
+    </spell>
+  <spell>
+      <name>Virtue (UA)</name>
+    <level>0</level>
+    <school>A</school>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>Touch</range>
+    <components>V, S</components>
+    <duration>1 round</duration>
+    <classes>Cleric</classes>
+    <text>You touch one creature, imbuing it with vitality. If the target has at least 1 hit point, it gains a number of temporary hit points equal to 1d4 + your spellcasting ability modifier. The temporary hit points are lost when the spell ends.
+Source: Unearthed Arcana: Starter Spells p. 5</text>
+    <roll>1d4+SPELL</roll>
+    </spell>
+  <spell>
+      <name>Wild Cunning (UA)</name>
+    <level>1</level>
+    <school>T</school>
+    <ritual>YES</ritual>
+    <time>1 action</time>
+    <range>120 feet</range>
+    <components>V, S</components>
+    <duration>Instantaneous</duration>
+    <classes>Druid, Ranger</classes>
+    <text>You call out to the spirits of nature to aid you. When you cast this spell, choose one of the following effects:
+• If there are any tracks on the ground within range, you know where they are, and you make Wisdom (Survival) checks to follow these tracks with advantage for 1 hour or until you cast this spell again.
+• If there is edible forage within range, you know it and where to find it.
+• If there is clean drinking water within range, you know it and where to find it.
+• If there is suitable shelter for you and your companions with range, you know it and where to find.
+• Send the spirits to bring back wood for a fire and to set up a campsite in the area using your supplies. The spirits build the fire in a circle of stones, put up tents, unroll bedrolls, and put out any rations and water for consumption.
+• Have the spirits instantly break down a campsite, which includes putting out a fire, taking down tents, packing up bags, and burying any rubbish.
+Source: Unearthed Arcana: Starter Spells p. 5</text>
+    </spell>
+  <spell>
+      <name>Zephyr Strike (UA)</name>
+    <level>1</level>
+    <school>T</school>
+    <ritual>NO</ritual>
+    <time>1 bonus action</time>
+    <range>Self</range>
+    <components>V</components>
+    <duration>Concentration, up to 1 minute</duration>
+    <classes>Ranger</classes>
+    <text>You move like the wind. For the duration, your movement doesn't provoke opportunity attacks.
+In addition, the first time you make a weapon attack on your turn before the spell ends, you make the attack roll with advantage, and your speed increases by 30 feet until the end of that turn.
+Source: Unearthed Arcana: Starter Spells p. 5</text>
+    </spell>
+  </compendium>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Beast of the Air</name>
+    <size>S</size>
+    <type>beast</type>
+    <alignment>Neutral</alignment>
+    <ac>13</ac>
+    <hp>1</hp>
+    <speed>walk 10 ft., fly 60 ft.</speed>
+    <str>6</str>
+    <dex>16</dex>
+    <con>13</con>
+    <int>8</int>
+    <wis>14</wis>
+    <cha>11</cha>
+    <save>Dex +5, Con +3, Wis +4</save>
+    <skill>Perception +4, Stealth +5</skill>
+    <passive>14</passive>
+    <languages>understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the beast's Constitution modifier + your Wisdom modifier + five times your ranger level (the beast has a number of Hit Dice [d6s] equal to your ranger level)</text>
+      </trait>
+    <trait>
+        <name>Flyby</name>
+      <text>The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+      </trait>
+    <trait>
+        <name>Primal Rebirth</name>
+      <text>If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.</text>
+      </trait>
+    <trait>
+        <name>Ready Companion</name>
+      <text>As a bonus action, you can command the beast to make its shred attack or to Hide.</text>
+      </trait>
+    <action>
+        <name>Shred</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 1d6 + 3 slashing damage.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: Class Feature Variants p. 8</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Beast of the Earth</name>
+    <size>M</size>
+    <type>beast</type>
+    <alignment>Neutral</alignment>
+    <ac>12</ac>
+    <hp>2</hp>
+    <speed>walk 40 ft., climb or swim 40 ft. (your choice when you bond with the beast)</speed>
+    <str>14</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>8</int>
+    <wis>14</wis>
+    <cha>11</cha>
+    <save>Dex +4, Con +4, Wis +4</save>
+    <skill>Perception +4, Stealth +4</skill>
+    <passive>14</passive>
+    <languages>understands the languages you speak</languages>
+    <cr></cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>equal the beast's Constitution modifier + your Wisdom modifier + five times your ranger level (the beast has a number of Hit Dice [d8s] equal to your ranger level)</text>
+      </trait>
+    <trait>
+        <name>Charge</name>
+      <text>If the beast moves at least 20 feet straight toward a target and then hits it with a maul attack on the same turn, the target takes an extra 1d6 slashing damage. The DC equals your spell save DC. If the target is a creature, it must succeed on a Strength saving throw against your spell save DC or be knocked prone.</text>
+      </trait>
+    <trait>
+        <name>Primal Rebirth</name>
+      <text>If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.</text>
+      </trait>
+    <trait>
+        <name>Ready Companion</name>
+      <text>As a bonus action, you can command the beast to make its maul attack or to Hide.</text>
+      </trait>
+    <action>
+        <name>Maul</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 1d6 + 2 slashing damage.</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: Class Feature Variants p. 9</description>
+    <environment></environment>
+    </monster>
+  </compendium>

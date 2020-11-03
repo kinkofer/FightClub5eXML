@@ -3,18 +3,18 @@
 
 ## About
 
-Being a big fan of Lion Den’s Fight Club 5e and Game Master 5e apps for iOS and Android I was happy to see a kind soul (@fightclub5exml on twitter) had picked up the mantle of updating the compendium with content.
+We have been a dedicated group of D&D fans who manually added XML for Lion's Den Fight Club 5e and Game Master 5e apps. We've now found a reliable source to auto-generate the XML, and we'll be transitioning to that completely by 2021.
 
-Unfortunately he seems to have deleted his twitter account so I am picking up where he left off by expanding on his work by adding Waterdeep Dragon Heist, Waterdeep Dungeon of the Mad Mage and Ghosts of Saltmarsh content to the XML.
+If you'd like to try out the new format, you can import the "Everything" collection. If you have feedback, follow the instructions in [Issues](#Issues).
 
-Will take some time but will be making my way through each book and adding the items and monsters to bring it up to date.
-
-Any questions hit me up on twitter [@dragonahcas](http://twitter.com/dragonahcas).
+We are unaffiliated with Lion's Den and Wizards of the Coast.
 
 
 ## How-To
 
-Import one of the Collection files into the Fight Club app.
+Import only one of the Collection files into the Fight Club app.
+
+**Everything**: Newly formatted XML that includes all rulebooks, supplements, adventures, Unearthed Arcana, and some unofficial content.
 
 **CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
 
@@ -33,17 +33,21 @@ Import one of the Collection files into the Fight Club app.
 
 ## Additional Contributors
 
-`@kinkofer` for XML generation systems to allow github collections to be auto generated
+`@kinkofer` for XML generation systems to allow github collections to be auto generated.
 
-`@felix_mil_` for XML creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/)
+`@felix_mil_` for XML creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/).
 
-`@rrgeorge` and `zamrod` for their JSON to XML scripts
+`@rrgeorge` and `zamrod` for their JSON to XML scripts.
 
-`@MrFarland` for Artificer Infusions and other XML
+`@MrFarland` for Artificer Infusions and other XML.
+
+`@fightclub5exml` and `@dragonahcas` for carrying the mantle.
+
 
 ## Contribute
 
 Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.
+
 
 ## Issues
 

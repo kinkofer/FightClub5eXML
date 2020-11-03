@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Goblin Gang Member</name>
+    <size>S</size>
+    <type>humanoid (goblinoid)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>14 (leather armor)</ac>
+    <hp>10 (3d6)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>8</str>
+    <dex>16</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Stealth +5</skill>
+    <passive>10</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <attack>Dagger|+5|1d4+3</attack>
+      </action>
+    <action>
+        <name>Light Crossbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. 7 (1d8 + 3) piercing damage.</text>
+      <attack>Light Crossbow|+5|1d8+3</attack>
+      </action>
+    <description>
+Source: Krenko's Way p. 167</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Krenko</name>
+    <size>S</size>
+    <type>humanoid (goblinoid)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (chain shirt, shield)</ac>
+    <hp>21 (6d6)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>8</wis>
+    <cha>14</cha>
+    <save></save>
+    <skill>Stealth +6, Deception +4, Persuasion +4</skill>
+    <passive>9</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>Krenko can take the Disengage or Hide action as a bonus action on each of his turns.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Krenko makes two attacks with his scimitar.</text>
+      </action>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage plus 2 (1d4) poison damage..</text>
+      <attack>Scimitar|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Light Crossbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <attack>Light Crossbow|+4|1d8+2</attack>
+      </action>
+    <reaction>
+        <name>Redirect Attack</name>
+      <text>When a creature Krenko can see targets him with an attack, Krenko chooses another goblin within 5 feet of him. The two goblins swap places, and the chosen goblin becomes the target instead.</text>
+      </reaction>
+    <description>
+Source: Krenko's Way p. 168</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Loading Rig</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>18 (natural armor)</ac>
+    <hp>39 (6d10+6)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>18</str>
+    <dex>11</dex>
+    <con>13</con>
+    <int>1</int>
+    <wis>3</wis>
+    <cha>1</cha>
+    <save></save>
+    <skill></skill>
+    <passive>6</passive>
+    <languages></languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Antimagic Susceptibility</name>
+      <text>The rig is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rig must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</text>
+      </trait>
+    <trait>
+        <name>Unstable</name>
+      <text>If the rig takes damage, it must succeed on a DC 10 Constitution saving throw or be incapacitated with a speed of 0 until a creature activates it with a successful DC 10 Intelligence (Arcana) check made as an action.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The armor makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage.</text>
+      <attack>Slam|+6|1d6+4</attack>
+      </action>
+    <description>
+Source: Krenko's Way p. 170</description>
+    <environment></environment>
+    </monster>
+  </compendium>

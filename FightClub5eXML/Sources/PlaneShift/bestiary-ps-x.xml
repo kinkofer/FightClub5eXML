@@ -1,0 +1,844 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Chupacabra</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>45 (6d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>16</con>
+    <int>6</int>
+    <wis>13</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>3</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, the chupacabra has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+      <attack>Bite|+4|2d4+2</attack>
+      </action>
+    <action>
+        <name>Drain Blood</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature that is prone, incapacitated, or restrained. 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the chupacabra regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
+      <attack>Drain Blood|+4|1d6+2</attack>
+      </action>
+    <reaction>
+        <name>Pin</name>
+      <text>If a creature within 5 feet of the chupacabra stands up, the chupacabra can use its reaction to make a bite attack.</text>
+      </reaction>
+    <description>
+Source: Plane Shift: Ixalan p. 9</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <trait>
+        <name>Uniqueness</name>
+      <text>These statistics are shared by all six elder dinosaurs: Elder Dinosaur (Etali, Primal Storm), Elder Dinosaur (Ghalta, Primal Hunger), Elder Dinosaur (Nezahal, Primal Tide), Elder Dinosaur (Tetzimoc, Primal Death), Elder Dinosaur (Zacama, Primal Calamity), Elder Dinosaur (Zetalpa, Primal Dawn)</text>
+      </trait>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Etali, Primal Storm)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <trait>
+        <name>Lightning Storm</name>
+      <text>The elder dinosaur is always accompanied by a raging thunderstorm similar to the effect of a call lightning spell. A storm cloud in the shape of a cylinder that is 10 feet tall with a 60-foot radius instantly forms 100 feet in the air over the elder dinosaur when it is angered or becomes violent, as long as it is outdoors. On each of its turns, as an action, the elder dinosaur can choose a point it can see within 120 feet of it. A bolt of lightning flashes down from the cloud to that point. Each creature within 10 feet of that point must make a DC 20 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence and call down two lightning strikes from its Lightning Storm. It then makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can't bite another target.</text>
+      <attack>Bite|+19|4d12+10</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 15 ft., one target. 28 (4d8 + 10) slashing damage.</text>
+      <attack>Claw|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Ghalta, Primal Hunger)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence. It then makes three attacks: one with its bite, one with its stomp, and one with its tail. It can use its Swallow instead of its bite.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 62 (8d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can't bite another target.</text>
+      <attack>Bite|+19|8d12+10</attack>
+      </action>
+    <action>
+        <name>Stomp</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 5 ft., one target. 46 (8d8 + 10) bludgeoning damage.</text>
+      <attack>Stomp|+19|8d8+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 20 ft., one target. 38 (8d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.</text>
+      <attack>Tail|+19|8d6+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Nezahal, Primal Tide)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 20 ft., swim 60 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <trait>
+        <name>Hold Breath</name>
+      <text>The elder dinosaur can hold its breath for 4 hours.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite and four with its flippers. No two flipper attacks can target the same creature. It can use its Swallow instead of its bite.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can't bite another target.</text>
+      <attack>Bite|+19|4d12+10</attack>
+      </action>
+    <action>
+        <name>Flipper</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 5 ft., one target. 28 (4d8 + 10) bludgeoning damage.</text>
+      <attack>Flipper|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Tetzimoc, Primal Death)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <trait>
+        <name>Spiny Carapace</name>
+      <text>The elder dinosaur is covered in an armored carapace bristling with thick, sharp spines. Any creature that hits or misses Tetzimoc with a melee attack takes 7 (2d6) piercing damage.</text>
+      </trait>
+    <trait>
+        <name>Tail Spike Regrowth</name>
+      <text>The elder dinosaur has forty tail spikes. Used spikes regrow when the elder dinosaur finishes a long rest.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its tail spikes in place of any or all of those attacks, and it can use its Swallow instead of its bite.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can't bite another target.</text>
+      <attack>Bite|+19|4d12+10</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 15 ft., one target. 28 (4d8 + 10) slashing damage.</text>
+      <attack>Claw|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Horns</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 32 (4d10 + 10) piercing damage.</text>
+      <attack>Horns|+19|4d10+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 20 ft., one target. 24 (4d6 + 10) piercing damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.</text>
+      <attack>Tail|+19|4d6+10</attack>
+      </action>
+    <action>
+        <name>Tail Spikes</name>
+      <text>Ranged Weapon Attack: +9 to hit, range 100/300 ft., two targets. 7 (2d6) piercing damage.</text>
+      <attack>Tail Spikes|+9|2d6</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Zacama, Primal Calamity)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence. It then makes five attacks: three with its bite, one with its stomp, and one with its tail. It can use its Swallow instead of a bite. </text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained. If the elder dinosaur has three targets restrained in this way, it can't bite another target.</text>
+      <attack>Bite|+19|4d12+10</attack>
+      </action>
+    <action>
+        <name>Stomp</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 5 ft., one target. 46 (8d8 + 10) bludgeoning damage.</text>
+      <attack>Stomp|+19|8d8+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 20 ft., one target. 38 (8d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.</text>
+      <attack>Tail|+19|8d6+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Elder Dinosaur (Zetalpa, Primal Dawn)</name>
+    <size>G</size>
+    <type>monstrosity (titan)</type>
+    <alignment>Unaligned</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>676 (33d20+330)</hp>
+    <speed>walk 20 ft., fly 60 ft.</speed>
+    <str>30</str>
+    <dex>11</dex>
+    <con>30</con>
+    <int>3</int>
+    <wis>11</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +9, Cha +9</save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>30</cr>
+    <resist>radiant</resist>
+    <immune>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>blindsight 120 ft.</senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If the elder dinosaur fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The elder dinosaur has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Siege Monster</name>
+      <text>The elder dinosaur deals double damage to objects and structures.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, and two with its wings. It can use its Swallow instead of its bite.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 10 ft., one target. 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can't bite another target.</text>
+      <attack>Bite|+19|4d12+10</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 15 ft., one target. 28 (4d8 + 10) slashing damage.</text>
+      <attack>Claw|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Wing</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 20 ft., one target. 28 (4d8 + 10) bludgeoning damage.</text>
+      <attack>Wing|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 15 ft., one target. 25 (4d8 + 7) bludgeoning damage.</text>
+      <attack>Tail|+11|4d8+7</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of the elder dinosaur's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself ona success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur's turns. If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <legendary>
+        <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>The elder dinosaur moves up to half its speed.</text>
+      </legendary>
+    <legendary>
+        <name>Chomp (Costs 2 Actions)</name>
+      <text>The elder dinosaur makes one bite attack or uses its Swallow.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Frilled Deathspitter</name>
+    <size>S</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>18 (4d6+4)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>12</str>
+    <dex>16</dex>
+    <con>13</con>
+    <int>4</int>
+    <wis>12</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +3</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The deathspitter makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Bite|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
+      <attack>Claw|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Spit Poison</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 15/30 ft., one creature. The target must make a DC 13 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw is blinded until the end of the deathspitter's next turn.</text>
+      <attack>Spit Poison|+5|4d8</attack>
+      </action>
+    <description>
+Source: Plane Shift: Ixalan p. 30</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Gishath, Sun's Avatar</name>
+    <size>G</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>203 (14d20+56)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>24</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>12</int>
+    <wis>16</wis>
+    <cha>6</cha>
+    <save>Str +11, Con +8, Wis +7, Cha +2</save>
+    <skill>Perception +7</skill>
+    <passive>17</passive>
+    <languages></languages>
+    <cr>10</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Gishath fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Gishath makes two attacks: one with its bite and one with its stomp or tail. It can't make both attacks against the same target.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 15 ft., one target. 39 (5d12 + 7) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Gishath can't bite another target.</text>
+      <attack>Bite|+11|5d12+7</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>Gishath makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Gishath, and it takes 21 (6d6) acid damage at the start of each of Gishath's turns.</text>
+      <text>If Gishath takes 30 damage or more on a single turn from a creature inside it, it must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If Gishath dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+      </action>
+    <action>
+        <name>Stomp</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 29 (5d8 + 7) bludgeoning damage, and the target must succeed on a DC 19 Strength saving throw or be knocked prone.</text>
+      <attack>Stomp|+11|5d8+7</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +11 to hit, reach 15 ft., one target. 25 (4d8 + 7) bludgeoning damage.</text>
+      <attack>Tail|+11|4d8+7</attack>
+      </action>
+    <legendary>
+        <text>Gishath, can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Gishath, regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>Gishath makes one stomp or tail attack.</text>
+      </legendary>
+    <legendary>
+        <name>Roar (Costs 2 Actions)</name>
+      <text>Each creature that is within 120 feet of Gishath and can hear it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on tself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Gishath's Roar for the next 24 hours.</text>
+      </legendary>
+    <description>
+Source: Plane Shift: Ixalan p. 32</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Harpy–Plane Shift: Ixalan</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>11</ac>
+    <hp>38 (7d8+7)</hp>
+    <speed>walk 20 ft., fly 40 ft.</speed>
+    <str>12</str>
+    <dex>13</dex>
+    <con>12</con>
+    <int>7</int>
+    <wis>10</wis>
+    <cha>13</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The Harpy–Plane Shift: Ixalan makes two attacks: one with its claws and one with its bite.</text>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 6 (2d4 + 1) slashing damage.</text>
+      <attack>Claws|+3|2d4+1</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 11 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.</text>
+      <attack>Bite|+3|1d4+1</attack>
+      </action>
+    <action>
+        <name>Luring Song</name>
+      <text>The Harpy–Plane Shift: Ixalan sings a magical melody. Every humanoid and giant within 300 feet of the Harpy–Plane Shift: Ixalan that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The Harpy–Plane Shift: Ixalan must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the Harpy–Plane Shift: Ixalan is incapacitated.</text>
+      <text>While charmed by the Harpy–Plane Shift: Ixalan, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the Harpy–Plane Shift: Ixalan, the target must move on its turn toward the Harpy–Plane Shift: Ixalan by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the Harpy–Plane Shift: Ixalan, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.</text>
+      <text>A target that successfully saves is immune to this Harpy–Plane Shift: Ixalan's song for the next 24 hours.</text>
+      </action>
+    <description>
+Source: Plane Shift: Ixalan p. 36</description>
+    <environment>mountain, forest, hill, coastal</environment>
+    </monster>
+  <monster>
+      <name>Sunbird</name>
+    <size>G</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>279 (18d20+90)</hp>
+    <speed>walk 20 ft., fly 120 ft.</speed>
+    <str>28</str>
+    <dex>10</dex>
+    <con>20</con>
+    <int>13</int>
+    <wis>14</wis>
+    <cha>15</cha>
+    <save>Dex +5, Con +10, Wis +7, Cha +7</save>
+    <skill>Perception +7</skill>
+    <passive>17</passive>
+    <languages>Giant Owl, understands Common but can't speak it</languages>
+    <cr>13</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Death Throes</name>
+      <text>When the sunbird dies, it explodes, and each creature within 30 feet of it must make a DC 18 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried. The sunbird's body turns to ash, but an egg is left where the sunbird was.</text>
+      </trait>
+    <trait>
+        <name>Fire Aura</name>
+      <text>At the start of each of the sunbird's turns, each creature within 5 feet of it takes 11 (2d10) fire damage, and flammable objects in the area that aren't being worn or carried ignite. A creature that touches the sunbird or hits it with a melee attack while within 5 feet of it takes 11 (2d10) fire damage. The aura also sheds bright light in a 60-foot radius and dim light for an additional 60 feet.</text>
+      </trait>
+    <trait>
+        <name>Flyby</name>
+      <text>The sunbird doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+      </trait>
+    <trait>
+        <name>Keen Hearing and Sight</name>
+      <text>The sunbird has advantage on Wisdom (Perception) checks that rely on hearing or sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The sunbird makes two talon attacks.</text>
+      </action>
+    <action>
+        <name>Talon</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 5 ft., one target. 16 (2d6 + 9) slashing damage plus 14 (4d6) fire damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the sunbird can't attack another target with that talon. A grappled creature takes 11 (2d10) fire damage at the start of each of the sunbird's turns.</text>
+      <attack>Talon|+14|2d6+9</attack>
+      </action>
+    <description>
+Source: Plane Shift: Ixalan p. 32</description>
+    <environment></environment>
+    </monster>
+  </compendium>

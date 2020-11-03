@@ -1,0 +1,1656 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Paladin</name>
+    <hd>10</hd>
+    <proficiency>Wisdom, Charisma, Athletics, Insight, Intimidation, Medicine, Persuasion, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Charisma</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Paladin</name>
+        <text>As a 1st-level Paladin, you begin play with 10+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium, heavy, shields</text>
+        <text>• Weapons: simple, martial</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 2 from Athletics, Insight, Intimidation, Medicine, Persuasion, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a martial weapon and a shield or (b) two martial weapons</text>
+        <text>• (a) five javelin or (b) any simple melee weapon</text>
+        <text>• (a) a priest's pack or (b) an explorer's pack</text>
+        <text>• Chain mail and a holy symbol</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Paladin</name>
+        <text>To multiclass as a Paladin, you must meet the following prerequisites:</text>
+        <text>• Charisma 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light, medium, shields</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium, heavy, shields</armor>
+    <weapons>simple, martial</weapons>
+    <tools>none</tools>
+    <wealth>5d4 x 10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Divine Sense</name>
+        <text>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.</text>
+        <text>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Lay on Hands</name>
+        <text>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.</text>
+        <text>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</text>
+        <text>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</text>
+        <text>This feature has no effect on undead and constructs.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>0, 2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Divine Smite</name>
+        <text>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Fighting Style</name>
+        <text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Close Quarters Shooter</name>
+        <text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Defense</name>
+        <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Dueling</name>
+        <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Great Weapon Fighting</name>
+        <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Mariner</name>
+        <text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 3</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Protection</name>
+        <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Tunnel Fighter</name>
+        <text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Blind Fighting</name>
+        <text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Interception</name>
+        <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Thrown Weapon Fighting</name>
+        <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
+        <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 13</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Unarmed Fighting</name>
+        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
+        <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 13</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Blessed Warrior</name>
+        <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Martial Versatility</name>
+        <text>2nd-level feature (enhances Fighting Style)</text>
+        <text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Spellcasting</name>
+        <text>By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.</text>
+        <text></text>
+        <text>Preparing and Casting Spells:</text>
+        <text>   The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</text>
+        <text>   For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</text>
+        <text>   You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use a holy symbol as a spellcasting focus for your paladin spells.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Divine Health</name>
+        <text>By 3rd level, the divine magic flowing through you makes you immune to disease.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Sacred Oath</name>
+        <text>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.</text>
+        <text>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.</text>
+        <text></text>
+        <text>Oath Spells:</text>
+        <text>   Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.</text>
+        <text>   If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.</text>
+        <text></text>
+        <text>Channel Divinity:</text>
+        <text>   Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.</text>
+        <text>   When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.</text>
+        <text>   Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.</text>
+        <text></text>
+        <text>Breaking Your Oath:</text>
+        <text>   A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.</text>
+        <text>   A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.</text>
+        <text>   If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of the Ancients</name>
+        <text>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Channel Divinity: Nature's Wrath</name>
+        <text>You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Channel Divinity: Turn the Faithless</name>
+        <text>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
+        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+        <text>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of the Ancients Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | ensnaring strike, speak with animals</text>
+        <text>5th | moonbeam, misty step</text>
+        <text>9th | plant growth, protection from energy</text>
+        <text>13th | ice storm, stoneskin</text>
+        <text>17th | commune with nature, tree stride</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Tenets of the Ancients</name>
+        <text>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</text>
+        <text></text>
+        <text>Kindle the Light</text>
+        <text>   Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</text>
+        <text></text>
+        <text>Shelter the Light</text>
+        <text>   Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</text>
+        <text></text>
+        <text>Preserve Your Own Light</text>
+        <text>   Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</text>
+        <text></text>
+        <text>Be the Light</text>
+        <text>   Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Devotion</name>
+        <text>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Devotion: Channel Divinity: Sacred Weapon</name>
+        <text>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</text>
+        <text>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Devotion: Channel Divinity: Turn the Unholy</name>
+        <text>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</text>
+        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Devotion: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Devotion Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | protection from evil and good, sanctuary</text>
+        <text>5th | lesser restoration, zone of truth</text>
+        <text>9th | beacon of hope, dispel magic</text>
+        <text>13th | freedom of movement, guardian of faith</text>
+        <text>17th | commune, flame strike</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Devotion: Tenets of Devotion</name>
+        <text>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</text>
+        <name>Oath of Devotion: Honesty</name>
+        <text>   Don't lie or cheat. Let your word be your promise.</text>
+        <name>Oath of Devotion: Courage</name>
+        <text>   Never fear to act, though caution is wise.</text>
+        <name>Oath of Devotion: Compassion</name>
+        <text>   Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</text>
+        <name>Oath of Devotion: Honor</name>
+        <text>   Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</text>
+        <name>Oath of Devotion: Duty</name>
+        <text>   Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Vengeance</name>
+        <text>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside - at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Channel Divinity: Abjure Enemy</name>
+        <text>As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.</text>
+        <text>On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature's speed is 0, and it can't benefit from any bonus to its speed.</text>
+        <text>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Channel Divinity: Vow of Enmity</name>
+        <text>As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Vengeance Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | bane, hunter's mark</text>
+        <text>5th | hold person, misty step</text>
+        <text>9th | haste, protection from energy</text>
+        <text>13th | banishment, dimension door</text>
+        <text>17th | hold monster, scrying</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Tenets of Vengeance</name>
+        <text>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</text>
+        <name>Oath of Vengeance: Fight the Greater Evil</name>
+        <text>   Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.</text>
+        <name>Oath of Vengeance: No Mercy for the Wicked</name>
+        <text>   Ordinary foes might win my mercy, but my sworn enemies do not.</text>
+        <name>Oath of Vengeance: By Any Means Necessary</name>
+        <text>   My qualms can't get in the way of exterminating my foes.</text>
+        <name>Oath of Vengeance: Restitution</name>
+        <text>   If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oathbreaker</name>
+        <text>An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished. Only darkness remains.</text>
+        <text>A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oathbreaker: Oathbreaker Channel Divinity: Control Undead</name>
+        <text>As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oathbreaker: Oathbreaker Channel Divinity: Dreadful Aspect</name>
+        <text>As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oathbreaker: Oathbreaker Spells</name>
+        <text>You gain oathbreaker spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oathbreaker Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | hellish rebuke, inflict wounds</text>
+        <text>5th | crown of madness, darkness</text>
+        <text>9th | animate dead, bestow curse</text>
+        <text>13th | blight, confusion</text>
+        <text>17th | contagion, dominate person</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of the Crown</name>
+        <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Crown: Channel Divinity: Champion Challenge</name>
+        <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Crown: Channel Divinity: Turn the Tide</name>
+        <text>As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Crown: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of the Crown Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | command, compelled duel</text>
+        <text>5th | warding bond, zone of truth</text>
+        <text>9th | aura of vitality, spirit guardians</text>
+        <text>13th | banishment, guardian of faith</text>
+        <text>17th | circle of power, geas</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Crown: Tenets of the Crown</name>
+        <text>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</text>
+        <name>Oath of the Crown: Law</name>
+        <text>   The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</text>
+        <name>Oath of the Crown: Loyalty</name>
+        <text>   Your word is your bond. Without loyalty, oaths and laws are meaningless.</text>
+        <name>Oath of the Crown: Courage</name>
+        <text>   You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</text>
+        <name>Oath of the Crown: Responsibility</name>
+        <text>   You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Oath of Conquest</name>
+        <text>The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might. Some of these paladins go so far as to consort with the powers of the Nine Hells. The archdevil Bel, warlord of Avernus, counts many of these paladins called hell knights as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Channel Divinity: Conquering Strike</name>
+        <text>You can use your Channel Divinity to break a foe's will. When you hit a creature with a melee weapon attack as part of the Attack action, you can also use your Channel Divinity to force the target to make a Wisdom saving throw. On a failed save, the target becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Channel Divinity: Guided Strike</name>
+        <text>You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Conquest Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | armor of Agathys, command</text>
+        <text>5th | hold person, spiritual weapon</text>
+        <text>9th | bestow curse, fear</text>
+        <text>13th | blight, dominate beast</text>
+        <text>17th | dominate person, insect plague</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Tenets of Conquest</name>
+        <text>A paladin who takes this oath has the tenets of conquest seared on the upper arm. A hell knight's oath appears in Infernal runes, a brutal reminder of vows to the Lords of Hell.</text>
+        <name>Oath of Conquest (UA): Douse the Flame of Hope</name>
+        <text>   It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies will to fight is shattered forever. A blade can end a life. Fear can end an empire.</text>
+        <name>Oath of Conquest (UA): Rule with an Iron Fist</name>
+        <text>   Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.</text>
+        <name>Oath of Conquest (UA): Strength Above All</name>
+        <text>   You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Oath of Conquest v2</name>
+        <text>The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.</text>
+        <text>Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins—called hell knights—as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Channel Divinity: Conquering Presence</name>
+        <text>You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Channel Divinity: Guided Strike</name>
+        <text>You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Conquest Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | armor of Agathys, command</text>
+        <text>5th | hold person, spiritual weapon</text>
+        <text>9th | bestow curse, fear</text>
+        <text>13th | dominate beast, stoneskin</text>
+        <text>17th | cloudkill, dominate person</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Tenets of Conquest</name>
+        <text>A paladin who takes this oath has the tenets of conquest seared on the upper arm. A hell knight's oath appears in Infernal runes, a brutal reminder of vows to the Lords of Hell.</text>
+        <name>Oath of Conquest v2 (UA): Douse the Flame of Hope</name>
+        <text>   It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.</text>
+        <name>Oath of Conquest v2 (UA): Rule with an Iron Fist</name>
+        <text>   Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.</text>
+        <name>Oath of Conquest v2 (UA): Strength Above All</name>
+        <text>   You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Oath of Treachery</name>
+        <text>The Oath of Treachery is the path followed by paladins who have forsworn other oaths or who care only for their own power and survival. Commonly known as blackguards, these profane warriors are faithful only to themselves. Anyone desperate enough to follow one of these paladins does so because, while deceitful, these paladins command great power. Those who follow them without falling prey to their treachery hope to indulge in wanton violence and accumulate great treasure. Many of these paladins pay homage to demon lords, especially Grazz't and Orcus. Even the Lords of Hell are loath to ally with these champions of chaos, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard's penchant for double dealing and treachery.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Channel Divinity: Conjure Duplicate</name>
+        <text>As an action, you create a visual illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space of your choice that you can see within 30 feet of you. The illusion looks exactly like you; it is silent; it is your size, is insubstantial, doesn't occupy its space; and it is unaffected by attacks and damage. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but the illusion must remain within 120 feet of you.</text>
+        <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how uncanny the illusion is.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Channel Divinity: Poison Strike</name>
+        <text>You can use your Channel Divinity to make a weapon deadlier. As a bonus action, you touch one weapon or piece of ammunition and conjure a special poison on it. The poison lasts for 1 minute. The next time you hit a target with an attack using that weapon or ammunition, the target takes poison damage immediately after the attack. The poison damage equals 2d10 + your paladin level, or 20 + your paladin level if you had advantage on the attack roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Treachery Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | charm person, expeditious retreat</text>
+        <text>5th | invisibility, mirror image</text>
+        <text>9th | gaseous form, haste</text>
+        <text>13th | confusion, greater invisibility</text>
+        <text>17th | dominate person, passwall</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Tenets of Treachery</name>
+        <text>A paladin who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard's overwhelming concern is power and safety, especially if both can be obtained at the expense of others.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Oath of Redemption</name>
+        <text>The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning them to the light, and the paladins slay them only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.</text>
+        <text>While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, the paladins bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Armor of Peace</name>
+        <text>Starting at 3rd level, your commitment to peace allows you to walk into the most dangerous situations unarmored. While you aren't wearing armor or wielding a shield, your base AC is 16 + your Dexterity modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Channel Divinity: Emissary of Peace</name>
+        <text>You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to the next Charisma (Persuasion) check you make within the next minute.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Channel Divinity: Rebuke the Violent</name>
+        <text>You can use your Channel Divinity to rebuke those who use violence. As a reaction when an enemy within 10 feet of you deals damage with a melee attack against one creature other than you, you force that attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Redemption Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | shield, sleep</text>
+        <text>5th | hold person, ray of enfeeblement</text>
+        <text>9th | counterspell, hypnotic pattern</text>
+        <text>13th | Otiluke's resilient sphere, stoneskin</text>
+        <text>17th | hold monster, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Tenets of Redemption</name>
+        <text>The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.</text>
+        <name>Oath of Redemption (UA): Peace</name>
+        <text>   Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.</text>
+        <name>Oath of Redemption (UA): Innocence</name>
+        <text>   All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.</text>
+        <name>Oath of Redemption (UA): Patience</name>
+        <text>   Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.</text>
+        <name>Oath of Redemption (UA): Wisdom</name>
+        <text>   Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Warrior of Reconciliation</name>
+        <text>At 3rd level, you foreswear the weapons of war in favor of simple tools. While wielding a simple weapon that deals bludgeoning damage, you gain a special benefit if you reduce a creature to 0 hit points with that weapon and decide to spare the creature's life. Instead of falling unconscious, the creature is charmed by you for 1 minute. During that time, the charmed creature is peaceful and docile, refusing to move or to take actions or reactions, unless you command it to. You can't order the creature to attack, force someone to make a saving throw, or cause damage to itself or others. This charmed effect ends early if you are incapacitated or if you or your companions attack the creature, deal damage to it, or force it to make a saving throw. When the effect ends, the creature falls unconscious if it still has 0 hit points.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Conquest</name>
+        <text>The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.</text>
+        <text>Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins—called hell knights—as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest: Channel Divinity: Conquering Presence</name>
+        <text>You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest: Channel Divinity: Guided Strike</name>
+        <text>You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Conquest Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | armor of Agathys, command</text>
+        <text>5th | hold person, spiritual weapon</text>
+        <text>9th | bestow curse, fear</text>
+        <text>13th | dominate beast, stoneskin</text>
+        <text>17th | cloudkill, dominate person</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest: Tenets of Conquest</name>
+        <text>A paladin who takes this oath has the tenets of conquest seared on the upper arm.</text>
+        <name>Oath of Conquest: Douse the Flame of Hope</name>
+        <text>   It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.</text>
+        <name>Oath of Conquest: Rule with an Iron Fist</name>
+        <text>   Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.</text>
+        <name>Oath of Conquest: Strength Above All</name>
+        <text>   You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Redemption</name>
+        <text>The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.</text>
+        <text>While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption: Channel Divinity: Emissary of Peace</name>
+        <text>You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption: Channel Divinity: Rebuke the Violent</name>
+        <text>You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Redemption Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | sanctuary, sleep</text>
+        <text>5th | calm emotions, hold person</text>
+        <text>9th | counterspell, hypnotic pattern</text>
+        <text>13th | Otiluke's resilient sphere, stoneskin</text>
+        <text>17th | hold monster, wall of force</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Redemption: Tenets of Redemption</name>
+        <text>The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.</text>
+        <name>Oath of Redemption: Peace</name>
+        <text>   Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.</text>
+        <name>Oath of Redemption: Innocence</name>
+        <text>   All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.</text>
+        <name>Oath of Redemption: Patience</name>
+        <text>   Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.</text>
+        <name>Oath of Redemption: Wisdom</name>
+        <text>   Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Oath of Heroism</name>
+        <text>The Oath of Heroism is an affirmation of a destined path, one laid out for you by divine hands. For whatever reason, a god or a group of gods has included you in their machinations. You are not a reluctant hero, but one who fully embraces the idea that great deeds are yours to achieve. You train diligently, sculpting your body and refining your skills so you're ready when destiny calls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Channel Divinity</name>
+        <text>3rd-level Oath of Heroism feature</text>
+        <text>You gain the following two Channel Divinity options.</text>
+        <name>Oath of Heroism (UA): Peerless Athlete</name>
+        <text>   You can use your Channel Divinity to augment your athleticism with divine favor. As a bonus action, you gain advantage on all Strength (Athletics) and Dexterity (Acrobatics) checks for the next 10 minutes.</text>
+        <name>Oath of Heroism (UA): Legendary Strike</name>
+        <text>   You can use your Channel Divinity as a bonus action to guide your attacks: for 1 minute, your weapon attacks score a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Oath Spells</name>
+        <text>3rd-level Oath of Heroism feature</text>
+        <text>You gain oath spells at the paladin levels listed in the Oath of Heroism Spells table.</text>
+        <text></text>
+        <text>Oath of Heroism Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | expeditious retreat, guiding bolt</text>
+        <text>5th | enhance ability, enthrall</text>
+        <text>9th | haste, protection from energy</text>
+        <text>13th | compulsion, freedom of movement</text>
+        <text>17th | commune, conjure volley</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Tenets of Heroism</name>
+        <text>The tenets of the Oath of Heroism reflect a paladin's commitment to fulfilling their calling as a hero worthy of legend.</text>
+        <name>Oath of Heroism (UA): Actions over Words</name>
+        <text>   Strive to be known by deeds not words.</text>
+        <name>Oath of Heroism (UA): Challenges Are but Tests</name>
+        <text>   Every hardship serves to challenge your abilities and harden your resolve.</text>
+        <name>Oath of Heroism (UA): Embrace Destiny</name>
+        <text>   You didn't choose this path, but it's yours to walk. And it will carry you into legend.</text>
+        <name>Oath of Heroism (UA): Hone the Body</name>
+        <text>   Like raw stone, your body must be worked so its potential can be realized.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Oath of the Watchers</name>
+        <text>Paladins who vow the Oath of the Watchers seek to protect the mortal realm from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.</text>
+        <text>Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Channel Divinity</name>
+        <text>3rd-level Oath of the Watchers feature</text>
+        <text>You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.</text>
+        <name>Oath of the Watchers (UA): Watcher's Will</name>
+        <text>   You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
+        <name>Oath of the Watchers (UA): Abjure the Extraplanar</name>
+        <text>   You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
+        <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Oath Spells</name>
+        <text>3rd-level Oath of the Watchers feature</text>
+        <text>You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.</text>
+        <text></text>
+        <text>Oath of the Watchers Spells  Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | alarm, chromatic orb</text>
+        <text>5th | augury, moonbeam</text>
+        <text>9th | counterspell, nondetection</text>
+        <text>13th | aura of purity, banishment</text>
+        <text>17th | hold monster, hallow</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Tenets of the Watchers</name>
+        <text>A paladin who assumes the Oath of the Watchers swears to safeguard the mortal realm from otherworldly threats.</text>
+        <name>Oath of the Watchers (UA): Vigilance</name>
+        <text>   The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.</text>
+        <name>Oath of the Watchers (UA): Loyalty</name>
+        <text>   Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.</text>
+        <name>Oath of the Watchers (UA): Discipline</name>
+        <text>   You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Glory</name>
+        <text>Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Channel Divinity</name>
+        <text>3rd-level Oath of Glory feature</text>
+        <text>You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Oath Spells</name>
+        <text>3rd-level Oath of Glory feature</text>
+        <text>You gain oath spells at the paladin levels listed in the Oath of Glory Spells table. See the Sacred Oath class feature for how oath spells work.</text>
+        <text></text>
+        <text>Oath of Glory Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | guiding bolt, heroism</text>
+        <text>5th | enhance ability, magic weapon</text>
+        <text>9th | haste, protection from energy</text>
+        <text>13th | compulsion, freedom of movement</text>
+        <text>17th | commune, flame strike</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Tenets of Glory</name>
+        <text>The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.</text>
+        <name>Oath of Glory: Actions over Words</name>
+        <text>   Strive to be known by glorious deeds, not words.</text>
+        <name>Oath of Glory: Challenges Are but Tests</name>
+        <text>   Face hardships with courage, and encourage your allies to face them with you.</text>
+        <name>Oath of Glory: Hone the Body</name>
+        <text>   Like raw stone, your body must be worked so its potential can be realized.</text>
+        <name>Oath of Glory: Discipline the Soul</name>
+        <text>   You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Inspiring Smite</name>
+        <text>Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals 2d8 + your level in this class, divided among the chosen creatures however you like.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Peerless Athlete</name>
+        <text>As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>4th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Aura of Protection</name>
+        <text>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Sacred Oath feature</name>
+        <text>At 7th level, you gain a feature granted to you by your Sacred Oath.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Aura of Warding</name>
+        <text>Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Devotion: Aura of Devotion</name>
+        <text>Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Relentless Avenger</name>
+        <text>By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oathbreaker: Aura of Hate</name>
+        <text>Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin's Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of the Crown: Divine Allegiance</name>
+        <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Aura of Conquest</name>
+        <text>Starting at 7th level, you emanate a menacing aura while you're not incapacitated. The aura includes your space, extends 10 feet from you in every direction, and is blocked by total cover. Any enemy in the aura has disadvantage on saving throws against being frightened.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Aura of Conquest</name>
+        <text>Starting at 7th level, you constantly emanate a menacing aura while you're not incapacitated. The aura includes your space, extends 10 feet from you in every direction, and is blocked by total cover.</text>
+        <text>If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there. At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Aura of Treachery</name>
+        <text>Starting at 7th level, you emanate an aura of discord, which gives you the following benefits.</text>
+        <name>Oath of Treachery (UA): Cull the Herd</name>
+        <text>   You have advantage on melee attack rolls against any creature that has one or more of its allies within 5 feet of it.</text>
+        <name>Oath of Treachery (UA): Treacherous Strike</name>
+        <text>   If a creature within 5 feet of you misses you with a melee attack, you can use your reaction to force the attacker to reroll that attack against a creature of your choice that is also within 5 feet of the attacker. The ability fails and is wasted if the attacker is immune to being charmed.</text>
+        <text>   You can use this ability three times. You regain expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Aura of the Guardian</name>
+        <text>Starting at 7th level, you can shield your allies from harm at the cost of your own health. As a reaction when an ally within 10 feet of you takes damage, you instead magically take that damage. This feature doesn't transfer any other effects that might accompany the damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Conquest: Aura of Conquest</name>
+        <text>Starting at 7th level, you constantly emanate a menacing aura while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.</text>
+        <text>If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Redemption: Aura of the Guardian</name>
+        <text>Starting at 7th level, you can shield others from harm at the cost of your own health. When a creature within 10 feet of you takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Mighty Deed</name>
+        <text>7th-level Oath of Heroism feature</text>
+        <text>Your actions on the battlefield can supernaturally bolster your allies and demoralize your enemies. Whenever you score a critical hit or reduce a creature to 0 hit points, you can choose one or more creatures that you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). All the chosen creatures are affected by one of the following effects of your choice:</text>
+        <text>• The creature gains temporary hit points equal to 1d6 + your Charisma modifier (minimum of 1 temporary hit point).</text>
+        <text>• The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the start of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Aura of the Sentinel</name>
+        <text>7th- and 18th-level Oath of the Watchers feature</text>
+        <text>You emit an aura of alertness while you aren't incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1). At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Glory: Aura of Alacrity</name>
+        <text>7th-level Oath of Glory feature</text>
+        <text>You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.</text>
+        <text>When you reach 18th level in this class, the range of the aura increases to 10 feet.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>8th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Aura of Courage</name>
+        <text>Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Improved Divine Smite</name>
+        <text>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>12th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Cleansing Touch</name>
+        <text>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</text>
+        <text>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Sacred Oath feature</name>
+        <text>At 15th level, you gain a feature granted to you by your Sacred Oath.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Undying Sentinel</name>
+        <text>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.</text>
+        <text>Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Devotion: Purity of Spirit</name>
+        <text>Beginning at 15th level, you are always under the effects of a protection from evil and good spell.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Soul of Vengeance</name>
+        <text>Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oathbreaker: Supernatural Resistance</name>
+        <text>At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of the Crown: Unyielding Spirit</name>
+        <text>Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Implacable Spirit</name>
+        <text>Once you reach 15th level, you can no longer be charmed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Scornful Rebuke</name>
+        <text>Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 0) if you're not incapacitated.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Blackguard's Escape</name>
+        <text>At 15th level, you have the ability to slip away from your foes. Immediately after you are hit by an attack, you can use your reaction to turn invisible and teleport up to 60 feet to a spot you can see. You remain invisible until the end of your next turn or until you attack, deal damage, or force a creature to make a saving throw. Once you use this feature, you must finish a short or long rest before you can use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Protective Spirit</name>
+        <text>Starting at 15th level, a holy presence mends your wounds in combat. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Conquest: Scornful Rebuke</name>
+        <text>Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not incapacitated.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Redemption: Protective Spirit</name>
+        <text>Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Glorious Defense</name>
+        <text>15th-level Oath of Heroism feature</text>
+        <text>Your blessed glory on the battlefield can misdirect an attack. When a creature you can see hits you with an attack roll, you can use your reaction to gain a bonus to AC against that attack, potentially causing it to miss you. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Vigilant Rebuke</name>
+        <text>15th-level Oath of the Watchers feature</text>
+        <text>You've learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Glory: Glorious Defense</name>
+        <text>15th-level Oath of Glory feature</text>
+        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon's range.</text>
+        <text>You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>16th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Aura improvements</name>
+        <text>At 18th level, the range of your Aura of Protection increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <feature>
+          <name>Proficiency Versatility</name>
+        <text>19th-level feature (enhances Ability Score Improvement)</text>
+        <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+        <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Sacred Oath feature</name>
+        <text>At 20th level, you gain a feature granted to you by your Sacred Oath.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 82</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Elder Champion</name>
+        <text>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.</text>
+        <text>Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</text>
+        <text>• At the start of each of your turns, you regain 10 hit points.</text>
+        <text>• Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.</text>
+        <text>• Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Devotion: Holy Nimbus</name>
+        <text>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</text>
+        <text>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</text>
+        <text>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Vengeance: Avenging Angel</name>
+        <text>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:</text>
+        <text>• Wings sprout from your back and grant you a flying speed of 60 feet.</text>
+        <text>• You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 87</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oathbreaker: Dread Lord</name>
+        <text>At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.</text>
+        <text>While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin's Charisma modifier.</text>
+        <text>After activating the aura, the paladin can't do so again until he or she finishes a long rest.</text>
+        <text></text>
+        <text>Source: Dungeon Master's Guide p. 97</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of the Crown: Exalted Champion</name>
+        <text>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:</text>
+        <text>• You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
+        <text>• Your allies have advantage on death saving throws while within 30 feet of you.</text>
+        <text>• You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.</text>
+        <text>This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Invincible Conqueror</name>
+        <text>At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:</text>
+        <text>• You have resistance to all damage.</text>
+        <text>• When you take the Attack action on your turn, you can make one additional attack as part of that action.</text>
+        <text>• Your melee weapon attacks score a critical hit on a roll of 19 or 20.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Conquest v2 (UA): Invincible Conqueror</name>
+        <text>At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:</text>
+        <text>• You have resistance to all damage.</text>
+        <text>• When you take the Attack action on your turn, you can make one additional attack as part of that action.</text>
+        <text>• Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Icon of Deceit</name>
+        <text>At 20th level, you gain the ability to emanate feelings of treachery. As an action, you can magically become an avatar of deceit, gaining the following benefits for 1 minute:</text>
+        <text>• You are invisible.</text>
+        <text>• If a creature damages you on its turn, it must succeed on a Wisdom saving throw (DC equal to your spell save DC) or you control its next action, provided that you aren't incapacitated when it takes the action. A creature automatically succeeds on the save if the creature is immune to being charmed.</text>
+        <text>• If you have advantage on an attack roll, you gain a bonus to its damage roll equal to your paladin level.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Redemption (UA): Emissary of Redemption</name>
+        <text>At 20th level, you become an avatar of peace, which gives you two benefits:</text>
+        <text>• You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).</text>
+        <text>• Whenever a creature damages you, it takes damage equal to half the amount it dealt to you.</text>
+        <text>If you attack a creature, deal damage to it, or force it to make a saving throw, neither benefit works against that creature until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Conquest: Invincible Conqueror</name>
+        <text>At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:</text>
+        <text>• You have resistance to all damage.</text>
+        <text>• When you take the Attack action on your turn, you can make one additional attack as part of that action.</text>
+        <text>• Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 37</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Redemption: Emissary of Redemption</name>
+        <text>At 20th level, you become an avatar of peace, which gives you two benefits:</text>
+        <text>• You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).</text>
+        <text>• Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.</text>
+        <text>If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 38</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Heroism (UA): Living Myth</name>
+        <text>20th-level Oath of Heroism feature</text>
+        <text>You can now empower yourself with the legends—whether true or exaggerated—told of your great deeds. As a bonus action, you gain the following benefits for 10 minutes:</text>
+        <text>• You are blessed with otherworldly comeliness, gaining advantage on all Charisma checks.</text>
+        <text>• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
+        <text>• If you fail a saving throw, you can use your reaction to succeed instead.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard And Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of the Watchers (UA): Mortal Bulwark</name>
+        <text>20th-level Oath of the Watchers feature</text>
+        <text>You manifest a spark of your deity's power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
+        <text>• You gain truesight in a 120-foot radius.</text>
+        <text>• You have advantage on attack rolls against elementals, fey, fiends, and aberrations.</text>
+        <text>• When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.</text>
+        <text>Once you use this bonus action, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Glory: Living Legend</name>
+        <text>20th-level Oath of Glory feature</text>
+        <text>You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a bonus action, you gain the following benefits for 1 minute:</text>
+        <text>• You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.</text>
+        <text>• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
+        <text>• If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 29</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

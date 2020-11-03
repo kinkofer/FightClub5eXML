@@ -1,0 +1,1223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Ambush Drake</name>
+    <size>M</size>
+    <type>dragon</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>22 (4d6+8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>13</str>
+    <dex>15</dex>
+    <con>14</con>
+    <int>4</int>
+    <wis>11</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +4, Stealth +4</skill>
+    <passive>14</passive>
+    <languages>understands Draconic but can't speak it</languages>
+    <cr>1/2</cr>
+    <resist>poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The drake has advantage on an attack roll against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <trait>
+        <name>Surprise Attack</name>
+      <text>If the drake surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d6 + 1) piercing damage.</text>
+      <attack>Bite|+4|1d6+1</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 88</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Azbara Jos</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>13 (16 with mage armor)</ac>
+    <hp>39 (6d8+12)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>16</int>
+    <wis>13</wis>
+    <cha>11</cha>
+    <save>Int +5, Wis +3</save>
+    <skill>Arcana +5, Deception +2, Insight +3, Stealth +5</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal, Primordial, Thayan</languages>
+    <cr>4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Azbara has two spell scroll (1st level) of mage armor.</text>
+      </trait>
+    <trait>
+        <name>Potent Cantrips</name>
+      <text>When Azbara casts an evocation Cantrips and misses, or the target succeeds on its saving throw, the target still takes half the cantrip's damage but suffers no other effect.</text>
+      </trait>
+    <trait>
+        <name>Sculpt Spells</name>
+      <text>When Azbara casts an evocation spell that affects other creatures that he can see, he can choose a number of them equal to 1+the spell's level to succeed on their saving throws against the spell. Those creatures take no damage if they would normally take half damage from the spell.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20/60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <attack>Dagger|+5|1d4+3</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:</text>
+      <text>Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp</text>
+      <text>• 1st level (4 slots): fog cloud, magic missile, shield, thunderwave</text>
+      <text>• 2nd level (3 slots): invisibility, misty step, scorching ray</text>
+      <text>• 3rd level (3 slots): counterspell, dispel magic, fireball</text>
+      </trait>
+    <slots>4, 3, 3</slots>
+    <spells>mage hand, prestidigitation, ray of frost, shocking grasp, fog cloud, magic missile, shield, thunderwave, invisibility, misty step, scorching ray, counterspell, dispel magic, fireball</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 88</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Blagothkus</name>
+    <size>H</size>
+    <type>giant (cloud giant)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (splint armor)</ac>
+    <hp>138 (12d12+60)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>26</str>
+    <dex>13</dex>
+    <con>20</con>
+    <int>16</int>
+    <wis>15</wis>
+    <cha>15</cha>
+    <save>Con +9, Wis +6, Cha +6</save>
+    <skill>Arcana +7, Insight +6, Intimidation +6, Perception +6</skill>
+    <passive>16</passive>
+    <languages>Common, Draconic, Giant</languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Blagothkus attacks twice with his morningstar.</text>
+      </action>
+    <action>
+        <name>Morningstar</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 21 (3d8 + 8) piercing damage.</text>
+      <attack>Morningstar|+10|3d8+8</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:</text>
+      <text>3/day each: fog cloud, levitate</text>
+      </trait>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:</text>
+      <text>Cantrips (at will): light, mage hand, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, identify, magic missile, shield</text>
+      <text>• 2nd level (3 slots): gust of wind, misty step, shatter</text>
+      <text>• 3rd level (2 slots): fly, lightning bolt</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>fog cloud, levitate, light, mage hand, prestidigitation, detect magic, identify, magic missile, shield, gust of wind, misty step, shatter, fly, lightning bolt</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Captain Othelstan</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>19 (splint armor, shield)</ac>
+    <hp>93 (11d10+33)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>19</str>
+    <dex>10</dex>
+    <con>16</con>
+    <int>13</int>
+    <wis>14</wis>
+    <cha>12</cha>
+    <save>Str +7, Con +6</save>
+    <skill>Athletics +7, Intimidation +7, Perception +5, Religion +4</skill>
+    <passive>15</passive>
+    <languages>Common, Draconic, Giant</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Action Surge (Recharges on a Short or Long Rest)</name>
+      <text>On his turn, Othelstan can take one additional action.</text>
+      </trait>
+    <trait>
+        <name>Tiamat's Blessing of Retribution</name>
+      <text>When Othelstan takes damage that reduces him to 0 hit points, he immediately regains 20 hit points. If he has 20 hit points or fewer at the end of his next turn, he dies.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Othelstan attacks twice with his flail or spear, or makes two ranged attacks with his spears.</text>
+      </action>
+    <action>
+        <name>Flail</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) bludgeoning damage.</text>
+      <attack>Flail|+7|1d8+4</attack>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or ranged 20/60 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Spear|+7|1d6+4</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Dragonclaw</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>14 (leather armor)</ac>
+    <hp>16 (3d8+3)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>16</dex>
+    <con>13</con>
+    <int>11</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save>Wis +2</save>
+    <skill>Deception +3, Stealth +5</skill>
+    <passive>10</passive>
+    <languages>Common, Draconic</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>The dragonclaw has advantage on saving throws against being charmed or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if the dragonclaw makes a weapon attack with advantage on the attack roll and hits, it deals an extra 7 (2d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The dragonclaw has advantage on an attack roll against a creature if at least one of the dragonclaw's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragonclaw attacks twice with its scimitar.</text>
+      </action>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.</text>
+      <attack>Scimitar|+5|1d6+3</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 89, Rise of Tiamat p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Dragonwing</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>14 (leather armor)</ac>
+    <hp>33 (6d8+6)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>16</dex>
+    <con>13</con>
+    <int>11</int>
+    <wis>11</wis>
+    <cha>13</cha>
+    <save>Wis +2</save>
+    <skill>Deception +3, Stealth +5</skill>
+    <passive>10</passive>
+    <languages>Common, Draconic</languages>
+    <cr>2</cr>
+    <resist>one of the following: acid, cold, fire, lightning, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>The dragonwing has advantage on saving throws against being charmed or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if the dragonwing makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Limited Flight</name>
+      <text>The dragonwing can use a bonus action to gain a flying speed of 30 feet until the end of its turn.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The dragonwing attacks twice with its scimitar.</text>
+      </action>
+    <action>
+        <name>Scimitar</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.</text>
+      <attack>Scimitar|+5|1d6+3</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 90, Rise of Tiamat p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Dralmorrer Borngray</name>
+    <size>M</size>
+    <type>humanoid (high elf)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>16 (studded leather armor, shield)</ac>
+    <hp>52 (7d10+14)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>14</con>
+    <int>16</int>
+    <wis>10</wis>
+    <cha>8</cha>
+    <save>Str +6, Con +4</save>
+    <skill>Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5</skill>
+    <passive>12</passive>
+    <languages>Common, Bullywug, Draconic, Elvish, Goblin, Sylvan</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.</text>
+      </trait>
+    <trait>
+        <name>War Magic</name>
+      <text>When Dralmorrer uses his action to cast a cantrip, he can also take a bonus action to make one weapon attack.</text>
+      </trait>
+    <trait>
+        <name>Weapon Bond</name>
+      <text>Provided his longsword is on the same plane Dralmorrer can take a bonus action to teleport it to his hand.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Dralmorrer attacks twice, either with his longsword or dagger.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage.</text>
+      <attack>Longsword|+6|1d8+4</attack>
+      </action>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
+      <attack>Dagger|+6|1d4+4</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:</text>
+      <text>Cantrips (at will): fire bolt, prestidigitation, shocking grasp</text>
+      <text>• 1st level (4 slots): longstrider, magic missile, shield, thunderwave</text>
+      <text>• 2nd level (2 slots): magic weapon, misty step</text>
+      </trait>
+    <slots>4, 2</slots>
+    <spells>fire bolt, prestidigitation, shocking grasp, longstrider, magic missile, shield, thunderwave, magic weapon, misty step</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Frulam Mondath</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (chain mail)</ac>
+    <hp>44 (8d8+8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>10</dex>
+    <con>13</con>
+    <int>11</int>
+    <wis>18</wis>
+    <cha>15</cha>
+    <save>Wis +6, Cha +4</save>
+    <skill>Deception +4, History +2, Religion +2</skill>
+    <passive>14</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>Frulam attacks twice with her halberd.</text>
+      </action>
+    <action>
+        <name>Halberd</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. 7 (1d10 + 2) bludgeoning damage.</text>
+      <attack>Halberd|+5|1d10+2</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, cure wounds, healing word, sanctuary</text>
+      <text>• 2nd level (3 slots): calm emotions, hold person, spiritual weapon</text>
+      <text>• 3rd level (2 slots): mass healing word, spirit guardians</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>light, sacred flame, thaumaturgy, command, cure wounds, healing word, sanctuary, calm emotions, hold person, spiritual weapon, mass healing word, spirit guardians</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Golden Stag</name>
+    <size>L</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>10</ac>
+    <hp>13 (2d10+2)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>16</str>
+    <dex>10</dex>
+    <con>12</con>
+    <int>2</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Charge</name>
+      <text>If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
+      </trait>
+    <action>
+        <name>Ram</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage.</text>
+      <attack>Ram|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Hooves</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. 8 (2d4 + 3) bludgeoning damage.</text>
+      <attack>Hooves|+5|2d4+3</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 35</description>
+    <environment>grassland, forest, hill</environment>
+    </monster>
+  <monster>
+      <name>Guard Drake</name>
+    <size>M</size>
+    <type>dragon</type>
+    <alignment>Unaligned</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>52 (7d8+21)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>11</dex>
+    <con>16</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>understands Draconic but can't speak it</languages>
+    <cr>2</cr>
+    <resist>lightning</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The drake attacks twice, once with its bite and once with its tail.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage.</text>
+      <attack>Bite|+5|1d8+3</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage.</text>
+      <attack>Tail|+5|1d6+3</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 91, Rise of Tiamat p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Jamna Gleamsilver</name>
+    <size>S</size>
+    <type>humanoid (gnome)</type>
+    <alignment>Neutral</alignment>
+    <ac>15 (leather armor)</ac>
+    <hp>22 (4d6+8)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>8</str>
+    <dex>17</dex>
+    <con>14</con>
+    <int>15</int>
+    <wis>10</wis>
+    <cha>12</cha>
+    <save>Dex +5, Int +4</save>
+    <skill>Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7</skill>
+    <passive>14</passive>
+    <languages>Common, Gnomish, Goblin, Sylvan</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Cunning Action</name>
+      <text>Jamna can take a bonus action to take the Dash, Disengage, or Hide action.</text>
+      </trait>
+    <trait>
+        <name>Gnome Cunning</name>
+      <text>Jamna has advantage on Intelligence, Wisdom and Charisma saving throws against magic.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Jamna attacks twice with her shortswords.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.</text>
+      <text>Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost</text>
+      <text>• 1st level (3 slots): charm person, color spray, disguise self, longstrider</text>
+      </trait>
+    <slots>3</slots>
+    <spells>mage hand, minor illusion, prestidigitation, ray of frost, charm person, color spray, disguise self, longstrider</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Langdedrosa Cyanwrath</name>
+    <size>M</size>
+    <type>humanoid (half-dragon)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (splint armor)</ac>
+    <hp>57 (6d12+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>19</str>
+    <dex>13</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>14</wis>
+    <cha>12</cha>
+    <save>Str +6, Con +5</save>
+    <skill>Athletics +6, Intimidation +3, Perception +4</skill>
+    <passive>14</passive>
+    <languages>Common, Draconic</languages>
+    <cr>4</cr>
+    <resist>lightning</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+    <trait>
+        <name>Action Surge (Recharges on a Short or Long Rest)</name>
+      <text>On his turn, Langdedrosa can take one additional action.</text>
+      </trait>
+    <trait>
+        <name>Improved Critical</name>
+      <text>Langdedrosa's weapon attacks score a critical hit on a roll of 19 or 20.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Langdedrosa attacks twice, either with his greatsword or spear.</text>
+      </action>
+    <action>
+        <name>Greatsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Greatsword|+6|2d6+4</attack>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20/60 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Spear|+6|1d6+4</attack>
+      </action>
+    <action>
+        <name>Lightning Breath (Recharge 5-6)</name>
+      <text>Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Lightning Breath (Recharge 5-6)||4d10</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Leosin Erlanthar</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>16</ac>
+    <hp>60 (11d8+11)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>11</str>
+    <dex>17</dex>
+    <con>13</con>
+    <int>11</int>
+    <wis>16</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Acrobatics +5, Insight +5, Stealth +5</skill>
+    <passive>13</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>Leosin Erlanthar is presented in Hoard of the Dragon Queen as a half-elf monk. The martial arts adept statblock from Volo's Guide to Monsters has been provided here for ease of use.</text>
+      </trait>
+    <trait>
+        <name>Unarmored Defense</name>
+      <text>While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The adept makes three unarmed strikes or three dart attacks.</text>
+      </action>
+    <action>
+        <name>Unarmed Strike</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage. If the target is a creature, the adept can choose one of the following additional effects:</text>
+      <attack>Unarmed Strike|+5|1d8+3</attack>
+      <text>• The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept's choice).</text>
+      <text>• The target must succeed on a DC 13 Dexterity saving throw or be knocked prone.</text>
+      <text>• The target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the adept's next turn.</text>
+      </action>
+    <action>
+        <name>Dart</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <attack>Dart|+5|1d4+3</attack>
+      </action>
+    <reaction>
+        <name>Deflect Missile</name>
+      <text>In response to being hit by a ranged weapon attack, the adept deflects the missile. The damage it takes from the attack is reduced by 1d10 + 3. If the damage is reduced to 0, the adept catches the missile if it's small enough to hold in one hand and the adept has a hand free.</text>
+      </reaction>
+    <description>
+Source: Hoard of the Dragon Queen p. 87</description>
+    <environment>urban</environment>
+    </monster>
+  <monster>
+      <name>Linan Swift</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>10</ac>
+    <hp>8 (1d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Club|+2|1d4</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 8</description>
+    <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
+    </monster>
+  <monster>
+      <name>Ontharr Frume</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>18 (plate armor)</ac>
+    <hp>117 (18d8+36)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>10</dex>
+    <con>14</con>
+    <int>11</int>
+    <wis>17</wis>
+    <cha>13</cha>
+    <save>Con +6, Wis +7</save>
+    <skill>Intimidation +5, Religion +4</skill>
+    <passive>13</passive>
+    <languages>any two languages</languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>Ontharr Frume is presented in Hoard of the Dragon Queen and The Rise of Tiamat as a lawful good, human paladin of Torm. The war priest statblock from Volo's Guide to Monsters has been provided here for ease of use.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The priest makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Maul</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
+      <attack>Maul|+7|2d6+3</attack>
+      </action>
+    <reaction>
+        <name>Guided Strike (Recharges after a Short or Long Rest)</name>
+      <text>The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice after the roll is made but before it hits or misses.</text>
+      </reaction>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, mending, sacred flame, spare the dying</text>
+      <text>• 1st level (4 slots): divine favor, guiding bolt, healing word, shield of faith</text>
+      <text>• 2nd level (3 slots): lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon</text>
+      <text>• 3rd level (3 slots): beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water walk</text>
+      <text>• 4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin</text>
+      <text>• 5th level (1 slots): flame strike, mass cure wounds, hold monster</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <spells>light, mending, sacred flame, spare the dying, divine favor, guiding bolt, healing word, shield of faith, lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon, beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water walk, banishment, freedom of movement, guardian of faith, stoneskin, flame strike, mass cure wounds, hold monster</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 28</description>
+    <environment>desert, urban</environment>
+    </monster>
+  <monster>
+      <name>Pharblex Spattergoo</name>
+    <size>M</size>
+    <type>humanoid (bullywug)</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (studded leather armor, shield)</ac>
+    <hp>59 (7d8+28)</hp>
+    <speed>walk 20 ft., swim 40 ft.</speed>
+    <str>15</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>11</int>
+    <wis>16</wis>
+    <cha>7</cha>
+    <save>Str +4, Con +6</save>
+    <skill>Perception +5, Religion +2, Stealth +3</skill>
+    <passive>15</passive>
+    <languages>Common, Bullywug</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>Pharblex can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Poison Strike (3/Day)</name>
+      <text>Once per turn, when Pharblex hits with a melee attack, he can expend a use of this trait to deal an extra 9 (2d8) poison damage.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>As part of his movement and without a running start, Pharblex can long jump up to 20 feet and high jump up to 10 feet.</text>
+      </trait>
+    <trait>
+        <name>Swamp Camouflage</name>
+      <text>Pharblex has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Pharblex attacks twice. Once with his bite and once with his spear.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Bite|+5|1d4+2</attack>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20/60 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Spear|+5|1d6+2</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:</text>
+      <text>Cantrips (at will): druidcraft, guidance, poison spray</text>
+      <text>• 1st level (4 slots): cure wounds, entangle, healing word, thunderwave</text>
+      <text>• 2nd level (3 slots): barkskin, beast sense, spike growth</text>
+      <text>• 3rd level (3 slots): plant growth, water walk</text>
+      </trait>
+    <slots>4, 3, 3</slots>
+    <spells>druidcraft, guidance, poison spray, cure wounds, entangle, healing word, thunderwave, barkskin, beast sense, spike growth, plant growth, water walk</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Raggnar Redtooth</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>17 (splint armor)</ac>
+    <hp>58 (9d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>13</dex>
+    <con>14</con>
+    <int>10</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Athletics +5, Perception +2</skill>
+    <passive>12</passive>
+    <languages>any one language (usually Common)</languages>
+    <cr>3</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Multiattack</name>
+      <text>Raggnar makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
+      <attack>Longsword|+5|1d8+3</attack>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Heavy Crossbow</name>
+      <text>Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. 6 (1d10 + 1) piercing damage.</text>
+      <attack>Heavy Crossbow|+3|1d10+1</attack>
+      </action>
+    <description>
+Source: Hoard of the Dragon Queen p. 74</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Rath Modar</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>13 (16 with mage armor)</ac>
+    <hp>71 (11d8+22)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>18</int>
+    <wis>14</wis>
+    <cha>10</cha>
+    <save>Int +7, Wis +5</save>
+    <skill>Arcana +7, Deception +3, Insight +5, Stealth +6</skill>
+    <passive>12</passive>
+    <languages>Common, Draconic, Infernal, Primordial, Thayan</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.</text>
+      </trait>
+    <action>
+        <name>Quarterstaff</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d8) bludgeoning damage.</text>
+      <attack>Quarterstaff|+4|1d8</attack>
+      </action>
+    <reaction>
+        <name>Illusory Self (Recharges on a Short or Long Rest)</name>
+      <text>When a creature Rath can see makes an attack roll against him, he can interpose an illusory duplicate between the attacker and him. The attack automatically misses Rath, then the illusion dissipates.</text>
+      </reaction>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:</text>
+      <text>Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp</text>
+      <text>• 1st level (4 slots): chromatic orb, color spray, mage armor, magic missile</text>
+      <text>• 2nd level (3 slots): detect thoughts, mirror image, phantasmal force</text>
+      <text>• 3rd level (3 slots): counterspell, fireball, major image</text>
+      <text>• 4th level (3 slots): confusion, greater invisibility</text>
+      <text>• 5th level (2 slots): mislead, seeming</text>
+      <text>• 6th level (1 slots): globe of invulnerability</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1</slots>
+    <spells>fire bolt, minor illusion, prestidigitation, shocking grasp, chromatic orb, color spray, mage armor, magic missile, detect thoughts, mirror image, phantasmal force, counterspell, fireball, major image, confusion, greater invisibility, mislead, seeming, globe of invulnerability</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 92, Rise of Tiamat p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Rezmir</name>
+    <size>M</size>
+    <type>humanoid (half-black dragon)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>13 (15 with the Black Dragon Mask)</ac>
+    <hp>90 (12d8+36)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>16</dex>
+    <con>16</con>
+    <int>15</int>
+    <wis>12</wis>
+    <cha>14</cha>
+    <save>Dex +6, Wis +4</save>
+    <skill>Arcana +5, Stealth +9</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal, Giant, Netherese</languages>
+    <cr>7</cr>
+    <resist></resist>
+    <immune>acid</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened</conditionImmune>
+    <senses>blindsight 10 ft., darkvision 120 ft.</senses>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>Rezmir can breathe air and water.</text>
+      </trait>
+    <trait>
+        <name>Dark Advantage</name>
+      <text>Once per turn, Rezmir can deal an extra 10 (3d6) damage when she hits with a weapon attack, provided Rezmir has advantage on the attack roll.</text>
+      </trait>
+    <trait>
+        <name>Draconic Majesty</name>
+      <text>While wearing no armor and wearing the Black Dragon Mask, Rezmir adds her Charisma bonus to her AC (included).</text>
+      </trait>
+    <trait>
+        <name>Immolation</name>
+      <text>When Rezmir is reduced to 0 hit points, her body disintegrates into a pile of ash.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (1/Day)</name>
+      <text>If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.</text>
+      </trait>
+    <action>
+        <name>Greatsword (Hazirawn)</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.</text>
+      <attack>Greatsword (Hazirawn)|+9|2d6+6</attack>
+      </action>
+    <action>
+        <name>Caustic Bolt</name>
+      <text>Ranged Spell Attack: +8 to hit, range 90 ft., one target. 18 (4d8) acid damage.</text>
+      <attack>Caustic Bolt|+8|4d8</attack>
+      </action>
+    <action>
+        <name>Acid Breath (Recharge 5-6)</name>
+      <text>Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Acid Breath (Recharge 5-6)||5d8</attack>
+      </action>
+    <legendary>
+        <text>Rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rezmir regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Darkness (Costs 2 Actions)</name>
+      <text>If she is wearing the Black Dragon Mask, Rezmir can take up to two legendary actions between each of her turns, taking the actions all at once or spreading them over the round. A legendary action can be taken only at the start or end of a turn.</text>
+      <text>A 15-foot radius of magical darkness extends from a point Rezmir can see within 60 feet of her and spreads around corners. The darkness lasts as long as Rezmir maintains concentration, up to 1 minute. A creature with darkvision can't see through this darkness, and no natural light can illuminate it. If any of the area overlaps with a area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>Rezmir makes one melee attack.</text>
+      </legendary>
+    <legendary>
+        <name>Hide</name>
+      <text>Rezmir takes the Hide action.</text>
+      </legendary>
+    <description>
+Source: Hoard of the Dragon Queen p. 93, Rise of Tiamat</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sandesyl Morgia</name>
+    <size>M</size>
+    <type>undead (shapechanger)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>144 (17d8+68)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>15</wis>
+    <cha>18</cha>
+    <save>Dex +9, Wis +7, Cha +9</save>
+    <skill>Perception +7, Stealth +9</skill>
+    <passive>17</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>13</cr>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Shapechanger</name>
+      <text>If Sandesyl isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.</text>
+      <text>While in bat form, Sandesyl can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.</text>
+      <text>While in mist form, Sandesyl can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (3/Day)</name>
+      <text>If Sandesyl fails a saving throw, it can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Misty Escape</name>
+      <text>When it drops to 0 hit points outside its resting place, Sandesyl transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.</text>
+      <text>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>Sandesyl regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Sandesyl takes radiant damage or damage from holy water, this trait doesn't function at the start of Sandesyl's next turn.</text>
+      </trait>
+    <trait>
+        <name>Spider Climb</name>
+      <text>Sandesyl can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+      </trait>
+    <trait>
+        <name>Vampire Weaknesses</name>
+      <text>Sandesyl has the following flaws:</text>
+      <text>Forbiddance. Sandesyl can't enter a residence without an invitation from one of the occupants.</text>
+      <text>Harmed by Running Water. Sandesyl takes 20 acid damage if it ends its turn in running water.</text>
+      <text>Stake to the Heart. If a piercing weapon made of wood is driven into Sandesyl's heart while Sandesyl is incapacitated in its resting place, Sandesyl is paralyzed until the stake is removed.</text>
+      <text>Sunlight Hypersensitivity. Sandesyl takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</text>
+      </trait>
+    <action>
+        <name>Multiattack (Vampire Form Only)</name>
+      <text>Sandesyl makes two attacks, only one of which can be a bite attack.</text>
+      </action>
+    <action>
+        <name>Unarmed Strike (Vampire Form Only)</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, Sandesyl can grapple the target (escape DC 18).</text>
+      <attack>Unarmed Strike (Vampire Form Only)|+9|1d8+4</attack>
+      </action>
+    <action>
+        <name>Bite (Bat or Vampire Form Only)</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Sandesyl, incapacitated, or restrained. 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Sandesyl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Sandesyl's control.</text>
+      <attack>Bite (Bat or Vampire Form Only)|+9|1d6+4</attack>
+      </action>
+    <action>
+        <name>Charm</name>
+      <text>Sandesyl targets one humanoid it can see within 30 feet of it. If the target can see Sandesyl, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by Sandesyl. The charmed target regards Sandesyl as a trusted friend to be heeded and protected. Although the target isn't under Sandesyl's control, it takes Sandesyl's requests or actions in the most favorable way it can, and it is a willing target for Sandesyl's bite attack.</text>
+      <text>Each time Sandesyl or Sandesyl's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Sandesyl is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.</text>
+      </action>
+    <action>
+        <name>Children of the Night (1/Day)</name>
+      <text>Sandesyl magically calls 2d4 swarms of swarm of bats or swarm of rats, provided that the sun isn't up. While outdoors, Sandesyl can call 3d6 wolf instead. The called creatures arrive in 1d4 rounds, acting as allies of Sandesyl and obeying its spoken commands. The beasts remain for 1 hour, until Sandesyl dies, or until Sandesyl dismisses them as a bonus action.</text>
+      </action>
+    <legendary>
+        <text>The undead (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Move</name>
+      <text>Sandesyl moves up to its speed without provoking opportunity attacks.</text>
+      </legendary>
+    <legendary>
+        <name>Unarmed Strike</name>
+      <text>Sandesyl makes one unarmed strike.</text>
+      </legendary>
+    <legendary>
+        <name>Bite (Costs 2 Actions)</name>
+      <text>Sandesyl makes one bite attack.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>The region surrounding a vampire's lair is warped by the creature's unnatural presence, creating any of the following effects:</text>
+      <text>• There's a noticeable increase in the populations of bats, rats, and wolves in the region.</text>
+      <text>• Plants within 500 feet of the lair wither, and their stems and branches become twisted and thorny.</text>
+      <text>• Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.</text>
+      <text>• A creeping fog clings to the ground within 500 feet of the vampire's lair. The fog occasionally takes eerie forms, such as grasping claws and writhing serpents.</text>
+      <text>If the vampire is destroyed, these effects end after 2d6 days.</text>
+      </legendary>
+    <description>
+Source: Hoard of the Dragon Queen p. 81</description>
+    <environment>urban</environment>
+    </monster>
+  <monster>
+      <name>Talis the White</name>
+    <size>M</size>
+    <type>humanoid (half-elf)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>18 (+1 scale mail, shield)</ac>
+    <hp>58 (9d8+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>14</str>
+    <dex>12</dex>
+    <con>14</con>
+    <int>10</int>
+    <wis>16</wis>
+    <cha>16</cha>
+    <save>Wis +6, Cha +6</save>
+    <skill>Deception +6, Insight +6, Perception +6, Persuasion +6</skill>
+    <passive>16</passive>
+    <languages>Common, Draconic, Elvish, Infernal</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Talis has +1 scale mail and a wand of winter.</text>
+      </trait>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>Talis has advantage on saving throws against being charmed, and magic can't put her to sleep.</text>
+      </trait>
+    <trait>
+        <name>Winter Strike (3/Day)</name>
+      <text>Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.</text>
+      </trait>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20/60 ft., one target. 6 (1d6 + 2) piercing damage.</text>
+      <attack>Spear|+5|1d6+2</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:</text>
+      <text>Cantrips (at will): guidance, resistance, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, cure wounds, healing word, inflict wounds</text>
+      <text>• 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)</text>
+      <text>• 3rd level (3 slots): dispel magic, mass healing word, sending</text>
+      <text>• 4th level (3 slots): death ward, freedom of movement</text>
+      <text>• 5th level (1 slots): insect plague</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <spells>guidance, resistance, thaumaturgy, command, cure wounds, healing word, inflict wounds, blindness/deafness, lesser restoration, spiritual weapon, dispel magic, mass healing word, sending, death ward, freedom of movement, insect plague</spells>
+    <description>
+Source: Hoard of the Dragon Queen p. 93</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Trepsin</name>
+    <size>L</size>
+    <type>giant</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>84 (8d10+40)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>20</con>
+    <int>7</int>
+    <wis>9</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>11</passive>
+    <languages>Giant</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The troll has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The troll attacks five times, once with its bite and four times with its claws. If two or more claws hit the same target, the troll rends the target, dealing an extra 2d6 slashing damage.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|1d6+4</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claw|+7|2d6+4</attack>
+      </action>
+    <description>Sometimes when a troll loses a limb, it regenerates two limbs to replace the one it lost. This can result in trolls with multiple arms. A four-armed troll uses the troll stat block, except that it is a Challenge Rating 6 monster (2,300 XP) and has alternate action options to suit.
+Source: Hoard of the Dragon Queen p. 63</description>
+    <environment></environment>
+    </monster>
+  </compendium>

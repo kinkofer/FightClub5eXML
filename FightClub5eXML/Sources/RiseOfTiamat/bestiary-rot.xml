@@ -1,0 +1,1491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Animated Tile Chimera</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>114 (12d10+48)</hp>
+    <speed>walk 30 ft., fly 60 ft.</speed>
+    <str>19</str>
+    <dex>11</dex>
+    <con>19</con>
+    <int>3</int>
+    <wis>14</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +8</skill>
+    <passive>18</passive>
+    <languages>understands Draconic but can't speak</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Rejuvenation</name>
+      <text>If destroyed, the tile creature regains all its hit points and becomes active again in 24 hours unless at least half its tiles are collected and kept separate from the rest of the creature's tiles.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Horns</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (1d12 + 4) bludgeoning damage.</text>
+      <attack>Horns|+7|1d12+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claws|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||7d8</attack>
+      </action>
+    <reaction>
+        <name>Narrow Dodge</name>
+      <text>When targeted by a melee attack, the tile creature can take a reaction to turn its narrowest aspect toward the attacker. The attacker has disadvantage on the attack roll.</text>
+      </reaction>
+    <description>
+Source: Rise of Tiamat p. 42</description>
+    <environment>underdark, mountain, grassland, hill</environment>
+    </monster>
+  <monster>
+      <name>Aquatic Troll</name>
+    <size>L</size>
+    <type>giant</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>84 (8d10+40)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>20</con>
+    <int>7</int>
+    <wis>9</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Giant</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The troll has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+      </trait>
+    <trait>
+        <name>Water Breathing</name>
+      <text>The troll can breathe underwater.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The troll makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|1d6+4</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claw|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Variant: Loathsome Limbs</name>
+      <text>Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:</text>
+      <text>• 1–10: Nothing else happens.</text>
+      <text>• 11–14: One leg is severed from the troll if it has any legs left.</text>
+      <text>• 15–18: One arm is severed from the troll if it has any arms left.</text>
+      <text>• 19–20: The troll is decapitated, but the troll dies only if it can't regenerate. If it dies, so does the severed head.</text>
+      <text>If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll's initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll's Regeneration trait.</text>
+      <text>A severed leg is unable to attack and has a speed of 5 feet.</text>
+      <text>A severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll unless the troll can see the arm and its target. Each time the troll loses an arm, it loses a claw attack.</text>
+      <text>If its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll's Keen Smell trait. It can make a bite attack but only against a target in its space.</text>
+      <text>The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.</text>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 36, Princes of the Apocalypse p. 88</description>
+    <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
+    </monster>
+  <monster>
+      <name>Carnivorous Flower</name>
+    <size>L</size>
+    <type>aberration</type>
+    <alignment>Neutral</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>114 (12d10+48)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>16</str>
+    <dex>11</dex>
+    <con>19</con>
+    <int>6</int>
+    <wis>13</wis>
+    <cha>6</cha>
+    <save>Con +7</save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages>Otyugh</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Limited Telepathy</name>
+      <text>The plant can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The plant makes three attacks: one with its bite and two with its tentacles.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.</text>
+      <attack>Bite|+6|2d8+3</attack>
+      </action>
+    <action>
+        <name>Tentacle</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target. 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The plant has two tentacles, each of which can grapple one target.</text>
+      <attack>Tentacle|+6|1d8+3</attack>
+      </action>
+    <action>
+        <name>Tentacle Slam</name>
+      <text>The plant slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the plant's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.</text>
+      <attack>Tentacle Slam||2d6+3</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 67</description>
+    <environment>underdark</environment>
+    </monster>
+  <monster>
+      <name>Diderius</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>97 (13d8+39)</hp>
+    <speed>walk 20 ft.</speed>
+    <str>18</str>
+    <dex>10</dex>
+    <con>17</con>
+    <int>11</int>
+    <wis>18</wis>
+    <cha>16</cha>
+    <save>Con +8, Int +5, Wis +9, Cha +8</save>
+    <skill>History +5, Religion +5</skill>
+    <passive>14</passive>
+    <languages>the languages it knew in life</languages>
+    <cr>15</cr>
+    <resist></resist>
+    <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable>fire</vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>Diderius has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Rejuvenation</name>
+      <text>A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of Diderius's heart.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The mummy can use its Dreadful Glare and makes one attack with its rotting fist.</text>
+      </action>
+    <action>
+        <name>Rotting Fist</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.</text>
+      <attack>Rotting Fist|+9|3d6+4</attack>
+      </action>
+    <action>
+        <name>Dreadful Glare</name>
+      <text>Diderius targets one creature it can see within 60 feet of it. If the target can see Diderius, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.</text>
+      </action>
+    <legendary>
+        <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>Diderius makes one attack with its rotting fist or uses its Dreadful Glare.</text>
+      </legendary>
+    <legendary>
+        <name>Blinding Dust</name>
+      <text>Blinding dust and sand swirls magically around Diderius. Each creature within 5 feet of Diderius must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Blasphemous Word (Costs 2 Actions)</name>
+      <text>Diderius utters a blasphemous word. Each non-undead creature within 10 feet of Diderius that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of Diderius's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Channel Negative Energy (Costs 2 Actions)</name>
+      <text>Diderius magically unleashes negative energy. Creatures within 60 feet of Diderius, including ones behind barriers and around corners, can't regain hit points until the end of Diderius's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Whirlwind of Sand (Costs 2 Actions)</name>
+      <text>Diderius magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, Diderius is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by Diderius remain in its possession.</text>
+      </legendary>
+    <legendary>
+        <name>Lair Actions</name>
+      </legendary>
+    <legendary>
+        <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
+      <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
+      <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
+      <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
+      </legendary>
+    <legendary>
+        <name>Regional Effects</name>
+      </legendary>
+    <legendary>
+        <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
+      <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
+      <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
+      <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
+      <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
+      </legendary>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Diderius is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Diderius has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): command, guiding bolt, shield of faith</text>
+      <text>• 2nd level (3 slots): hold person, silence, spiritual weapon</text>
+      <text>• 3rd level (3 slots): animate dead, dispel magic</text>
+      <text>• 4th level (3 slots): divination, guardian of faith</text>
+      <text>• 5th level (2 slots): contagion, insect plague</text>
+      <text>• 6th level (1 slots): harm</text>
+      </trait>
+    <slots>4, 3, 3, 3, 2, 1</slots>
+    <spells>sacred flame, thaumaturgy, command, guiding bolt, shield of faith, hold person, silence, spiritual weapon, animate dead, dispel magic, divination, guardian of faith, contagion, insect plague, harm</spells>
+    <description>
+Source: Rise of Tiamat p. 40</description>
+    <environment>desert</environment>
+    </monster>
+  <monster>
+      <name>Dragonfang</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>15 (studded leather armor)</ac>
+    <hp>78 (12d8+24)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>12</int>
+    <wis>12</wis>
+    <cha>14</cha>
+    <save>Wis +4</save>
+    <skill>Deception +5, Stealth +6</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>5</cr>
+    <resist>one of the following: acid, cold, fire, lightning, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if the dragonfang makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Limited Flight</name>
+      <text>The dragonfang can use a bonus action to gain a flying speed of 30 feet until the end of its turn.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The dragonfang has advantage on an attack roll against a creature if at least one of the dragonfang's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The Dragonfang attacks twice with its shortsword.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 7 (2d6) damage of the type to which the dragonfang has resistance.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Orb of Dragon's Breath (2/Day)</name>
+      <text>Ranged Spell Attack: +5 to hit, range 50 ft., one target. 22 (5d8) damage of the type to which the dragonfang has damage resistance.</text>
+      <attack>Orb of Dragon's Breath (2/Day)|+5|5d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Dragonsoul</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>16 (studded leather armor)</ac>
+    <hp>110 (17d8+34)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>18</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>12</wis>
+    <cha>16</cha>
+    <save>Wis +4</save>
+    <skill>Deception +6, Stealth +7</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>7</cr>
+    <resist>one of the following: acid, cold, fire, lightning, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if the dragonsoul makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Limited Flight</name>
+      <text>The dragonsoul can use a bonus action to gain a flying speed of 30 feet until the end of its turn.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonsoul's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The Dragonsoul attacks twice with its shortsword.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Orb of Dragon's Breath (3/Day)</name>
+      <text>Ranged Spell Attack: +7 to hit, range 90 ft., one target. 27 (6d8) damage of the type to which the dragonsoul has damage resistance.</text>
+      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 89</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Galvan</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>16 (studded leather armor)</ac>
+    <hp>110 (17d8+34)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>18</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>12</wis>
+    <cha>16</cha>
+    <save>Wis +4</save>
+    <skill>Deception +6, Stealth +7</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>7</cr>
+    <resist>one of the following: acid, cold, fire, lightning, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>While Galvan is not presented in an encounter in The Rise of Tiamat, the dragonsoul stat block has been provided here for ease of use, with optional alterations for the Blue Dragon Mask.</text>
+      </trait>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Galvan has the Blue Dragon Mask.</text>
+      </trait>
+    <trait>
+        <name>Draconic Majesty</name>
+      <text>While wearing no armor and wearing the Blue Dragon Mask, Galvan adds his Charisma bonus to her AC (included).</text>
+      </trait>
+    <trait>
+        <name>Lingering Shock</name>
+      <text>If Galvan deals lightning damage to a creature while wearing the Blue Dragon Mask, that creature can't take reactions until its next turn.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (1/Day)</name>
+      <text>If Galvan fails a saving throw while wearing the Blue Dragon Mask, he can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>Galvan has advantage on saving throws against being charmed or frightened. While Galvan can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, Galvan ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if Galvan makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Limited Flight</name>
+      <text>Galvan can use a bonus action to gain a flying speed of 30 feet until the end of its turn.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>Galvan has advantage on an attack roll against a creature if at least one of Galvan's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Galvan attacks twice with its shortsword.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which Galvan has resistance.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Orb of Dragon's Breath (3/Day)</name>
+      <text>Ranged Spell Attack: +7 to hit, range 90 ft., one target. 27 (6d8) damage of the type to which Galvan has damage resistance.</text>
+      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 9</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Half-Blue Dragon Gladiator</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>16 (studded leather armor, shield)</ac>
+    <hp>112 (15d8+45)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>15</cha>
+    <save>Str +7, Dex +5, Con +6</save>
+    <skill>Athletics +10, Intimidation +5</skill>
+    <passive>11</passive>
+    <languages>any one language (usually Common), Draconic</languages>
+    <cr>5</cr>
+    <resist>lightning</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+    <trait>
+        <name>Brave</name>
+      <text>The half-dragon has advantage on saving throws against being frightened.</text>
+      </trait>
+    <trait>
+        <name>Brute</name>
+      <text>A melee weapon deals one extra die of its damage when the half-dragon hits with it (included in the attack).</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The half-dragon makes three melee attacks or two ranged attacks.</text>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
+      <attack>Spear|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Shield Bash</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</text>
+      <attack>Shield Bash|+7|2d4+4</attack>
+      </action>
+    <action>
+        <name>Lightning Breath (Recharge 5-6)</name>
+      <text>The half-dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Lightning Breath (Recharge 5-6)||4d10</attack>
+      </action>
+    <reaction>
+        <name>Parry</name>
+      <text>The half-dragon adds 3 to its AC against one melee attack that would hit it. To do so, the half-dragon must see the attacker and be wielding a melee weapon.</text>
+      </reaction>
+    <description>
+Source: Rise of Tiamat p. 55, Essentials Kit: Divine Contention</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Half-Green Dragon Assassin</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any Non-Good Alignment</alignment>
+    <ac>15 (studded leather armor)</ac>
+    <hp>78 (12d8+24)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>16</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>11</wis>
+    <cha>10</cha>
+    <save>Dex +6, Int +4</save>
+    <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
+    <passive>13</passive>
+    <languages>Thieves' cant plus any two languages, Draconic</languages>
+    <cr>8</cr>
+    <resist>poison, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+    <trait>
+        <name>Assassinate</name>
+      <text>During its first turn, the half-dragon has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the half-dragon scores against a surprised creature is a critical hit.</text>
+      </trait>
+    <trait>
+        <name>Evasion</name>
+      <text>If the half-dragon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the half-dragon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</text>
+      </trait>
+    <trait>
+        <name>Sneak Attack (1/Turn)</name>
+      <text>The half-dragon deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the half-dragon that isn't incapacitated and the half-dragon doesn't have disadvantage on the attack roll.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The half-dragon makes two shortsword attacks.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Shortsword|+6|1d6+3</attack>
+      <attack>Shortsword||7d6</attack>
+      </action>
+    <action>
+        <name>Light Crossbow</name>
+      <text>Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Light Crossbow|+6|1d8+3</attack>
+      <attack>Light Crossbow||7d6</attack>
+      </action>
+    <action>
+        <name>Poison Breath (Recharge 5-6)</name>
+      <text>The half-dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Poison Breath (Recharge 5-6)||6d6</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 56</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Half-Red Dragon Gladiator</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>16 (studded leather armor, shield)</ac>
+    <hp>112 (15d8+45)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>15</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>12</wis>
+    <cha>15</cha>
+    <save>Str +7, Dex +5, Con +6</save>
+    <skill>Athletics +10, Intimidation +5</skill>
+    <passive>11</passive>
+    <languages>any one language (usually Common), Draconic</languages>
+    <cr>5</cr>
+    <resist>fire</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft., darkvision 60 ft.</senses>
+    <trait>
+        <name>Brave</name>
+      <text>The half-dragon has advantage on saving throws against being frightened.</text>
+      </trait>
+    <trait>
+        <name>Brute</name>
+      <text>A melee weapon deals one extra die of its damage when the half-dragon hits with it (included in the attack).</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The half-dragon makes three melee attacks or two ranged attacks.</text>
+      </action>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
+      <attack>Spear|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Shield Bash</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</text>
+      <attack>Shield Bash|+7|2d4+4</attack>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The half-dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||7d6</attack>
+      </action>
+    <reaction>
+        <name>Parry</name>
+      <text>The half-dragon adds 3 to its AC against one melee attack that would hit it. To do so, the half-dragon must see the attacker and be wielding a melee weapon.</text>
+      </reaction>
+    <description>
+Source: Rise of Tiamat p. 56</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ice Toad</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Neutral</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>32 (5d8+10)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>13</str>
+    <dex>10</dex>
+    <con>14</con>
+    <int>8</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Ice Toad</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The toad can breathe air or water.</text>
+      </trait>
+    <trait>
+        <name>Cold Aura</name>
+      <text>Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target.</text>
+      <attack>Bite|+3|1d8</attack>
+      </action>
+    <description>Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
+Feeding on seals, sea birds, and fish caught for them by the Ice Hunters, Oyaviggaton's ice toads are not automatically hostile to strangers. Once characters get inside Arauthator's lair, they might find that these creatures can be helpful to their quest. Ice toads normally speak only their own obscure language. Those in Oyaviggaton know a little Draconic and Uluik (the language of the Ice Hunters), but their accents are thick and their pronunciation atrocious. Marfulb is fluent in Draconic thanks to many hours spent conversing with Arauthator.
+When the characters encounter ice toads, their intelligence won't be apparent until they act or attempt to speak. Even then, characters might not recognize the ice toads' croaking as language. Ice toads move on all fours, but their webbed front feet are surprisingly dexterous. Some carry tools and useful items in pouches slung around their necks.
+Source: Rise of Tiamat p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Ice Troll</name>
+    <size>L</size>
+    <type>giant</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>84 (8d10+40)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>20</con>
+    <int>7</int>
+    <wis>9</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Giant</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The troll has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The troll makes three attacks: one with its bite and two with its claws.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|1d6+4</attack>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claw|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Variant: Loathsome Limbs</name>
+      <text>Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:</text>
+      <text>• 1–10: Nothing else happens.</text>
+      <text>• 11–14: One leg is severed from the troll if it has any legs left.</text>
+      <text>• 15–18: One arm is severed from the troll if it has any arms left.</text>
+      <text>• 19–20: The troll is decapitated, but the troll dies only if it can't regenerate. If it dies, so does the severed head.</text>
+      <text>If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll's initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll's Regeneration trait.</text>
+      <text>A severed leg is unable to attack and has a speed of 5 feet.</text>
+      <text>A severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll unless the troll can see the arm and its target. Each time the troll loses an arm, it loses a claw attack.</text>
+      <text>If its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll's Keen Smell trait. It can make a bite attack but only against a target in its space.</text>
+      <text>The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.</text>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 30</description>
+    <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
+    </monster>
+  <monster>
+      <name>Iskander</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>40 (9d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>14</dex>
+    <con>11</con>
+    <int>17</int>
+    <wis>12</wis>
+    <cha>11</cha>
+    <save>Int +6, Wis +4</save>
+    <skill>Arcana +6, History +6</skill>
+    <passive>11</passive>
+    <languages>any four languages</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>Iskander is presented in The Rise of Tiamat as a neutral evil male human wizard. The mage statblock has been provided here for ease of use.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+5|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
+      <text>• 2nd level (3 slots): misty step, suggestion</text>
+      <text>• 3rd level (3 slots): counterspell, fireball, fly</text>
+      <text>• 4th level (3 slots): greater invisibility, ice storm</text>
+      <text>• 5th level (1 slots): cone of cold</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
+    <description>
+Source: Rise of Tiamat p. 62</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Maccath the Crimson</name>
+    <size>M</size>
+    <type>humanoid (tiefling)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>40 (9d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>14</dex>
+    <con>11</con>
+    <int>17</int>
+    <wis>12</wis>
+    <cha>11</cha>
+    <save>Int +6, Wis +4</save>
+    <skill>Arcana +6, History +6</skill>
+    <passive>11</passive>
+    <languages>any four languages, Infernal</languages>
+    <cr>6</cr>
+    <resist>fire</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>Maccath the Crimson is presented in The Rise of Tiamat as a female tiefling sorcerer and member of the Arcane Brotherhood. The mage statblock, modified with tiefling racial traits, has been provided here for ease of use.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+5|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
+      <text>• 2nd level (3 slots): misty step, suggestion</text>
+      <text>• 3rd level (3 slots): counterspell, fireball, fly</text>
+      <text>• 4th level (3 slots): greater invisibility, ice storm</text>
+      <text>• 5th level (1 slots): cone of cold</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>&lt;$title_short_name$&gt;'s innate spellcasting ability is Charisma (spell save DC 11). &lt;$title_short_name$&gt; can innately cast the following spells, requiring no material components:</text>
+      <text>At will: thaumaturgy</text>
+      <text>1/day each: darkness, hellish rebuke</text>
+      </trait>
+    <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold, thaumaturgy, darkness, hellish rebuke</spells>
+    <description>
+Source: Rise of Tiamat p. 33</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Marfulb</name>
+    <size>M</size>
+    <type>monstrosity</type>
+    <alignment>Neutral</alignment>
+    <ac>12 (natural armor)</ac>
+    <hp>32 (5d8+10)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>13</str>
+    <dex>10</dex>
+    <con>14</con>
+    <int>8</int>
+    <wis>10</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Ice Toad</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune>cold</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The toad can breathe air or water.</text>
+      </trait>
+    <trait>
+        <name>Cold Aura</name>
+      <text>Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target.</text>
+      <attack>Bite|+3|1d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 35</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mend-nets</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (hide armor)</ac>
+    <hp>11 (2d8+2)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>13</str>
+    <dex>11</dex>
+    <con>12</con>
+    <int>8</int>
+    <wis>11</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>any one language</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Spear</name>
+      <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
+      <attack>Spear|+3|1d6+1</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 32</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Naergoth Bladelord</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>18 (plate armor)</ac>
+    <hp>135 (18d8+54)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>20</str>
+    <dex>12</dex>
+    <con>16</con>
+    <int>12</int>
+    <wis>14</wis>
+    <cha>16</cha>
+    <save>Dex +5, Wis +6</save>
+    <skill>Perception +6, Stealth +5</skill>
+    <passive>16</passive>
+    <languages>Common, Draconic</languages>
+    <cr>11</cr>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Naergoth makes three attacks, either with his longsword or longbow. He can use Life Drain in place of one longsword attack.</text>
+      </action>
+    <action>
+        <name>Life Drain</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 20 (5d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
+      <attack>Life Drain|+9|5d6+3</attack>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) if used with two hands, plus 10 (3d6) necrotic damage.</text>
+      <attack>Longsword|+9|1d8+5</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage plus 10 (3d6) necrotic damage.</text>
+      <attack>Longbow|+5|1d8+1</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 90</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Neronvain</name>
+    <size>M</size>
+    <type>humanoid (elf)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17</ac>
+    <hp>117 (18d8+36)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>8</str>
+    <dex>17</dex>
+    <con>15</con>
+    <int>16</int>
+    <wis>13</wis>
+    <cha>18</cha>
+    <save>Con +6, Wis +5</save>
+    <skill>Arcana +7, Perception +5</skill>
+    <passive>15</passive>
+    <languages>Common, Draconic, Elvish, Infernal</languages>
+    <cr>9</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Draconic Majesty</name>
+      <text>Neronvain adds his Charisma bonus to his AC (included).</text>
+      </trait>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>Magic can't put Neronvain to sleep.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Neronvain makes two attacks, either with his shortsword or Eldritch Arrow.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 13 (3d8) poison damage.</text>
+      <attack>Shortsword|+7|1d6+3</attack>
+      </action>
+    <action>
+        <name>Eldritch Arrow</name>
+      <text>Ranged Spell Attack: +7 to hit, range 120 ft., one target. 11 (2d10) force damage plus 9 (2d8) poison damage.</text>
+      <attack>Eldritch Arrow|+7|2d10</attack>
+      </action>
+    <action>
+        <name>Poisonous Cloud (2/Day)</name>
+      <text>Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 91</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Paper Whirlwind</name>
+    <size>M</size>
+    <type>swarm of Medium beasts</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>24 (7d8-7)</hp>
+    <speed>walk 10 ft., fly 50 ft.</speed>
+    <str>6</str>
+    <dex>14</dex>
+    <con>8</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +5</skill>
+    <passive>15</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist>bludgeoning, piercing, slashing</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Swarm</name>
+      <text>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.</text>
+      </trait>
+    <action>
+        <name>Beaks</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.</text>
+      <attack>Beaks|+4|2d6</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 72</description>
+    <environment>forest, swamp, hill, urban</environment>
+    </monster>
+  <monster>
+      <name>Red Wizard</name>
+    <size>M</size>
+    <type>humanoid (any race)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12 (15 with mage armor)</ac>
+    <hp>40 (9d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>9</str>
+    <dex>14</dex>
+    <con>11</con>
+    <int>17</int>
+    <wis>12</wis>
+    <cha>11</cha>
+    <save>Int +6, Wis +4</save>
+    <skill>Arcana +6, History +6</skill>
+    <passive>11</passive>
+    <languages>any four languages</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <action>
+        <name>Dagger</name>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <attack>Dagger|+5|1d4+2</attack>
+      </action>
+    <action>
+        <name>Variant: Familiars</name>
+      <text>Any spellcaster that can cast the find familiar spell (such as an archmage or mage) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the Player's Handbook) or some other Tiny monster, such as a crawling claw, imp, pseudodragon, or quasit.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</text>
+      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
+      <text>• 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
+      <text>• 2nd level (3 slots): misty step, suggestion</text>
+      <text>• 3rd level (3 slots): counterspell, fireball, fly</text>
+      <text>• 4th level (3 slots): greater invisibility, ice storm</text>
+      <text>• 5th level (1 slots): cone of cold</text>
+      </trait>
+    <slots>4, 3, 3, 3, 1</slots>
+    <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
+    <description>
+Source: Rise of Tiamat p. 76</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Severin</name>
+    <size>M</size>
+    <type>humanoid (human)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>16</ac>
+    <hp>150 (20d8+60)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>13</dex>
+    <con>16</con>
+    <int>17</int>
+    <wis>12</wis>
+    <cha>20</cha>
+    <save>Dex +5, Wis +5</save>
+    <skill>Arcana +7, Religion +7</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>11</cr>
+    <resist>While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune>While wearing the mask of the Dragon Queen: fire</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>While wearing the mask of the Dragon Queen: charmed, frightened, poisoned</conditionImmune>
+    <senses>While wearing the Mask of the Dragon Queen: darkvision 60 ft.</senses>
+    <trait>
+        <name>Special Equipment</name>
+      <text>Severin has the Mask of the Dragon Queen.</text>
+      </trait>
+    <trait>
+        <name>Draconic Majesty</name>
+      <text>Severin adds his Charisma bonus to his AC (included).</text>
+      </trait>
+    <trait>
+        <name>Ignite Enemy</name>
+      <text>If Severin deals fire damage to a creature while wearing the Mask of the Dragon Queen, the target catches fire. At the start of each of its turns, the burning target takes 5 (1d10) fire damage. A creature within reach of the fire can use an action to extinguish it.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (5/Day)</name>
+      <text>While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.</text>
+      </trait>
+    <action>
+        <name>Burning Touch</name>
+      <text>Melee Spell Attack: +5 to hit, reach 5 ft., one target. 18 (4d8) fire damage.</text>
+      <attack>Burning Touch|+5|4d8</attack>
+      </action>
+    <action>
+        <name>Flaming Orb</name>
+      <text>Ranged Spell Attack: +5 to hit, range 90 ft., one target. 40 (9d8) fire damage.</text>
+      <attack>Flaming Orb|+5|9d8</attack>
+      </action>
+    <action>
+        <name>Scorching Burst</name>
+      <text>Severin chooses a point he can see within 60 feet of him. Each creature within 5 feet of that point must make a DC 17 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Scorching Burst||4d8</attack>
+      </action>
+    <legendary>
+        <text>Severin can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name></name>
+      <text>If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of his turn.</text>
+      </legendary>
+    <legendary>
+        <name>Attack</name>
+      <text>Severin makes one attack.</text>
+      </legendary>
+    <legendary>
+        <name>Fiery Teleport (Costs 2 Actions)</name>
+      <text>Severin, along with any objects he is wearing or carrying, teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of Severin before he teleports takes 5 (1d10) fire damage.</text>
+      </legendary>
+    <legendary>
+        <name>Hellish Chains (Costs 3 Actions)</name>
+      <text>Severin targets one creature he can see within 30 feet of him. The target is wrapped in magical chains of fire and restrained. The restrained target takes 21 (6d6) fire damage at the start of each of its turns. At the end of its turns, the target can make a DC 17 Strength saving throw, ending the effect on itself on a success.</text>
+      </legendary>
+    <description>
+Source: Rise of Tiamat p. 92</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sled Dog</name>
+    <size>M</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>13 (natural armor)</ac>
+    <hp>11 (2d8+2)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>12</str>
+    <dex>15</dex>
+    <con>12</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>6</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Hearing and Smell</name>
+      <text>The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</text>
+      <attack>Bite|+4|2d4+2</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 27</description>
+    <environment>grassland, forest, hill</environment>
+    </monster>
+  <monster>
+      <name>Snake Horror</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Unaligned</alignment>
+    <ac>20 (plate armor, shield)</ac>
+    <hp>60 (8d8+24)</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>18</str>
+    <dex>13</dex>
+    <con>16</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>understands the languages of its creator but can't speak</languages>
+    <cr>4</cr>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <immune>force, necrotic, poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
+    <senses>blindsight 60 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The snake horror has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Spell Immunity</name>
+      <text>The snake horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The snake horror makes two longsword attacks.</text>
+      </action>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Longsword|+6|1d8+4</attack>
+      <attack>Longsword||2d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 46</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Tiamat</name>
+    <size>G</size>
+    <type>fiend</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>25 (natural armor)</ac>
+    <hp>615 (30d20+300)</hp>
+    <speed>walk 60 ft., fly 120 ft.</speed>
+    <str>30</str>
+    <dex>10</dex>
+    <con>30</con>
+    <int>26</int>
+    <wis>26</wis>
+    <cha>28</cha>
+    <save>Str +19, Dex +9, Wis +17</save>
+    <skill>Arcana +17, Perception +26, Religion +17</skill>
+    <passive>36</passive>
+    <languages>Common, Draconic, Infernal</languages>
+    <cr>30</cr>
+    <resist></resist>
+    <immune>acid, cold, fire, lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, frightened, poisoned, stunned</conditionImmune>
+    <senses>darkvision 240 ft., truesight 120 ft.</senses>
+    <trait>
+        <name>Discorporation</name>
+      <text>When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.</text>
+      </trait>
+    <trait>
+        <name>Legendary Resistance (5/Day)</name>
+      <text>If Tiamat fails a saving throw, she can choose to succeed instead.</text>
+      </trait>
+    <trait>
+        <name>Limited Magic Immunity</name>
+      <text>Unless she wishes to be affected, Tiamat is immune to spells of 6th level or lower. She has advantage on saving throws against all other spells and magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>Tiamat's weapon attacks are magical.</text>
+      </trait>
+    <trait>
+        <name>Multiple Heads</name>
+      <text>Tiamat can take one reaction per turn, rather than only one per round. She also has advantage on saving throws against being knocked unconscious. If she fails a saving throw against an effect that would stun a creature, one of her unspent legendary actions is spent.</text>
+      </trait>
+    <trait>
+        <name>Regeneration</name>
+      <text>Tiamat regains 30 hit points at the start of her turn.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 15 ft., one target. 24 (4d6 + 10) slashing damage.</text>
+      <attack>Claw|+19|4d6+10</attack>
+      </action>
+    <action>
+        <name>Tail</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 25 ft., one target. 28 (4d8 + 10) piercing damage.</text>
+      <attack>Tail|+19|4d8+10</attack>
+      </action>
+    <action>
+        <name>Frightful Presence</name>
+      <text>Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Frightful Presence for the next 24 hours.</text>
+      </action>
+    <legendary>
+        <text>Tiamat can take 7 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tiamat regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name></name>
+      <text>Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +19 to hit, reach 20 ft., one target. 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).</text>
+      </legendary>
+    <legendary>
+        <name>Black Dragon Head: Acid Breath (Costs 2 Actions)</name>
+      <text>Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.</text>
+      </legendary>
+    <legendary>
+        <name>Blue Dragon Head: Lightning Breath (Costs 2 Actions)</name>
+      <text>Tiamat breathes lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      </legendary>
+    <legendary>
+        <name>Green Dragon Head: Poison Breath (Costs 2 Actions)</name>
+      <text>Tiamat breathes poisonous gas in a 90-foot cone. Each creature in that area must make a DC 27 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+      </legendary>
+    <legendary>
+        <name>Red Dragon Head: Fire Breath (Costs 2 Actions)</name>
+      <text>Tiamat breathes fire in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+      </legendary>
+    <legendary>
+        <name>White Dragon Head: Cold Breath (Costs 2 Actions)</name>
+      <text>Tiamat breathes an icy blast in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>Tiamat can innately cast the following spell, her spellcasting ability is Charisma (spell save DC 26):</text>
+      <text>3/day: divine word</text>
+      </trait>
+    <spells>divine word</spells>
+    <description>
+Source: Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Varram</name>
+    <size>M</size>
+    <type>humanoid (dwarf)</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>16 (studded leather armor)</ac>
+    <hp>110 (17d8+34)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>11</str>
+    <dex>18</dex>
+    <con>14</con>
+    <int>13</int>
+    <wis>12</wis>
+    <cha>16</cha>
+    <save>Wis +4</save>
+    <skill>Deception +6, Stealth +7</skill>
+    <passive>11</passive>
+    <languages>Common, Draconic, Infernal, Dwarvish</languages>
+    <cr>7</cr>
+    <resist>one of the following: acid, cold, fire, lightning, poison, poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>5etools Note</name>
+      <text>Varram is presented in The Rise of Tiamat as a male dwarf. The dragonsoul statblock, modified with dwarf racial traits, has been provided here for ease of use.</text>
+      </trait>
+    <trait>
+        <name>Dragon Fanatic</name>
+      <text>Varram has advantage on saving throws against being charmed or frightened. While Varram can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, Varram ignores the effects of being charmed or frightened.</text>
+      </trait>
+    <trait>
+        <name>Fanatic Advantage</name>
+      <text>Once per turn, if Varram makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.</text>
+      </trait>
+    <trait>
+        <name>Limited Flight</name>
+      <text>Varram can use a bonus action to gain a flying speed of 30 feet until the end of its turn.</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>Varram has advantage on an attack roll against a creature if at least one of Varram's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      </trait>
+    <trait>
+        <name>Dwarven Resilience</name>
+      <text>&lt;$title_short_name$&gt; has advantage on saving throws against poison, and has resistance against poison damage.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Varram attacks twice with its shortsword.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which Varram has resistance.</text>
+      <attack>Shortsword|+5|1d6+3</attack>
+      </action>
+    <action>
+        <name>Orb of Dragon's Breath (3/Day)</name>
+      <text>Ranged Spell Attack: +7 to hit, range 90 ft., one target. 27 (6d8) damage of the type to which Varram has damage resistance.</text>
+      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      </action>
+    <description>
+Source: Rise of Tiamat p. 9</description>
+    <environment></environment>
+    </monster>
+  </compendium>

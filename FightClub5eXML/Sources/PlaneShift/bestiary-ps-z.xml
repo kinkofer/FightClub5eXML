@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Archon Of Redemption</name>
+    <size>L</size>
+    <type>celestial</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>136 (16d8+64)</hp>
+    <speed>walk 30 ft., fly 90 ft.</speed>
+    <str>18</str>
+    <dex>18</dex>
+    <con>18</con>
+    <int>17</int>
+    <wis>20</wis>
+    <cha>20</cha>
+    <save>Wis +9, Cha +9</save>
+    <skill>Insight +9, Perception +9</skill>
+    <passive>19</passive>
+    <languages>all, telepathy 120 ft.</languages>
+    <cr>10</cr>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Angelic Weapons</name>
+      <text>The archon's weapon attacks are magical. When the archon hits with any weapon, the weapon deals an extra 3d8 radiant damage (included in the attack).</text>
+      </trait>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The archon can't be compelled to act in a manner contrary to its nature or its understanding of justice.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The archon has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>One Being</name>
+      <text>Though it appears as a humanoid creature riding a mount, an archon is a single being. The "rider" can't be dismounted, and no other means can separate the two portions of the archon's being short of its death.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The archon makes two attacks: one with its sword and one with its claws.</text>
+      </action>
+    <action>
+        <name>Sword</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage plus 13 (3d8) radiant damage.</text>
+      <attack>Sword|+8|1d8+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) piercing damage plus 13 (3d8) radiant damage.</text>
+      <attack>Claws|+8|2d6+4</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The archon's innate spellcasting ability is Charisma (spell save DC 17). The archon can innately cast the following spells, requiring only verbal components:</text>
+      <text>At will: detect evil and good</text>
+      <text>1/day each: destructive wave, geas</text>
+      </trait>
+    <spells>detect evil and good, destructive wave, geas</spells>
+    <description>
+Source: Plane Shift: Zendikar p. 22</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Felidar–Plane Shift: Zendikar</name>
+    <size>L</size>
+    <type>celestial</type>
+    <alignment>Lawful Good</alignment>
+    <ac>12</ac>
+    <hp>67 (9d10+18)</hp>
+    <speed>walk 50 ft.</speed>
+    <str>18</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>11</int>
+    <wis>17</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill></skill>
+    <passive>13</passive>
+    <languages>Celestial, telepathy 60 ft.</languages>
+    <cr>5</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, paralyzed, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Pounce</name>
+      <text>If the Felidar–Plane Shift: Zendikar moves at least 20 feet straight toward a creature and then hits it with a claws attack on the same turn, the target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the Felidar–Plane Shift: Zendikar can make one bite attack against it as a bonus action.</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>The Felidar–Plane Shift: Zendikar has advantage on saving throws against spells and other magical effects.</text>
+      </trait>
+    <trait>
+        <name>Magic Weapons</name>
+      <text>The Felidar–Plane Shift: Zendikar's weapon attacks are magical.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The Felidar–Plane Shift: Zendikar makes two attacks with its claws.</text>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claws|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) piercing damage.</text>
+      <attack>Bite|+7|1d8+4</attack>
+      </action>
+    <action>
+        <name>Healing Touch (3/Day)</name>
+      <text>The Felidar–Plane Shift: Zendikar touches another creature with its horns. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target</text>
+      </action>
+    <action>
+        <name>Teleport (1/Day)</name>
+      <text>The Felidar–Plane Shift: Zendikar magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the Felidar–Plane Shift: Zendikar is familiar with, up to 1 mile away.</text>
+      </action>
+    <legendary>
+        <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      </legendary>
+    <legendary>
+        <name>Claws</name>
+      <text>The Felidar–Plane Shift: Zendikar makes one attack with its claws.</text>
+      </legendary>
+    <legendary>
+        <name>Shimmering Shield (Costs 2 Actions)</name>
+      <text>The Felidar–Plane Shift: Zendikar creates a shimmering magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the Felidar–Plane Shift: Zendikar's next turn.</text>
+      </legendary>
+    <legendary>
+        <name>Heal Self (Costs 3 Actions)</name>
+      <text>The Felidar–Plane Shift: Zendikar magically regains 11 (2d8 + 2) hit points.</text>
+      </legendary>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The Felidar–Plane Shift: Zendikar's innate spellcasting ability is Charisma (spell save DC 14). The Felidar–Plane Shift: Zendikar can innately cast the following spells, requiring no components:</text>
+      <text>At will: detect evil and good, light, thaumaturgy</text>
+      <text>1/day each: calm emotions, daylight, dispel evil and good</text>
+      </trait>
+    <spells>detect evil and good, light, thaumaturgy, calm emotions, daylight, dispel evil and good</spells>
+    <description>
+Source: Plane Shift: Zendikar p. 23</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Kraken–Plane Shift: Zendikar</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>230 (20d12+100)</hp>
+    <speed>walk 30 ft., swim 50 ft.</speed>
+    <str>29</str>
+    <dex>14</dex>
+    <con>20</con>
+    <int>16</int>
+    <wis>18</wis>
+    <cha>18</cha>
+    <save></save>
+    <skill>Athletics +14, Perception +9</skill>
+    <passive>19</passive>
+    <languages>Common</languages>
+    <cr>13</cr>
+    <resist>cold</resist>
+    <immune>lightning, thunder</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 120 ft.</senses>
+    <trait>
+        <name>Amphibious</name>
+      <text>The Kraken–Plane Shift: Zendikar can breathe air and water.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The Kraken–Plane Shift: Zendikar makes two attacks: one with its claw and one with its tentacles.</text>
+      </action>
+    <action>
+        <name>Claw</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. 30 (6d6 + 9) slashing damage.</text>
+      <attack>Claw|+14|6d6+9</attack>
+      </action>
+    <action>
+        <name>Tentacles</name>
+      <text>Melee Weapon Attack: +14 to hit, reach 20 ft., one target. 30 (6d6 + 9) bludgeoning damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained.</text>
+      <attack>Tentacles|+14|6d6+9</attack>
+      </action>
+    <action>
+        <name>Lightning Strike (Recharge 5-6)</name>
+      <text>The Kraken–Plane Shift: Zendikar hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Lightning Strike (Recharge 5-6)||12d8</attack>
+      </action>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>The Kraken–Plane Shift: Zendikar's innate spellcasting ability is Charisma (spell save DC 17). The Kraken–Plane Shift: Zendikar can innately cast the following spells, requiring no components:</text>
+      <text>3/day each: control weather, water breathing</text>
+      </trait>
+    <spells>control weather, water breathing</spells>
+    <description>
+Source: Plane Shift: Zendikar p. 25</description>
+    <environment></environment>
+    </monster>
+  </compendium>

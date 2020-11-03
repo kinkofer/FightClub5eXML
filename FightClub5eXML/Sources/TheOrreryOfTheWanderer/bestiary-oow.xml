@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Clockwork Behir</name>
+    <size>H</size>
+    <type>monstrosity</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>17 (natural armor)</ac>
+    <hp>168 (16d12+64)</hp>
+    <speed>walk 50 ft., climb 40 ft.</speed>
+    <str>23</str>
+    <dex>16</dex>
+    <con>18</con>
+    <int>7</int>
+    <wis>14</wis>
+    <cha>12</cha>
+    <save></save>
+    <skill>Perception +6, Stealth +7</skill>
+    <passive>16</passive>
+    <languages>Draconic</languages>
+    <cr>11</cr>
+    <resist></resist>
+    <immune>lightning</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 90 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The behir makes two attacks: one with its bite and one to constrict.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 22 (3d10 + 6) piercing damage.</text>
+      <attack>Bite|+10|3d10+6</attack>
+      </action>
+    <action>
+        <name>Constrict</name>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature. 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.</text>
+      <attack>Constrict|+10|2d10+6</attack>
+      </action>
+    <action>
+        <name>Lightning Breath (Recharge 5-6)</name>
+      <text>The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Lightning Breath (Recharge 5-6)||12d10</attack>
+      </action>
+    <action>
+        <name>Swallow</name>
+      <text>The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.</text>
+      <text>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 173</description>
+    <environment>underdark</environment>
+    </monster>
+  <monster>
+      <name>Dagdra Deepforge</name>
+    <size>M</size>
+    <type>humanoid (dwarf)</type>
+    <alignment>Any alignment</alignment>
+    <ac>13 (chain shirt)</ac>
+    <hp>27 (5d8+5)</hp>
+    <speed>walk 25 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>12</con>
+    <int>13</int>
+    <wis>16</wis>
+    <cha>13</cha>
+    <save></save>
+    <skill>Medicine +7, Persuasion +3, Religion +5</skill>
+    <passive>13</passive>
+    <languages>any two languages, Dwarvish</languages>
+    <cr>2</cr>
+    <resist>poison</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Divine Eminence</name>
+      <text>As a bonus action, Dagdra can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Dagdra expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</text>
+      </trait>
+    <trait>
+        <name>Dwarven Resilience</name>
+      <text>&lt;$title_short_name$&gt; has advantage on saving throws against poison, and has resistance against poison damage.</text>
+      </trait>
+    <action>
+        <name>Mace</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage.</text>
+      <attack>Mace|+2|1d6</attack>
+      </action>
+    <action>
+        <name>Scroll Service (1/Day)</name>
+      <text>As an action, Dagdra draws a spell scroll from her documancy satchel. The scroll contains a spell of up to 3rd level of Dagdra's choice. Only Dagdra can use the scroll, which vanishes after 1 minute.</text>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Dagdra is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). Dagdra has the following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (4 slots): cure wounds, guiding bolt, sanctuary</text>
+      <text>• 2nd level (3 slots): lesser restoration, spiritual weapon</text>
+      <text>• 3rd level (2 slots): dispel magic, spirit guardians</text>
+      </trait>
+    <slots>4, 3, 2</slots>
+    <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, dispel magic, spirit guardians</spells>
+    <description>
+Source: The Orrery of the Wanderer p. 145</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Devil Dog</name>
+    <size>M</size>
+    <type>humanoid (tiefling)</type>
+    <alignment>Any alignment</alignment>
+    <ac>10</ac>
+    <hp>9 (2d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>14</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill>Medicine +4, Religion +2</skill>
+    <passive>12</passive>
+    <languages>any one language (usually Common), Infernal</languages>
+    <cr>1/4</cr>
+    <resist>fire</resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Club|+2|1d4</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Devil Dog is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). Devil Dog has following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (3 slots): bless, cure wounds, sanctuary</text>
+      </trait>
+    <slots>3</slots>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>&lt;$title_short_name$&gt;'s innate spellcasting ability is Charisma (spell save DC 10). &lt;$title_short_name$&gt; can innately cast the following spells, requiring no material components:</text>
+      <text>At will: thaumaturgy</text>
+      <text>1/day each: darkness, hellish rebuke</text>
+      </trait>
+    <spells>light, sacred flame, thaumaturgy, bless, cure wounds, sanctuary, thaumaturgy, darkness, hellish rebuke</spells>
+    <description>
+Source: The Orrery of the Wanderer p. 85</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Enormous Tentacle</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>60 (8d12+8)</hp>
+    <speed>walk 30 ft., swim 30 ft.</speed>
+    <str>19</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>1</int>
+    <wis>10</wis>
+    <cha>3</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages></languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>blindsight 10 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Bite|+6|2d6+4</attack>
+      </action>
+    <action>
+        <name>Constrict</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the tentacle can't constrict another target.</text>
+      <attack>Constrict|+6|2d8+4</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 94</description>
+    <environment>underwater, underdark, forest, swamp, desert</environment>
+    </monster>
+  <monster>
+      <name>Gildha Duhn</name>
+    <size>M</size>
+    <type>humanoid (half-orc)</type>
+    <alignment>Any alignment</alignment>
+    <ac>10</ac>
+    <hp>9 (2d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>14</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill>Medicine +4, Religion +2, Intimidation +1</skill>
+    <passive>12</passive>
+    <languages>any one language (usually Common), Orc</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Relentless Endurance</name>
+      <text>When reduced to 0 hit points, &lt;$title_short_name$&gt; drops to 1 hit point instead (but can't do this again until they finish a long rest).</text>
+      </trait>
+    <trait>
+        <name>Savage Attacks</name>
+      <text>When they score a critical hit, &lt;$title_short_name$&gt; can roll one of the weapon's damage dice and add it to the extra damage of the critical hit.</text>
+      </trait>
+    <action>
+        <name>Club</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Club|+2|1d4</attack>
+      </action>
+    <trait>
+        <name>Spellcasting</name>
+      <text>Gildha is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). Gildha has following cleric spells prepared:</text>
+      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
+      <text>• 1st level (3 slots): bless, cure wounds, sanctuary</text>
+      </trait>
+    <slots>3</slots>
+    <spells>light, sacred flame, thaumaturgy, bless, cure wounds, sanctuary</spells>
+    <description>
+Source: The Orrery of the Wanderer p. 110</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Grunka</name>
+    <size>M</size>
+    <type>humanoid (goblinoid)</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>18 (chain mail, shield)</ac>
+    <hp>11 (2d8+2)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>13</str>
+    <dex>12</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Martial Advantage</name>
+      <text>Once per turn, Grunka can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of Grunka that isn't incapacitated.</text>
+      </trait>
+    <action>
+        <name>Longsword</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.</text>
+      <attack>Longsword|+3|1d8+1</attack>
+      </action>
+    <action>
+        <name>Longbow</name>
+      <text>Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage.</text>
+      <attack>Longbow|+3|1d8+1</attack>
+      </action>
+    <action>
+        <name>Acid Spray Gun (Recharge 5-6)</name>
+      <text>The hobgoblin sprays acid in a 10-foot cone. Each creature in the area must make a DC 10 Dexterity saving throw, taking 7 (2d6) acid damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Acid Spray Gun (Recharge 5-6)||2d6</attack>
+      <text>The spray gun has a tank that can be filled with ten standard vials of acid mixed with water, allowing it to be used five times.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 115</description>
+    <environment>underdark, grassland, forest, hill, desert</environment>
+    </monster>
+  <monster>
+      <name>Jelayne</name>
+    <size>M</size>
+    <type>undead</type>
+    <alignment>Lawful Evil</alignment>
+    <ac>13 (armor scraps)</ac>
+    <hp>13 (2d8+4)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>14</dex>
+    <con>15</con>
+    <int>6</int>
+    <wis>8</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>9</passive>
+    <languages>understands all languages it spoke in life but can't speak</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable>bludgeoning</vulnerable>
+    <conditionImmune>exhaustion, poisoned</conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortsword|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortbow|+4|1d6+2</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 84</description>
+    <environment>urban</environment>
+    </monster>
+  <monster>
+      <name>Mechachimera</name>
+    <size>L</size>
+    <type>monstrosity</type>
+    <alignment>Chaotic Evil</alignment>
+    <ac>14 (natural armor)</ac>
+    <hp>114 (12d10+48)</hp>
+    <speed>walk 30 ft., fly 60 ft.</speed>
+    <str>19</str>
+    <dex>11</dex>
+    <con>19</con>
+    <int>3</int>
+    <wis>14</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Perception +8</skill>
+    <passive>18</passive>
+    <languages>understands Draconic but can't speak</languages>
+    <cr>6</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Multiattack</name>
+      <text>The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.</text>
+      </action>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) piercing damage.</text>
+      <attack>Bite|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Horns</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 10 (1d12 + 4) bludgeoning damage.</text>
+      <attack>Horns|+7|1d12+4</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <attack>Claws|+7|2d6+4</attack>
+      </action>
+    <action>
+        <name>Fire Breath (Recharge 5-6)</name>
+      <text>The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Fire Breath (Recharge 5-6)||7d8</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 134</description>
+    <environment>underdark, mountain, grassland, hill</environment>
+    </monster>
+  <monster>
+      <name>Onyx</name>
+    <size>H</size>
+    <type>beast</type>
+    <alignment>Unaligned</alignment>
+    <ac>12</ac>
+    <hp>2 (1d4)</hp>
+    <speed>walk 400 ft., climb 200 ft.</speed>
+    <str>3</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>3</int>
+    <wis>12</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill>Perception +3, Stealth +4</skill>
+    <passive>13</passive>
+    <languages></languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Keen Smell</name>
+      <text>The cat has advantage on Wisdom (Perception) checks that rely on smell.</text>
+      </trait>
+    <trait>
+        <name>Relative Size</name>
+      <text>Any damage Onyx would take is reduced to 0. She has advantage on ability checks and saving throws.</text>
+      </trait>
+    <trait>
+        <name>Dealing with Onyx</name>
+      <text>Onyx cannot be overcome or killed by combat. Any weapon attack against her that hits AC 12 makes contact but deals no lasting damage. However, if the attack would deal 10 or more damage, Onyx has disadvantage on attack rolls until the end of her next turn. If Onyx would take 10 or more damage from spells or other effects, it yields the same result. Spells that impose conditions function normally against Onyx, but those conditions end automatically at the end of the cat's next turn.</text>
+      </trait>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: +7 to hit, reach 20 ft., one target. 11 (2d10) slashing damage.</text>
+      <attack>Claws|+7|2d10</attack>
+      </action>
+    <description>Onyx cannot be overcome or killed by combat. Any weapon attack against her that hits AC 12 makes contact but deals no lasting damage. However, if the attack would deal 10 or more damage, Onyx has disadvantage on attack rolls until the end of her next turn. If Onyx would take 10 or more damage from spells or other effects, it yields the same result. Spells that impose conditions function normally against Onyx, but those conditions end automatically at the end of the cats next turn.
+Source: The Orrery of the Wanderer p. 186</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Replica Duodrone</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>11 (2d8+2)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>11</str>
+    <dex>13</dex>
+    <con>12</con>
+    <int>6</int>
+    <wis>10</wis>
+    <cha>7</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Modron</languages>
+    <cr>1/4</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The duodrone can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+      </trait>
+    <trait>
+        <name>Dismantlable</name>
+      <text>If the replica duodrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The duodrone makes two fist attacks or two javelin attacks.</text>
+      </action>
+    <action>
+        <name>Fist</name>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+      <attack>Fist|+2|1d4</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120 ft., one target. 4 (1d6 + 1) piercing damage.</text>
+      <attack>Javelin|+3|1d6+1</attack>
+      </action>
+    <action>
+        <name>Variant: Rogue Modrons</name>
+      <text>A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.</text>
+      <text>A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 132</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Replica Monodrone</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>5 (1d8+1)</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>10</str>
+    <dex>13</dex>
+    <con>12</con>
+    <int>4</int>
+    <wis>10</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Modron</languages>
+    <cr>1/8</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The monodrone can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+      </trait>
+    <trait>
+        <name>Dismantlable</name>
+      <text>If the replica monodrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying.</text>
+      </trait>
+    <action>
+        <name>Dagger</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage.</text>
+      <attack>Dagger|+3|1d4+1</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. 3 (1d6) piercing damage.</text>
+      <attack>Javelin|+2|1d6</attack>
+      </action>
+    <action>
+        <name>Variant: Rogue Modrons</name>
+      <text>A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.</text>
+      <text>A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 132</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Replica Pentadrone</name>
+    <size>L</size>
+    <type>construct</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>32 (5d10+5)</hp>
+    <speed>walk 40 ft.</speed>
+    <str>15</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>13</cha>
+    <save></save>
+    <skill>Perception +4</skill>
+    <passive>14</passive>
+    <languages>Modron</languages>
+    <cr>2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The pentadrone can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+      </trait>
+    <trait>
+        <name>Dismantlable</name>
+      <text>If the replica pentadrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The pentadrone makes five arm attacks.</text>
+      </action>
+    <action>
+        <name>Arm</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage.</text>
+      <attack>Arm|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Paralysis Gas (Recharge 5-6)</name>
+      <text>The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <action>
+        <name>Variant: Rogue Modrons</name>
+      <text>A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.</text>
+      <text>A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 132</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Replica Quadrone</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>22 (4d8+4)</hp>
+    <speed>walk 30 ft., fly 30 ft.</speed>
+    <str>12</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>10</int>
+    <wis>10</wis>
+    <cha>11</cha>
+    <save></save>
+    <skill>Perception +2</skill>
+    <passive>12</passive>
+    <languages>Modron</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The quadrone can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+      </trait>
+    <trait>
+        <name>Dismantlable</name>
+      <text>If the replica quadrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The quadrone makes two fist attacks or four shortbow attacks.</text>
+      </action>
+    <action>
+        <name>Fist</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) bludgeoning damage.</text>
+      <attack>Fist|+3|1d4+1</attack>
+      </action>
+    <action>
+        <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortbow|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Variant: Rogue Modrons</name>
+      <text>A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.</text>
+      <text>A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 132</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Replica Tridrone</name>
+    <size>M</size>
+    <type>construct</type>
+    <alignment>Lawful Neutral</alignment>
+    <ac>15 (natural armor)</ac>
+    <hp>16 (3d8+3)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>12</str>
+    <dex>13</dex>
+    <con>12</con>
+    <int>9</int>
+    <wis>10</wis>
+    <cha>9</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>Modron</languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>truesight 120 ft.</senses>
+    <trait>
+        <name>Axiomatic Mind</name>
+      <text>The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+      </trait>
+    <trait>
+        <name>Dismantlable</name>
+      <text>If the replica tridrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The tridrone makes three fist attacks or three javelin attacks.</text>
+      </action>
+    <action>
+        <name>Fist</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) bludgeoning damage.</text>
+      <attack>Fist|+3|1d4+1</attack>
+      </action>
+    <action>
+        <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120 ft., one target. 4 (1d6 + 1) piercing damage.</text>
+      <attack>Javelin|+3|1d6+1</attack>
+      </action>
+    <action>
+        <name>Variant: Rogue Modrons</name>
+      <text>A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.</text>
+      <text>A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.</text>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 132</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Stomping Foot</name>
+    <size>T</size>
+    <type>undead</type>
+    <alignment>Neutral Evil</alignment>
+    <ac>12</ac>
+    <hp>2 (1d4)</hp>
+    <speed>walk 20 ft., climb 20 ft.</speed>
+    <str>13</str>
+    <dex>14</dex>
+    <con>11</con>
+    <int>5</int>
+    <wis>10</wis>
+    <cha>4</cha>
+    <save></save>
+    <skill></skill>
+    <passive>10</passive>
+    <languages>understands Common but can't speak</languages>
+    <cr>0</cr>
+    <resist></resist>
+    <immune>poison</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
+    <senses>blindsight 30 ft. (blind beyond this radius)</senses>
+    <trait>
+        <name>Turn Immunity</name>
+      <text>The foot is immune to effects that turn undead.</text>
+      </trait>
+    <action>
+        <name>foot</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) bludgeoning or slashing damage (foot's choice).</text>
+      <attack>foot|+3|1d4+1</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 92</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Two Dry Cloaks</name>
+    <size>M</size>
+    <type>humanoid (tabaxi)</type>
+    <alignment>Any alignment</alignment>
+    <ac>12</ac>
+    <hp>27 (6d8)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>10</str>
+    <dex>15</dex>
+    <con>10</con>
+    <int>12</int>
+    <wis>14</wis>
+    <cha>16</cha>
+    <save></save>
+    <skill>Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of hand +4, Stealth +4</skill>
+    <passive>16</passive>
+    <languages>any two languages</languages>
+    <cr>1</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <trait>
+        <name>Cunning Action</name>
+      <text>On each of its turns, Two Dry Cloaks can use a bonus action to take the Dash, Disengage, or Hide action.</text>
+      </trait>
+    <trait>
+        <name>Sneak Attack (1/Turn)</name>
+      <text>Two Dry Cloaks deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Two Dry Cloaks that isn't incapacitated and Two Dry Cloaks doesn't have disadvantage on the attack roll.</text>
+      </trait>
+    <trait>
+        <name>Feline Agility</name>
+      <text>When &lt;$title_short_name$&gt; moves on its turn in combat, they can double their speed until the end of the turn. Once they uses this ability, &lt;$title_short_name$&gt; can't use it again until they moves 0 feet on one of their turns.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>Two Dry Cloaks makes two melee attacks.</text>
+      </action>
+    <action>
+        <name>Shortsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Shortsword|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Hand Crossbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <attack>Hand Crossbow|+4|1d6+2</attack>
+      </action>
+    <action>
+        <name>Claws</name>
+      <text>Melee Weapon Attack: ++2 to hit, reach 5 ft., one target. 2 (1d4) slashing damage.</text>
+      <attack>Claws|+2|1d4</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 162</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Undead Cockatrice</name>
+    <size>S</size>
+    <type>monstrosity</type>
+    <alignment>Unaligned</alignment>
+    <ac>11</ac>
+    <hp>27 (6d6+6)</hp>
+    <speed>walk 20 ft., fly 40 ft.</speed>
+    <str>6</str>
+    <dex>12</dex>
+    <con>12</con>
+    <int>2</int>
+    <wis>13</wis>
+    <cha>5</cha>
+    <save></save>
+    <skill></skill>
+    <passive>11</passive>
+    <languages></languages>
+    <cr>1/2</cr>
+    <resist></resist>
+    <immune></immune>
+    <vulnerable></vulnerable>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <action>
+        <name>Bite</name>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</text>
+      <attack>Bite|+3|1d4+1</attack>
+      </action>
+    <description>
+Source: The Orrery of the Wanderer p. 114</description>
+    <environment>grassland</environment>
+    </monster>
+  </compendium>
