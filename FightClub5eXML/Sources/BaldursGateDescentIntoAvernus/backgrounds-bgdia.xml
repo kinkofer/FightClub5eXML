@@ -1,0 +1,1096 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Baldur's Gate Acolyte</name>
+    <proficiency>Insight, Religion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Insight, Religion
+• Languages: Two of your choice
+• Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+Source: Baldur's Gate: Descent Into Avernus p. 202</text>
+      </trait>
+    <trait>
+        <name>Feature: Shelter of the Faithful</name>
+      <text>As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
+You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Religious Community</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You're tightly connected with the religious community of Baldur's Gate. You know if a deity has a following in the city and any places that faith openly congregates and the neighborhoods those faithful typically inhabit. While this isn't remarkable for most of the city's larger faiths, keeping track of the hundreds of religions newcomers bring with them is no mean feat.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+d8 | Personality Trait
+1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.
+2 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
+3 | I see omens in every event and action. The gods try to speak to us, we just need to listen.
+4 | Nothing can shake my optimistic attitude.
+5 | I quote (or misquote) sacred texts and proverbs in almost every situation.
+6 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
+7 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me.
+8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world.
+
+d6 | Ideal
+1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
+2 | Charity. I always try to help those in need, no matter what the personal cost. (Good)
+3 | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)
+4 | Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)
+5 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)
+6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)
+
+d6 | Bond
+1 | I would die to recover an ancient relic of my faith that was lost long ago.
+2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
+3 | I owe my life to the priest who took me in when my parents died.
+4 | Everything I do is for the common people.
+5 | I will do anything to protect the temple where I served.
+6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
+
+d6 | Flaw
+1 | I judge others harshly, and myself even more severely.
+2 | I put too much trust in those who wield power within my temple's hierarchy.
+3 | My piety sometimes leads me to blindly trust those that profess faith in my god.
+4 | I am inflexible in my thinking.
+5 | I am suspicious of strangers and expect the worst of them.
+6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Charlatan</name>
+    <proficiency>Deception, Sleight Of Hand</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Deception, Sleight of Hand
+• Tool Proficiencies: Disguise kit, Forgery kit
+• Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
+Source: Baldur's Gate: Descent Into Avernus p. 202</text>
+      </trait>
+    <trait>
+        <name>Feature: False Identity</name>
+      <text>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Long-Lost Heir</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You're well-versed in the mannerisms and idiosyncrasies of Baldurian patriars and other nobles, imitating them smoothly enough to convince even the snootiest family heads of your authenticity. You're skilled at posing as the long-lost heir to some imaginary or extinguished patriar lineage.
+Because of your skill in passing yourself off as a patriar, you have a Watch token that allows you alone into the Upper City of Baldur's Gate. You might be able to bluff others through with you, or even convince members of the Watch that you're a patriar. However, any true test of your authenticity is likely to reveal your deception.
+</text>
+      </trait>
+    <trait>
+        <name>Favorite Schemes</name>
+      <text>Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
+d6 | Scam
+1 | I cheat at games of chance.
+2 | I shave coins or forge documents.
+3 | I insinuate myself into people's lives to prey on their weakness and secure their fortunes.
+4 | I put on new identities like clothes.
+5 | I run sleight-of-hand cons on street corners.
+6 | I convince people that worthless junk is worth their hard-earned money.
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
+d8 | Personality Trait
+1 | I fall in and out of love easily, and am always pursuing someone.
+2 | I have a joke for every occasion, especially occasions where humor is inappropriate.
+3 | Flattery is my preferred trick for getting what I want.
+4 | I'm a born gambler who can't resist taking a risk for a potential payoff.
+5 | I lie about almost everything, even when there's no reason to.
+6 | Sarcasm and insults are my weapons of choice.
+7 | I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment.
+8 | I pocket anything I see that might have some value.
+
+d6 | Ideal
+1 | Independence. I am a free spirit—no one tells me what to do. (Chaotic)
+2 | Fairness. I never target people who can't afford to lose a few coins. (Lawful)
+3 | Charity. I distribute the money I acquire to the people who really need it. (Good)
+4 | Creativity. I never run the same con twice. (Chaotic)
+5 | Friendship. Material goods come and go. Bonds of friendship last forever. (Good)
+6 | Aspiration. I'm determined to make something of myself. (Any)
+
+d6 | Bond
+1 | I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.
+2 | I owe everything to my mentor—a horrible person who's probably rotting in jail somewhere.
+3 | Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.
+4 | I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.
+5 | A powerful person killed someone I love. Some day soon, I'll have my revenge.
+6 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself.
+
+d6 | Flaw
+1 | I can't resist a pretty face.
+2 | I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.
+3 | I'm convinced that no one could ever fool me the way I fool others.
+4 | I'm too greedy for my own good. I can't resist taking a risk if there's money involved.
+5 | I can't resist swindling people who are more powerful than me.
+6 | I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Criminal</name>
+    <proficiency>Deception, Stealth</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Deception, Stealth
+• Tool Proficiencies: One type of gaming set, thieves' tools
+• Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
+Source: Baldur's Gate: Descent Into Avernus p. 202</text>
+      </trait>
+    <trait>
+        <name>Feature: Criminal Contact</name>
+      <text>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Criminal Connections</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+In Baldur's Gate, crime is just another business. As a result, you can arrange a meeting with a low-ranking operative of nearly any business, patriar family, crew, government institution, or—certainly—the Guild. This operative will hear you out and, at their discretion, take your information or request up their chain of command. These meetings almost always occur in shady venues.
+</text>
+      </trait>
+    <trait>
+        <name>Criminal Origins</name>
+      <text>Criminals are pervasive in Baldur's Gate. If you wish, you may roll on the Criminal Origins table for an event that began your life of crime.
+Criminal Origins
+d8 | Origin
+1 | You crippled a Guild kingpin's cousin without realizing the connection. You got the Guild to back off demands for your death by offering to make amends by working for the criminals, but even so the kingpin still plots a personal revenge.
+2 | The Guild took over your family business, ran it into the ground, and burned the building for insurance money. You were driven into crime yourself, but you'll never work for the Guild. You take special joy in hitting its targets first, tipping off its con victims and otherwise frustrating its schemes.
+3 | It's always been about money. You're not paid what you're worth, working for someone who has more than they deserve. But the Guild offered you a way to fix that. You keep doing what you've always done—guard work, dock labor, business accounting—but what you learn you pass on to the Guild.
+4 | The inequality of Baldur's Gate has driven you to take matters into your own hands. You steal from patriars and rich Lower City residents, funneling the money through charitable fronts to help the needy.
+5 | You got into crime as a bored patriar looking for excitement. Your family has no idea of your activities, and neither does the Guild. If either of them ever finds out, your life as you know it will be over.
+6 | A close friend or relative joined the Guild and vanished mysteriously. You've worked your way into the lower ranks hoping to find out what happened to them.
+7 | You've always wanted to be a member of the Guild. As a child, you looked up to the Guild members' swagger, their flashy dress, and their competence, which all marked them as different from the other adults you knew. As soon as you could, you joined the organization.
+8 | To you, this is just a way to earn a living. You go to work, do what needs to be done, and get paid. Anyone who pursues crime for thrill-seeking, to strike back at unjust authorities, or anything else are amateurs, and they're liable to get you arrested or killed with their idiocy.
+
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
+d8 | Specialty
+1 | Blackmailer
+2 | Burglar
+3 | Enforcer
+4 | Fence
+5 | Highway robber
+6 | Hired killer
+7 | Pickpocket
+8 | Smuggler
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.
+d8 | Personality Trait
+1 | I always have a plan for when things go wrong.
+2 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.
+3 | The first thing I do in a new place is note the locations of everything valuable—or where such things could be hidden.
+4 | I would rather make a new friend than a new enemy.
+5 | I am incredibly slow to trust. Those who seem the fairest often have the most to hide.
+6 | I don't pay attention to the risks in a situation. Never tell me the odds.
+7 | The best way to get me to do something is to tell me I can't do it.
+8 | I blow up at the slightest insult.
+
+d6 | Ideal
+1 | Honor. I don't steal from others in the trade. (Lawful)
+2 | Freedom. Chains are meant to be broken, as are those who would forge them. (Chaotic)
+3 | Charity. I steal from the wealthy so that I can help people in need. (Good)
+4 | Greed. I will do whatever it takes to become wealthy. (Evil)
+5 | People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)
+6 | Redemption. There's a spark of good in everyone. (Good)
+
+d6 | Bond
+1 | I'm trying to pay off an old debt I owe to a generous benefactor.
+2 | My ill-gotten gains go to support my family.
+3 | Something important was taken from me, and I aim to steal it back.
+4 | I will become the greatest thief that ever lived.
+5 | I'm guilty of a terrible crime. I hope I can redeem myself for it.
+6 | Someone I loved died because of a mistake I made. That will never happen again.
+
+d6 | Flaw
+1 | When I see something valuable, I can't think about anything but how to steal it.
+2 | When faced with a choice between money and my friends, I usually choose the money.
+3 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+4 | I have a 'tell' that reveals when I'm lying.
+5 | I turn tail and run when things look bad.
+6 | An innocent person is in prison for a crime that I committed. I'm okay with that.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Entertainer</name>
+    <proficiency>Acrobatics, Performance</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Acrobatics, Performance
+• Tool Proficiencies: Disguise kit, one type of musical instrument
+• Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
+Source: Baldur's Gate: Descent Into Avernus p. 202</text>
+      </trait>
+    <trait>
+        <name>Feature: By Popular Demand</name>
+      <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Backstage Pass</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You've learned that most of the real business of entertainment (or any other venture) happens behind the scenes. It's easy for you to case what sorts of audiences attend what venue—like how toughs gather at the Blushing Mermaid or how brash patriars congregate at the Helm and Cloak. After a successful performance, you may meet an enthusiastic member of the crowd—someone of an occupation or social class that frequents the establishment. This contact is delighted to talk with you, and to listen.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
+d10 | Routines
+1 | Actor
+2 | Dancer
+3 | Fire-eater
+4 | Jester
+5 | Juggler
+6 | Instrumentalist
+7 | Poet
+8 | Singer
+9 | Storyteller
+10 | Tumbler
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
+d8 | Personality Trait
+1 | I know a story relevant to almost every situation.
+2 | Whenever I come to a new place, I collect local rumors and spread gossip.
+3 | I'm a hopeless romantic, always searching for that "special someone".
+4 | Nobody stays angry at me or around me for long, since I can defuse any amount of tension.
+5 | I love a good insult, even one directed at me.
+6 | I get bitter if I'm not the center of attention.
+7 | I'll settle for nothing less than perfection.
+8 | I change my mood or my mind as quickly as I change key in a song.
+
+d6 | Ideal
+1 | Beauty. When I perform, I make the world better than it was. (Good)
+2 | Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)
+3 | Creativity. The world is in need of new ideas and bold action. (Chaotic)
+4 | Greed. I'm only in it for the money and fame. (Evil)
+5 | People. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)
+6 | Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any)
+
+d6 | Bond
+1 | My instrument is my most treasured possession, and it reminds me of someone I love.
+2 | Someone stole my precious instrument, and someday I'll get it back.
+3 | I want to be famous, whatever it takes.
+4 | I idolize a hero of the old tales and measure my deeds against that person's.
+5 | I will do anything to prove myself superior to my hated rival.
+6 | I would do anything for the other members of my old troupe.
+
+d6 | Flaw
+1 | I'll do anything to win fame and renown.
+2 | I'm a sucker for a pretty face.
+3 | A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.
+4 | I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.
+5 | I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.
+6 | Despite my best efforts, I am unreliable to my friends.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Folk Hero</name>
+    <proficiency>Animal Handling, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Animal Handling, Survival
+• Tool Proficiencies: One type of artisan's tools, vehicles (land)
+• Equipment: A set of artisan's tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Rustic Hospitality</name>
+      <text>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Social Vengeance</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You've lived your entire life in the Lower or Outer City of Baldur's Gate. You grew up seeing arrogant patriars flaunt their wealth while your hardworking neighbors struggled. As a result, you know how eager commoners in Baldur's Gate are to see any patriar get what they deserve. While in a busy part of the Lower City or Outer City of Baldur's Gate, you can spend 2d10 minutes to convince 1d6 commoner to perform a non-illegal act that inconveniences a member of the Watch or Flaming Fist, a patriar, or some other wealthy looking individual.
+</text>
+      </trait>
+    <trait>
+        <name>Folk Hero Origins</name>
+      <text>Folk heroes might rise from a variety of circumstances, or their origins might be a secret as they do their work anonymously. If you wish, you may roll on the Folk Hero Origins table for an event that started you down your heroic path.
+Folk Hero Origins
+d6 | Origin
+1 | You helped get healing for a sick child. Now the sick come to you, knowing you'll help them find a way to salvation.
+2 | You helped break a Guild protection racket afflicting a community of immigrants in the Outer City. Now, you can't travel through that part of the city without your dozen adopted grandparents inviting you in for a meal.
+3 | Seeing a lost patriar after dark in the Outer City, you guided the wayward noble through back streets to safety. The patriar repaid your help by paying for improved roofs and lamps in your neighborhood, causing the entire community to celebrate your deed.
+4 | Fueled by alcohol, you faced down a carrion crawler that slunk out of the sewer, knocking it out with a single punch. Since then, however, the ale you once credited with your heroism has drowned it, and even your most patient admirers are losing hope. You're hoping for one last chance to win back the goodwill you've drunk away.
+5 | You once defeated a raging bugbear with a hand mirror, a mounted deer's head, and two kicks to the groin. Later, you and the bugbear became friends.
+6 | Last winter, you dove into the frigid river to haul out a foundering fishing boat with your bare hands, saving all aboard. Now, everyone on the docks knows your name.
+
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.
+d10 | Defining Event
+1 | I stood up to a tyrant's agents.
+2 | I saved people during a natural disaster.
+3 | I stood alone against a terrible monster.
+4 | I stole from a corrupt merchant to help the poor.
+5 | I led a militia to fight of an invading army.
+6 | I broke into a tyrant's castle and stole weapons to arm the people.
+7 | I trained the peasantry to use farming implements as weapons against a tyrant's soldiers.
+8 | A lord rescinded an unpopular decree after I led a symbolic act of protest against it.
+9 | A celestial, fey, or similar creature gave me a blessing or revealed my secret origin.
+10 | Recruited into a lord's army, I rose to leadership and was commended for my heroism.
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.
+d8 | Personality Trait
+1 | I judge people by their actions, not their words.
+2 | If someone is in trouble, I'm always ready to lend help.
+3 | When I set my mind to something, I follow through no matter what gets in my way.
+4 | I have a strong sense of fair play and always try to find the most equitable solution to arguments.
+5 | I'm confident in my own abilities and do what I can to instill confidence in others.
+6 | Thinking is for other people. I prefer action.
+7 | I misuse long words in an attempt to sound smarter.
+8 | I get bored easily. When am I going to get on with my destiny?
+
+d6 | Ideal
+1 | Respect. People deserve to be treated with dignity and respect. (Good)
+2 | Fairness. No one should get preferential treatment before the law, and no one is above the law. (Lawful)
+3 | Freedom. Tyrants must not be allowed to oppress the people. (Chaotic)
+4 | Might. If I become strong, I can take what I want—what I deserve. (Evil)
+5 | Sincerity. There's no good in pretending to be something I'm not. (Neutral)
+6 | Destiny. Nothing and no one can steer me away from my higher calling. (Any)
+
+d6 | Bond
+1 | I have a family, but I have no idea where they are. One day, I hope to see them again.
+2 | I worked the land, I love the land, and I will protect the land.
+3 | A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.
+4 | My tools are symbols of my past life, and I carry them so that I will never forget my roots.
+5 | I protect those who cannot protect themselves.
+6 | I wish my childhood sweetheart had come with me to pursue my destiny.
+
+d6 | Flaw
+1 | The tyrant who rules my land will stop at nothing to see me killed.
+2 | I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
+3 | The people who knew me when I was young know my shameful secret, so I can never go home again.
+4 | I have a weakness for the vices of the city, especially hard drink.
+5 | Secretly, I believe that things would be better if I were a tyrant lording over the land.
+6 | I have trouble trusting in my allies.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Guild Artisan</name>
+    <proficiency>Insight, Persuasion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Insight, Persuasion
+• Tool Proficiencies: One type of artisan's tools
+• Languages: One of your choice
+• Equipment: A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, and a belt pouch containing 15 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Guild Membership</name>
+      <text>As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
+You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Professional Courtesy</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You're familiar with the city's crews, their territories, and inter-crew politics. Choose one of the three districts of Baldur's Gate: the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district's neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
+d20 | Guild Business
+1 | Alchemists and apothecaries
+2 | Armorers, locksmiths, and finesmiths
+3 | Brewers, distillers, and vintners
+4 | Calligraphers, scribes, and scriveners
+5 | Carpenters, roofers, and plasterers
+6 | Cartographers, surveyors, and chart-makers
+7 | Cobblers and shoemakers
+8 | Cooks and bakers
+9 | Glassblowers and glaziers
+10 | Jewelers and gemcutters
+11 | Leatherworkers, skinners, and tanners
+12 | Masons and stonecutters
+13 | Painters, limners, and sign-makers
+14 | Potters and tile-makers
+15 | Shipwrights and sail-makers
+16 | Smiths and metal-forgers
+17 | Tinkers, pewterers, and casters
+18 | Wagon-makers and wheelwrights
+19 | Weavers and dyers
+20 | Woodcarvers, coopers, and bowyers
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
+d8 | Personality Trait
+1 | I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist.
+2 | I'm a snob who looks down on those who can't appreciate fine art.
+3 | I always want to know how things work and what makes people tick.
+4 | I'm full of witty aphorisms and have a proverb for every occasion.
+5 | I'm rude to people who lack my commitment to hard work and fair play.
+6 | I like to talk at length about my profession.
+7 | I don't part with my money easily and will haggle tirelessly to get the best deal possible.
+8 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me.
+
+d6 | Ideal
+1 | Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)
+2 | Generosity. My talents were given to me so that I could use them to benefit the world. (Good)
+3 | Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)
+4 | Greed. I'm only in it for the money. (Evil)
+5 | People. I'm committed to the people I care about, not to ideals. (Neutral)
+6 | Aspiration. I work hard to be the best there is at my craft. (Any)
+
+d6 | Bond
+1 | The workshop where I learned my trade is the most important place in the world to me.
+2 | I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy.
+3 | I owe my guild a great debt for forging me into the person I am today.
+4 | I pursue wealth to secure someone's love.
+5 | One day I will return to my guild and prove that I am the greatest artisan of them all.
+6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.
+
+d6 | Flaw
+1 | I'll do anything to get my hands on something rare or priceless.
+2 | I'm quick to assume that someone is trying to cheat me.
+3 | No one must ever learn that I once stole money from guild coffers.
+4 | I'm never satisfied with what I have—I always want more.
+5 | I would kill to acquire a noble title.
+6 | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Hermit</name>
+    <proficiency>Medicine, Religion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Medicine, Religion
+• Tool Proficiencies: Herbalism kit
+• Languages: One of your choice
+• Equipment: A Map or Scroll Case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Discovery</name>
+      <text>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.
+Work with your DM to determine the details of your discovery and its impact on the campaign.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: The Real City</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You know the Baldur's Gate most Baldurians ignore, the dog-eat-dog world of the homeless and unfortunate. You know where to go in the Lower City and Outer City for anonymity. In these slums and alley camps, you can get a damp bed and a bad meal, but also a degree of privacy and no questions asked. Living here isn't comfortable, but it's unlikely anyone will find you—and you can stay as long as you want.
+</text>
+      </trait>
+    <trait>
+        <name>Hermit Origins</name>
+      <text>Any number of personal choices or ill-fated circumstances might have led you to turn away from society. You may, if you wish, choose or roll an origin event from the Hermit Origins table.
+Hermit Origins
+d6 | Origin
+1 | You led an ill-fated expedition into the Riverveins. Your friends were swept away by flooding, and you've never been able to shake the guilt of causing their deaths over a frivolous lark. You've maintained a solitary vigil outside the cavern entrance ever since.
+2 | You crossed the Guild in a bad way. Fortunately, its members think you're dead. Less fortunately, maintaining that deception might require you to stay in hiding until you actually are.
+3 | You study the puzzles of mortal natures. You've seen followers of evil deities perform miracles for the helpless at Twin Songs, and you've seen patriars who worship good deities turn their backs on the poor daily. Bearing witness to such things, and meditating on their contradictions, fills your hours.
+4 | You tend to some part of the city's forgotten history: the unmarked graves in Cliffside Cemetery, the crumbling remains of dead patriar families' manors, or a collection of religious texts stuffed into an attic and forgotten when a believer's patron deity died. In this solitary work, you've learned secrets no one else knows.
+5 | You killed a patriar's scion in an illegal duel. The family swore revenge, and you fled to the slums rather than risk bringing their wrath down on your kin.
+6 | You aren't originally from Baldur's Gate. You came here seeking something else, only to learn that the quest that drove you had become impossible to fulfill—its object was destroyed or its purpose was negated by some superseding event. Suddenly directionless and unable to return to your homeland, you have lingered, adrift, in this wretched city.
+
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
+d8 | Life of Seclusion
+1 | I was searching for spiritual enlightenment.
+2 | I was partaking of communal living in accordance with the dictates of a religious order.
+3 | I was exiled for a crime I didn't commit.
+4 | I retreated from society after a life-altering event.
+5 | I needed a quiet place to work on my art, literature, music, or manifesto.
+6 | I needed to commune with nature, far from civilization.
+7 | I was the caretaker of an ancient ruin or relic.
+8 | I was a pilgrim in search of a person, place, or relic of spiritual significance.
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.
+d8 | Personality Trait
+1 | I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.
+2 | I am utterly serene, even in the face of disaster.
+3 | The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.
+4 | I feel tremendous empathy for all who suffer.
+5 | I'm oblivious to etiquette and social expectations.
+6 | I connect everything that happens to me to a grand, cosmic plan.
+7 | I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.
+8 | I am working on a grand philosophical theory and love sharing my ideas.
+
+d6 | Ideal
+1 | Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)
+2 | Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)
+3 | Free Thinking. Inquiry and curiosity are the pillars of progress. (Chaotic)
+4 | Power. Solitude and contemplation are paths toward mystical or magical power. (Evil)
+5 | Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral)
+6 | Self-Knowledge. If you know yourself, there's nothing left to know. (Any)
+
+d6 | Bond
+1 | Nothing is more important than the other members of my hermitage, order, or association.
+2 | I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them.
+3 | I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me.
+4 | I entered seclusion because I loved someone I could not have.
+5 | Should my discovery come to light, it could bring ruin to the world.
+6 | My isolation gave me great insight into a great evil that only I can destroy.
+
+d6 | Flaw
+1 | Now that I've returned to the world, I enjoy its delights a little too much.
+2 | I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.
+3 | I am dogmatic in my thoughts and philosophy.
+4 | I let my need to win arguments overshadow friendships and harmony.
+5 | I'd risk too much to uncover a lost bit of knowledge.
+6 | I like keeping secrets and won't share them with anyone.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Noble</name>
+    <proficiency>History, Persuasion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: History, Persuasion
+• Tool Proficiencies: One type of gaming set
+• Languages: One of your choice
+• Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Position of Privilege</name>
+      <text>Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Patriar</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+As a member of one of the elite families of Baldur's Gate, you may pass through city gates without paying tolls, mingle among the Gate's nobility unquestioned, and impress those on the lookout for wealthy patrons. You are welcome in the Upper City and may stay there after dark without being harassed or evicted. Your word is accepted over others' without question, and any corruption among guards or government officials tends to work in your favor, not against you—at least until you make some effort to expose it.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
+d8 | Personality Trait
+1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.
+2 | The common folk love me for my kindness and generosity.
+3 | No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.
+4 | I take great pains to always look my best and follow the latest fashions.
+5 | I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations.
+6 | Despite my noble birth, I do not place myself above other folk. We all have the same blood.
+7 | My favor, once lost, is lost forever.
+8 | If you do me an injury, I will crush you, ruin your name, and salt your fields.
+
+d6 | Ideal
+1 | Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)
+2 | Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)
+3 | Independence. I must prove that I can handle myself without coddling from my family. (Chaotic)
+4 | Power. If I can attain more power, no one will tell me what to do. (Evil)
+5 | Family. Blood runs thicker than water. (Any)
+6 | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good)
+
+d6 | Bond
+1 | I will face any challenge to win the approval of my family.
+2 | My house's alliance with another noble family must be sustained at all costs.
+3 | Nothing is more important than the other members of my family.
+4 | I am in love with the heir of a family that my family despises.
+5 | My loyalty to my sovereign is unwavering.
+6 | The common folk must see me as a hero of the people.
+
+d6 | Flaw
+1 | I secretly believe that everyone is beneath me.
+2 | I hide a truly scandalous secret that could ruin my family forever.
+3 | I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.
+4 | I have an insatiable desire for carnal pleasures.
+5 | In fact, the world does revolve around me.
+6 | By my words and actions, I often bring shame to my family.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Outlander</name>
+    <proficiency>Athletics, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Athletics, Survival
+• Tool Proficiencies: One type of musical instrument
+• Languages: One of your choice
+• Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Wanderer</name>
+      <text>You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Immigrant Experience</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+Even after your short time in Baldur's Gate, you've learned the city holds more walls and gates than those the Watch and Flaming Fist patrols. You are known within the city's immigrant communities. Should you ever need to learn about a foreign land, people, tradition, or history, you know where to find someone with firsthand experience—likely somewhere in the Outer City.
+</text>
+      </trait>
+    <trait>
+        <name>Outlander Origins</name>
+      <text>Foreigners of all kinds come to Baldur's Gate daily, drawn by countless reasons from countless lands. The Outlander Origins table provides ideas for how your character might have come to Baldur's Gate.
+Outlander Origins
+d6 | Origin
+1 | Someone stole something precious from your people. You tracked the thief to the city gates, but finding clues in an urban environment is very different from tracking someone across the wilderness. You don't know where to go from here, but your people need you to succeed.
+2 | You've always been fascinated by the glitter and glamor of city life, so different from the slow pace of life in your homeland. Now you're here, ready to make your mark in the world, but unsure how to begin.
+3 | War, plague, famine, or a marauding monster ravaged your home, forcing you to flee for your life. You don't even know how many of your people survived or where to find them. Alone or accompanied by a handful of equally bereft survivors, you must navigate a new life that you never asked for.
+4 | You were captured by kidnappers and taken far from your home. The Knights of the Unicorn freed you and brought you here, but now you're on your own.
+5 | You were exiled for breaking a trivial-seeming taboo. For this seemingly minor transgression, you lost your friends, family, and homeland in one fell swoop, and were given little choice but to strike out on your own.
+6 | A peddler once brought something astonishing to your homeland—a Gondan clockwork, shimmering cloth of gold, a trained speaking bird, or some other small wonder—and told you that it came from Baldur's Gate. You've come to see the source of such wonders, and perhaps learn to create them.
+
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
+d10 | Origin
+1 | Forester
+2 | Trapper
+3 | Homesteader
+4 | Guide
+5 | Exile or outcast
+6 | Bounty hunter
+7 | Pilgrim
+8 | Tribal nomad
+9 | Hunter-gatherer
+10 | Tribal marauder
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
+d8 | Personality Trait
+1 |  I'm driven by a wanderlust that led me away from home.
+2 | I watch over my friends as if they were a litter of newborn pups.
+3 | I once ran twenty-five miles without stopping to warn to my clan of an approaching orc horde. I'd do it again if I had to.
+4 | I have a lesson for every situation, drawn from observing nature.
+5 | I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear.
+6 | I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them.
+7 | I feel far more comfortable around animals than people.
+8 | I was, in fact, raised by wolves.
+
+d6 | Ideal
+1 | Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+2 | Greater Good. It is each person's responsibility to make the most happiness for the whole tribe. (Good)
+3 | Honor. If I dishonor myself, I dishonor my whole clan. (Lawful)
+4 | Might. The strongest are meant to rule. (Evil)
+5 | Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+6 | Glory. I must earn glory in battle, for myself and my clan. (Any)
+
+d6 | Bond
+1 | My family, clan, or tribe is the most important thing in my life, even when they are far from me.
+2 | An injury to the unspoiled wilderness of my home is an injury to me.
+3 | I will bring terrible wrath down on the evildoers who destroyed my homeland.
+4 | I am the last of my tribe, and it is up to me to ensure their names enter legend.
+5 | I suffer awful visions of a coming disaster and will do anything to prevent it.
+6 | It is my duty to provide children to sustain my tribe.
+
+d6 | Flaw
+1 | I am too enamored of ale, wine, and other intoxicants.
+2 | There's no room for caution in a life lived to the fullest.
+3 | I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.
+4 | I am slow to trust members of other races, tribes, and societies.
+5 |  Violence is my answer to almost any challenge.
+6 |  Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Sage</name>
+    <proficiency>Arcana, History</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Arcana, History
+• Languages: Two of your choice
+• Equipment: A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Researcher</name>
+      <text>When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Rumor Monger</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+Via your personal rumor mill and articles published in Baldur's Mouth, you can surmise a great deal about Baldurians' secrets—who's practicing necromancy, who's involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of 1d4 suspects who, if they aren't involved, have a strong chance of knowing who is.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
+d8 | Field of Study
+1 | Alchemist
+2 | Astronomer
+3 | Discredited academic
+4 | Librarian
+5 | Professor
+6 | Researcher
+7 | Wizard's apprentice
+8 | Scribe
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
+d8 | Personality Trait
+1 | I use polysyllabic words that convey the impression of great erudition.
+2 | I've read every book in the world's greatest libraries—or I like to boast that I have.
+3 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others.
+4 | There's nothing I like more than a good mystery.
+5 | I'm willing to listen to every side of an argument before I make my own judgment.
+6 | I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me.
+7 | I am horribly, horribly awkward in social situations.
+8 | I'm convinced that people are always trying to steal my secrets.
+
+d6 | Ideal
+1 | Knowledge. The path to power and self-improvement is through knowledge. (Neutral)
+2 | Beauty. What is beautiful points us beyond itself toward what is true. (Good)
+3 | Logic. Emotions must not cloud our logical thinking. (Lawful)
+4 | No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)
+5 | Power. Knowledge is the path to power and domination. (Evil)
+6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)
+
+d6 | Bond
+1 | It is my duty to protect my students.
+2 | I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+3 | I work to preserve a library, university, scriptorium, or monastery.
+4 | My life's work is a series of tomes related to a specific field of lore.
+5 | I've been searching my whole life for the answer to a certain question.
+6 | I sold my soul for knowledge. I hope to do great deeds and win it back.
+
+d6 | Flaw
+1 | I am easily distracted by the promise of information.
+2 | Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+3 | Unlocking an ancient mystery is worth the price of a civilization.
+4 | I overlook obvious solutions in favor of complicated ones.
+5 | I speak without really thinking through my words, invariably insulting others.
+6 | I can't keep a secret to save my life, or anyone else's.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Sailor</name>
+    <proficiency>Athletics, Perception</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Athletics, Perception
+• Tool Proficiencies: Navigator's tools, vehicles (water)
+• Equipment: A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Ship's Passage</name>
+      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Smuggler's Sense</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You're familiar with the docks of Baldur's Gate, the movement of inspectors and tax collectors, the way cargo and coin flows. As a result, it's easy for you to hustle a load of cargo ashore or see such a cargo onto a cooperative ship without attracting suspicion or taxation. You also know the movements of the Gray Wavers—the Flaming Fist harbor guards—and have a sense of how to operate the city's mechanized cranes.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
+d8 | Personality Trait
+1 | My friends know they can rely on me, no matter what.
+2 | I work hard so that I can play hard when the work is done.
+3 | I enjoy sailing into new ports and making new friends over a flagon of ale.
+4 | I stretch the truth for the sake of a good story.
+5 | To me, a tavern brawl is a nice way to get to know a new city.
+6 | I never pass up a friendly wager.
+7 | My language is as foul as an otyugh nest.
+8 | I like a job well done, especially if I can convince someone else to do it.
+
+d6 | Ideal
+1 | Respect. The thing that keeps a ship together is mutual respect between captain and crew. (Good)
+2 | Fairness. We all do the work, so we all share in the rewards. (Lawful)
+3 | Freedom. The sea is freedom—the freedom to go anywhere and do anything. (Chaotic)
+4 | Mastery. I'm a predator, and the other ships on the sea are my prey. (Evil)
+5 | People. I'm committed to my crewmates, not to ideals. (Neutral)
+6 | Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any)
+
+d6 | Bond
+1 | I'm loyal to my captain first, everything else second.
+2 | The ship is most important—crewmates and captains come and go.
+3 | I'll always remember my first ship.
+4 | In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+5 | I was cheated out of my fair share of the profits, and I want to get my due.
+6 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine.
+
+d6 | Flaw
+1 | I follow orders, even if I think they're wrong.
+2 | I'll say anything to avoid having to do extra work.
+3 | Once someone questions my courage, I never back down no matter how dangerous the situation.
+4 | Once I start drinking, it's hard for me to stop.
+5 | I can't help but pocket loose coins and other trinkets I come across.
+6 | My pride will probably lead to my destruction.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Soldier</name>
+    <proficiency>Athletics, Intimidation</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Athletics, Intimidation
+• Tool Proficiencies: One type of gaming set, vehicles (land)
+• Equipment: An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: Military Rank</name>
+      <text>You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: City Guard</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You may choose to currently serve in either the Flaming Fist or the Watch. If you do, you have responsibilities related to your post. For as long as you perform these responsibilities, you gain benefits. If you stop performing your responsibilities, though, you lose access to the benefits and might suffer further fallout. Should you lose these benefits, you may regain them by having an unpleasant conversation with your commanding officer and fulfilling your responsibilities for a month.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Loyalty Test</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+You've had enough dealings with crooked soldiers that you can spot the behaviors common to corrupt guards and military officers a mile away. While awareness of such corruption doesn't equate to evidence of it, and your sense certainly isn't foolproof, your instinct proves a useful starting point when determining who might take a bribe, who might turn a blind eye to a crime, or who might have criminal connections. You can also use this sense to get a feeling about who might fulfill their duties strictly by the book.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
+d8 | Role
+1 | Officer
+2 | Scout
+3 | Infantry
+4 | Cavalry
+5 | Healer
+6 | Quartermaster
+7 | Standard-bearer
+8 | Support staff (cook, blacksmith, or the like)
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
+d8 | Personality Trait
+1 | I'm always polite and respectful.
+2 | I'm haunted by memories of war. I can't get the images of violence out of my mind.
+3 | I've lost too many friends, and I'm slow to make new ones.
+4 | I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.
+5 | I can stare down a hell hound without flinching.
+6 | I enjoy being strong and like breaking things.
+7 | I have a crude sense of humor.
+8 | I face problems head-on. A simple, direct solution is the best path to success.
+
+d6 | Ideal
+1 | Greater Good. Our lot is to lay down our lives in defense of others. (Good)
+2 | Responsibility. I do what I must and obey just authority. (Lawful)
+3 | Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)
+4 | Might. In life as in war, the stronger force wins. (Evil)
+5 | Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral)
+6 | Nation. My city, nation, or people are all that matter. (Any)
+
+d6 | Bond
+1 | I would still lay down my life for the people I served with.
+2 | Someone saved my life on the battlefield. To this day, I will never leave a friend behind.
+3 | My honor is my life.
+4 | I'll never forget the crushing defeat my company suffered or the enemies who dealt it.
+5 | Those who fight beside me are those worth dying for.
+6 | I fight for those who cannot fight for themselves.
+
+d6 | Flaw
+1 | The monstrous enemy we faced in battle still leaves me quivering with fear.
+2 | I have little respect for anyone who is not a proven warrior.
+3 | I made a terrible mistake in battle that cost many lives—and I would do anything to keep that mistake secret.
+4 | My hatred of my enemies is blinding and unreasoning.
+5 | I obey the law, even if the law causes misery.
+6 | I'd rather eat my armor than admit when I'm wrong.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Baldur's Gate Urchin</name>
+    <proficiency>Sleight Of Hand, Stealth</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Sleight of Hand, Stealth
+• Tool Proficiencies: Disguise kit, Thieves' tools
+• Equipment: A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 204</text>
+      </trait>
+    <trait>
+        <name>Feature: City Secrets</name>
+      <text>You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.
+</text>
+      </trait>
+    <trait>
+        <name>Baldur's Gate Feature: Gateguide Connection</name>
+      <text>The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+Even though you might not be a member of the Gateguides crew, you've associated with enough of them that you know their torch-based code. From the lighting, placement, and type of torch arranged on or near a structure, you can gather a great deal of information about those who live or do business there, particularly if they deal fairly with strangers, have Guild or government connections, or have either helped or denied the Gateguides in the past.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.
+d8 | Personality Trait
+1 | I hide scraps of food and trinkets away in my pockets.
+2 | I ask a lot of questions.
+3 | I like to squeeze into small places where no one else can get to me.
+4 | I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms.
+5 | I eat like a pig and have bad manners.
+6 | I think anyone who's nice to me is hiding evil intent.
+7 | I don't like to bathe.
+8 | I bluntly say what others are hinting at or hiding.
+
+d6 | Ideal
+1 | Respect. All people, rich or poor, deserve respect. (Good)
+2 | Community. We have to take care of each other, because no one else is going to do it. (Lawful)
+3 | Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)
+4 | Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)
+5 | People. I help the people who help me—that's what keeps us alive. (Neutral)
+6 | Aspiration. I'm going to prove that I'm worthy of a better life. (Any)
+
+d6 | Bond
+1 | My town or city is my home, and I'll fight to defend it.
+2 | I sponsor an orphanage to keep others from enduring what I was forced to endure.
+3 | I owe my survival to another urchin who taught me to live on the streets.
+4 | I owe a debt I can never repay to the person who took pity on me.
+5 | I escaped my life of poverty by robbing an important person, and I'm wanted for it.
+6 | No one else should have to endure the hardships I've been through.
+
+d6 | Flaw
+1 | If I'm outnumbered, I will run away from a fight.
+2 | Gold seems like a lot of money to me, and I'll do just about anything for more of it.
+3 | I will never fully trust anyone other than myself.
+4 | I'd rather kill someone in their sleep than fight fair.
+5 | It's not stealing if I need it more than someone else.
+6 | People who can't take care of themselves get what they deserve.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Faceless</name>
+    <proficiency>Deception, Intimidation</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>Being who you are, you could never be a hero. Whether due to your class, your people, your family, or your sins, something about you prevents you from effectively pursuing the path you've chosen. Even so, that doesn't stop you. You've left your old face behind, taking on a new persona, becoming something more.
+Characters with the faceless background don a disguise—literally or otherwise—as they adventure. This persona might be dramatic or subtle. In a way, though, many characters have such larger than life personalities. Therefore, this background largely focuses on detailing the hero behind the mask.
+• Skill Proficiencies: Deception, Intimidation
+• Tool Proficiencies: Disguise kit
+• Languages: One of your choice
+• Equipment: Disguise kit, a costume clothes, a pouch containing 10 gp
+Source: Baldur's Gate: Descent Into Avernus p. 203</text>
+      </trait>
+    <trait>
+        <name>Faceless Persona</name>
+      <text>A faceless character adventures behind the mask of a public persona. This persona is as natural to them as their hidden, true face, but it disguises their identity. Roll on the Faceless Persona table to determine your persona, or work with the DM to create a persona that's unique to your character and suits the tone of your game.
+
+d10 | Faceless Persona
+1 | A flamboyant spy or brigand
+2 | The incarnation of a nation or people
+3 | A scoundrel with a masked guise
+4 | A vengeful spirit
+5 | The manifestation of a deity or your faith
+6 | One whose beauty is greatly accented using makeup
+7 | An impersonation of another hero
+8 | The embodiment of a school of magic
+9 | A warrior with distinctive armor
+10 | A disguise with animalistic or monstrous characteristics, meant to inspire fear
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Dual Personalities</name>
+      <text>Most of your fellow adventurers and the world know you as your persona. Those who seek to learn more about you—your weaknesses, your origins, your purpose—find themselves stymied by your disguise. Upon donning a disguise and behaving as your persona, you are unidentifiable as your true self. By removing your disguise and revealing your true face, you are no longer identifiable as your persona. This allows you to change appearances between your two personalities as often as you wish, using one to hide the other or serve as convenient camouflage. However, should someone realize the connection between your persona and your true self, your deception might lose its effectiveness.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>A faceless character usually plays their persona—the hero or extraordinary person they are every day. That's all a facade, though, or a part of them expressed to an extreme. To define a persona, feel free to choose characteristics from other backgrounds, particularly folk hero, hermit, or noble. For the person behind the persona, the one who truly strives to be faceless, consider a distinct set of faceless characteristics. As a result, those with this background have two sets of characteristics, one for their persona, and one for their faceless selves.
+d8 | Personality Trait
+1 | I'm earnest and uncommonly direct.
+2 | I strive to have no personality—it's easier to forget what's hardly there.
+3 | I treasure a memento of the person or instance that set me upon my path.
+4 | I sleep just as much as I need to and on an unusual schedule.
+5 | I think far ahead, a detachedness often mistaken for daydreaming.
+6 | I cultivate a single obscure hobby or study and eagerly discuss it at length.
+7 | I am ever learning how to be among others—when to stay quiet, when to laugh.
+8 | I behave like an extreme opposite of my persona.
+
+d6 | Ideal
+1 | Justice. Place in society shouldn't determine one's access to what is right. (Good)
+2 | Security. Doing what must be done can't bring the innocent to harm. (Lawful)
+3 | Confusion. Deception is a weapon. Strike from where your foes won't expect. (Chaotic)
+4 | Infamy. My name will be a malediction, a curse that fulfills my will. (Evil)
+5 | Incorruptibility. Be a symbol, and leave your flawed being behind. (Any)
+6 | Anonymity. It's my deeds that should be remembered, not their instrument. (Any)
+
+d6 | Bond
+1 | I do everything for my family. My first thought is keeping them safe.
+2 | What I do, I do for the world. The people don't realize how much they need me.
+3 | I've seen too many in need. I must not fail them as everyone else has.
+4 | I stand in opposition, lest the wicked go unopposed.
+5 | I am exceptional. I do this because no one else can, and no one can stop me.
+6 | I do everything for those who were taken from me.
+
+d6 | Flaw
+1 | I am callous about death. It comes to us all eventually.
+2 | I never make eye contact or hold it unflinchingly.
+3 | I have no sense of humor. Laughing is uncomfortable and embarrassing.
+4 | I overexert myself, sometimes needing to recuperate for a day or more.
+5 | I think far ahead, a detachedness often mistaken for daydreaming.
+6 | I see morality entirely in black and white.
+
+</text>
+      </trait>
+    </background>
+  </compendium>

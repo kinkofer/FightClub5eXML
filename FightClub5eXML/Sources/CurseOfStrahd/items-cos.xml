@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Blood Spear</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>T,V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>P</dmgType>
+    <range>20/60</range>
+    <text>Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of Strahd von Zarovich. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
+When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain 2d6 temporary hit points.
+Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
+Source: Curse of Strahd p. 221</text>
+    <roll>2d6</roll>
+    </item>
+  <item>
+      <name>Green Copper Ewer</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn.
+Source: Curse of Strahd p. 188</text>
+    </item>
+  <item>
+      <name>Gulthias Staff</name>
+    <detail>Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>Made from the branch of a Gulthias tree (see the twig blight entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains 1d6 + 4 of its expended charges daily at dusk.
+If the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard out to a range of 300 feet. All blights that can hear the scream immediately wither and die.
+Vampiric Strike: The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to regain a number of hit points equal to the damage dealt by the weapon. Each time a charge is spent, red blood oozes from the staff's pores, and you must succeed on a DC 12 Wisdom saving throw or be afflicted with short term madness (see "Madness" in chapter 8 of the Dungeon Master's Guide).
+Blight Bane: While you are attuned to the staff, blights and other evil plant creatures don't regard you as hostile unless you harm them.
+Source: Curse of Strahd p. 221</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Holy Symbol of Ravenkind</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>The Holy Symbol of Ravenkind is a unique holy symbol sacred to the good-hearted faithful of Barovia. It predates the establishment of any church in Barovia. According to legend, it was delivered to a paladin named Lugdana by a giant raven - or an angel in the form of a giant raven. Lugdana used the holy symbol to root out and destroy nests of vampires until her death. The high priests of Ravenloft kept and wore the holy symbol after Lugdana's passing.
+The holy symbol is a platinum amulet shaped like the sun, with a large crystal embedded in its center.
+The holy symbol has 10 charges for the following properties. It regains 1d6 + 4 charges daily at dawn.
+Hold Vampires: As an Action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and vampire spawn within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is paralyzed for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
+Turn Undead: If you have the Turn Undead or the Turn the Unholy feature, you can expend 3 charges when you present the holy symbol while using that feature. When you do so, undead have disadvantage on their saving throws against the effect.
+Sunlight: As an action, you can expend 5 charges while presenting the holy symbol to make it shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight and lasts for 10 minutes or until you end the effect (no action required).
+Source: Curse of Strahd p. 222</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Icon of Ravenloft</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>10</weight>
+    <property></property>
+    <text>The Icon of Ravenloft is a 12-inch tall statuette made of the purest silver, weighing 10 pounds. It depicts a cleric kneeling in supplication.
+The icon was given to Strahd by the archpriest Ciril Romulich, an old family friend, to consecrate the castle and its chapel.
+While within 30 feet of the icon, a creature is under the effect of a protection from evil and good spell against fiends and undead. Only a creature attuned to the icon can use its other properties.
+Augury: You can use an action to cast an augury spell from the icon, with no material components required. Once used, this property can't be used again until the next dawn.
+Bane of the Undead: You can use the icon as a holy symbol while using the Turn Undead or Turn the Unholy feature. If you do so, increase the save DC by 2.
+Cure Wounds: While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains 3d8 + 3 hit points, unless it is an undead, a construct, or a fiend. Once used, this property can't be used again until the next dawn.
+Source: Curse of Strahd p. 222</text>
+    <roll>3d8+3</roll>
+    </item>
+  <item>
+      <name>Jakarion's Staff of Frost</name>
+    <detail>major, Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>You have resistance to cold damage while you hold this staff.
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: cone of cold (5 charges), fog cloud (1 charge), ice storm (4 charges), or wall of ice (4 charges).
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1. the staff turns to water and is destroyed.
+Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
+Found On: Magic Item Table H
+Source: Curse of Strahd p. 187</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Lost Sword</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>2</weight>
+    <property>F,L</property>
+    <dmg1>1d6</dmg1>
+    <dmgType>P</dmgType>
+    <text>The Lost Sword is a sentient lawful good +1 shortsword (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The sword's purpose is to fight evil. The sword has the following additional properties:
+• The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.
+• A lawful good creature can attune itself to the sword in 1 minute.
+• While attuned to the weapon, the sword's wielder can use the sword to cast the crusader's mantle spell. Once used, this property of the sword can't be used again until the next dawn.
+Source: Curse of Strahd p. 81</text>
+    </item>
+  <item>
+      <name>Monster Hunter's Pack</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight>48.5</weight>
+    <value>33.0</value>
+    <property></property>
+    <text>Includes:
+• a chest
+• a crowbar
+• a hammer
+• three wooden stakes
+• a holy symbol
+• a holy water (flask)
+• a set of manacles
+• a steel mirror
+• a oil (flask)
+• a tinderbox
+• 3 torch
+Source: Curse of Strahd p. 209</text>
+    </item>
+  <item>
+      <name>Order of the Silver Dragon +2 Shield</name>
+    <detail>major, Shield</detail>
+    <type>S</type>
+    <weight>6</weight>
+    <property></property>
+    <ac>2</ac>
+    <text>While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
+The shield is emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see Curse of Strahd, chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
+A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+Source: Curse of Strahd p. 68</text>
+    </item>
+  <item>
+      <name>Saint Markovia's Thighbone</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>4</weight>
+    <property></property>
+    <dmg1>1d6</dmg1>
+    <dmgType>B</dmgType>
+    <text>Saint Markovia's thighbone has the properties of a mace of disruption. If it scores one or more hits against a vampire or a vampire spawn in the course of a single battle, the thighbone crumbles into dust once the battle concludes.
+As a youth, Markovia followed her heart and became a priest of the Morninglord soon after her eighteenth birthday. She proved to be a charismatic proselytizer and, before the age of thirty, had gained a reputation for allowing no evil to stand before her.
+Markovia had long considered Strahd a mad tyrant, but only after his transformation into a vampire did she dare to challenge him. As she rallied her followers and prepared to march on Castle Ravenloft, Strahd sent a group of vampire spawn to her abbey. They confronted Markovia and were destroyed to a one.
+Suffused with confidence born of a righteous victory, Markovia advanced on Castle Ravenloft. A great battle raged from the catacombs to the parapets. In the end, Markovia never returned to Barovia, and Strahd long afterward walked with a limp and a grimace of pain. It is said that he trapped Markovia in a crypt beneath his castle, and her remains linger there yet.
+The essence of Markovia's saintliness passed partly into her bones as the rest of her body decomposed. Her remaining thighbone is imbued with power that inflicts grievous injury on the undead.
+Mace of Disruption. When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
+While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+Source: Curse of Strahd p. 222</text>
+    <roll>2d6</roll>
+    </item>
+  <item>
+      <name>Statuette of Saint Markovia</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <value>250.0</value>
+    <property></property>
+    <text>This golden statuette grants any good-aligned creature that carries it a +1 bonus to saving throws.
+Source: Curse of Strahd p. 152</text>
+    </item>
+  <item>
+      <name>Sunsword</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>F,V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>R</dmgType>
+    <text>The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Zarovich. In its original form, it had a platinum hilt and guard, and a thin crystal blade as strong as steel.
+Strahd employed a powerful wizard named Khazan to destroy the weapon after Sergei's death. The first part of the process required the hilt and the blade to be separated, which Khazan accomplished. While Khazan was busying himself destroying the blade, his apprentice stole the hilt and fled. Khazan later located his apprentice's mutilated corpse in the Svalich Woods, but the hilt was nowhere to be found. To avoid the vampire's wrath, Khazan told Strahd that the entire weapon had been destroyed.
+The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a sun blade.
+Sentience: The Sunsword is a sentient chaotic good weapon with an Intelligence of 11, a Wisdom of 17, and a Charisma of 16. It has hearing and normal vision out to a range of 60 feet. The weapon communicates by transmitting emotions to the creature carrying it or wielding it.
+Personality: The Sunsword's special purpose is to destroy Strahd, not so much because it wants to free the land of Barovia from evil but because it wants revenge for the loss of its crystal blade. The weapon secretly fears its own destruction.
+Sun blade. This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortsword or longsword, you are proficient with the sun blade.
+You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1d8 radiant damage.
+The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
+Source: Curse of Strahd p. 223</text>
+    <roll>1d8</roll>
+    </item>
+  <item>
+      <name>Tome of Strahd</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight>5</weight>
+    <property></property>
+    <text>The Tome of Strahd is an ancient work penned by Strahd, a tragic tale of how he came to his fallen state. The book is bound in a thick leather cover with steel hinges and fastenings. The pages are of parchment and very brittle. Most of the book is written in the curious shorthand that only Strahd employs. Stains and age have made most of the work illegible, but several paragraphs remain intact.
+Source: Curse of Strahd p. 221</text>
+    </item>
+  <item>
+      <name>Treebane</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>2</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>The axe's handle is carved with leaves and vines, and it weighs half as much as a normal battleaxe. When the axe hits a plant, whether an ordinary plant or a plant creature, the target takes an extra 1d8 slashing damage. When a creature of non-good alignment wields the axe, it sprouts thorns whenever its wielder makes an attack with it. These thorns prick the wielder for 1 piercing damage after the attack is made, and this damage is considered magical.
+Source: Curse of Strahd p. 198</text>
+    <roll>1d8</roll>
+    </item>
+  <item>
+      <name>Trinket (Gothic)</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creatures pockets.
+Curse of Strahd. Character Options, Gothic Trinket Table
+d100 | Trinket
+01-02 | A picture you drew as a child of your imaginary friend
+03-04 | A lock that opens when blood is dripped in its keyhole
+05-06 | Clothes stolen from a scarecrow
+07-08 | A spinning top carved with four faces: happy, sad, wrathful, and dead
+09-10 | The necklace of a sibling who died on the day you were born
+11-12 | A wig from someone executed by beheading
+13-14 | The unopened letter to you from your dying father
+15-16 | A pocket watch that runs backward for an hour every midnight
+17-18 | A winter coat stolen from a dying soldier
+19-20 | A bottle of invisible ink that can only be read at sunset
+21-22 | A wineskin that refills when interred with a dead person for a night
+23-24 | A set of silverware used by a king for his last meal
+25-26 | A spyglass that always shows the world suffering a terrible storm
+27-28 | A cameo with the profile's face scratched away
+29-30 | A lantern with a black candle that never runs out and that burns with green flame
+31-32 | A teacup from a child's tea set, stained with blood
+33-34 | A little black book that records your dreams, and yours alone, when you sleep
+35-36 | A necklace formed of the interlinked holy symbols of a dozen deities
+37-38 | A hangman's noose that feels heavier than it should
+39-40 | A birdcage into which small birds fly but once inside never eat or leave
+41-42 | A lepidopterist's box filled dead moths with skulllike patterns on their wings
+43-44 | A jar of pickled ghouls' tongues
+45-46 | The wooden hand of a notorious pirate
+47-48 | An urn with the ashes of a dead relative
+49-50 | A hand mirror backed with a bronze depiction of a medusa
+51-52 | Pallid leather gloves crafted with ivory fingernails
+53-54 | Dice made from the knuckles of a notorious charlatan
+55-56 | A ring of keys for forgotten locks
+57-58 | Nails from the coffin of a murderer
+59-60 | A key to the family crypt
+61-62 | A bouquet of funerary flowers that always looks and smells fresh
+63-64 | A switch used to discipline you as a child
+65-66 | A music box that plays by itself whenever someone holding it dances
+67-68 | A walking cane with an iron ferrule that strikes sparks on stone
+69-70 | A flag from a ship lost at sea
+71-72 | Porcelain doll's head that always seems to be looking at you
+73-74 | A wolf's head wrought in silver that is also a whistle
+75-76 | A small mirror that shows a much older version of the viewer
+77-78 | Small, worn book of children's nursery rhymes
+79-80 | A mummified raven claw
+81-82 | A broken pendent of a silver dragon that's always cold to the touch
+83-84 | A small locked box that quietly hums a lovely melody at night but you always forget it in the morning
+85-86 | An inkwell that makes one a little nauseous when staring at it
+87-88 | An old little doll made from a dark, dense wood and missing a hand and a foot
+89-90 | A black executioner's hood
+91-92 | A pouch made of flesh, with a sinew drawstring
+93-94 | A tiny spool of black thread that never runs out
+95-96 | A tiny clockwork figurine of a dancer that's missing a gear and doesn't work
+97-98 | A black wooden pipe that creates puffs of smoke that look like skulls
+99-00 | A vial of perfume, the scent of which only certain creatures can detect
+Source: Curse of Strahd p. 2</text>
+    </item>
+  </compendium>

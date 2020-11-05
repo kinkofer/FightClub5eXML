@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Caravan Specialist</name>
+    <proficiency>Animal Handling, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You are used to life on the road. You pride yourself at having traveled every major trade way in the Moonsea region, including the best backroads and shortcuts. When traveling these roads, you know where the best inns, campsites, and water sources are located, as well as potential locations of danger such as ambush. Having worked the roads as long as you have, you have made many acquaintances and find it easy to pick up information and rumors floating from town to town. You are skilled with beasts of burden and handling and repairing wagons of all kinds.
+• Skill Proficiencies: Animal Handling, Survival
+• Tool Proficiencies: Vehicles (land)
+• Languages: One of your choice
+• Equipment: A whip, a two-person tent, a regional map, a set of traveler's clothes, and a belt pouch containing 10 gp
+Source: Adventurers League: Elemental Evil p. 2</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>You are used to life on the road. You pride yourself at having traveled every major trade way in the Moonsea region, including the best backroads and shortcuts. When traveling these roads, you know where the best inns, campsites, and water sources are located, as well as potential locations of danger such as ambush. Having worked the roads as long as you have, you have made many acquaintances and find it easy to pick up information and rumors floating from town to town. You are skilled with beasts of burden and handling and repairing wagons of all kinds.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Wagonmaster</name>
+      <text>You are used to being in charge of the operation and your reputation for reliability has you on a short list when the job is critical. Experience has taught you to rely on your gut. Others recognize this and look to you for direction when a situation gets serious. You are able to identify the most defensible locations for camping. If you are part of a caravan outfit, you are able to attract two additional workers that are loyal to you based on your reputation. You have an excellent memory for maps and geography and can always determine your cardinal directions while traveling. Note: This feature is a variant of the Outlander feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | Any group is only as strong as its weakest link. Everyone has to pull their own weight. 
+2 | There's always someone out there trying to take what I've got. Always be vigilant.
+3 | Anything can be learned if you have the right teacher. Most folks just need a chance.
+4 | Early to bed and early to rise; this much at least is under my control.
+5 | You can listen to me or don't and wish you had. Everyone ends up on one side of that fence.
+6 | Eventually my hard work will be rewarded. Maybe that time has finally come.
+7 | A strong ox or horse is more reliable than most people I've met.
+8 | I never had time for books, but wish I had. I admire folks who have taken the time to learn.
+
+d6 | Ideal
+1 | Service. Using my talents to help others is the best way of helping myself. (Good)
+2 | Selfish. What people don't know WILL hurt them, but why is that my problem? (Evil)
+3 | Wanderer. I go where the road takes me. Sometimes that's a good thing... (Chaotic)
+4 | Fittest. On the open road, the law of nature wins. Victims are the unprepared. (Lawful)
+5 | Focused. I simply have a job to do, and I'm going to do it. (Neutral)
+6 | Motivated. There's a reason I'm good at what I do, I pay attention to the details. (Any) 
+
+d6 | Bond
+1 | My brother has a farm In Elmwood and I've helped him and his neighbors move their goods to Mulmaster and other surrounding towns. Those are good people.
+2 | A caravan I lead was attacked by bandits and many innocents died. I swear that I will avenge them by killing any bandits I encounter.
+3 | The Soldiery are mostly good guys who understand the importance of protecting the roads. The City Watch is who you have to look out for. If they are inspecting your goods, get ready to pay a fine.
+4 | The new commander of Southroad Tower, Capt. Holke, understands the importance of safe roads. He's hired me for several jobs and I'm grateful.
+5 | There's always a road I haven't traveled before. I'm always looking for new places to explore.
+6 | Wealth and power mean little without the freedom to go where and when you want.
+
+d6 | Flaw
+1 | I have trouble trusting people I've just met.
+2 | I enjoy the open road. Underground and tight spaces make me very nervous.
+3 | I expect others to heed my orders and have little respect or sympathy if they don't.
+4 | I am very prideful and have trouble admitting when I'm wrong.
+5 | Once I decide on a course of action, I do not waiver.
+6 | I like to explore, and my curiosity will sometimes get me into trouble.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Earthspur Miner</name>
+    <proficiency>Athletics, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You are a down-on your luck miner from the Earthspur Mountains who is no stranger to hardship. You have spent a great deal of time living among the dwarves, goliaths, and denizens of the Underdark that also work mines in the area. At this point, you're just as comfortable working underground as above. You know how to read a seam, dicker for supplies with the deep gnomes, party with dwarves, and find your way back to the surface afterwards. Unfortunately, you haven't struck it rich...yet. Although you've come to Mulmaster looking for work, the tall peaks and deep mines of the Earthspurs still call to you.
+• Skill Proficiencies: Athletics, Survival
+• Languages: Dwarvish and Undercommon 
+• Equipment: A shovel or a miner's pick, a block and tackle, a climber's kit, a set of common clothes, and a belt pouch containing 5 gp
+Source: Adventurers League: Elemental Evil p. 3</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>You are a down-on your luck miner from the Earthspur Mountains who is no stranger to hardship. You have spent a great deal of time living among the dwarves, goliaths, and denizens of the Underdark that also work mines in the area. At this point, you're just as comfortable working underground as above. You know how to read a seam, dicker for supplies with the deep gnomes, party with dwarves, and find your way back to the surface afterwards. Unfortunately, you haven't struck it rich...yet. Although you've come to Mulmaster looking for work, the tall peaks and deep mines of the Earthspurs still call to you.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Deep Miner</name>
+      <text>You are used to navigating the deep places of the earth. You never get lost in caves or mines if you have either seen an accurate map of them or have been through them before. Furthermore, you are able to scrounge fresh water and food for yourself and as many as five other people each day if you are in a mine or natural caves. Note: This feature is a variant of the Outlander feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | Nothing bothers me for long.
+2 | I hate the horrors of the Underdark with a passion. They took my friends and family and almost got me.
+3 | Anything worth doing takes time and patience. I have learned to plan and wait for the things I want and to be patient to achieve my goals.
+4 | I can party with everyone. Whether with dwarves, or goliaths, or deep gnomes, I can find a way to have a good time.
+5 | I'd rather be mining. This is okay; mining is better.
+6 | I think that I will stumble upon great riches if I just keep looking.
+7 | People who don't work with their hands and who live in houses are soft and weak.
+8 | I wish I were more educated. I look up to people who are.
+
+d6 | Ideal
+1 | Generosity. The riches of the earth are to be shared by all. (Good)
+2 | Greed. Gems and precious metals, I want them all for myself. (Evil)
+3 | Mooch. Property, schmoperty. If I need it, I take and use it. If I don't, I leave it for someone else. (Chaotic)
+4 | Boundaries. Everything and everyone has its prescribed place; I respect that and expect others to do the same. (Lawful)
+5 | Let it Be. I don't meddle in the affairs of others if I can avoid it. They're none of my business. (Neutral)
+6 | Materialist. I want riches to improve my life. (Any)
+
+d6 | Bond
+1 | The people of the Earthspur mines are my family. I will do anything to protect them.
+2 | A deep gnome saved my life when I was injured and alone. I owe his people a great debt.
+3 | I must behold and preserve the natural beauty of places below the earth.
+4 | Gems hold a special fascination for me, more than gold, land, magic, or power.
+5 | I want to explore new depths and scale new heights.
+6 | Someday I'm going to find the mother lode, then I'll spend the rest of my life in luxury.
+
+d6 | Flaw
+1 | I'm uncomfortable spending time under the open sky. I'd rather be indoors or underground.
+2 | I'm not used to being around other people much and sometimes get grouchy about it.
+3 | Good tools are more reliable than people. In a cave in, I would save a sturdy pick before a stranger.
+4 | I jealously guard my secrets, because I think others will take advantage of me if they learn what I know.
+5 | I am obsessed with getting rich. I always have a scheme brewing for making it big.
+6 | I'm afraid of the dark.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Harborfolk</name>
+    <proficiency>Athletics, Sleight Of Hand</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You are one of the hundreds of small-time fishermen and women who haul the bounty of Mulmaster's freshwater harbor to the city's markets each morning. You have spent countless days rowing in the waters in and around Mulmaster and know them and the other fisherfolk, dockworkers, and port inhabitants better than anyone. Though you have left that life behind, you still visit once in a while.
+• Skill Proficiencies: Athletics, Sleight of Hand
+• Tool Proficiencies: One type of gaming set, vehicles (water)
+• Equipment: Fishing tackle, dice set, playing card set, or Three-Dragon Ante set, a set of common clothes, rowboat, and a belt pouch containing 5 gp
+Source: Adventurers League: Elemental Evil p. 4</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>You are one of the hundreds of small-time fishermen and women who haul the bounty of Mulmaster's freshwater harbor to the city's markets each morning. You have spent countless days rowing in the waters in and around Mulmaster and know them and the other fisherfolk, dockworkers, and port inhabitants better than anyone. Though you have left that life behind, you still visit once in a while.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Harborfolk</name>
+      <text>You grew up on the docks and waters of Mulmaster Harbor. The harborfolk remember you and still treat you as one of them. They welcome you and your companions. While they might charge you for it, they'll always offer what food and shelter they have; they'll even hide you if the City Watch is after you (but not if the Hawks are). Note: This feature is a variant of the Folk Hero feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | I am curious. I want to know why things are the way they are and why people do the things that they do.
+2 | I can't sing, but that never stops me from doing it, loudly. Everyone loves a good sea chanty!
+3 | I think the High Blade is doing a terrific job, don't you?
+4 | I'm very excited that the House Built on Gold is being restored. I am a zealous worshipper of Waukeen.
+5 | I am quite superstitious. I see portents in everyday occurrences.
+6 | I resent the rich and enjoy thwarting their plans and spoiling their fun in small ways.
+7 | I have a sea story to fit every occasion.
+8 | I'm a fisher, but I secretly detest eating fish. I will do anything to avoid it.
+
+d6 | Ideal
+1 | Calm. For all things, there is a tide. I set sail when it is right, and mend my nets when it is not. (Lawful)
+2 | Windblown. I go where the winds blow. No man or woman tells me where or when to sail. (Chaotic)
+3 | Aspiring. I will gain the favor of a Zor or Zora patron, maybe even one of the Blades! (Any)
+4 | Salty. I want people to look to me as an expert on plying Mulmaster Harbor. (Any)
+5 | Selfless. We are all children of the sea. I help everyone in peril afloat and ashore. (Good)
+6 | Let them Drown. I refuse to risk my hide to help others. They wouldn't help me if roles were reversed. (Evil)
+
+d6 | Bond
+1 | I once lost everything but my rowboat. I'll do anything to protect it.
+2 | My brother was in the Soldiery, but he was killed. I really look up to the men and women who serve.
+3 | The Cloaks killed my friend for spellcasting. I'll get them back somehow, someday.
+4 | The High House of Hurting helped me when I was hurt and asked nothing in return. I owe them my life.
+5 | I was robbed in the Zhent ghetto once. It will not happen again.
+6 | I would do anything to protect the other harborfolk. They are my family.
+
+d6 | Flaw
+1 | I drink too much, which causes me to miss the tide.
+2 | I killed a drunk member of the City Watch in a brawl. I am terrified that they might find out.
+3 | I oversell myself and make promises I can't keep when I want to impress someone.
+4 | Book learning is a waste of time. I have no patience for people who don't speak from experience.
+5 | I almost always cheat. I can't help myself.
+6 | I am a secret informant for the Hawks. I send them reports about everything I see and hear, even what my friends and allies are up to.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Mulmaster Aristocrat</name>
+    <proficiency>Deception, Performance</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>From your hilltop home, you have looked down (literally and perhaps figuratively) on the unwashed masses of Mulmaster for your entire life. Your fur-trimmed robes and training in the visual and performing arts mark you as wealthy and perhaps well-born; you are a member of the City of Danger's aristocracy. None of your immediate family members sits on the Council of Blades or is even a Zor or Zora...yet. Nevertheless, you are one of Mulmaster's elite, and whether you personally covet a higher standing or not, you are at home in the dance halls where the aristocracy gathers to plot, to scheme, to do business, to discuss the arts, and, above all, to see, and to be seen.
+• Skill Proficiencies: Deception, Performance
+• Tool Proficiencies: One type of artistic artisan's tools and one musical instrument
+• Equipment: One set of artisan's tools or musical instrument, a set of fine clothes, and a purse containing 10 gp
+Source: Adventurers League: Elemental Evil p. 5</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Wealthy
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>From your hilltop home, you have looked down (literally and perhaps figuratively) on the unwashed masses of Mulmaster for your entire life. Your fur-trimmed robes and training in the visual and performing arts mark you as wealthy and perhaps well-born; you are a member of the City of Danger's aristocracy. None of your immediate family members sits on the Council of Blades or is even a Zor or Zora...yet. Nevertheless, you are one of Mulmaster's elite, and whether you personally covet a higher standing or not, you are at home in the dance halls where the aristocracy gathers to plot, to scheme, to do business, to discuss the arts, and, above all, to see, and to be seen.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Highborn</name>
+      <text>Mulmaster is run by and for its aristocracy. Every other class of citizen in the city defers to you, and even the priesthood, Soldiery, Hawks, and Cloaks treat you with deference. Other aristocrats and nobles accept you in their circles and likely know you or of you. Your connections can get you the ear of a Zor or Zora under the right circumstances. Note: This feature is a variant of the Noble feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | My ambitions are boundless. I will be a Zor or Zora one day!
+2 | I must always look my best.
+3 | Beauty is everywhere. I can find it in even the homeliest person and the most horrible tragedy.
+4 | Decorum must be preserved at all costs.
+5 | I will not admit I am wrong if I can avoid it.
+6 | I am extremely well-educated and frequently remind others of that fact.
+7 | I take what I can today, because I do not know what tomorrow holds.
+8 | My life is full of dance, song, drink, and love.
+
+d6 | Ideal
+1 | Generous. I have a responsibility to help and protect the less fortunate. (Good)
+2 | Loyal. My word, once given, is my bond. (Lawful)
+3 | Callous. I am unconcerned with any negative effects my actions may have on the lives and fortunes of others. (Evil)
+4 | Impulsive. I follow my heart. (Chaotic)
+5 | Ignorant. Explanations bore me. (Neutral)
+6 | Isolationist. I am concerned with the fortunes of my friends and family. Others must see to themselves. (Any)
+
+d6 | Bond
+1 | I have dedicated my wealth and my talents to the service of one of the city's many temples.
+2 | My family and I are loyal supporters of High Blade Jaseen Drakehorn. Our fortunes are inexorably tied to hers. I would do anything to support her.
+3 | Like many families who were close to High Blade Selfaril Uoumdolphin, mine has suffered greatly since his fall. We honor his memory in secret.
+4 | My family plotted with Rassendyll Uoumdolphin brother usurped brother as High Blade. Betrayal is the quickest route to power.
+5 | Wealth and power are nothing. Fulfillment can only be found in artistic expression.
+6 | It's not how you feel, who you know, or what you can do - it's how you look, and I look fabulous.
+
+d6 | Flaw
+1 | I have difficulty caring about anyone or anything other than myself.
+2 | Having grown up with wealth, I am careless with my finances. I overspend and am overly generous.
+3 | The ends (my advancement) justify any means.
+4 | I must have what I want and will brook no delay.
+5 | My family has lost everything. I must keep up appearances, lest we become a laughingstock.
+6 | I have no artistic sense. I hide that fact behind extreme opinions and have become a trendsetter. 
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Phlan Refugee</name>
+    <proficiency>Insight, Athletics</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day's labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.
+• Skill Proficiencies: Insight, Athletics
+• Tool Proficiencies: One type of artisan's tools
+• Languages: One of your choice
+• Equipment: A set of artisan's tools (one of your choice), a token of the life you once knew, a set of traveler's clothes, and a belt pouch containing 15 gp
+Source: Adventurers League: Elemental Evil p. 6</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Modest
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day's labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Phlan Survivor</name>
+      <text>Whatever your prior standing was, you are now one of the many refugees that have come to Mulmaster. You are able to find refuge with others from Phlan and those who sympathize with your plight. Within Mulmaster this means that you can find a place to bed down, recover, and hide from the watch with either other refugees from Phlan, or the Zhents within the ghettos. Note: This feature is a variant of the Folk Hero feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | I may have lost everything I worked for most of my life, but there's work to be done, no time to linger on the past.
+2 | I worked hard to get where I am and I refuse to let a little hardship stop me from succeeding.
+3 | I protect those around me, you never know when one of them will be useful.
+4 | I have always gotten ahead by giving, why change now?
+5 | I prepare for everything, it paid off in Phlan and it will pay off again.
+6 | I will reclaim my home, though the path may be long, I will never give up hope.
+7 | I never cared for personal hygiene, and am amazed that It bothers others.
+8 | I am always willing to volunteer my services, just as long as don't have to do anything.
+
+d6 | Ideal
+1 | Justice. Corruption brought Phlan down, I will not tolerate that any longer. (Lawful)
+2 | Acceptance. Stability is a myth, to think you can control your future is futile. (Chaotic)
+3 | Hope. I am guided by a higher power and I trust that everything will be right in the end. (Good)
+4 | Restraint. I hate those who caused my loss. It is all I can do not to lash out at them. (Any)
+5 | Strength. As shown in Phlan, the strong survive. If you are weak you deserve what you get (Evil)
+6 | Openness. I am always willing to share my life story with anyone who will listen. (Any)
+
+d6 | Bond
+1 | I have the chance at a new life and this time I am going to do things right.
+2 | The Lord Regent brought this suffering upon his people. I will see him brought to justice.
+3 | I await the day I will be able to return to my home in Phlan.
+4 | I will never forget the debt owed to Glevith of the Welcomers. I will be ready to repay that debt when called upon.
+5 | There was someone I cared about in Phlan, I will find out what happened to them.
+6 | Some say my life wasn't worth saving, I will prove them wrong.
+
+d6 | Flaw
+1 | I used the lives of children to facilitate my escape from Phlan.
+2 | I am a sucker for the underdog, and always bet on the loosing team.
+3 | I am incapable of standing up for myself.
+4 | I will borrow money from friends with no intention to repay it.
+5 | I am unable to keep secrets. A secret is just an untold story.
+6 | When something goes wrong, it's never my fault.
+
+</text>
+      </trait>
+    </background>
+  </compendium>

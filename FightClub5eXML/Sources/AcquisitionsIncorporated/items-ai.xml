@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Cartographer's Map Case</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Map of Shortcuts: At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your cartographer's map case can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom (Perception) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut . Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
+Map of the Moment: Starting at rank 3, you can use an action to make a DC 15 Wisdom (Perception) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
+Source: Acquisitions Incorporated p. 20</text>
+    </item>
+  <item>
+      <name>Chronolometer</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Intelligence saving throws. The first time you attune to the chronolometer, you choose one language you don't know. You subsequently know that language while attuned to the device.
+Time Bandit: At the start of your turn, roll a d6 (no action required). On a 1–3, you slow down time, gaining an additional action on your turn and doubling your speed until the end of the turn. On a 4–6, you go forward in time to warn yourself of what is to come. The next time you fail a saving throw, attack roll, or ability check, you can reroll the check and take either result. Once you use this feature of the chronolometer, it cannot be used again until the next dawn.
+Fate Swap: As a reaction when a creature you can see within 30 feet of you takes damage, that creature gains an additional action if it is the creature's turn, or can take an action immediately even though it isn't the creature's turn. Once you use this feature of the chronolometer, it cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 220</text>
+    </item>
+  <item>
+      <name>Coin of Decisionry</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Starting at rank 2, your coin of decisionry becomes a common magic item. When you flip the coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears on the "tails" face. Roll a d4 on the following table to determine the message.
+d4 | Decision
+1 | Lucrative
+2 | Brand Appeal
+3 | Indeterminate
+4 | Ruinous
+The coin has absolutely no divination abilities, and its results when you use it are random. But nobody else knows that. When a creature within 10 feet of you flips the coin (after having had its powerful prognostication powers dutifully explained), you can exert your will to control its operation as a bonus action, choosing the result that appears after it lands as a means of gently coercing the user toward a specific course of action. The creature flipping the coin can detect your manipulation with a successful DC 13 Wisdom (Insight) check.
+Better Odds: When you reach rank 3, your coin of decisionry gains a measure of actual divination power and becomes an uncommon magic item. In addition to its normal function, you can use an action to flip the coin of decisionry twice while pondering a specific plan or objective, noting both random results. If you succeed on a DC 15 Intelligence (Arcana) check, you learn which of the two results is more applicable to the course of action. This property of the coin can't be used again until the next dawn.
+Source: Acquisitions Incorporated p. 22</text>
+    </item>
+  <item>
+      <name>Dimensional Loop</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Strength saving throws, and you have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 30 feet.
+Dimensional Cloak: As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity (Stealth) checks made to hide, and imposing disadvantage on attack rolls against you. Once you use this feature of the dimensional loop, it cannot be used again until the next dawn.
+Fold Space: Choose a space you can see within 60 feet of you (no action required). You treat that space as if it were within 5 feet of you until the end of your turn. This allows you to move immediately to that space without provoking opportunity attacks, or to interact with objects or creatures in that space as though they were next to you (including allowing you to make melee attacks into that space). Once you use this feature of the dimensional loop, it cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 220</text>
+    </item>
+  <item>
+      <name>Documancy Satchel</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>At rank 2, your documancy satchel becomes a common magic item, allowing you to magically send and receive documents to and from Head Office through a special pouch. Your documancy satchel magically produces prewritten and signature-ready contracts at your request, covering most common contractual needs. It also occasionally produces sticky notes printed with useful information and inspirational quotes from Head Office.
+Satchel of Holding: At rank 3, your documancy satchel gains additional features and becomes an uncommon magic item. One of the satchel's pouches now functions as a bag of holding.
+Additionally, you can use an action to draw forth from the documancy satchel a spell scroll of comprehend languages. The scroll vanishes when used, or ten minutes after it appears. This property of the bag can't be used again until the next dawn.
+Scroll Humidor: At rank 4, your documancy satchel gains additional power and becomes a rare magic item. Within the satchel, a dedicated extradimensional space can hold up to thirty documents or spell scroll. Placing a single document into the scroll humidor is an action. Drawing forth a desired scroll is a bonus action.
+Source: Acquisitions Incorporated p. 24</text>
+    </item>
+  <item>
+      <name>Elder Cartographer's Glossography</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>When you attain rank 4, you gain a small tome that is an uncommon magic item. The elder cartographer's glossography grants advantage on Intelligence or Wisdom checks related to geographical features or locations.
+Source: Acquisitions Incorporated p. 20</text>
+    </item>
+  <item>
+      <name>Failed Experiment Wand</name>
+    <detail></detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand has 2 charges. While holding it, you can use an action to expend 1 or more of its charges to cast either a green-flamed fireball or a blue lightning bolt at random from it (save DC 15).
+For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+Source: Acquisitions Incorporated p. 162</text>
+    <roll>1d6+1</roll>
+    </item>
+  <item>
+      <name>Far Gear</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Charisma saving throws, and you have advantage on Charisma (Intimidation) checks.
+Aberrant Ally: You can conjure an aberrant creature from the chaos of the multiverse to serve you. This functions as the conjure celestial spell (no concentration required), except the creature you summon is an aberration of challenge rating 4 or lower. Once you use this feature of the far gear, it cannot be used again until the next dawn.
+Unnatural Bane: You can cast the bane spell (save DC 15), which affects any number of creatures within range for 1 minute. Once you use this feature of the far gear, it cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 221</text>
+    </item>
+  <item>
+      <name>Living Loot Satchel</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a bag of holding and is available in a variety of colors and styles.
+Class-Based Living Loot Satchel
+Class | Satchel
+Barbarian | Broad belt with a dozen hanging pockets
+Bard | Lute case
+Cleric | Hollowed-out holy tome
+Druid | Made from natural, organic, locally sourced woven fibers
+Fighter | A thick, battle-scarred iron lockbox
+Paladin | A metal case with fine engraving and scrollwork
+Ranger | A fur-lined bindle
+Rogue | A nondescript coin pouch
+Sorcerer | A battered leather satchel, prone to spitting out multicolored sparks at the seams
+Warlock | A patchwork monster-leather satchel with a "purely decorative" fanged mouth.
+Wizard | A pocket dimension hidden up your sleeve or inside your hat
+The living loot satchel is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity (Sleight of Hand) check.
+Secret Satchel: As a rank 3 hoardsperson, your living loot satchel gets an upgrade to function as the replica chest used for the Leomund's secret chest spell, becoming a rare magic item. You can open the secret chest through your living loot satchel to deposit or withdraw items—even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end.
+That Thing You Need: At rank 3, you can use a bonus action to reach into your living loot satchel and make a DC 15 Dexterity (Sleight of Hand) check. On a success, you draw forth an item of your choice on the Adventuring Gear table in chapter 5 of the Player's Handbook. The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn.
+Portable Hole Satchel: At rank 4, your living loot satchel receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a portable hole—6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the portable-hole-sized chest, even if it wouldn't normally fit into your satchel.
+That Expensive Thing You Need: Also at rank 4, when you use your That Thing You Need feature, you can requisition any item of up to 250 gp in value, as long as it would fit into the confines of your satchel's portable hole.
+Source: Acquisitions Incorporated p. 25</text>
+    </item>
+  <item>
+      <name>Obviator's Lenses</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as eyes of minute seeing or eyes of the eagle. Once you make this choice, it cannot be changed until the next dawn.
+Enhanced Lenses: At rank 4, your obviator's lenses gain additional power and become a rare magic item. The lenses now function as both eyes of the eagle and eyes of minute seeing.
+Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining advantage on a weapon attack roll (no action required). If that attack hits, roll one additional weapon damage die. This property of the lenses can't be used again until the next dawn.
+Source: Acquisitions Incorporated p. 30</text>
+    </item>
+  <item>
+      <name>Occultant Abacus</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Head office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
+Read the Kill: Also at rank 1, your occultant abacus not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a d10. Once within the next hour, that character can add the d10 to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
+Eldritch Occultant: Starting at rank 2, your occultant abacus becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the augury spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the occultant abacus can't be used again until the next dawn.
+Bring Out Your Dead: Also at rank 2, you regain the use of your Read the Kill feature after you finish a short or long rest.
+Bead of Instant Karma: At rank 3, one of the beads on your occultant abacus channels the power of instant karma, turning the occultant abacus into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your occultant abacus at the next dawn.
+Bead of Diverted Karma: At rank 4, one of the beads on your occultant abacus allows you to divert karma to where it's needed, turning the occultant abacus into a very rare magic item. While the bead is unused, you know automatically when any creature you can see is about to make an ability check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a reaction to grant a d10 to a different creature you can see. That creature can add the d10 to any ability check, attack roll, or saving throw it makes within the next minute. The bead crumbles to dust when used, reappearing on your occultant abacus at the next dawn.
+Correct the Balance: As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your occultant abacus to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence (Religion) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
+If you fail the check, this property of the occultant abacus can't be used again until the next dawn. If you succeed on the check, this property can't be used again until dawn seven days later.
+Source: Acquisitions Incorporated p. 31</text>
+    </item>
+  <item>
+      <name>Orrery of the Wanderer</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This delicate and exquisitely crafted clockwork orrery features multiple geared components whose sweeping hands and dials represent the complex interplay of planar and magical realms. Standing two feet high, the orrery housing is a wondrous device imbued with magic of its own, but the power of its six clockwork components makes the artifact even more potent.
+The Orrery of the Wanderer was created by a renowned clockwork mage known only as Lottie. She crafted the relic as a means of tapping into the power of the planes, and to channel the divination and foretelling powers of the stars. But Lottie soon realized that her creation was far more powerful than she had intended. As it tapped into planar magic, the orrery began to manifest the darkness and malevolence inherent to some of the planes. Eventually, it would impress upon its owner a desire to open portals into the most cursed and dangerous worlds, including the Far Realm.
+To prevent the orrery from ever being so used, Lottie scattered the components that powered it, secreting them across the world. But the orrery's instinct for survival is strong, and its components have a way of inexorably coming together over decades or centuries, found by treasure hunters, stolen by monsters, found and stolen again—and moving closer to each other all the time.
+Random Properties. The orrery has the following randomly determined properties:
+• 2 minor beneficial properties
+• 1 major beneficial property
+• 1 major detrimental properties
+The random properties of the orrery might function only when all its components are installed, or might function sporadically if any components are missing.
+The Sum of Its Parts: Each of the six components that powers the Orrery of the Wanderer is a powerful magic relic in its own right:
+• The chronolometer
+• The dimensional loop
+• The far gear
+• The rotor of return
+• The timepiece of travel
+• The wheel of stars
+Creatures can attune to the orrery's components individually. If attuned to an individual component, a creature must hold the component to make use of its features. A creature can also attune to the orrery and all the components installed in it. Attuning to an installed component doesn't count against the number of magic items you can normally attune to.
+While a component is not installed in the orrery, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Future Echoes: With or without its components, the orrery lets you catch momentary glimpses of the future that warn you of danger. As long as the orrery is within 30 feet of you, you gain a +1 bonus to AC.
+Into the Void: With or without its components, the attuned orrery infuses your spirit with the tumultuous energy of the planes. Over time, your alignment changes to chaotic neutral, and you are compelled to engage with and explore the most dangerous planar realms.
+Master of Travel: While all six components of the Orrery of the Wanderer are installed, the artifact has 7 charges. While touching the orrery, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 17): contact other plane (3 charges), demiplane (6 charges), gate (7 charges), plane shift (5 charges), or teleportation circle (3 charges). The orrery regains 1d4 + 4 expended charges daily at dawn.
+Source: Acquisitions Incorporated p. 220</text>
+    <roll>1d4+4</roll>
+    </item>
+  <item>
+      <name>Piercer</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>2</weight>
+    <property>F,L</property>
+    <dmg1>1d6</dmg1>
+    <dmgType>P</dmgType>
+    <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
+A character attuned to the sword regains the maximum possible number of hit points from expended Hit Dice. However, the attuned character must eat twice as much food each day (a minimum of 2 pounds) to avoid exhaustion (see "The Environment" in chapter 8 of the Player's Handbook.)
+Source: Acquisitions Incorporated p. 121</text>
+    </item>
+  <item>
+      <name>Portfolio Keeper</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>At rank 2, you gain the use of a weathered leather pouch that is an uncommon magic item. The portfolio keeper holds and organizes notes, brochures, and business cards bearing your contact information. It also has an inexhaustible supply of brochures related to your franchise's current branding scheme.
+When you meet someone for the first time, their details and a rough sketch are magically stored on a small parchment card in the portfolio keeper. You can access the details of any such stored card as a bonus action.
+Cards of Sending: At rank 3, the power of your portfolio keeper becomes more potent, making it a rare magic item. When you give out a business card stored in your portfolio keeper, you can choose to have the card allow its recipient to contact you through your sending stone as if they had cast a sending spell. A business card loses this power seven days after it has been given out, and no more than five cards can have this power at one time.
+You can also use your sending stone to cast sending and contact anyone who has one of your business cards. Once you use this feature of the stone, you cannot use it again until dawn seven days later.
+Charming Introduction: Also at rank 4, you are able to make a focused effort to keep a potential customer's attention. When you provide a humanoid with a business card from your portfolio keeper, you can cast charm person on them (save DC 15). The spell ends prematurely if the character loses the business card.
+Source: Acquisitions Incorporated p. 33</text>
+    </item>
+  <item>
+      <name>Rotor of Return</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Constitution saving throws. You periodically receive flashbacks of old memories, and you can unerringly recall any event that took place within the previous 30 days.
+Borrow Object: You name a mundane item with a value of 50 gp or less and it appears in your hand or at your feet. This can be any item that appears in chapter 5, "Equipment," of the Player's Handbook, or any similar item selected with the DM's permission. The summoned item is transported to you from somewhere else in the world, but it is generic in nature, so that you might call for a longsword but you cannot borrow a specific creature's longsword. The item vanishes 10 minutes after it appears. Once you use this feature of the rotor of return, it cannot be used again until the next dawn.
+Recall Code: As an action, you can set your current location as a point of return locked to the rotor. Anytime thereafter, you can use a bonus action to teleport to the rotor's point of return as long as you are within 500 feet of that point. Once you use the rotor of return to teleport, this feature cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 221</text>
+    </item>
+  <item>
+      <name>Sending Stone</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Also at rank 1, you are given use of an Acquisitions Incorporated sending stone, an uncommon magic item that resembles a gemstone in a bold setting. It functions like a normal sending stone, except that it has no matching stone and allows communication with Head Office, specific secretarians you know, and the secretarian nearest your location. You must succeed on a DC 15 Intelligence (Arcana) check to establish contact. Once the stone is successfully used, it can't be used again until the next dawn.
+Making contact with another secretarian assumes that they are in possession of their own sending stone.
+Quirks of Your Sending Stone
+d8 | quirk
+1 | It's a flip stone.
+2 | It gets great reception everywhere except in your headquarters.
+3 | It sometimes picks up other magical conversations.
+4 | It's the perfect size, shape, and weight to be used as a skipping stone.
+5 | It heats up when you use it, to the extent that it once burned through your gloves.
+6 | It has an obnoxious ringtone that you can't work out how to change.
+7 | It fails to notify you of incoming messages except for a faint pulsating glow.
+8 | It's voice activated, so that every time you talk to someone, it tries to send a message to someone else.
+Rumor Mill: Also at rank 2, whenever your franchise begins a major quest or mission, make a DC 15 Intelligence (History) check. On a success, you can learn up to three rumors related to creatures or organizations involved in the mission, which come to you through your sending stone. These rumors reflect current or historical knowledge possessed by Acquisitions Incorporated or the organization's many contacts.
+Improved Rumor Mill: At rank 3, when you use your Rumor Mill feature, the DM provides you with a sense of which parts of a particular rumor are inaccurate, if any. You do not necessarily learn the truth behind those false rumors.
+Source: Acquisitions Incorporated p. 33</text>
+    </item>
+  <item>
+      <name>Spyglass of Clairvoyance</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the spyglass of clairvoyance at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a DC 15 Wisdom check using cartographer's tools to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn.
+Source: Acquisitions Incorporated p. 19</text>
+    </item>
+  <item>
+      <name>Timepiece of Travel</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Dexterity saving throws and you always know which way is north. Additionally, you can cast the longstrider spell on yourself at will.
+Turn-by-Turn Directions: You can name any location within 10 miles of your current location that is known to at least one creature also within 10 miles of that location (including you). Once you name the location, a disembodied voice heard only by you provides directions to the location by the safest, most direct route. The voice knows to avoid natural hazards, so that it does not send you through trackless wilderness or into a lake. But it has no knowledge of or ability to help you avoid monsters, enemies, traps, locked doors, and the like.
+The timepiece is of no use for reaching locations that are wholly secret or not known to any creatures within range. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn.
+Get Away From It All: As an action, you can cast the teleport spell. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 221</text>
+    </item>
+  <item>
+      <name>Travel Alchemical Kit</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Also at rank 3, Head Office provides you with a travel alchemical kit—an uncommon magic item containing miniaturized versions of both alchemist's supplies and a poisoner's kit (glass vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a poisoner's kit as part of this upgrade.
+You can use this magical kit as long as it is on your person, with no need to draw or stow it. If you are ever searched, finding your travel alchemical kit requires a successful DC 20 Intelligence (Investigation) or Wisdom (Insight) check.
+Source: Acquisitions Incorporated p. 30</text>
+    </item>
+  <item>
+      <name>Trinket (Acquisitions Incorporated)</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>Worried that you're going to pull out your dead sprite inside a clear glass bottle at a company function only to discover that three other people in the franchise have one as well? Then consider rolling on the Acquisitions Incorporated Trinkets table instead of the Trinket, to gain a unique trinket at character creation with a bit of Acq Inc flair.
+Acquisitions Incorporated Trinkets
+d100 | Trinket
+1 | A perfect skipping stone
+2 | Three weighted dice that always roll low
+3 | A locket with a picture of Jim Darkmagic
+4 | A tiny anvil and smith's hammer
+5 | A nonfunctional immovable rod
+6 | A DIY acupuncture kit
+7 | A stuffed owlbear toy
+8 | A diagram for a new war lute
+9 | A declaration of war against a nation no one has ever heard of
+10 | A pipe that emits green smoke
+11 | A glass eye
+12 | The centerpiece of a priceless chandelier
+13 | A fine cane with a secret compartment
+14 | A letter written by Rosie Beestinger
+15 | A coin that always lands on its edge
+16 | The deed and title to an abandoned windmill and three acres of tillable land that you've never been able to find
+17 | A menu from Big Daddy Donaar's Yum Yum Hut
+18 | A small purse that screams loudly when opened
+19 | A deep-crow-feather quill
+20 | A pair of breeches that always smells faintly of honey
+21 | A one-armed Viari doll (Apocalypse Dagger accessory missing)
+22 | A leather pouch filled with various finger bones of unknown provenance
+23 | The collar of your childhood pet, Nutmeg
+24 | A seashell that, when pressed to the ear, speaks in flowing rhymes
+25 | A recipe book for cooking with mushrooms
+26 | One expired coupon for "A Free Cornerstone"
+27 | A portable beehive
+28 | Goggles that literally tint everything rose colored
+29 | A wand of wonder that allows you to cast only mending
+30 | A bracelet woven from mistletoe
+31 | A curved claw from an unknown beast that small children are always frightened of
+32 | A longsword that can be folded down in 1 minute and hidden in your pocket
+33 | A living graft of what you believe to be the World Tree
+34 | A tattered scarf with the Acquisitions Incorporated logo
+35 | A box containing a torn-up letter
+36 | An old contract marked "Void"
+37 | A small pigeon in a cage
+38 | An Acquisitions Incorporated "Green Flame" foam finger
+39 | A "C" Team lunchbox
+40 | A potted plant that grows different fruit on every branch
+41 | A book of adventures for children
+42 | An Omin action figure with detachable maul and holy symbol
+43 | A pint glass engraved with a picture of a keg robot
+44 | A giant hockey puck
+45 | A miniature cannon that actually fires
+46 | A very fancy red scarf and matching handkerchief
+47 | An arrow once shot by Môrgæn
+48 | A purple worm toy
+49 | A burned doll whose eyes follow you around the room
+50 | An infinite inkwell
+51 | A band embroidered with the symbol of the Six
+52 | A squishy cactus
+53 | A velvet blindfold
+54 | A dirty figurine of a triceratops that can't be cleaned
+55 | A used (and thus nonmagical) noble knife from the Noble Knife
+56 | A quill that rotates through all the colors of the rainbow
+57 | A twenty-sided die that only rolls the number 4
+58 | A pointed hat that glows in the dark
+59 | A cup that hums when filled with water
+60 | A mug fashioned from the skull of someone else's enemy
+61 | A small glass jar containing an immortal firefly
+62 | A fake mustache made from gnome facial hair
+63 | A petrified troll finger
+64 | Half of a map
+65 | The other half of a map
+66 | An unreasonable amount of pocket lint
+67 | A dozen flyers for a local gnome food place
+68 | Omin Dran's business card
+69 | A lock of hair from a changeling
+70 | A marble that rolls uphill
+71 | A piece of parchment listing a command word for a powerful magic item
+72 | A book titled Conversational Giant
+73 | A user's manual for an apparatus of Kwalish
+74 | A signed headshot of famous bard Spice Caraway
+75 | The eye of a basilisk in a crystal box
+76 | A postcard from Ravnica
+77 | A stamp collection
+78 | A small piece of solidified smoke
+79 | A six-sided die that sometimes rolls a seven
+80 | A left-hand gauntlet
+81 | A music box that plays nursery rhymes
+82 | A locket that's bigger on the outside than the inside
+83 | A potted plant that grows hair instead of leaves
+84 | A collection of teeth
+85 | A coin whose minting date always shows three years in the future
+86 | A green drinking horn taken from a very large bull
+87 | A small book containing pressed and dried botanical samples
+88 | A hatched chimera egg
+89 | A slightly used red bandit mask
+90 | A tiny stirge encased in amber
+91 | A large bottle of Red Larch Ale that can't be opened
+92 | A cane topped with a stylized golden bulldog
+93 | A note in your own hand that you don't remember writing
+94 | A sprig of herbs from your family's garden
+95 | A tankard stolen from the Dran &amp; Courtier
+96 | A small, severed tentacle preserved in alcohol
+97 | A walnut with a face drawn on it
+98 | A small flask of liquid from the Lake of Radiant Mists
+99 | An ice cube that never melts
+00 | An expertly carved sword hilt with the blade snapped cleanly off
+Source: Acquisitions Incorporated p. 222</text>
+    </item>
+  <item>
+      <name>Voting Kit</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>At rank 4, your voting kit becomes a common magic item that conceals an extradimensional space. As a bonus action, you can place one tool kit that you are proficient with into the voting kit, or can remove it. No other type of object can be placed into the extradimensional space. A creature searching the voting kit finds and extracts the tool kit with a successful DC 20 Intelligence (Investigation) or Wisdom (Perception) check.
+Additionally, you can use the voting kit to cast charm person (save DC 15). This property of the kit can't be used again until the next dawn.
+Source: Acquisitions Incorporated p. 22</text>
+    </item>
+  <item>
+      <name>Wheel of Stars</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While attuned to this device, you have a +1 bonus to Wisdom saving throws, and you can use an action to cast the dancing lights, guidance, or message cantrips.
+Portent of the Stars: As a reaction when a creature you can see within 60 feet of you makes an attack roll, saving throw, or ability check, you make that creature roll a d10 and add or subtract the number rolled (your choice) from the roll. Once you use this feature of the wheel of stars, it cannot be used again until the next dawn.
+Alter Gravity: As an action, you can cast fly on yourself or you can cast levitate (save DC 15). Once you use this feature of the wheel of stars, it cannot be used again until the next dawn.
+Part of a Whole: While this component is not installed in the Orrery of the Wanderer, its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+Source: Acquisitions Incorporated p. 222</text>
+    </item>
+  <item>
+      <name>Whisper Jar</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Also at rank 1, you are the beneficiary of a whisper jar—a common magic item resembling an ether-filled jar with a long tap hose. The jar is used to record others' stories and your own observations, like a verbal notebook with unlimited space. The whisper jar records as fast as a creature can speak into it, and whispers back words at the same pace they were recorded. Activating the playback of a particular recording is an action.
+Things Recorded in Your Whisper Jar
+d8 | Recording
+1 | A live recording of the only performance of the mostly forgotten stage play Tabaxi on a Hot Tin Roof
+2 | The life's work of the loremonger who owned the jar before you
+3 | Every courageous thought you've ever had, to cover for how scared you are most of the time
+4 | Everything, because everyone else around you will eat their words one day!
+5 | The top seven places to eat fried rat skewers in every settlement you've ever visited
+6 | The entire family tree of every royal line, extant or lost, in Faerûn
+7 | A moment-by-moment review of your favorite Jim Darkmagic stage performance
+8 | The sound of raucous applause, which you play back liberally
+Whispered Encyclopedia: At rank 2, your whisper jar becomes an uncommon magic item that can tap into the broader lore of Acquisitions Incorporated. As a bonus action, you ask the jar for information on a specific subject and make a DC 15 Intelligence (History) check. On a success, the jar plays back a recording on that subject, made somewhere, sometime by another Acq Inc loremonger. This property of the whisper jar can't be used again until the next dawn.
+Whispered Warnings: Also at rank 3, your whisper jar gains additional power and becomes a rare magic item. As an action, you can cause the jar to function as a wand of enemy detection, whereupon it whispers the direction to foes within range. This property of the whisper jar can't be used again until the next dawn.
+Whispered Arcana: Also at rank 4, your whisper jar gains access to even more magic. By whispering the name of one of the following spells into the jar as an action, you can cast that spell from the jar: detect evil and good, detect magic, detect poison and disease, find traps, identify, or locate animals or plants. This property of the whisper jar can't be used again until the next dawn.
+Source: Acquisitions Incorporated p. 27</text>
+    </item>
+  </compendium>

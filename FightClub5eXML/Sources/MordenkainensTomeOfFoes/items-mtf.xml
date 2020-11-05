@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Elven Trinket</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>d8 | Trinket
+1 | A small notebook that causes anything written in it to disappear after 1 hour
+2 | A crystal lens made of ivory and gold that causes anything observed through it to appear to be surrounded by motes of multicolored light
+3 | A small golden pyramid inscribed with elven symbols and about the size of a walnut
+4 | A cloak pin made from enamel in the shape of a butterfly; when you take the pin off, it turns into a real butterfly, and returns when you are ready to put your cloak back on again
+5 | A golden compass that points toward the nearest portal to the Feywild within 10 miles
+6 | A small silver spinning top that, when spun, endlessly spins until interrupted
+7 | A small songbird made of enamel, gold wire, and precious stone; uttering the songbird's name in Elvish causes the trinket to emit that bird's birdsong
+8 | A small enamel flower that, when put in one's hair, animates, tying back the wearer's hair with a living vine with flowers; plucking a single flower from this vine returns it to its inanimate form
+Source: Mordenkainen's Tome of Foes p. 64</text>
+    </item>
+  <item>
+      <name>Greater Silver Sword</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>6</weight>
+    <property>H,2H</property>
+    <dmg1>2d6</dmg1>
+    <dmgType>S</dmgType>
+    <text>This magic weapon grants a +3 bonus to attack and damage rolls made with it. While you hold the sword, you have advantage on Intelligence, Wisdom, and Charisma saving throws, you are immune to being charmed, and you have resistance to psychic damage. In addition, if you score a critical hit with it against a creature's astral body, you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+Source: Mordenkainen's Tome of Foes p. 89</text>
+    </item>
+  <item>
+      <name>Infernal Tack</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>A narzugon binds a nightmare to its service with infernal tack, which consists of a bridle, bit, reins, saddle, stirrups, and spurs. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed.
+You can use an action to call a nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet of you. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again.
+The tack doesn't conjure a nightmare from thin air; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become true partners in evil.
+Source: Mordenkainen's Tome of Foes p. 167, Baldur's Gate: Descent Into Avernus p. 224</text>
+    </item>
+  <item>
+      <name>Silver Sword</name>
+    <detail>major, Melee Weapon</detail>
+    <type>M</type>
+    <weight>6</weight>
+    <property>H,2H</property>
+    <dmg1>2d6</dmg1>
+    <dmgType>S</dmgType>
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the astral projection spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+Source: Mordenkainen's Tome of Foes p. 89</text>
+    </item>
+  </compendium>

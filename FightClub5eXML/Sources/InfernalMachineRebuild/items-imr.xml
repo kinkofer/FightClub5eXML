@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Blood of the Lycanthrope</name>
+    <detail>Poison</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This poison is created from blood harvested from a dead or incapacitated lycanthrope in its animal or hybrid form. A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or be cursed with lycanthropy (see the Monster Manual). The curse lasts until removed by the remove curse spell or similar magic.
+The type of lycanthropy depends on the lycanthrope used to create the poison. To determine the type of lycanthropy randomly, roll a d6:
+d6 | Lycanthropy
+1-3 | Wererat
+4-5 | Werewolf
+6 | Wereboar
+Source: Infernal Machine Rebuild p. 93</text>
+    </item>
+  <item>
+      <name>Blood of the Lycanthrope Antidote</name>
+    <detail></detail>
+    <type>P</type>
+    <weight></weight>
+    <property></property>
+    <text>This clear potion has dark red flecks within, resembling clotted blood. When you drink this potion, it removes the curse of lycanthropy from you if that curse was imposed by a lycanthrope's bite or similar effect.
+Source: Infernal Machine Rebuild p. 94</text>
+    </item>
+  <item>
+      <name>Bridle of Capturing</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This fine leather bridle tugs at the hand when first held, as though it longs to reach out for a beast nearby. When you hold one end of the bridle, you can use an action to speak its command word, causing the other end to lash out at a beast you can see within 20 feet of you. The target must succeed on a DC 17 Charisma saving throw or have the bridle tie itself around its neck, then fall under your command as if subjected to the dominate beast spell. Once the targeted is affected, you do not need to hold the other end of the bridle to command it. With a successful saving throw, the target becomes immune to the bridle's power until the next dawn.
+A creature controlled by the bridle can be released by the creature that bound it as a bonus action. A creature controlled by the bridle can make a DC 17 Charisma check each day at dawn. On a success, the creature is no longer affected by the bridle.
+Source: Infernal Machine Rebuild p. 94</text>
+    </item>
+  <item>
+      <name>Crown of the Forest</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While wearing this crown, a character automatically fails any Intelligence (Investigation) check made to see through an illusion. An illusion that is touched still has its true nature revealed. However, a character wearing a crown has such a strong sense that the illusion is real that they might not know which of their senses to believe.
+If this crown is closely examined by a character who succeeds on a DC 20 Intelligence (Nature) or Wisdom (Perception) check, or with a detect magic spell cast using a 3rd-level or higher spell slot, the nature of its magic is discovered.
+Source: Infernal Machine Rebuild p. 7</text>
+    </item>
+  <item>
+      <name>Dust of the Mummy</name>
+    <detail>Poison</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This poison is created during a mummy's embalming process, distilled from the dead creature's removed organs. A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed creature can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the creature's hit point maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or similar magic.
+Source: Infernal Machine Rebuild p. 93</text>
+    <roll>3d6</roll>
+    </item>
+  <item>
+      <name>Ioun Stone of Vitality</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain a +1 bonus to death saving throws while this luminous green-and-blue marbled sphere orbits your head.
+Source: Infernal Machine Rebuild p. 94</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Mummy Rot Antidote</name>
+    <detail></detail>
+    <type>P</type>
+    <weight></weight>
+    <property></property>
+    <text>White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.
+Source: Infernal Machine Rebuild p. 94</text>
+    </item>
+  <item>
+      <name>Ruinblade</name>
+    <detail>Cursed item, Melee Weapon</detail>
+    <type>M</type>
+    <weight>6</weight>
+    <property>H,2H</property>
+    <dmg1>2d6</dmg1>
+    <dmgType>S</dmgType>
+    <text>Ruinblade is a unique weapon possessed by Moghadam, the architect of the Tomb of Horrors. A symbol of his authority, Moghadam carries the weapon during the time frame of the adventure to intimidate the tomb's workers. (In later years, after Acererak trapped Moghadam in the completed tomb as an undead archwraith, Moghadam was able to use the weapon as his own phylactery.)
+A small jade version of the green devil face of the Tomb of Horrors is fashioned into the hilt of the weapon, with the blade extending from its open mouth. The blade always appears ruined and rusting, and causes its surroundings to appear reflected in the blade as if in a state of decay.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit an undead creature with it, the attack deals an extra 1d8 force damage.
+In addition, the weapon has the following properties:
+Blighted Ruin: You can cast the blight spell from the weapon (DC 15). Once used, this property of the weapon can't be used until the next dawn.
+Destructive Ruin: You can cast the disintegrate spell from the weapon, but can target only a nonmagical object or a creation of magical force. Once used, this property of the weapon can't be used until dawn seven days later.
+Curse: This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a remove curse spell or similar magic, you are unwilling to part with the weapon.
+The weapon must take direct part in the destruction of 1,000 gp worth of materials and objects every seven days, or a conflict arises between you and the weapon at the end of the seventh day.
+Sentience: Ruinblade is a sentient lawful evil weapon with an Intelligence of 15, a Wisdom of 8, and a Charisma of 16. It has hearing and darkvision out to a range of 120 feet.
+The weapon can speak, read, and understand Common, and can communicate with its wielder telepathically. Its voice is a rough, ruined echo. While you are attuned to it, Ruinblade also understands every language you know.
+Personality: Ruinblade speaks either with a dolorous or frenetic tone, depending on its mood. That mood improves when the sword is actively engaged in acts of destruction, but worsens if the blade is left inactive too long.
+The weapon's purpose is to ruin and unmake existing objects, so that its owner can rebuild the world from a blank slate. It thus encourages its wielder to engage in constant destruction, claiming that this will allow the creation of a more superior vision from the ruin of what came before.
+Source: Infernal Machine Rebuild p. 95</text>
+    <roll>1d8</roll>
+    </item>
+  <item>
+      <name>The Infernal Machine of Lum the Mad</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This strange device was once thought to have been built by gods long forgotten and to have survived the eons since their passing, for it is incredibly ancient and crafted by means unlike anything known today. However, its true origins derive from a planar craft that crashed in the Barrier Peaks, for the Infernal Machine once functioned as this craft's central command console.
+Explorers who discovered the crash site removed the command console and brought it back to civilization, not understanding its true purpose or powers. In later years, the console came into the possession of Baron Lum. By experimenting with its many controls, he was able to achieve astounding and destructive magical effects in the building of his empire, and so the artifact came to be known as the Infernal Machine of Lum the Mad. Yet with Lum's eventual defeat, his great machine was destroyed.
+The Infernal Machine is a delicate, intricate, bulky, and heavy device, weighing some 5,500 pounds. It can be operated using a control panel containing sixty levers, forty dials, twenty switches, and a number of jeweled components. These controls generate all kinds of powers and effects, as noted below.
+Silver Wire: The Infernal Machine's great size makes it largely immobile. To make ongoing use of the machine (such as while adventuring), it can be connected to its attuned user by a silver wire, a supply of which can always be produced from the machine's inner workings. This silver wire shares the same general nature as the silvery cord of an astral projection spell, connecting to the body of the user and trailing behind them. When so attached, the wire becomes invisible, astral, and extends to virtually infinite length.
+As long as the wire remains intact, the attuned user can make full use of the Infernal Machine's powers, with their effects centered around the user. If the wire is cut—something that can happen only when an effect specifically states that it can cut an astral projection's silvery cord—the user suffers a sudden burst of feedback from the machine that kills them instantly.
+Any effect of the Infernal Machine that requires concentration can be concentrated on by a remote user. The Infernal Machine's effects have a spell save DC of 14 or the attuned user's spell save DC, whichever is higher.
+Summon Monster: When first used by Baron Lum, the Infernal Machine was known for its ability to unleash terrible monsters within the world. Specific combinations of its controls can still recreate the effects of various spells of the conjuration school, as follows:
+• 1/day: conjure animals, summon lesser demons
+• 1/7 days: conjure minor elementals, conjure woodland beings, summon greater demon
+• 1/month: conjure elemental, conjure fey
+Wish: The Infernal Machine has the ability to bend the nature of reality, with the proper combination of controls recreating the effect of a wish spell (including all side effects). Due to the complex nature of its programming, this feature can be used only once per month. Each time this effect is used, there is a cumulative 10 percent chance of the Infernal Machine malfunctioning, necessitating seven days' worth of repairs and reprogramming, as well as the expenditure of 500 gp in parts, before it can be used again. When these repairs are done, the cumulative chance of malfunction returns to 10 percent.
+Random Properties: There are far more possible combinations for the Infernal Machine's controls than can ever be known or matrixed—especially as the controls shift position and reset themselves over time. At the end of each long rest of the user attuned to it, the Infernal Machine generates 1d4 + 1 random beneficial properties and 1d4 + 1 detrimental properties. Roll for each of these properties on the Infernal Machine Properties table. To keep things interesting, the DM might roll secretly for detrimental properties, revealing those properties only during the course of play.
+Once set, these properties last until the end of the attuned user's next long rest.
+(Our thanks to the D&amp;D community for their suggestions for the properties of the Infernal Machine of Lum the Mad!)
+Destroying the Machine: The Infernal Machine of Lum the Mad is self-repairing of anything short of catastrophic damage, and how it was disabled in Lum's time remains a mystery. It is rumored that if one specific combination of controls is set, the Infernal Machine will enter a repair mode, allowing unfettered access to its inner workings—and preventing it from restoring itself if it is attacked. Alternatively, other combinations of controls might cause the Infernal Machine to teleport its most critical components to some hiding place deep in space and time, rendering it inoperable until those components are found again.
+Infernal Machine Properties
+d100 | Beneficial Property | Detrimental Property
+01 | You have a flying speed of 150 feet but lose all other movement. | You are blinded.
+02 | You can cast the speak with animals spell at will, but can use it to speak with only one animal of your choice. | All animals despise you. You have disadvantage on Wisdom (Animal Handling) checks.
+03 | One weapon or item you carry of your choice gains a walking speed of 30 feet and goes where you tell it. | Your armor and clothing feels unnaturally tight. Unless you go naked, roll a d4 each time you are attacked and subtract the number rolled from your AC.
+04 | You can cast the legend lore spell three times. | Whenever you make an Intelligence check or use divination magic to learn something about a creature, that knowledge comes with added trivia of the DM's devising.
+05 | You emanate a weak magnetic aura. The first time during a combat that a creature attacks you with a metal weapon, that creature has disadvantage on the attack roll. | Metal rusts in response to your touch—including metal armor you wear and metal weapons you hold—reproducing the effect of the rust monster's Rust Metal trait.
+06 | Your fingers sprout tiny clockwork picks, granting you advantage on ability checks made using thieves' tools or tinker's tools. | Any metal object you wield or wear is covered in a thin layer of oil that drips occasionally and leaves your fingerprints everywhere.
+07 | You can cast the speak with animals spell at will, but can use it to communicate only with insects. | Disturbing whispers on the edge of hearing haunt all creatures within 30 feet of you, causing those creatures to recall their saddest memories.
+08 | You have a +1 bonus to Wisdom (Insight checks) involving creatures you can see. | Your body is ghostly and translucent except for your bones. You have vulnerability to radiant damage, and you have disadvantage on attack rolls while in direct sunlight.
+09 | You summon a unicorn that obeys your commands. If you give a command that violates the unicorn's allignment, the unicorn immediately vanishes. | You grow a unicorn horn.
+10 | A specialized clockwork compass floats in front of you. You can name one character, place, or object on the same plane as you and have the compass point constantly in the direction of the named target. You gain no knowledge of the distance to the target. | A specialized clockwork compass floats in front of you, and points toward you. The DM determines whether a creature currently looking for you is drawn to your location. Additionally, when a creature attacks you for the first time during an encounter, it has advantage on the attack roll.
+11 | Your clothes are wrapped in illusion that makes them appear to be the very latest style, drawing praise and attention. You have a +1 bonus to Charisma checks. | Any food and drink you eat spoils as you swallow it. Each time you eat or drink, you are poisoned for 1 hour.
+12 | You have a +1 bonus to attack rolls with weapons or spells (your choice). | The cure wounds spell restores no hit points for you.
+13 | You have an innate sense of direction. You automatically succeed on ability checks made to avoid becoming lost. | Whenever you move, a magical voice calls out your direction and how far you've gone. The voice cannot be silenced or stopped.
+14 | You constantly see afterimages of all events that occurred within 30 feet of you over the previous hour. | You are distracted by voices and visions, forcing you to succeed on a Wisdom saving throw every 4 hours or gain one level of exhaustion.
+15 | You understand all languages, as if under the effect of a comprehend languages spell. | Whenever you speak, you speak in a random language (possibly including languages you don't normally know).
+16 | You have +1 bonus to initiative rolls. | You are unable to hear any speech louder than a whisper.
+17 | An exact duplicate of you appears next to you, dressed as you but lacking any gear. The duplicate functions as a familiar and has the statistics of a cat. | An exact duplicate of you appears next to you, dressed as you but lacking any gear. It loudly tries to convince all other creatures that it is you, and you are its familiar. If destroyed, it reappears in 1d4 hours.
+18 | While you are afflicted by a disease or suffering the poisoned or frightened condition, whenever you hit a humanoid with a melee attack, the target must succeed on a DC 15 Constitution saving throw. On a failed save, you transfer the disease or the condition to the target, and the disease or condition ends for you. | Water becomes intensely acidic to you. If you are submerged in water, you take 1d6 acid damage at the start of each of your turns, and drinking pure water causes you to be poisoned for 1 hour.
+19 | A random Huge beast appears next to you (chosen by the DM) as if with the conjure animals spell. You have a telepathic link to this beast, such that you can give it commands even if it can't hear you. | A random Huge beast appears next to you (chosen by the DM) and attacks at once.
+20 | You have 1 luck point, which you can use as if you had taken the Lucky feat. If you have taken that feat, you have 1 extra luck point. | Those around you perceive you as dishonest, even when you are completely truthful. You automatically fail Charisma checks.
+21 | If you drop to 0 hit points, a phantom guardian appears next to you, functioning as if you had cast the Mordenkainen's faithful hound spell. The guardian disappears if you die, regain hit points, or regain consciousness. | No one takes you seriously, imposing disadvantage on Charisma (Deception and Persuasion) checks, and causing you to automatically fail Charisma (Intimidation) checks.
+22 | You can cast the gaseous form spell on yourself three times. When you do, instead of appearing as mist, you appear as a swirling puff of feathers. | Your body is covered in feathers.
+23 | You have advantage on death saving throws. | You have disadvantage on all saving throws except death saving throws.
+24 | You can cast speak with animals at will, but can use it to communicate only with dogs. | All cats are automatically hostile toward you.
+25 | You can cast the raise dead spell once, requiring no material components. | If you drop to 0 hit points, you automatically suffer 1 failed death saving throw.
+26 | Each time you finish a short rest, up to 100 silver pieces already in your possession become gold pieces, and up to 100 copper pieces become silver pieces. | All coins you touch become worthless tin.
+27 | Anything poisonous within 50 feet of you is automatically detected and marked by the image of a small frog that is visible only to you. | A dozen small frogs constantly follow you around, chirping loudly.
+28 | You gain the benefit of a nondetection spell. | Your appearance changes randomly as determined by the DM, as if you were under the effect of a disguise self spell.
+29 | You can cast the mage hand cantrip at will. | A disembodied spirit follows you around, stealing and scattering coins from you, crumbling your food, and playing with your weapons and gear.
+30 | You are able to decipher any text. | You lose the ability to speak any language. This has no effect on casting spells with verbal components.
+31 | You can cast the speak with plants spell three times. | Your skin turns green, and you must drink a half gallon of fresh water every 4 hours or take 1d4 necrotic damage.
+32 | You know whether creatures within 15 feet of you are lying, as if you were the center of a zone of truth spell. | Whenever you would speak falsely, you cannot speak at all.
+33 | You gain a sense of destiny that directs you toward an important goal, as determined by the DM. | Your head is filled with an unpleasant buzzing that imposes disadvantage on Intelligence checks and saving throws.
+34 | All creatures you speak with automatically believe your words, as if you have succeeded on a Charisma (Deception or Persuasion) check against them. Any sign of threatening or duplicitous action on your part negates this automatic success. | Your personal tastes reverse, such that your favorite foods, hobbies, music, and so forth become unbearable to you.
+35 | Your shadow becomes an undead shadow that shares your alignment and is under your control. | Your shadow behaves disapprovingly whenever you're not looking—stealing things, mocking you behind your back, taunting opponents or friends, and so on.
+36 | Your skin is covered by slime. You automatically succeed on ability checks and saving throws made to escape a grapple. | Your skin is covered by slime. You must succeed on a DC 10 Dexterity saving throw to sit down, open doors, and perform other mundane tasks of the DM's determination.
+37 | Flowers turn to face you as you pass them. | Mundane animals can't look at you.
+38 | Each time you finish a short rest, you suddenly sprout a covering of fragrant leaves. The leaves fall off after 1d10 minutes, revealing 1d6 magic fruits that can be plucked from your head. Each fruit functions as a berry created with the goodberry spell. | Whenever you stop moving for 10 minutes or more, you discover that your boots or shoes have set down roots that must be pulled free with a successful DC 20 Strength check.
+39 | Choose a creature you can see. That creature must succeed on a DC 15 Dexterity saving throw or drop one item they are holding (DM's choice). You can use this property three times. | Each time you roll a 1 on a Dexterity check, you drop one object you are holding (DM's choice).
+40 | A group of small forest animals appears and follows you everywhere, singing and dancing. These magical creatures can perform any task you desire that could be performed by a prestidigitation spell. | You break out into song whenever you roll a 1 on any die.
+41 | Your possessions change their state or appearance at the DM's determination, giving you hints of potential future events. For example, your sword might become suddenly bloodstained to warn of an upcoming combat encounter, your clothes might become damp to warn of a water-filled pit trap ahead, and so on. | You take a −5 penalty to initiative rolls.
+42 | Whenever you roll a 1 on a d20, you have advantage on your next d20 roll. | Whenever you roll a 1 on a d20, you have disadvantage on your next d20 roll.
+43 | Grass, moss, and flowers instantly grow in your footsteps. You are also unaffected by difficult terrain created by plants. | Any harm that befalls a plant you can see (a woodcutter sawing down a tree, a gardener pulling weeds, and so forth) fills you with a sadness that imposes disadvantage on ability checks for 1 minute.
+44 | You automatically know the direction to the greatest danger within 500 feet of you. | You leave a trail of black footprints that allow anyone to automatically follow you.
+45 | You can cast the detect thoughts spell three times. | All creatures within 30 feet of you automatically know your surface thoughts, as if having cast detect thoughts against you.
+46 | You can cast the misty step spell three times. When you do, you must begin and end your teleportation in an area of shadow. | While in direct sunlight, you have disadvantage on attack rolls as well as on Wisdom (Perception) checks that rely on sight.
+47 | Creatures cannot gain advantage on attacks made against you as a result of another creature using the Help action. | You have disadvantage on Dexterity (Acrobatics) checks.
+48 | You have increased lung capacity, increasing your walking speed by 10 feet and letting you hold your breath for twice as long as normal. | Whenever you exert yourself by fighting, running, and so forth, you breathe out intermittent gouts of flame that deal 1d4 fire damage to you.
+49 | You can cast the daylight spell three times. | An evil undead creature that comes within 30 feet of you for the first time is charmed by you until the end of your next turn.
+50 | When you touch a copper piece, it transmutes to become two copper pieces. You can duplicate a maximum of 1,000 coins this way. | Food doesn't satiate you, and you must eat double the amount of food you normally eat to avoid feeling hungry.
+51 | You shed light like a torch, as if you were the target of a light cantrip. | No one else can take a short rest within 40 feet of you, as everything you say or do seems distracting to them.
+52 | You can cast the divination spell once. | Whenever you make an Intelligence check or saving throw, you receive a grim vision of the DM's determination, imposing disadvantage on your next attack roll, ability check, or saving throw.
+53 | As an action, you can become incorporeal for 10 minutes, allowing you to move through other creatures and objects as if they were difficult terrain. You take 5 (1d10) force damage if you end your turn inside an object. You can use this property once. | Your senses diminish as if the world were faded around you, imposing disadvantage on Wisdom (Perception) checks.
+54 | While you take a short rest, the area within 50 feet of you takes on the illusory appearance of a beautiful forest glade. | The first time an ally you can see takes damage as a result of failing a saving throw, you take the damage instead of them.
+55 | As a bonus action, you can choose one creature within 10 feet of you and know one secret about it, as determined by the DM. | The remove curse, lesser restoration, and greater restoration spells have no effect on you.
+56 | You can predict the weather conditions for the next 24 hours with perfect accuracy. | A rain cloud follows you around, drizzling on you constantly even while indoors.
+57 | You have telepathy out to a range of 120 feet. | You hear the voices of creatures you can see in your head from time to time (as detailed by the DM), but you have no idea whether what you're hearing is the truth or not.
+58 | You can cast speak with animals at will, but you can use it to communicate only with goats. Any goat you speak with becomes charmed by you for 1 hour. | You become distraught unless your clothing is all the same color, imposing disadvantage on Intelligence, Wisdom, and Charisma checks and saving throws.
+59 | You have resistance to fire damage. | You gain no benefit from any potion.
+60 | You have immunity to the charmed and frightened conditions. | You can speak only in a monotone voice, imposing disadvantage on Charisma checks.
+61 | You and each creature within 10 feet of you have resistance to necrotic damage. | Any Wisdom (Medicine) check you make or that is made to help you is made with disadvantage.
+62 | The first creature you hit with a weapon attack on each of your turns takes 1d4 fire damage at the start of its next turn. | You are blinded while in bright light, and your shadow takes on a monstrous appearance.
+63 | No creature can learn your alignment by magical means, and you have advantage on Charisma checks involving creatures that also share your alignment. | You have disadvantage on Charisma checks involving creatures that do not share your alignment.
+64 | As a bonus action, you cause yourself and a willing ally you can see to swap positions by teleportation. | Whenever you roll a 1 on a d20 roll, you and an ally you can see swap positions by teleportation.
+65 | As an action, you cause difficult terrain within 50 feet of you to become normal terrain. You can use this property three times. | Each time you move through difficult terrain, your speed is reduced by 10 feet until the end of your next turn.
+66 | You increase one ability score of your choice by 2. You can increase an ability score above 20 using this property, but the increase is lost when this property ends. | Whenever you roll a 1 on an attack roll, ability check, or saving throw using your highest ability score, you take 1d4 psychic damage.
+67 | As an action, you learn the direction and distance to the nearest magic item not in the possession of you or any of your allies. | Each creature within 30 feet of you automatically knows which magic items you carry.
+68 | As an action while you are in dim light or darkness, you can become invisible, as if targeted by the invisibility spell. In addition to becoming visible if you attack or cast a spell, you become visible if you move into bright light. You can use this property three times. | While in bright light, you have disadvantage on initiative rolls.
+69 | You can read and understand all the languages commonly spoken within 1 mile of you, as determined by the DM. | While speaking, you occasionally use nonsense words, imposing disadvantage on Charisma checks.
+70 | You know one cantrip of the DM's choice, and can cast one 1st-level spell of the DM's choice at will. | Whenever you cast a spell or use a magic item property that requires an action or a bonus action to activate, roll on the Wild Magic Surge table (see the sorcerer section in chapter 3 of the Player's Handbook) to see what happens.
+71 | Whenever you roll a 20 on a d20, you can immediately end one effect on you. | Whenever you roll a 1 on a d20, you are blinded until the end of your next turn.
+72 | Any clothing you wear is covered with a magical map image that shows all the local area you are aware of. This map doesn't reveal anything you don't know, but grants advantage on ability checks to find secret doors and to navigate back to where you've been. | Any rope you touch transforms into a poisonous snake that attacks you.
+73 | You summon a slithering tracker that obeys your commands. | You take on the appearance of having translucent skin, with your bones and organs slightly visible within.
+74 | You have a fresh-scrubbed appearance, and a sweet perfume surrounds you. You have advantage on Charisma (Persuasion) checks. | Whenever you fail a Charisma (Persuasion) check, the subject of the check becomes irrationally resentful of you, seeking to undermine you in ways determined by the DM.
+75 | You can cast the control weather spell. | Each time you deal or take cold damage or fire damage, you must succeed on a DC 10 Charisma saving throw or accidentally summon a hostile air elemental or fire elemental (depending on the damage dealt).
+76 | A tiny construct resembling a gynosphinx follows you around. It can truthfully answer up to ten yes-or-no questions regarding the campaign, at the DM's discretion. | A tiny construct resembling a gynosphinx follows you around. It constantly asks unsolvable riddles of other creatures, and insults those creatures when they fail to answer correctly.
+77 | A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the owlbear). The creature serves you as if created by a conjure animals spell. The DM determines the creature's statistics. | A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the owlbear). Unless you succeed on a DC 12 Wisdom (Animal Handling) check, the creature attacks you before wandering off. The DM determines the creature's statistics.
+78 | You can cast the teleport spell, always arriving on target when you do. You can use this property once. | Each time you walk through a doorway or similar portal, you must succeed on a DC 10 Intelligence check or step into a skewed timeline. On a failure, you and all allies within 10 feet of you skip ahead 1d4 minutes. To other creatures, it appears that you and other affected creatures disappear for that length of time, then appear again in the doorway.
+79 | You can cast the haste spell on yourself. You can use this property three times. | Each time you are reduced to 0 hit points then stabilized, you suffer the effect of a slow spell.
+80 | You do not need to breathe and cease to do so, making you immune to inhaled poisons and suffocation. | Whenever you speak (including casting a spell with a verbal component), you must first use a bonus action to breathe.
+81 | Your blood is venomous, granting you immunity to poison and to the poisoned condition. You can cast the speak with animals spell at will, but you can use it to communicate only with snakes. | Your tongue is long and forked, causing you to speak in a hiss. You have disadvantage on Charisma checks involving speech, and you must succeed on a DC 15 Constitution check to cast a spell with a verbal component.
+82 | You grow gills and have the ability to breathe air and water. You also sprout a pair of tentacles from your shoulders that have a reach of 10 feet and can be used to perform any action you could perform with your hands. The tentacles cannot attack or grapple. | You are constantly followed by 1d4 octopus that can breathe air and water, and which have a walking speed of 30 feet. Each time combat breaks out, you must succeed on a DC 13 Wisdom (Animal Handling) check or have the octopuses panic and attack you.
+83 | You can cast the misty step spell three times. When you do, you must begin and end your teleportation in an area of fire. Any fire damage you take during the same turn in which you use misty step is restored automatically at the end of your turn. | Whenever you start your turn within 30 feet of an ongoing fire effect, you must succeed on a DC 13 Wisdom saving throw or move toward the fire and into it if possible.
+84 | When you look at the sky, you see it overlaid with navigational symbols. You have advantage on ability checks made to avoid becoming lost while outdoors. | You have disadvantage on Wisdom (Perception) checks while indoors.
+85 | You can cast the healing word spell three times. | Undead are drawn to you, making it impossible for you to hide from them. Each undead creature you face in combat has advantage on its first attack roll against you.
+86 | Any food you touch is transformed into a culinary delight. You have advantage on Charisma checks while interacting with any creatures that have eaten of this food. | You constantly hear distracting music that throws off your timing, imposing disadvantage on initiative rolls and Dexterity checks.
+87 | Your mind is filled with lost facts and lore, granting advantage on Intelligence checks. | You forget your name, and must be constantly reminded of it by your allies.
+88 | Your touch can change small nonmagical objects into chocolate. | Anything you eat or drink makes you feel overly sated and full, imposing disadvantage on Strength checks for 1 hour.
+89 | Each time you finish a short rest, you regain 1d8 hit points. Each creature that took a short rest with you and remained within 30 feet of you for the duration also gains this benefit. | Each time you finish a short rest, you take 3d8 psychic damage. At your determination, you can transfer some or all of this damage to any creatures that took a short rest with you and remained within 30 feet of you for the duration.
+90 | Each time you finish a short rest, you find 1d10 small gems worth 10 gp each in your possession. | Whenever you spend coins or gems, any character you give them to becomes convinced that the wealth was stolen from them.
+91 | When you hit a creature for the first time during an encounter, its Armor Class is reduced by 1. | Whenever you roll a 1 on a weapon attack roll, the weapon shatters like glass. The weapon magically reforms in 1d4 rounds.
+92 | Each time you enter a settlement, you are treated as though you are known there and a friend, even if you are neither. | Each time you roll a 1 on an attack roll, ability check, or saving throw, you grow one inch taller. Your clothing and armor does not grow with you.
+93 | While standing in a doorway, you can cast the teleport spell. Your destination must be another doorway you know. You can use this property once. | Each time you finish a short rest, you forget one of your allies (of the DM's choice) and no longer trust that character. You lose this distrust at the end of your next short rest.
+94 | As an action, you cause a swirling storm of rocks and dust to surround you in a 10-foot radius for 1 minute. Each creature hostile to you that enters the area must succeed on a DC 12 Constitution saving throw or take 1d6 bludgeoning damage and be blinded for 1 round. You can use this property three times. | fire elemental, water elemental, and other creatures of fire and water (as determined by the DM) regard you as their enemy, and focus their attacks against you to the exclusion of all else.
+95 | As an action, you learn the names of every humanoid creature within 30 feet of you. | Whenever you roll a 1 on a Strength or Dexterity check that incorporates touching an object, you stick to that object for 1 minute. It takes a successful DC 20 Strength check to free yourself.
+96 | You can cast the modify memory spell once. | Whenever you make an Intelligence check or saving throw, you must succeed on a DC 13 Charisma saving throw or lose all your memories of the past hour.
+97 | You can ignore the verbal component of any spell you cast. | You must shout the verbal component of any spell you cast.
+98 | As an action, you conjure a mindless, shapeless force that is your exact duplicate. You control this force as if it were the product of an unseen servant spell, except that it is visible. | Each time you see your own reflection, you must succeed on a DC 12 Charisma saving throw. On a failure, you treat your allies as enemies and vice versa for 1 minute, attacking the wrong targets, betraying your companions in social situations, and so forth. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.
+99 | As an action, you can replace one of your hands with any nonmagical weapon, tool, or piece of adventuring equipment of reasonable size (as determined by the DM). | Your hands feel unnaturally large, imposing disadvantage on Dexterity (Sleight of Hand) checks and Dexterity checks using thieves' tools or artisan's tools. The first weapon attack roll you make in any encounter is made with disadvantage.
+00 | All creatures of a particular type other than humanoid (as chosen by the DM) are incapable of acting hostile toward you as long as you do not attack, threaten, or provoke them. | Whenever you meet a creature of a particular type other than humanoid (as chosen by the DM), there is a 1 percent cumulative chance that the tarrasque is magically summoned within 1 mile of you. The tarrasque has no knowledge of your existence. It runs amok for 1d6 x 10 minutes, then magically returns to its previous location.
+Source: Infernal Machine Rebuild p. 96</text>
+    <roll>1d4+1</roll>
+    <roll>1d4+1</roll>
+    <roll>1d4</roll>
+    <roll>1d6</roll>
+    <roll>1d10</roll>
+    <roll>1d8</roll>
+    <roll>3d8</roll>
+    </item>
+  <item>
+      <name>Thessaltoxin</name>
+    <detail>Poison</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the polymorph spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to dispel magic or remove curse, but a greater restoration spell restores the creature to its original form.
+Source: Infernal Machine Rebuild p. 93</text>
+    </item>
+  <item>
+      <name>Thessaltoxin Antidote</name>
+    <detail></detail>
+    <type>P</type>
+    <weight></weight>
+    <property></property>
+    <text>This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the polymorph effect imposed by thessaltoxin.
+Source: Infernal Machine Rebuild p. 95</text>
+    </item>
+  </compendium>

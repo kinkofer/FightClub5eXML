@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Barrier Peaks Trinket</name>
+    <detail>Adventuring Gear</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>At any point while the characters are searching through unusual equipment or detritus in the Monastery of the Distressed Body or the city of Daoine Gloine, roll on the following table to determine what they find. Each character finds one Barrier Peaks trinket over the course of the adventure.
+Barrier Peaks Trinkets
+d100 | Trinket
+01–02 | A handheld device containing a glowing green gem that darkens when no oxygen is present
+03–04 | A foot-long, egg-shaped object made from stitched leather
+05–06 | A black metal cylinder that dictates the history of an unknown plant or animal species when held
+07–08 | A cylindrical jar containing a pickled crustacean of unknown origin
+09–10 | A small thumb-button storage cylinder that releases a useless iron key when pressed
+11–12 | An unusual heraldic cloak pin that emits a short musical fanfare when tapped
+13–14 | A handheld tube that sucks in dust when squeezed and captures it in a detachable compartment
+15–16 | A scintillating disk of unknown material
+17–18 | A dial that can be twisted to slowly click back to its origin, whereupon it emits a loud ringing noise
+19–20 | A hovering, apple-sized orb of metal that follows you around
+21–22 | The petrified cocoon of an unknown insect
+23–24 | A bronze gauntlet set with many slots, and which violently expels any object pressed into those slots
+25–26 | A box that plays an illusory message in an unknown language when opened
+27–28 | A rod that causes you to forget the last five minutes when you press a button near its tip
+29–30 | A palm-sized cylinder that emits a harmless ray of glowing blue light when squeezed
+31–32 | A bead that suppresses your hearing when secreted inside either ear, causing you to be deafened
+33–34 | An amulet that displays your current health as a green bar above your head, with the bar retracting as your hit point total decreases
+35–36 | A casket containing one hundred tasteless blue pills that produce no discernible effect when swallowed
+37–38 | A metal mechanical puzzle with no apparent solution
+39–40 | A metal spinning top that never tips over when spun
+41–42 | Two strips of cloth-like material, each coated with a soft, hair-like fuzz on one side
+43–44 | A simple wire pyramid that preserves any foodstuffs it is placed over
+45–46 | A star chart labeled in an unknown script
+47–48 | A rectangle of black glass that displays indecipherable arcane runes when you swipe your finger across it
+49–50 | A schematic that shows the inner workings of an impossibly complex device
+51–52 | An odd pair of comfortable shoes made from supple, multicolored material
+53–54 | A mirror that makes you appear more beautiful when you tap your reflection
+55–56 | A mechanical metal puppy that playfully follows you around when activated
+57–58 | A talking bracelet that speaks only to correct your grammar
+59–60 | A bar of soap that can remove any stain
+61–62 | A journal in Common, written by someone in a world similar to but not quite the same as your own
+63–64 | A tub containing one serving of disgusting but nutritious goop that refills itself slowly over the course of one week
+65–66 | An instruction manual for activating a mysterious, world-destroying device
+67–68 | A small supple disk that displays weird moving symbols when placed over either eye
+69–70 | A tiny desk set with large, colorful buttons, each of which plays a discordant musical fanfare when pressed
+71–72 | A pair of tinted spectacles that reduce the glare of the sun when worn
+73–74 | An inflatable bedroll made from an unknown material, and which slowly deflates when used
+75–76 | A rod tipped with a blunt metal pincer whose grip can be adjusted by turning a screw
+77–78 | A battered helmet with a transparent orange visor that flips into place when donned
+79–80 | An animated map of a mysterious city that appears to be tracking the movements of five creatures
+81–82 | A cylinder of mist that holds your hair perfectly in shape when sprayed onto your head
+83–84 | A talking wand that tells you the name of any plant you point it at
+85–86 | A metal bracelet that displays the number of steps you've taken since your last long rest
+87–88 | A tiny handheld device that projects a glowing dot onto whatever you point it at
+89–90 | A rectangular piece of glass that displays a twelve-digit countdown on its surface
+91–92 | A wall chart of mysterious formulae arranged into a color-coded grid
+93–94 | A handheld device that solves any math problem you input using its buttons
+95–96 | A ball of speckled brown fur that appears to be alive
+97–98 | A complicated crystal board game that you don't know how to play
+99–00 | A large glass rectangle that displays a storm of black and white patterns when you press a button on its underside
+Source: Lost Laboratory of Kwalish p. 7</text>
+    </item>
+  <item>
+      <name>Deck of Several Things</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Stored in a leather pouch, this unique deck contains twenty-two colored cards made of some strong but unknown metal, each of which features a design printed as a mosaic of raised dots. Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
+Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
+1d22 | Card
+1 | Vizier
+2 | Sun
+3 | Moon
+4 | Star
+5 | Comet
+6 | The Fates
+7 | Throne
+8 | Key
+9 | Knight
+10 | Gem
+11 | Talons
+12 | The Void
+13 | Flames
+14 | Skull
+15 | Idiot
+16 | Donjon
+17 | Ruin
+18 | Euryale
+19 | Rogue
+20 | Balance
+21 | Fool
+22 | Jester
+Balance: Your mind suffers a wrenching alteration, causing your alignment to change for the duration of the adventure. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
+Comet: If you single-handedly defeat the next hostile monster or group of monsters you encounter, you have advantage on ability checks made using one skill of your choice for the duration of the adventure. Otherwise, this card has no effect.
+Donjon: You are instantly teleported to and confined within the prison of the Monastery of the Distressed Body (area M6). Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You draw no more cards.
+Euryale: The card's medusa-like visage curses you. You take a −1 penalty on saving throws for the duration of the adventure.
+The Fates: Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other point during the adventure.
+Flames: The Grand Master of the Monastery of the Distressed Body becomes your enemy. The bone devil seeks your ruin, savoring your suffering before attempting to slay you. If the Grand Master has already been defeated, you gain the enmity of Garret Levistusson's patron—a similarly powerful devil.
+Fool: For the duration of the adventure, you lose proficiency with one skill or gain disadvantage on all checks made with one skill (with the skill and the penalty determined by the DM). Discard this card and draw from the deck again, counting both draws as one of your declared draws.
+Gem: The 1,000 gp hoard of the leprechaun from the Wilderness Encounters table (see appendix A) appears at your feet. If that treasure has already been claimed, you gain an equivalent hoard.
+Idiot: Reduce your Intelligence by 1d4 + 1 (to a minimum score of 1) for the duration of the adventure. You can draw one additional card beyond your declared draws.
+Jester: You gain proficiency in a skill of your choice for the duration of the adventure, or you can draw two additional cards beyond your declared draws.
+Key: A common or uncommon magic weapon with which you are proficient, or a spell scroll featuring a spell of a level you can cast, appears in your hands. The DM chooses the weapon or spell, which you possess for the duration of this adventure.
+Knight: You gain the service of any of the NPCs in the "Hirelings" section not currently with the party, who appears in a space you choose within 30 feet of you. The NPC serves you loyally for the duration of the adventure, believing that the fates have drawn them to you. You control this character.
+Moon: You are granted the ability to cast any spell of 5th level or lower, and can use that ability 1d3 times for the duration of the adventure.
+Rogue: An NPC of the DM's choice becomes secretly hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Any enchantment spell cast on the NPC at 6th level or higher can end the NPC's hostility toward you.
+Ruin: All forms of wealth that you carry or own, other than magic items, are lost to you. This wealth can be recovered either in the treasury of the Monastery of the Distressed Body (area M10) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure.
+Skull: You summon an avatar of death—a mechanical skeleton (use bone naga statistics) clad in a tattered black robe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+Star: Increase one of your ability scores by 1 for the duration of the adventure. The score can exceed 20 but can't exceed 24.
+Sun: You gain proficiency in the skill of your choice for the duration of the adventure. In addition, a common or uncommon wondrous item appears in your hands. The DM chooses the item, which you possess for the duration of this adventure.
+Talons: Every magic item you wear or carry is lost to you. These items can be recovered either in the treasury of the Monastery of the Distressed Body (area M10) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure.
+Throne: You gain proficiency in the Persuasion skill and you double your proficiency bonus on checks made with that skill for the duration of the adventure. In addition, the Monastery of the Distressed Body's brains in jars regard you thereafter as the monastery's rightful master. You must defeat or otherwise clear out the Grand Master and its servants before you can claim the monastery as yours.
+Vizier: At any one time you choose within the duration of the adventure, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
+The Void: This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is incapacitated. Divination, contact other plane, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards.
+Using the Deck of Several Things: The special nature of this deck (carried by Mary Greymalkin if she is used as an NPC) means that many of its effects operate only within and with respect to this specific adventure. This typically covers any time the characters spend between setting out for the Barrier Peaks and the resolution of whatever events transpire in Kwalish's lab (area O7).
+For cards that effectively remove a character from play for a period of time (Donjon and the Void), you can allow a player to take on the role of one of the party's NPC hirelings, or introduce a temporary character as an NPC met during the party's journey. Alternatively, you can decide that only some aspect of the character's will disappears and is imprisoned, leaving the character to operate in a robotic state until freed.
+Source: Lost Laboratory of Kwalish p. 53</text>
+    <roll>1d22</roll>
+    <roll>1d4+1</roll>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Enchanted Three-Dragon Ante Set</name>
+    <detail>Gaming Set</detail>
+    <type>G</type>
+    <weight></weight>
+    <value>1.0</value>
+    <property></property>
+    <text>One card in this deck is enchanted to appear as whatever specific card its owner commands. This magic works only 25 percent of the time, but the deck is worth 500 gp to any serious gambler who doesn't mind the risk—or who isn't told about it.
+Source: Lost Laboratory of Kwalish p. 15</text>
+    </item>
+  <item>
+      <name>Galder's Bubble Pipe</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This finely carved pipe blows odorless bubbles instead of smoke when used. The pipe has 3 charges, and it regains all spent charges daily at dawn. While you hold the pipe, you can expend charges to gain access to the following properties:
+• You can cast fog cloud as an action (1 charge).
+• You can cast misty step as a bonus action (2 charges).
+• You can summon a steam mephit as an action (3 charges). The mephit is friendly to you, obeys your verbal commands, and acts on its own turn in the initiative order. It disappears in a harmless puff of steam after 1 minute or if it ends its turn more than 60 feet from the pipe.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    </item>
+  <item>
+      <name>Heward's Hireling Armor</name>
+    <detail>Light Armor</detail>
+    <type>LA</type>
+    <weight>10</weight>
+    <property></property>
+    <ac>11</ac>
+    <text>A number of Kwalish's experiments were attempts to research the works of the legendary mage Heward, who first crafted what he named hireling armor. While wearing this armor, you gain a +1 bonus to AC. In addition, the armor's animated straps can assist with the drawing and sheathing of weapons, such that you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+This armor also has six pockets, each of which is an extradimensional space. Each pocket can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The armor always weighs 10 pounds, regardless of its pockets' contents. Placing an object into one of the armor's pockets follows the normal rules for interacting with objects. Retrieving an item from a pocket of the armor requires you to use an action. When you reach into a pocket for a specific item, the item is always magically on top.
+Placing the armor inside an extradimensional space created by a bag of holding, a Heward's handy haversack, or a similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    </item>
+  <item>
+      <name>Ioun Stone, Historical Knowledge</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain proficiency in the History skill, or a +1 bonus to checks with that skill if already proficient, while this polished, steely sphere orbits your head.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Ioun Stone, Language Knowledge</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You are fluent in one additional language while this pulsating bit of red jeweled crystal orbits your head. The DM chooses the language bestowed by the stone.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Ioun Stone, Natural Knowledge</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain proficiency in the Nature skill, or a +1 bonus to checks with that skill if already proficient, while this burnished, brassy stone orbits your head.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Ioun Stone, Religious Knowledge</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain proficiency in the Religion skill, or a +1 bonus to checks with that skill if already proficient, while this tiny golden gem orbits your head.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Ioun Stone, Self-Preservation</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain a +1 bonus to Intelligence saving throws while this silvery gem orbits your head.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Ioun Stone, Supreme Intellect</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You gain a +1 bonus to Intelligence checks while this faceted sphere orbits your head.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    <roll>1d3</roll>
+    </item>
+  <item>
+      <name>Leather Golem Armor</name>
+    <detail>Cursed item, Light Armor</detail>
+    <type>LA</type>
+    <weight>10</weight>
+    <property></property>
+    <ac>11</ac>
+    <text>Strange rituals have repurposed the body of a flesh golem into this partially sentient suit of leather armor. While wearing this armor, you gain a +1 bonus to AC and to saving throws against spells and other magical effects. In addition, you gain the following properties:
+You are immune to any spell or effect that would alter your form.
+You gain resistance to lightning damage. Whenever you take lightning damage, you gain 5 temporary hit points.
+Curse: This armor is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a remove curse spell or similar magic, you are unwilling to part with the armor. In addition, while you wear the cursed armor, you gain the following properties:
+If you take fire damage, you have disadvantage on attack rolls and ability checks until the end of your next turn.
+Whenever a critical hit is made against you, roll a d6. On a 6, the armor causes you to go berserk. On each of your turns while berserk, you attack the nearest creature you can see. If no creature is near enough to move to and attack, you attack an object, with preference for an object smaller than yourself. Once the armor causes you to go berserk, it cannot be removed. You continue to attack until you are incapacitated or until another creature is able to calm you with appropriate magic (such as a calm emotions spell) or a successful DC 15 Charisma (Persuasion) check.
+Source: Lost Laboratory of Kwalish p. 55</text>
+    </item>
+  <item>
+      <name>Powered Armor</name>
+    <detail>Heavy Armor</detail>
+    <type>HA</type>
+    <weight>65</weight>
+    <property></property>
+    <ac>18</ac>
+    <text>Powered armor resembles a suit of unusual plate armor, with finely articulated joints connected by an oily, black, leather-like material. The armor has been worked to create the appearance of a heavily muscled warrior, and its great helm is unusual in that it has no openings—only a broad glass plate in the front with a second piece of glass above it. Strange plates, tubing, and large metal bosses adorn the armor in seemingly random fashion. On the back of the armor's left gauntlet is a rectangular metal box, from which projects a short rod tipped with a cone-shaped red crystal.
+While wearing this armor, you gain the following benefits:
+• You have a +1 bonus to AC.
+• Your Strength score is 18 (this has no effect if your Strength is already 18 or higher).
+• You have advantage on death saving throws.
+The armor has further capabilities that can be powered either by energy cells or by your own life energy. You can use a bonus action to draw power from an energy cell or sacrifice hit points to gain one of the following benefits:
+• Emit a force field to gain 2d6 + 5 temporary hit points (1 charge or 5 hit points).
+• Activate boosters to gain a flying speed of 15 feet for 1 minute (1 charge or 5 hit points).
+• Fire arm-mounted laser: Ranged Weapon Attack: +8 to hit, range 120 feet, one target. 2d6 radiant damage (1 charge or 5 hit points).
+• Translate any writing you can see in any nonmagical language, to a total of one thousand words over 1 minute (1 charge or 5 hit points).
+• Fill the armor with air, allowing you to breathe normally in any environment for up to 1 hour (1 charge or 5 hit points).
+• Gain darkvision to a range of 60 feet for up to 1 hour (1 charge or 5 hit points).
+The armor can accept only one energy cell at a time. It is found with one energy cell attached, containing 2d10 charges.
+Powered Armor Options: Depending on where and how it appears in the adventure, you might wish to modify the features of Kwalish's legendary powered armor.
+Source: Lost Laboratory of Kwalish p. 56</text>
+    <roll>2d6+5</roll>
+    <roll>2d6</roll>
+    <roll>2d10</roll>
+    </item>
+  <item>
+      <name>Ioun Stone</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Ioun Stone, Supreme Intellect
+Ioun Stone, Historical Knowledge
+Ioun Stone, Natural Knowledge
+Ioun Stone, Religious Knowledge
+Ioun Stone, Language Knowledge
+Ioun Stone, Self-Preservation
+Source: Lost Laboratory of Kwalish p. 55</text>
+    </item>
+  </compendium>

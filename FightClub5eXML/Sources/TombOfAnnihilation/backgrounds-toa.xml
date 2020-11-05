@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Anthropologist</name>
+    <proficiency>Insight, Religion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures' customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through firsthand observation- by visiting far-flung settlements and exploring local histories and customs.
+• Skill Proficiencies: Insight, Religion
+• Languages: Two of your choice
+• Equipment: A leather-bound diary, a Ink (1-ounce bottle), an ink pen, a set of traveler's clothes, one trinket of special significance, and a pouch containing 10 gp
+Source: Tomb of Annihilation p. 191</text>
+      </trait>
+    <trait>
+        <name>Cultural Chameleon</name>
+      <text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs Choose a race whose culture you've adopted, or roll on the Adopted Culture table.
+d8 | Culture
+1 | Aarakocra
+2 | Dwarf
+3 | Elf
+4 | Goblin
+5 | Halfling
+6 | Human
+7 | Lizardfolk
+8 | Orc
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Adept Linguist</name>
+      <text>You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures - enough to communicate on a rudimentary level.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive - or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire's downfall.
+d6 | Personality Trait
+1 | I prefer the company of those who aren't like me, including people of other races
+2 | I'm a stickler when it comes to observing proper etiquette and local customs
+3 | I would rather observe than meddle
+4 | By living among violent people, I have become desensitized to violence.
+5 | I would risk life and limb to discover a new culture or unravel the secrets of a dead one.
+6 | When I arrive at a new settlement for the first time, I must learn all its customs.
+
+d6 | Ideal
+1 | Discovery. I want to be the first person to discover a lost culture. (Any)
+2 | Distance. One must not interfere with the affairs of another culture - even one in need of aid. (Lawful)
+3 | Knowledge. By understanding other races and cultures, we learn to understand ourselves. (Any)
+4 | Power. Common people crave strong leadership, and I do my utmost to provide it. (Lawful)
+5 | Protection. I must do everything possible to save a society facing extinction. (Good)
+6 | Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway? (Chaotic)
+
+d6 | Bond
+1 | My mentor gave me a journal filled with lore and wisdom. Losing it would devastate me.
+2 | Having lived among the people of a primeval tribe or clan, I long to return and see how they are faring.
+3 | Years ago, tragedy struck the members of an isolated society I befriended, and I will honor them.
+4 | I want to learn more about a particular humanoid culture that fascinates me.
+5 | I seek to avenge a clan, tribe, kingdom, or empire that was wiped out.
+6 | I have a trinket that I believe is the key to finding a long-lost society.
+
+d6 | Flaw
+1 | Boats make me seasick.
+2 | I talk to myself, and I don't make friends easily.
+3 | I believe that I'm intellectually superior to people from other cultures and have much to teach them.
+4 | I've picked up some unpleasant habits living among goblins, lizardfolk, or orcs.
+5 | I complain about everything.
+6 | I wear a tribal mask and never take it off.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Archaeologist</name>
+    <proficiency>History, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>An archaeologist learns about the long-lost and fallen cultures of the past by studying their remains-their bones, their ruins, their surviving masterworks, and their tombs. Those who practice archaeology travel to the far corners of the world to root through crumbled cities and lost dungeons, digging in search of artifacts that might tell the stories of monarchs and high priests, wars and cataclysms.
+• Skill Proficiencies: History, Survival
+• Tool Proficiencies: Cartographer's tools or navigator's tools
+• Languages: One of your choice
+• Equipment: A Map or Scroll Case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp
+Source: Tomb of Annihilation p. 192</text>
+      </trait>
+    <trait>
+        <name>Dust Digger</name>
+      <text>Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough coin to buy proper adventuring gear, you have held onto an item that has great emotional value to you. Roll on the Signature Item table to see what you have, or choose an item from the table.
+Signature Item
+d8 | Item
+1 | pole (10-foot)
+2 | Crowbar
+3 | Hat
+4 | Hooded lantern
+5 | Medallion
+6 | Shovel
+7 | Sledgehammer
+8 | Whip
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Historical Knowledge</name>
+      <text>When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were dwarves, elves, humans, yuan-ti, or some other known race. In addition, you can determine the monetary value of art objects more than a century old.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world's greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.
+d8 | Personality Trait
+1 | I love a good puzzle or mystery
+2 | I'm a pack rat who never throws anything away.
+3 | Fame is more important to me than money.
+4 | I have no qualms about stealing from the dead.
+5 | I'm happier in a dusty old tomb than I am in the centers of civilization.
+6 | Traps don't make me nervous. Idiots who trigger traps make me nervous.
+7 | I might fail, but I will never give up.
+8 | You might think I'm a scholar, but I love a good brawl. These fists were made for punching.
+
+d6 | Ideal
+1 | Preservation. That artifact belongs in a museum. (Good)
+2 | Greed. I won't risk my life for nothing. I expect some kind of payment. (Any)
+3 | Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic)
+4 | Dignity. The dead and their belongings deserve to be treated with respect. (Lawful)
+5 | Immortality. All of my exploring is part of a plan to find the secret of everlasting life. (Any)
+6 | Danger. With every great discovery comes grave danger. The two walk hand in hand. (Any)
+
+d6 | Bond
+1 | Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books.
+2 | I want to find my mentor, who disappeared on an expedition some time ago.
+3 | I have a friendly rival. Only one of us can be the best, and I aim to prove it's me.
+4 | I won't sell an art object or other treasure that has historical significance or is one of a kind.
+5 | I'm secretly in love with the wealthy patron who sponsors my archaeological exploits.
+6 | I hope to bring prestige to a library, a museum, or a university.
+
+d6 | Flaw
+1 | I have a secret fear of some common wild animal - and in my work, I see them everywhere.
+2 | I can't leave a room without searching it for secret doors.
+3 | When I'm not exploring dungeons or ruins. I get jittery and impatient.
+4 | I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition.
+5 | When given the choice of going left or right, I always go left.
+6 | I can't sleep except in total darkness.
+
+</text>
+      </trait>
+    </background>
+  </compendium>
