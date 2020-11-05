@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Centaur (Theros)</name>
+    <size>M</size>
+    <speed>40</speed>
+    <ability>Str 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Mythic Odysseys of Theros p. 18</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Centaurs mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Centaurs are inclined toward neutrality. Lagonna centaurs tend to be more lawful, while Pheres centaurs are more often chaotic.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Pheres centaurs tend to be slightly larger than Lagonna centaurs. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Fey</name>
+      <text>Your creature type is fey, rather than humanoid.
+</text>
+      </trait>
+    <trait>
+        <name>Charge</name>
+      <text>If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.
+</text>
+      </trait>
+    <trait>
+        <name>Hooves</name>
+      <text>Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Equine Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push or drag.
+In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
+</text>
+      </trait>
+    <trait>
+        <name>Survivor</name>
+      <text>You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Leonin</name>
+    <size>M</size>
+    <speed>35</speed>
+    <ability>Str 1, Con 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Mythic Odysseys of Theros p. 20</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Leonin mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Claws</name>
+      <text>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Hunter's Instincts</name>
+      <text>You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.
+</text>
+      </trait>
+    <trait>
+        <name>Daunting Roar</name>
+      <text>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Leonin.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Minotaur (Theros)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>These traits are also suitable for minotaurs in other D&amp;D worlds where these people have avoided the demonic influence of Baphomet.
+Source: Mythic Odysseys of Theros p. 22</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Minotaurs mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Minotaurs who leave the walls of Skophos have the opportunity to be free of its culture and pursue chaotic alignments, while those who remain within the polis and its tyrannical regime tend toward lawful alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Horns</name>
+      <text>Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Goring Rush</name>
+      <text>Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.
+</text>
+      </trait>
+    <trait>
+        <name>Hammering Horns</name>
+      <text>Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
+</text>
+      </trait>
+    <trait>
+        <name>Imposing Presence</name>
+      <text>You have proficiency in one of the following skills of your choice: Intimidation or Persuasion.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Minotaur.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Satyr</name>
+    <size>M</size>
+    <speed>35</speed>
+    <ability>Cha 2, Dex 1</ability>
+    <proficiency>Performance, Persuasion</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Mythic Odysseys of Theros p. 24</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Satyrs mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Satyrs delight in living a life free of the mantle of law. They gravitate toward being good, but some have devious streaks and enjoy causing dismay.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Satyrs range from just under 5 feet to about 6 feet in height, with generally slender builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Fey</name>
+      <text>Your creature type is fey, rather than humanoid.
+</text>
+      </trait>
+    <trait>
+        <name>Ram</name>
+      <text>You can use your head and horns to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
+</text>
+      </trait>
+    <trait>
+        <name>Magic Resistance</name>
+      <text>You have advantage on saving throws against spells and other magical effects.
+</text>
+      </trait>
+    <trait>
+        <name>Mirthful Leaps</name>
+      <text>Whenever you make a long or high jump, you can roll a d8 and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Reveler</name>
+      <text>You have proficiency in the Performance and Persuasion skills, and you have proficiency with one musical instrument of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Triton (Theros)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 1, Cha 1, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility>Charisma</spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Mythic Odysseys of Theros p. 26</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Tritons reach maturity around age 15 and can live up to 200 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Tritons tend toward neutrality. Their culture encourages them to be mindful of life's currents, knowing when to harness fate's tides and when to flow along with them.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Swim Speed</name>
+      <text>You have a swimming speed of 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>You can breathe air and water.
+</text>
+      </trait>
+    <trait>
+        <name>Control Air and Water</name>
+      <text>A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Emissary of the Sea</name>
+      <text>Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
+</text>
+      </trait>
+    <trait>
+        <name>Guardians of the Depths</name>
+      <text>Adapted to even the most extreme ocean depths, you have resistance to cold damage.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Primordial.
+</text>
+      </trait>
+    </race>
+  </compendium>

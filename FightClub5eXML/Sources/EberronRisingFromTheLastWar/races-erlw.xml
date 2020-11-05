@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Bugbear</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Dex 1</ability>
+    <proficiency>Stealth</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 25</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Bugbears reach adulthood at age 16 and live up to 80 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Bugbears live on the fringes of society even in Darguun, where they value self-sufficiency and violence. They are generally chaotic, organizing in loose tribes under charismatic and powerful leaders.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Long-Limbed</name>
+      <text>When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+</text>
+      </trait>
+    <trait>
+        <name>Powerful Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+</text>
+      </trait>
+    <trait>
+        <name>Sneaky</name>
+      <text>You are proficient in the Stealth skill.
+</text>
+      </trait>
+    <trait>
+        <name>Surprise Attack</name>
+      <text>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Changeling</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Cha 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 17, Wayfinder's Guide to Eberron p. 60</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Changelings mature slightly faster than humans but share a similar lifespan—typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Changelings tend toward pragmatic neutrality, and few changelings embrace evil.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Shapechanger</name>
+      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+You stay in the new form until you use an action to revert to your true form or until you die.
+</text>
+      </trait>
+    <trait>
+        <name>Changeling Instincts</name>
+      <text>You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and two other languages of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Goblin</name>
+    <size>S</size>
+    <speed>30</speed>
+    <ability>Dex 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 26, Explorer's Guide to Wildemount p. 174</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Goblins reach adulthood at age 8 and live up to 60 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>In Eberron, goblins are usually neutral. They tend to look out for themselves, preferably without drawing unwanted attention from any larger, more powerful people.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Small.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Fury of the Small</name>
+      <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>You can take the Disengage or Hide action as a bonus action on each of your turns.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Half-Orc (Mark of Finding)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 1, Wis 2</ability>
+    <proficiency></proficiency>
+    <spellAbility>Wisdom</spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 41, Wayfinder's Guide to Eberron p. 98</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Hunter's Intuition</name>
+      <text>When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check.
+</text>
+      </trait>
+    <trait>
+        <name>Finder's Magic</name>
+      <text>You can cast the hunter's mark spell with this trait. Starting at 3rd level, you can also cast the locate object spell with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin.
+</text>
+      </trait>
+    <trait>
+        <name>Spells of the Mark</name>
+      <text>Mark of Finding Spells
+If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Finding Spells table are added to the spell list of your spellcasting class.
+Spell Level | Spells
+1st | faerie fire, longstrider
+2nd | locate animals or plants, locate object
+3rd | clairvoyance, speak with plants
+4th | divination, locate creature
+5th | commune with nature
+
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Hobgoblin</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 2, Int 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 26, Explorer's Guide to Wildemount p. 175</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Hobgoblin society in Eberron is shaped by the ideal of a strict code of honor and rigid martial discipline. Most hobgoblins are lawful, tending toward harsh enforcement of their laws.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Martial Training</name>
+      <text>You are proficient with two martial weapons of your choice and with light armor.
+</text>
+      </trait>
+    <trait>
+        <name>Saving Face</name>
+      <text>Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Kalashtar</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Wis 2, Cha 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 29, Wayfinder's Guide to Eberron p. 62</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Kalashtar mature and age at the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>The noble spirit tied to a kalashtar drives it toward lawful and good behavior. Most kalashtar combine strong self-discipline with compassion for all beings, but some kalashtar resist the virtuous influence of their spirit.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Dual Mind</name>
+      <text>You have advantage on all Wisdom saving throws.
+</text>
+      </trait>
+    <trait>
+        <name>Mental Discipline</name>
+      <text>You have resistance to psychic damage.
+</text>
+      </trait>
+    <trait>
+        <name>Mind Link</name>
+      <text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.
+</text>
+      </trait>
+    <trait>
+        <name>Severed from Dreams</name>
+      <text>Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common, Quori, and one other language of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Orc</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 31</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Orcs reach adulthood at age 12 and live up to 50 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>The orcs of Eberron are a passionate people, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Aggressive</name>
+      <text>As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+</text>
+      </trait>
+    <trait>
+        <name>Primal Intuition</name>
+      <text>You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+</text>
+      </trait>
+    <trait>
+        <name>Powerful Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Orc.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (Beasthide)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 2, Str 1</ability>
+    <proficiency>Athletics</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 34, Wayfinder's Guide to Eberron p. 64</text>
+      </trait>
+    <trait>
+        <name>Natural Athlete</name>
+      <text>You have proficiency in the Athletics skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>Whenever you shift, you gain 1d6 additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Speed</name>
+      <text>Your base walking speed is 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (Longtooth)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Dex 1</ability>
+    <proficiency>Intimidation</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 34, Wayfinder's Guide to Eberron p. 64</text>
+      </trait>
+    <trait>
+        <name>Fierce</name>
+      <text>You have proficiency in the Intimidation skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Speed</name>
+      <text>Your base walking speed is 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (Swiftstride)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 2, Cha 1</ability>
+    <proficiency>Acrobatics</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 34, Wayfinder's Guide to Eberron p. 64</text>
+      </trait>
+    <trait>
+        <name>Graceful</name>
+      <text>You have proficiency in the Acrobatics skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Speed</name>
+      <text>Your base walking speed is 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (Wildhunt)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Wis 2, Dex 1</ability>
+    <proficiency>Survival</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 34, Wayfinder's Guide to Eberron p. 64</text>
+      </trait>
+    <trait>
+        <name>Natural Tracker</name>
+      <text>You have proficiency in the Survival skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're incapacitated.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Speed</name>
+      <text>Your base walking speed is 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Warforged</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Eberron: Rising from the Last War p. 35, Wayfinder's Guide to Eberron p. 67</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>A typical warforged is between two and thirty years old. The maximum warforged lifespan remains a mystery; so far, warforged have shown no signs of deterioration due to age. You are immune to magical aging effects.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most warforged take comfort in order and discipline, tending toward law and neutrality. But some have absorbed the morality, or lack thereof, of the beings with which they served.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Constructed Resilience</name>
+      <text>You were created to have remarkable fortitude, represented by the following benefits:
+• You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+• You don't need to eat, drink, or breathe.
+• You are immune to disease.
+• You don't need to sleep, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Sentry's Rest</name>
+      <text>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Integrated Protection</name>
+      <text>Your body has built-in defensive layers, which can be enhanced with armor:
+• You gain a +1 bonus to Armor Class.
+• You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
+• While you live, your armor can't be removed from your body against your will.
+</text>
+      </trait>
+    <trait>
+        <name>Specialized Design</name>
+      <text>You gain one skill proficiency and one tool proficiency of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one other language of your choice.
+</text>
+      </trait>
+    </race>
+  </compendium>

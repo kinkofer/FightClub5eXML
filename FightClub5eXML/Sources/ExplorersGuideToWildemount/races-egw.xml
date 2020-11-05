@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Orc</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Explorer's Guide to Wildemount p. 178</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Orcs reach adulthood at age 16, and live up to 80 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it).
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Aggressive</name>
+      <text>As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+</text>
+      </trait>
+    <trait>
+        <name>Primal Intuition</name>
+      <text>You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Perception, and Survival.
+</text>
+      </trait>
+    <trait>
+        <name>Powerful Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Orc.
+</text>
+      </trait>
+    </race>
+  </compendium>

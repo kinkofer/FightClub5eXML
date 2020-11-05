@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Centaur</name>
+    <size>M</size>
+    <speed>40</speed>
+    <ability>Str 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Guildmasters' Guide to Ravnica p. 15</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Centaurs mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Centaurs are inclined toward neutrality. Those who join the Selesnya are more often neutral good, while those who join the Gruul are typically chaotic neutral.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Fey</name>
+      <text>Your creature type is fey, rather than humanoid.
+</text>
+      </trait>
+    <trait>
+        <name>Charge</name>
+      <text>If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.
+</text>
+      </trait>
+    <trait>
+        <name>Hooves</name>
+      <text>Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Equine Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push or drag.
+In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
+</text>
+      </trait>
+    <trait>
+        <name>Survivor</name>
+      <text>You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Goblin</name>
+    <size>S</size>
+    <speed>30</speed>
+    <ability>Dex 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Guildmasters' Guide to Ravnica p. 16, Explorer's Guide to Wildemount p. 174</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Goblins reach adulthood around age 8. They age noticeably faster than humans, and though few goblins live to old age, the most cautious rarely live longer than 60 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Goblins are typically neutral evil, as they care only for their own needs. A few goblins might tend toward good or neutrality, but only rarely.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Fury of the Small</name>
+      <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>You can take the Disengage or Hide action as a bonus action on each of your turns.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin. In Ravnica, Goblin is a simplistic language with a limited vocabulary and fluid rules of grammar, unsuited for any sophisticated conversation.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Loxodon</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Guildmasters' Guide to Ravnica p. 17</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Loxodons physically mature at the same rate as humans, but they live about 450 years. They highly value the weight of wisdom and experience and are considered young until they reach the age of 60.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most loxodons are lawful, believing in the value of a peaceful, ordered life. They also tend toward good.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Loxodons stand between 7 and 8 feet tall. Their massive bodies weigh between 300 and 400 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Powerful Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+</text>
+      </trait>
+    <trait>
+        <name>Loxodon Serenity</name>
+      <text>You have advantage on saving throws against being charmed or frightened.
+</text>
+      </trait>
+    <trait>
+        <name>Natural Armor</name>
+      <text>You have thick, leathery skin. When you aren't wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+</text>
+      </trait>
+    <trait>
+        <name>Trunk</name>
+      <text>You can grasp things with your trunk, and you can use it as a snorkel. It has a reach of 5 feet, and it can lift a number of pounds equal to five times your Strength score. You can use it to do the following simple tasks: lift, drop, hold, push, or pull an object or a creature; open or close a door or a container; grapple someone; or make an unarmed strike. Your DM might allow other simple tasks to be added to that list of options.
+Your trunk can't wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Smell</name>
+      <text>Thanks to your sensitive trunk, you have advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Investigation) checks that involve smell.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Loxodon.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Minotaur</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>These traits are also suitable for minotaurs in other D&amp;D worlds where these people have avoided the demonic influence of Baphomet.
+Source: Guildmasters' Guide to Ravnica p. 18</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Minotaurs enter adulthood at around the age of 17 and can live up to 150 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most minotaurs who join the Boros Legion lean toward lawful alignments, while those associated with the Cult of Rakdos or the Gruul Clans tend toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Horns</name>
+      <text>Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Goring Rush</name>
+      <text>Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.
+</text>
+      </trait>
+    <trait>
+        <name>Hammering Horns</name>
+      <text>Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
+</text>
+      </trait>
+    <trait>
+        <name>Imposing Presence</name>
+      <text>You have proficiency in one of the following skills of your choice: Intimidation or Persuasion.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Minotaur.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Simic Hybrid</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Guildmasters' Guide to Ravnica p. 20</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Hybrids begin their lives as adult humans, elves, or vedalken. They age at a slightly accelerated rate, so their maximum life spans are probably reduced somewhat. The Guardian Project has not been operating long enough to observe the full effect of this phenomenon.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most hybrids share the generally neutral outlook of the Simic Combine. They are more interested in scientific research and the standing of their guild than in moral or ethical questions. Those who leave the Combine, however, often do so because their philosophical outlook and alignment are more in line with a different guild's.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium, within the normal range of your humanoid base race.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and your choice of Elvish or Vedalken.
+</text>
+      </trait>
+    <trait>
+        <name>Animal Enhancement</name>
+      <text>Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level.
+At 1st level, choose one of the following options:
+• Manta Glide: You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
+• Nimble Climber: You have a climbing speed equal to your walking speed.
+• Underwater Adaptation: You can breathe air and water, and you have a swimming speed equal to your walking speed.
+At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:
+• Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment.
+• Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing heavy armor.
+• Acid Spit: As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Vedalken</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Int 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Guildmasters' Guide to Ravnica p. 21</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Vedalken mature slower than humans do, reaching maturity around age 40. Their life span is typically 350 years, with some living to the age of 500.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Vedalken are usually lawful and non-evil.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Tall and slender, Vedalken stand 6 to 6½ feet tall on average and usually weigh less than 200 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Vedalken Dispassion</name>
+      <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws.
+</text>
+      </trait>
+    <trait>
+        <name>Tireless Precision</name>
+      <text>You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand.  You are also proficient with one tool of your choice.
+Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check's total.
+</text>
+      </trait>
+    <trait>
+        <name>Partially Amphibious</name>
+      <text>By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common, Vedalken, and one other language of your choice.
+</text>
+      </trait>
+    </race>
+  </compendium>

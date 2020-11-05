@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Centaur (UA)</name>
+    <size>M</size>
+    <speed>40</speed>
+    <ability>Str 2, Wis 1</ability>
+    <proficiency>Survival</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Centaur (UA)s Minotaurs p. 1</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Centaur (UA)s mature and age at about the same rate as humans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Centaur (UA)s are inclined toward neutrality.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium, yet you tower over most other humanoids.
+</text>
+      </trait>
+    <trait>
+        <name>Charge</name>
+      <text>If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon's damage dice twice and add them together. Once you use this ability, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Hooves</name>
+      <text>Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier.
+</text>
+      </trait>
+    <trait>
+        <name>Equine Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot. Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount.
+</text>
+      </trait>
+    <trait>
+        <name>Survivor</name>
+      <text>You have proficiency in the Survival skill.
+</text>
+      </trait>
+    <trait>
+        <name>Hybrid Nature</name>
+      <text>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Minotaur (UA)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 1</ability>
+    <proficiency>Intimidation</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>In 2015, Minotaur (UA)s appeared as a playtest option in Unearthed Arcana. Here is a revised set of traits for Minotaur (UA) player characters. These traits are suitable for Minotaur (UA)s on Krynn and in other D&amp;D worlds where these people have avoided the demonic influence of Baphomet.
+Source: Unearthed Arcana: Centaurs Minotaur (UA)s p. 2</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Minotaur (UA)s enter adulthood at around the age of 17 and can live up to 150 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most Minotaur (UA)s lean toward lawful alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Minotaur (UA)s average over 6 feet in height, and they have strong, stocky builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Horns</name>
+      <text>Your horns are natural melee weapons, with which you're proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.
+</text>
+      </trait>
+    <trait>
+        <name>Goring Rush</name>
+      <text>Immediately after you use the Dash action on your turn and move at least as far as your speed, you can make one melee attack with your horns as a bonus action.
+</text>
+      </trait>
+    <trait>
+        <name>Hammering Horns</name>
+      <text>Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to shove that creature with your horns using your reaction. The creature must be no more than one size larger than you and within 5 feet of you. It must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier. If it fails, you push it up to 5 feet away from you.
+</text>
+      </trait>
+    <trait>
+        <name>Menacing</name>
+      <text>You have proficiency in the Intimidation skill.
+</text>
+      </trait>
+    <trait>
+        <name>Hybrid Nature</name>
+      <text>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Minotaur (UA).
+</text>
+      </trait>
+    </race>
+  </compendium>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Grung</name>
+    <size>S</size>
+    <speed>25</speed>
+    <ability>Dex 2, Con 1</ability>
+    <proficiency>Perception</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: One Grung Above p. 4</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Grungs mature to adulthood in a single year, but have been known to live up to 50 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most grungs are lawful, having been raised in a strict caste system. They tend toward evil as well, coming from a culture where social advancement occurs rarely, and most often because another member of your army has died and there is no one else of that caste to fill the vacancy.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Grungs stand between 2½ and 3½ feet tall and average about 30 pounds. Your size is Small.
+</text>
+      </trait>
+    <trait>
+        <name>Arboreal Alertness</name>
+      <text>You have proficiency in the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>You can breathe air and water.
+</text>
+      </trait>
+    <trait>
+        <name>Poison Immunity</name>
+      <text>You're immune to poison damage and the poisoned condition.
+</text>
+      </trait>
+    <trait>
+        <name>Poisonous Skin</name>
+      <text>Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take 2d4 poison damage.
+</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>Your long jump is up to 25 feet and your high jump is up to 15 feet, with or without a running start.
+</text>
+      </trait>
+    <trait>
+        <name>Water Dependency</name>
+      <text>If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of exhaustion at the end of that day. You can only recover from this exhaustion through magic or by immersing yourself in water for at least 1 hour.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Grung.
+</text>
+      </trait>
+    </race>
+  </compendium>

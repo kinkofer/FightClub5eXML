@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Tortle</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Wis 1</ability>
+    <proficiency>Survival</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>The Tortle Package is considered part of Xanathar's Guide to Everything for Adventurers League character creation.
+Source: The Tortle Package p. 3, Explorer's Guide to Wildemount p. 181</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Young tortles crawl for a few weeks after birth before learning to walk on two legs. They reach adulthood by the age of 15 and live an average of 50 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Tortles tend to lead orderly, ritualistic lives. They develop customs and routines, becoming more set in their ways as they age. Most are lawful good. A few can be selfish and greedy, tending more toward evil, but it's unusual for a tortle to shuck off order in favor of chaos.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells account for roughly one-third of their weight. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Claws</name>
+      <text>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Hold Breath</name>
+      <text>You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.
+</text>
+      </trait>
+    <trait>
+        <name>Natural Armor</name>
+      <text>Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Shell Defense</name>
+      <text>You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+</text>
+      </trait>
+    <trait>
+        <name>Survival Instinct</name>
+      <text>You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Aquan and Common.
+</text>
+      </trait>
+    </race>
+  </compendium>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Locathah</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Dex 1</ability>
+    <proficiency>Athletics, Perception</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Locathah Rising p. 24</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Locathah mature to adulthood by the age of 10 but have been known to live up to 80 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most locathah are true neutral or have some aspect of neutrality in their alignment. They tend toward good, coming from a culture where compassion for the downtrodden is a commonality.
+</text>
+      </trait>
+    <trait>
+        <name>Natural Armor</name>
+      <text>You have tough, scaly skin. When you aren't wearing armor, your AC is 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+</text>
+      </trait>
+    <trait>
+        <name>Observant &amp; Athletic</name>
+      <text>You have proficiency in the Athletics and Perception skills.
+</text>
+      </trait>
+    <trait>
+        <name>Leviathan Will</name>
+      <text>You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Limited Amphibiousness</name>
+      <text>You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Locathah stand between 5 and 6 feet tall and average about 150 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Language</name>
+      <text>You can speak, read, and write Aquan and Common.
+</text>
+      </trait>
+    </race>
+  </compendium>

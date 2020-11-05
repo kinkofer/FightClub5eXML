@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Changeling (UA)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Cha 1</ability>
+    <proficiency>Deception</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 1</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Changeling (UA)s are built much like humans, but a little leaner. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Duplicity</name>
+      <text>You gain proficiency in the Deception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shapechanger</name>
+      <text>As an action, you can polymorph into any humanoid of your size that you have seen, or back into your true form. However, your equipment does not change with you. If you die, you revert to your natural appearance.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and two other languages of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Beasthide)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 2</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you gain a +1 bonus to AC.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Beasthide)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Beasthide) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Cliffwalk)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 2</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you gain a climb speed of 30 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Cliffwalk)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Cliffwalk) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Longstride)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 2</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you can use the Dash action as a bonus action.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Longstride)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Longstride) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Longtooth)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Str 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 2</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you can make a bite attack as an action. This is a melee weapon attack that uses Strength for its attack roll and damage bonus and deals 1d6 piercing damage. If this attack hits a target that is your size or smaller, the target is also grappled.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Longtooth)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Longtooth) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Razorclaw)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 2</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you can make an unarmed strike as a bonus action. You can use your Dexterity for its attack roll and damage bonus, and this attack deals slashing damage.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Razorclaw)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Razorclaw) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA) (Wildhunt)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 3</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifting, you gain advantage on all Wisdom-based checks and saving throws.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA) (Wildhunt)s are about the same size as humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Your lycanthropic heritage grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>On your turn, you can shift as a bonus action. Shifting lasts for 1 minute or until you end it on your turn as a bonus action.
+While shifting, you gain temporary hit points equal to your level + your Constitution bonus (minimum of 1). You also gain a feature that depends on your Shifter (UA) (Wildhunt) subrace, described below.
+You must finish a short or long rest before you can shift again.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Warforged (UA)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 1, Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Eberron p. 3</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Warforged (UA) are generally broader and heavier than humans. Your size is Medium
+</text>
+      </trait>
+    <trait>
+        <name>Composite Plating</name>
+      <text>Your construction incorporates wood and metal, granting you a +1 bonus to Armor Class.
+</text>
+      </trait>
+    <trait>
+        <name>Living Construct</name>
+      <text>Even though you were constructed, you are a living creature. You are immune to disease. You do not need to eat or breathe, but you can ingest food and drink if you wish.
+Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one other language of your choice.
+</text>
+      </trait>
+    </race>
+  </compendium>

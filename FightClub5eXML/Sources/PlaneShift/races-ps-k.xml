@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Aetherborn</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Cha 2</ability>
+    <proficiency>Intimidation</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Kaladesh p. 17</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Aetherborn come into being as adults and live no more than a few years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>As a rule, aetherborn are driven by hedonism and self-interest, making them neutral at best and thoroughly evil at worst. Neutral aetherborn might devote much of their time (and wealth) to parties and social activity, while evil aetherborn are usually involved in the criminal underworld.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Aetherborn are about the same size as humans, ranging from 5 to 6 feet tall. They are quite light—only about 100 pounds—and their weight diminishes as they age and more and more of their substance returns to the aethersphere. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Born of Aether</name>
+      <text>You have resistance to necrotic damage.
+</text>
+      </trait>
+    <trait>
+        <name>Menacing</name>
+      <text>You have proficiency in the Intimidation skill.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and two other languages of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Gift of the Aetherborn</name>
+      <text>An unknown aetherborn, desperately seeking a means to extend their short life, discovered a process of transformation that prolonged their existence—by giving them the ability to feed on the life essence of other beings. Since then, other aetherborn have learned and carried out this monstrous transformation, and aetherborn with this "gift" have become a small minority among an already small population.
+A gifted aetherborn has the ability to drain the life essence of other beings. Similar to the way heat is transferred from a warm object to a cold one, a gifted aetherborn need only touch another living being with a clawed hand to draw life essence out, fueling their own continued existence while draining strength and vitality from their victim.
+For many aetherborn, living as they do for indulgence and instant gratification, the concepts of "want" and "need" are virtually synonymous. But Aetherborn with this gift understand what it is to truly need, for they develop a hunger for life essence that far exceeds any desires they might have felt before their transformation. A gifted aetherborn who abstains from this feeding deteriorates even more rapidly than other aetherborn, while enduring unspeakable agony caused by the deprivation of life energy.
+At the DM's option, an aetherborn character can research methods of achieving this dark "gift." The process is similar to inventing and manufacturing a rare magic item (see "Inventing and Manufacturing Devices" earlier in this document). But rather than aether, the process requires a variety of rare unguents and unusual ingredients that make up the cost of researching and undergoing the transformation.
+An aetherborn with this gift gains the Drain Life ability: a natural attack that deals 1d6 necrotic damage and restores the same number of hit points to the aetherborn. However, if the aetherborn goes for 7 days without dealing this damage, their hit point maximum is reduced by 1d6 per week. This reduction can't be removed until the aetherborn has used their Drain Life ability and completed a long rest.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Dwarf (Kaladesh)</name>
+    <size>M</size>
+    <speed>25</speed>
+    <ability>Con 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Kaladesh p. 19</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Dwarves stand around 5 feet tall and average about 150 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Speed</name>
+      <text>Your speed is not reduced by wearing heavy armor.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to life underground in your race's ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Dwarven Resilience</name>
+      <text>You have advantage on saving throws against poison, and you have resistance against poison damage.
+</text>
+      </trait>
+    <trait>
+        <name>Dwarven Toughness</name>
+      <text>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+</text>
+      </trait>
+    <trait>
+        <name>Artisan's Expertise</name>
+      <text>You gain proficiency with two kinds of artisan's tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction (including buildings, public works such as canals and aqueducts, and the massive cogwork that underlies much of the construction of Ghirapur), you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Elf (Kaladesh) (Bishatar and Tirahar)</name>
+    <size>M</size>
+    <speed>35</speed>
+    <ability>Dex 2, Wis 1</ability>
+    <proficiency>Perception</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Kaladesh p. 21</text>
+      </trait>
+    <trait>
+        <name>Fleet of Foot</name>
+      <text>Your ground speed increases to 35 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Mask of the Wild</name>
+      <text>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency in the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Elf Weapon Training</name>
+      <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.
+</text>
+      </trait>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Trance</name>
+      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Elf (Kaladesh) (Vadahar)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 2, Wis 1</ability>
+    <proficiency>Perception</proficiency>
+    <spellAbility>Wisdom</spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Kaladesh p. 21</text>
+      </trait>
+    <trait>
+        <name>Cantrip</name>
+      <text>You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it.
+</text>
+      </trait>
+    <trait>
+        <name>Extra Language</name>
+      <text>You can speak, read, and write one extra language of your choosing.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency in the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Elf Weapon Training</name>
+      <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.
+</text>
+      </trait>
+    <trait>
+        <name>Fey Ancestry</name>
+      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Trance</name>
+      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Vedalken (Kaladesh)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Int 2, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Kaladesh p. 23</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Vedalken (Kaladesh) mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Vedalken (Kaladesh) are most often lawful and rarely evil.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Vedalken (Kaladesh) are taller than humans but more slender. They average 6 to 6½ feet tall, but usually weigh less than 200 pounds. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Vedalken (Kaladesh). The Vedalken (Kaladesh) language is renowned for its technical treatises and its catalogs of knowledge about the natural world and the aether that pervades it.
+</text>
+      </trait>
+    <trait>
+        <name>Vedalken Cunning</name>
+      <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+</text>
+      </trait>
+    <trait>
+        <name>Aether Lore</name>
+      <text>Whenever you make an Intelligence (History) check related to magic items or aether-powered technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+</text>
+      </trait>
+    </race>
+  </compendium>
