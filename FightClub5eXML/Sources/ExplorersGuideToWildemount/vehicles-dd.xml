@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Stahlmaster</name>
+    <size>L</size>
+    <type>CREATURE</type>
+    <alignment>Unaligned</alignment>
+    <ac>16 (natural armor)</ac>
+    <hp>67 (9d10+18)</hp>
+    <speed>walk 30 ft.</speed>
+    <str>18</str>
+    <dex>10</dex>
+    <con>14</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Pilot</name>
+      <text>The Stahlmaster requires a Medium humanoid to pilot it. While inside the Stahlmaster, the pilot uses the vehicle's speed and action options and can't take reactions or use bonus actions, and the pilot has total cover. If the Stahlmaster drops to 0 hit points, the pilot is ejected from it and lands prone in an unoccupied space within 5 feet of the vehicle.</text>
+      </trait>
+    <action>
+        <name>Multiattack</name>
+      <text>The Stahlmaster makes two melee attacks, or one melee attack and one ranged attack.</text>
+      </action>
+    <action>
+        <name>Slam</name>
+      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (1d10 + 4) bludgeoning damage.</text>
+      <attack>Slam|+6|1d10+4</attack>
+      </action>
+    <action>
+        <name>Shoulder-Mounted Crossbow</name>
+      <text>Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. 6 (1d12) piercing damage.</text>
+      <attack>Shoulder-Mounted Crossbow|+2|1d12</attack>
+      </action>
+    <description>
+Source: Wildemount: Dangerous Designs p. 235</description>
+    <environment></environment>
+    </monster>
+  </compendium>
