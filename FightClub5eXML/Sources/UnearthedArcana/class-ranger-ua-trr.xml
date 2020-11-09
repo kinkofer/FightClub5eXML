@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger (Revised) (UA)</name>
+    <hd>10</hd>
+    <proficiency>Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</proficiency>
+    <numSkills>3</numSkills>
+    <spellAbility>Wisdom</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Ranger (Revised) (UA)</name>
+        <text>As a 1st-level Ranger (Revised) (UA), you begin play with 10+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium, shields</text>
+        <text>• Weapons: simple, martial</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) scale mail or (b) leather armor</text>
+        <text>• (a) two shortsword or (b) two simple melee weapons</text>
+        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+        <text>• A longbow and a quiver of arrows (20)</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium, shields</armor>
+    <weapons>simple, martial</weapons>
+    <tools>none</tools>
+    <wealth>5d4x10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Favored Enemy</name>
+        <text>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.</text>
+        <text>Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</text>
+        <text>When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Natural Explorer</name>
+        <text>You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:</text>
+        <text>• You ignore difficult terrain.</text>
+        <text>• You have advantage on initiative rolls.</text>
+        <text>• On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</text>
+        <text>In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:</text>
+        <text>• Difficult terrain doesn't slow your group's travel.</text>
+        <text>• Your group can't become lost except by magical means.</text>
+        <text>• Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
+        <text>• If you are traveling alone, you can move stealthily at a normal pace.</text>
+        <text>• When you forage, you find twice as much food as you normally would.</text>
+        <text>• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>0, 2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Spellcasting</name>
+        <text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   You know two 1st-level spells of your choice from the ranger spell list.</text>
+        <text>   The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>   Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Fighting Style</name>
+        <text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Primeval Awareness</name>
+        <text>Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.</text>
+        <text>You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack.</text>
+        <text>You cannot use this ability against a creature that you have attacked within the past 10 minutes.</text>
+        <text>Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you.</text>
+        <text>If there are multiple groups of your favored enemies within range, you learn this information for each group.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Ranger Conclave</name>
+        <text>At 3rd level, you choose to emulate the ideals and training of a ranger conclave from the list of available conclaves. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Conclave: Beast Conclave (UA)</name>
+        <text>Many rangers are more at home in the wilds than in civilization, to the point where animals consider them kin. Rangers of the Beast Conclave develop a close bond with a beast, then further strengthen that bond through the use of magic.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Conclave: Animal Companion</name>
+        <text>At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.</text>
+        <text>With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.</text>
+        <text>At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion's Bond ability. You can have only one animal companion at a time.</text>
+        <text>If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.</text>
+        <text>If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Conclave: Companion's Bond</name>
+        <text>Your animal companion gains a variety of benefits while it is linked to you.</text>
+        <text>The animal companion loses its Multiattack action, if it has one.</text>
+        <text>The companion obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your companion acts on its own.</text>
+        <text>When using your Natural Explorer feature, you and your animal companion can both move stealthily at a normal pace.</text>
+        <text>Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls.</text>
+        <text>Your animal companion gains proficiency in two skills of your choice. It also becomes proficient with all saving throws.</text>
+        <text>For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly.</text>
+        <text>Whenever you gain the Ability Score Improvement class feature, your companion's abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can't increase an ability score above 20 using this feature unless its description specifies otherwise.</text>
+        <text>Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, "The ranger who travels with me is a beloved companion for whom I would gladly give my life."</text>
+        <text>Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features.</text>
+        <text></text>
+        <text>Companion Trait</text>
+        <text>d6 | Trait</text>
+        <text>1 | I'm dauntless in the face of adversity.</text>
+        <text>2 | Threaten my friends, threaten me.</text>
+        <text>3 | I stay on alert so others can rest.</text>
+        <text>4 | People see an animal and underestimate me.</text>
+        <text>5 | I have a knack for showing up in the nick of time.</text>
+        <text>6 | I put my friends' needs before my own in all things.</text>
+        <text></text>
+        <text>Companion Flaw</text>
+        <text>d6 | Flaw</text>
+        <text>1 | If there's food left unattended, I'll eat it.</text>
+        <text>2 | I growl at strangers, and all people except my ranger are strangers to me.</text>
+        <text>3 | Any time is a good time for a belly rub.</text>
+        <text>4 | I'm deathly afraid of water.</text>
+        <text>5 | My idea of hello is a flurry of licks to the face.</text>
+        <text>6 | I jump on creatures to tell them how much I love them.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter Conclave: Hunter Conclave (UA)</name>
+        <text>Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter Conclave: Horde Breaker</name>
+        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter Conclave: Hunter's Prey</name>
+        <text>At 3rd level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter Conclave: Colossus Slayer</name>
+        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter Conclave: Giant Killer</name>
+        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Deep Stalker Conclave (UA)</name>
+        <text>Most folk descend into the depths of the Underdark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Deep Stalker Magic</name>
+        <text>At 3rd level, you have darkvision out to a range of 90 feet. If you already have darkvision, you increase its range by 30 feet. You also gain access to additional spells at 3rd, 5th, 9th, 13th, and 15th level. Once you gain a deep stalker spell, it counts as a ranger spell for you but doesn't count against the number of rangers spells you know.</text>
+        <text></text>
+        <text>Deep Stalker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | disguise self</text>
+        <text>5th | rope trick</text>
+        <text>9th | glyph of warding</text>
+        <text>13th | greater invisibility</text>
+        <text>17th | seeming</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Underdark Scout</name>
+        <text>At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed and if you use the attack action on that turn, you can make one additional attack. You are also adept at evading creatures that rely on darkvision. Such creatures gain no benefit when attempting to detect you in dark and dim conditions. Additionally, when the DM determines if you can hide from a creature, that creature gains no benefit from its darkvision.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Ranger Conclave feature</name>
+        <text>At 5th level, you gain a feature granted to you by your Ranger Conclave.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature optional="YES">
+          <name>Beast Conclave: Coordinated Attack</name>
+        <text>Beginning at 5th level, you and your animal companion form a more potent fighting force. When you use the Attack action on your turn, if your companion can see you, it can use its reaction to make a melee attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature optional="YES">
+          <name>Hunter Conclave: Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Greater Favored Enemy</name>
+        <text>At 6th level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.</text>
+        <text>Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Ranger Conclave feature</name>
+        <text>At 7th level, you gain a feature granted to you by your Ranger Conclave.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Beast Conclave: Beast's Defense</name>
+        <text>At 7th level, while your companion can see you, it has advantage on all saving throws.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter Conclave: Defensive Tactics</name>
+        <text>At 7th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter Conclave: Escape the Horde</name>
+        <text>Opportunity attacks against you are made with disadvantage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter Conclave: Multiattack Defense</name>
+        <text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter Conclave: Steel Will</name>
+        <text>You have advantage on saving throws against being frightened.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Iron Mind</name>
+        <text>At 7th level, you gain proficiency in Wisdom saving throws.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Fleet of Foot</name>
+        <text>Beginning at 8th level, you can use the Dash action as a bonus action on your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Hide in Plain Sight</name>
+        <text>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.</text>
+        <text>When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.</text>
+        <text>If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Ranger Conclave feature</name>
+        <text>At 11th level, you gain a feature granted to you by your Ranger Conclave.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Beast Conclave: Storm of Claw and Fangs</name>
+        <text>At 11th level, your companion can use its action to make a melee attack against each creature of its choice within 5 feet of it, with a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter Conclave: Multiattack</name>
+        <text>At 11th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter Conclave: Volley</name>
+        <text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter Conclave: Whirlwind Attack</name>
+        <text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Stalker's Flurry</name>
+        <text>Starting at 11th level, once on each of your turns when you miss with an attack, you can make another attack. You can gain one additional attack during your turn with this ability.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Vanish</name>
+        <text>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Ranger Conclave feature</name>
+        <text>At 15th level, you gain a feature granted to you by your Ranger Conclave.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Beast Conclave: Superior Beast's Defense</name>
+        <text>At 15th level, whenever an attacker that your companion can see hits it with an attack, it can use its reaction to halve the attack's damage against it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter Conclave: Evasion</name>
+        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter Conclave: Stand Against the Tide</name>
+        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter Conclave: Superior Hunter's Defense</name>
+        <text>At 15th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter Conclave: Uncanny Dodge</name>
+        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Deep Stalker Conclave: Stalker's Dodge</name>
+        <text>At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Feral Senses</name>
+        <text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Foe Slayer</name>
+        <text>At 20th level, you become an unparalleled hunter. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Ranger Revised p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Kraken (Livestream)</name>
+        <text>You made a pact with a Kraken somewhere in the world's ocean.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Kraken lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Kraken Patron Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | thunderwave, create or destroy water</text>
+        <text>2nd | augury, gust of wind</text>
+        <text>3rd | call lightning, water breathing</text>
+        <text>4th | evard's black tentacles, control water</text>
+        <text>5th | commune with nature, cone of cold</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Grasp of the Kraken</name>
+        <text>Starting at 1st level, you gain the ability to call forth spectral tentacles that grab at your foes. As an action, pick a point that you can see within 60 ft. of you. A horde of grasping tendrils appears at that point. Creatures of your choice within 10 ft. of that point must make a Strength saving throw against your Warlock spell save DC. Creatures that fail their saving throws are grappled for 1 minute or until you use this ability again. The spectral tentacle's Strength (Athletics) bonus is 2 + your proficiency bonus and its reach is 10 feet.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Inky Escape</name>
+        <text>At 6th level, you gain the ability to call upon your patron to escape from your foes. As a reaction when you take damage, you can cast darkness centered on a point within 5 ft. of you. The spell lasts until the end of your next turn, and it has no effect on your vision.</text>
+        <text>Once you use this ability, you cannot use it until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Scion of the Depths</name>
+        <text>Starting at 10th level, your patron accepts you into his inner court of servitors. You gain the ability to breathe water, and a swim speed equal to your normal speed.</text>
+        <text>You gain immunity to lightning damage. When your immunity reduces damage from an effect to 0, as a reaction you can cause creatures of your choice that you can see within 30 ft. of you to take lightning damage equal to your Charisma modifier + your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Unleash the Kraken</name>
+        <text>At 14th level, you gain the ability to call upon your patron for aid. As an action, you open a portal at a point you can see within 30 ft. of you and choose one of the following effects.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Fury</name>
+        <text>The tentacles slam into your foes. Pick up to 5 creatures that you can see within 30 ft. of the portal. Those creatures must make Dexterity saving throws against your Warlock spell save DC. Creatures that fail their saving throws take 10d6 bludgeoning damage and are restrained for 1 minute. Creatures that succeed take half the bludgeoning damage and are not restrained. On its turn, a restrained creature can use its action to attempt a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to end its restrained condition.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Kraken (Livestream): Transport</name>
+        <text>You and up to 5 creatures of your choosing that you can see are grasped by tentacles that emerge from the portal. A second portal opens at a point of your choice within 100 miles that you have visited in the past 24 hours, depositing you and your chosen allies there.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

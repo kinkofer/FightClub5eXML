@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Barbarian</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian (UA): Path of the Ancestral Guardian</name>
+        <text>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When barbarians who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.</text>
+        <text>Barbarians who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.</text>
+        <text>In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian (UA): Ancestral Protectors</name>
+        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you rage. These warriors distract a foe you designate and hinder its attempts to evade you. While you're raging, you can use a bonus action on your turn to choose one creature you can see within 5 feet of you. Until the start of your next turn or until your rage ends, the chosen creature has disadvantage on any attack roll that doesn't target you, and if the creature takes the Disengage action within 5 feet of you, its speed is halved until the end of its turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Storm Herald (UA): Path of the Storm Herald</name>
+        <text>Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.</text>
+        <text>Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Storm Herald (UA): Storm of Fury</name>
+        <text>When you select this path at 3rd level, choose one of the following options: desert, sea, or tundra. The environment you choose shapes the nature of the storm you conjure when you rage. While raging, you emanate an aura in a 10-foot radius. The effects of this aura depend on your chosen environment.</text>
+        <name>Path of the Storm Herald (UA): Desert</name>
+        <text>   Any enemy that ends its turn in your aura takes fire damage equal to 2 + your barbarian level divided by 4.</text>
+        <name>Path of the Storm Herald (UA): Sea</name>
+        <text>   At the end of each of your turns, you can choose a creature in your aura other than yourself. The target must make a Dexterity saving throw against a DC equal to 8 + your proficiency bonus + your Constitution modifier. The target takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. This damage increases to 3d6 at 10th level and to 4d6 at 15th level.</text>
+        <name>Path of the Storm Herald (UA): Tundra</name>
+        <text>   Any enemy that ends its turn in your aura takes cold damage equal to 2 + your barbarian level divided by 4.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Path of the Zealot</name>
+        <text>Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots—warriors who channel their rage into powerful displays of divine power.</text>
+        <text>A variety of gods across the worlds of D&amp;D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Divine Fury</name>
+        <text>Starting when you choose this path at 3rd level, you can channel divine fury when you start to rage. If you do so, you become cloaked in an aura of divine power until the rage ends. At the end of each of your turns for that duration, each creature within 5 feet of you takes damage equal to 1d6 + half your barbarian level. The damage is necrotic or radiant; you choose the type of damage when you gain this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Warrior of the Gods</name>
+        <text>At 3rd level, your soul is marked for endless battle. If a spell would have the sole effect of restoring you to life (but not undeath), the caster does not need material components to cast the spell on you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian (UA): Ancestral Shield</name>
+        <text>Beginning at 6th level, the guardian spirits that aid you can provide protection for your allies. If you are raging and an ally you can see within 30 feet of you takes bludgeoning, piercing, or slashing damage, you can use your reaction to transfer your resistance to those damage types to the ally. The resistance applies to the incoming damage. Until the start of your next turn, the ally keeps the resistance and you lack it, unless you also have it from a source other than rage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of the Storm Herald (UA): Storm Soul</name>
+        <text>At 6th level, your link to the power of the storm grants you additional abilities based on the environment you chose at 3rd level.</text>
+        <name>Path of the Storm Herald (UA): Desert</name>
+        <text>   You gain resistance to fire damage and don't suffer the effects of extreme heat.</text>
+        <name>Path of the Storm Herald (UA): Sea</name>
+        <text>   You gain resistance to lightning damage and can breathe underwater.</text>
+        <name>Path of the Storm Herald (UA): Tundra</name>
+        <text>   Tundra. You gain resistance to cold damage and don't suffer the effects of extreme cold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Zealous Focus</name>
+        <text>At 6th level, the divine power that fuels your rage can shield you from harm. If you fail a saving throw while raging, you can instead succeed on that saving throw as a reaction. However, doing so immediately ends your rage, and you can't rage again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian (UA): Consult the Spirits</name>
+        <text>At 10th level, you gain the ability to consult with your ancestral spirits. Right before you make an Intelligence or a Wisdom check, you can give yourself advantage on the check. You can use this feature three times, and you regain expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of the Storm Herald (UA): Shield of the Storm</name>
+        <text>At 10th level, you learn to use your mastery of the storm to protect your allies. While you are raging, allies within your aura gain the benefits of your Storm Soul feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Zealous Presence</name>
+        <text>At 10th level, you learn to channel divine power to inspire zealotry in others. As an action, you howl in fury and unleash a battle cry infused with divine energy. Every ally within 60 feet of you gains advantage on attack rolls and saving throws until the start of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian (UA): Vengeful Ancestors</name>
+        <text>At 14th level, your ancestral spirits grow powerful enough to strike your foes. When you or an ally you can see within 30 feet of you is damaged by a melee attack while you're raging, you can use your reaction to cause the attacker to take 2d8 force damage from the spirits.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of the Storm Herald (UA): Raging Storm</name>
+        <text>At 14th level, the power of the storm you channel grows mightier.</text>
+        <name>Path of the Storm Herald (UA): Desert</name>
+        <text>   The ground around you becomes like shifting sand. Any enemy that attempts to move more than 5 feet per turn on the ground while in your aura must make a Strength saving throw (DC 8 + your proficiency bonus + your Constitution modifier). On a failed save, the creature's speed drops to 0 until the start of its next turn.</text>
+        <name>Path of the Storm Herald (UA): Sea</name>
+        <text>   Roaring winds tear through the area around you. Any creature in your aura that you hit with an attack must make a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.</text>
+        <name>Path of the Storm Herald (UA): Tundra</name>
+        <text>   The air around you coldly slows your foes. The area within your aura is difficult terrain for your enemies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of the Zealot (UA): Rage Beyond Death</name>
+        <text>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.</text>
+        <text>While raging, having 0 hit points doesn't knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Barbarian Primal Paths p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

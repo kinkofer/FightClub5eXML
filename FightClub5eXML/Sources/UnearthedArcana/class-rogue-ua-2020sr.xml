@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Phantom</name>
+        <text>Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.</text>
+        <text>Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay (Forgotten Realms) and Karrnath (Eberron), where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.</text>
+        <text>How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a god of death?</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Wails from the Grave</name>
+        <text>3rd-level Phantom feature</text>
+        <text>As you nudge someone closer to the grave, you can cause deathly wails to be heard near them. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes psychic damage equal to the roll's total, as wails of the dead sound around them for a moment.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Phantom (UA): Whispers of the Dead</name>
+        <text>3rd-level Phantom feature</text>
+        <text>Echoes of those who have died begin to cling to you. Whenever you finish a short or long rest, you can gain one skill or tool proficiency of your choice, as a ghostly presence shares its knowledge with you. This proficiency lasts until you use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Phantom (UA): Tokens of the Departed</name>
+        <text>9th-level Phantom feature</text>
+        <text>When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you open your free hand and a Tiny trinket appears there, a soul trinket. The DM chooses the trinket's form or has you roll on the Trinket table in the Player's Handbook to determine it.</text>
+        <text>While the soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, as your vitality is enhanced by the life essence within the object. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.</text>
+        <text>As an action, you can destroy one of your soul trinkets, no matter where it's located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It's under no obligation to be truthful, and it answers as concisely as possible, eager to be free.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Phantom (UA): Ghost Walk</name>
+        <text>13th-level Phantom feature</text>
+        <text>You can now phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
+        <text>You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Phantom (UA): Death Knell</name>
+        <text>17th-level Phantom feature</text>
+        <text>When you use your Wails from the Grave feature, you can now deal the psychic damage to both the first and the second creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

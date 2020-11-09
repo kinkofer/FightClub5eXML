@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Mystic (UA)</name>
+    <hd>8</hd>
+    <proficiency>Intelligence, Wisdom, Arcana, History, Insight, Medicine, Nature, Perception, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Mystic (UA)</name>
+        <text>As a 1st-level Mystic (UA), you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: simple</text>
+        <text>• Tools: None</text>
+        <text>• Skills: Choose 2 from Arcana, History, Insight, Medicine, Nature, Perception, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a spear or (b) a mace</text>
+        <text>• (a) leather armor or (b) studded leather armor</text>
+        <text>• (a) a light crossbow and crossbow bolts (20) or (b) any simple weapon</text>
+        <text>• (a) a scholar's pack or (b) an explorer's pack</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <armor>light</armor>
+    <weapons>simple</weapons>
+    <tools>None</tools>
+    <wealth>5d4x10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Psionics</name>
+        <text>As a student of psionics, you can master and use psionic talents and disciplines, the rules for which appear at the end of this document. Psionics is a special form of magic use, distinct from spellcasting.</text>
+        <text></text>
+        <text>Psionic Talents:</text>
+        <text>   A psionic talent is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. The Talents Known column of the Mystic (UA) table shows the total number of talents you know at each level; when that number goes up for you, choose a new talent.</text>
+        <text></text>
+        <text>Psionic Disciplines:</text>
+        <text>   A psionic discipline is a rigid set of mental exercises that allows a Mystic (UA) to manifest psionic power. A Mystic (UA) masters only a few disciplines at a time.</text>
+        <text>   At 1st level, you know one psionic discipline of your choice. The Disciplines Known column of the Mystic (UA) table shows the total number of disciplines you know at each level; when that number goes up for you, choose a new discipline.</text>
+        <text>   In addition, whenever you gain a level in this class, you can replace one discipline you know with a different one of your choice.</text>
+        <text></text>
+        <text>Psi Points:</text>
+        <text>   You have an internal reservoir of energy that can be devoted to psionic disciplines you know. This energy is represented by psi points. Each psionic discipline describes effects you can create with it by spending a certain number of psi points. A psionic talent requires no psi points.</text>
+        <text>   The number of psi points you have is based on your Mystic (UA) level, as shown in the Psi Points column of the Mystic (UA) table. The number shown for your level is your psi point maximum. Your psi point total returns to its maximum when you finish a long rest. The number of psi points you have can't go below 0 or over your maximum.</text>
+        <text></text>
+        <text>Psi Limit:</text>
+        <text>   Though you have access to a potent amount of psionic energy, it takes training and practice to channel that energy. There is a limit on the number of psi points you can spend to activate a psionic discipline. The limit is based on your Mystic (UA) level, as shown in the Psi Limit column of the Mystic (UA) table. For example, as a 3rd-level Mystic (UA), you can spend no more than 3 psi points on a discipline each time you use it, no matter how many psi points you have.</text>
+        <text></text>
+        <text>Psychic Focus:</text>
+        <text>   You can focus psionic energy on one of your psionic disciplines to draw ongoing benefits from it. As a bonus action, you can choose one of your psionic disciplines and gain its psychic focus benefit, which is detailed in that discipline's description. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit.</text>
+        <text>   You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.</text>
+        <text></text>
+        <text>Psionic Ability:</text>
+        <text>   Intelligence is your psionic ability for your psionic disciplines. You use your Intelligence modifier when setting the saving throw DC for a psionic discipline or when making an attack roll with one.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Psionic Disciplines and Talents</name>
+        <text>Psionic talents and disciplines are the heart of a Mystic (UA)'s craft. They are the mental exercises and psionic formulae used to forge will into tangible, magical effects.</text>
+        <text>Psionic disciplines were each discovered by different orders and tend to reflect their creators' specialties. However, a Mystic (UA) can learn any discipline regardless of its associated order.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Using a Discipline</name>
+        <text>Each psionic discipline has several ways you can use it, all contained in its description. The discipline specifies the type of action and number of psi points it requires. It also details whether you must concentrate on its effects, how many targets it affects, what saving throws it requires, and so on.</text>
+        <text>The following sections go into more detail on using a discipline. Psionic disciplines are magical and function similarly to spells.</text>
+        <text></text>
+        <text>Psychic Focus:</text>
+        <text>   The Psychic Focus section of a discipline describes the benefit you gain when you choose that discipline for your psychic focus.</text>
+        <text></text>
+        <text>Effect Options and Psi Points:</text>
+        <text>   A discipline provides different options for how to use it with your psi points. Each effect option has a name, and the psi point cost of that option appears in parentheses after its name. You must spend that number of psi points to use that option, while abiding by your psi limit. If you don't have enough psi points left, or the cost is above your psi limit, you can't use the option.</text>
+        <text>   Some options show a range of psi points, rather than a specific cost. To use that option, you must spend a number of points within that point range, still abiding by your psi limit. Some options let you spend additional psi points to increase a discipline's potency. Again, you must abide by your psi limit, and you must spend all the points when you first use the discipline; you can't decide to spend additional points once you see the discipline in action.</text>
+        <text>   Each option notes specific information about its effect, including any action required to use it and its range.</text>
+        <text></text>
+        <text>Components:</text>
+        <text>   Disciplines don't require the components that many spells require. Using a discipline requires no spoken words, gestures, or materials. The power of psionics comes from the mind.</text>
+        <text></text>
+        <text>Duration:</text>
+        <text>   An effect option in a discipline specifies how long its effect lasts.</text>
+        <text></text>
+        <text>Instantaneous:</text>
+        <text>   If no duration is specified, the effect of the option is instantaneous.</text>
+        <text></text>
+        <text>Concentration:</text>
+        <text>   Some options require concentration to maintain their effects. This requirement is noted with "conc." after the option's psi point cost. The "conc." notation is followed by the maximum duration of the concentration. For example, if an option says "conc., 1 min.," you can concentrate on its effect for up to 1 minute.</text>
+        <text>   Concentrating on a discipline follows the same rules as concentrating on a spell. This rule means you can't concentrate on a spell and a discipline at the same time, nor can you concentrate on two disciplines at the same time. See chapter 10, "Spellcasting," in the Player's Handbook for how concentration works.</text>
+        <text></text>
+        <text>Targets and Areas of Effect:</text>
+        <text>   Psionic disciplines use the same rules as spells for determining targets and areas of effect, as presented in chapter 10, "Spellcasting," of the Player's Handbook.</text>
+        <text></text>
+        <text>Saving Throws and Attack Rolls:</text>
+        <text>   If a discipline requires a saving throw, it specifies the type of save and the results of a successful or failed saving throw. The DC is determined by your psionic ability.</text>
+        <text>   Some disciplines require you to make an attack roll to determine whether the discipline's effect hits its target. The attack roll uses your psionic ability.</text>
+        <text></text>
+        <text>Combining Psionic Effects:</text>
+        <text>   The effects of different psionic disciplines add together while the durations of the disciplines overlap. Likewise, different options from a psionic discipline combine if they are active at the same time. However, a specific option from a psionic discipline doesn't combine with itself if the option is used multiple times. Instead, the most potent effect—usually dependent on how many psi points were used to create the effect—applies while the durations of the effects overlap.</text>
+        <text>   Psionics and spells are separate effects, and therefore their benefits and drawbacks overlap. A psionic effect that reproduces a spell is an exception to this rule.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Mystic (UA) Order</name>
+        <text>At 1st level, you choose a Mystic (UA) Order from the list of available orders. Each order specializes in a specific approach to psionics.</text>
+        <text>Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Avatar</name>
+        <text>Mystic (UA)s of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these Mystic (UA)s vary from tyrants to inspiring leaders who are loved by their followers.</text>
+        <text>Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Avatar: Armor Training</name>
+        <text>At 1st level, you gain proficiency with medium armor and shields.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Avatar: Bonus Disciplines</name>
+        <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Avatar disciplines.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Awakened</name>
+        <text>Mystic (UA)s dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy.</text>
+        <text>The Awakened are skilled at bending minds and unleashing devastating psionic attacks, and they can read the secrets of the world through psionic energy. Awakened Mystic (UA)s who take to adventuring excel at unraveling mysteries, solving puzzles, and defeating monsters by turning them into unwilling pawns.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Awakened: Awakened Talent</name>
+        <text>At 1st level, you gain proficiency with two of the following skills of your choice: Animal Handling, Deception, Insight, Intimidation, Investigation, Perception, and Persuasion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Awakened: Bonus Disciplines</name>
+        <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Awakened disciplines.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Immortal</name>
+        <text>The Order of the Immortal uses psionic energy to augment and modify the physical form. Followers of this order are known as Immortals. They use psionic energy to modify their bodies, strengthening them against attack and turning themselves into living weapons.</text>
+        <text>Their mastery of the physical form grants them their name, for Immortals are notoriously difficult to kill.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Immortal: Bonus Disciplines</name>
+        <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Immortal disciplines.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Immortal: Immortal Durability</name>
+        <text>Starting at 1st level, your hit point maximum increases by 1 per Mystic (UA) level.</text>
+        <text>In addition, while you aren't wearing armor or wielding a shield, your base AC equals 10 + your Dexterity modifier + your Constitution modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Nomad</name>
+        <text>Mystic (UA)s of the Order of the Nomad keep their minds in a strange, rarified state. They seek to accumulate as much knowledge as possible, as they quest to unravel the mysteries of the multiverse and seek the underlying structure of all things. At the same time, they perceive a bizarre, living web of knowledge they call the noosphere.</text>
+        <text>Nomads, as their name indicates, delight in travel, exploration, and discovery. They desire to accumulate as much knowledge as possible, and the pursuit of secrets and hidden lore can become an obsession for them.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Nomad: Bonus Disciplines</name>
+        <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Nomad disciplines.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Nomad: Breadth of Knowledge</name>
+        <text>At 1st level, you gain the ability to extend your knowledge. When you finish a long rest, you gain two proficiencies of your choice: two tools, two skills, or one of each. You can replace one or both of these selections with languages. This benefit lasts until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Soul Knife</name>
+        <text>The Order of the Soul Knife sacrifices the breadth of knowledge other Mystic (UA)s gain to focus on a specific psionic technique. These Mystic (UA)s learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.</text>
+        <text>Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Soul Knife: Martial Training</name>
+        <text>At 1st level, you gain proficiency with medium armor and martial weapons.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Soul Knife: Soul Knife</name>
+        <text>Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can't hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.</text>
+        <text>For you, a soul knife is a martial melee weapon with the light and finesse properties. It deals 1d8 psychic damage on a hit.</text>
+        <text>As a bonus action, you can prepare to use the blades to parry; you gain a +2 bonus to AC until the start of your next turn or until you are incapacitated.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Mystic (UA) Order: Order of the Wu Jen</name>
+        <text>The Order of the Wu Jen features some of the most devoted Mystic (UA)s. These Mystic (UA)s seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these Mystic (UA)s cast their minds into the world, seize control of its fundamental principles, and rebuild it.</text>
+        <text>In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Wu Jen: Bonus Disciplines</name>
+        <text>At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Wu Jen disciplines.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order of the Wu Jen: Hermit's Study</name>
+        <text>At 1st level, you gain proficiency with two of the following skills of your choice: Animal Handling, Arcana, History, Insight, Medicine, Nature, Perception, Religion, or Survival.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Mystic (UA)al Recovery</name>
+        <text>Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.</text>
+        <text>Immediately after you spend psi points on a psionic discipline, you can take a bonus action to regain hit points equal to the number of psi points you spent.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Telepathy</name>
+        <text>At 2nd level, your mind awakens to the ability to communicate via telepathy. You can telepathically speak to any creature you can see within 120 feet of you in this manner. You don't need to share a language with the creature for it to understand your telepathic messages, but the creature must be able to understand at least one language or be telepathic itself.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Mystic (UA) Order feature</name>
+        <text>At 3rd level, you gain another feature from your Mystic (UA) Order.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Avatar: Avatar of Battle</name>
+        <text>Starting at 3rd level, you project an inspiring aura. While you aren't incapacitated, each ally within 30 feet of you who can see you gains a +2 bonus to initiative rolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Awakened: Psionic Investigation</name>
+        <text>Starting at 3rd level, you can focus your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10 minutes (as if concentrating on a psionic discipline), you learn a few basic facts about it. You gain a mental image from the object's point of view, showing the last creature to hold the object within the past 24 hours.</text>
+        <text>You also learn of any events that have occurred within 20 feet of the object within the past hour. The events you perceive unfold from the object's perspective. You see and hear such events as if you were there, but can't use other senses.</text>
+        <text>Additionally, you can embed an intangible psionic sensor within the object. For the next 24 hours, you can use an action to learn the object's location relative to you (its distance and direction) and to look at the object's surroundings from its point of view as if you were there. This perception lasts until the start of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Immortal: Psionic Resilience</name>
+        <text>Starting at 3rd level, your psionic energy grants you extraordinary fortitude. At the start of each of your turns, you gain temporary hit points equal to your Intelligence modifier (minimum of 0) if you have at least 1 hit point.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Nomad: Memory of One Thousand Steps</name>
+        <text>At 3rd level, you gain the ability to use psionics to recall your steps. As a reaction when you are hit by an attack, you can teleport to an unoccupied space that you occupied since the start of your last turn, and the attack misses you. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Soul Knife: Hone the Blade</name>
+        <text>Starting at 3rd level, you can spend psi points to augment your soul knife's attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.</text>
+        <text></text>
+        <text>Psi Points | Attack and Damage Bonus</text>
+        <text>2 | +1</text>
+        <text>5 | +2</text>
+        <text>7 | +4</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Order of the Wu Jen: Elemental Attunement</name>
+        <text>Starting at 3rd level, when a creature's resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature's resistance. You can't spend this point if doing so would increase the discipline's cost above your psi limit.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Strength of Mind</name>
+        <text>Even the simplest psionic technique requires a deep understanding of how psionic energy can augment mind and body. This understanding allows you to alter your defenses to better deal with threats.</text>
+        <text>Starting at 4th level, you can replace your proficiency in Wisdom saving throws whenever you finish a short or long rest. To do so, choose Strength, Dexterity, Constitution, or Charisma. You gain proficiency in saves using that ability, instead of Wisdom. This change lasts until you finish your next short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Mystic (UA) Order feature</name>
+        <text>At 6th level, you gain another feature from your Mystic (UA) Order.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Avatar: Avatar of Healing</name>
+        <text>Beginning at 6th level, you project an aura of resilience. While you aren't incapacitated, each ally within 30 feet of you who can see you regains additional hit points equal to your Intelligence modifier (minimum of 0) whenever they regain hit points from a psionic discipline.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Awakened: Psionic Surge</name>
+        <text>Starting at 6th level, you can overload your psychic focus to batter down an opponent's defenses. You can impose disadvantage on a target's saving throw against a discipline or talent you use, but at the cost of using your psychic focus. Your psychic focus immediately ends if it's active, and you can't use it until you finish a short or long rest.</text>
+        <text>You can't use this feature if you can't use your psychic focus.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Immortal: Surge of Health</name>
+        <text>Starting at 6th level, you can draw on your psychic focus to escape death's grasp. As a reaction when you take damage, you can halve that damage against you. Your psychic focus immediately ends if it's active, and you can't use it until you finish a short or long rest.</text>
+        <text>You can't use this feature if you can't use your psychic focus.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Nomad: Superior Teleportation</name>
+        <text>At 6th level, you gain a superior talent for teleportation. When you use a psionic discipline to teleport any distance, you can increase that distance by up to 10 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Soul Knife: Consumptive Knife</name>
+        <text>Starting at 6th level, whenever you slay an enemy creature with a soul knife attack, you immediately regain 2 psi points.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order of the Wu Jen: Arcane Dabbler</name>
+        <text>At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of 1st through 3rd level.</text>
+        <text>As a bonus action, you can spend psi points to create spell slots that you can use to cast these spells, as well as other spells you are capable of casting. The psi-point cost of each spell slot is detailed on the table below.</text>
+        <text></text>
+        <text>Spell Slot Level | Psi Cost</text>
+        <text>1st | 2</text>
+        <text>2nd | 3</text>
+        <text>3rd | 5</text>
+        <text>4th | 6</text>
+        <text>5th | 7</text>
+        <text>The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.</text>
+        <text>Whenever you gain a level in this class, you can replace on of the chosen wizard spells with a different wizard spell of 1st through 3rh level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Potent Psionics (1d8)</name>
+        <text>At 8th level, you gain the ability to infuse your weapon attacks with psychic energy. Once on each of your turns when you hit a creature with a weapon, you can deal an extra 1d8 psychic damage to that target. When you reach 14th level, this extra damage increases to 2d8.</text>
+        <text>In addition, you add your Intelligence modifier to any damage roll you make for a psionic talent.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Consumptive Power</name>
+        <text>At 10th level, you gain the ability to sacrifice your physical durability in exchange for psionic power. When activating a psionic discipline, you can pay its psi point cost with your hit points, instead of using any psi points. Your current hit points and hit point maximum are both reduced by the number of hit points you spend. This reduction can't be lessened in any way, and the reduction to your hit point maximum lasts until you finish a long rest.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Psionic Mastery (1/Day)</name>
+        <text>Beginning at 11th level, your mastery of psionic energy allows you to push your mind beyond its normal limits. As an action, you gain 9 special psi points that you can spend only on disciplines that require an action or a bonus action to use. You can use all 9 points on one discipline, or you can spread them across multiple disciplines. You can't also spend your normal psi points on these disciplines; you can spend only the special points gained from this feature. When you finish a long rest, you lose any of these special points that you haven't spent.</text>
+        <text>If more than one of the disciplines you activate with these points require concentration, you can concentrate on all of them. Activating one of them ends any effect you were already concentrating on, and if you begin concentrating on an effect that doesn't use these special points, the disciplines end that you're concentrating on.</text>
+        <text>At 15th level, the pool of psi points you gain from this feature increases to 11.</text>
+        <text>You have one use of this feature, and you regain any expended use of it with a long rest. You gain one additional use of this feature at 13th, 15th, and 17th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Psionic Mastery (2/Day)</name>
+        <text>At 13th level, you can use your Psionic Mastery twice per day.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Mystic (UA) Order feature</name>
+        <text>At 14th level, you gain another feature from your Mystic (UA) Order.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Avatar: Avatar of Speed</name>
+        <text>Starting at 14th level, you project an aura of speed. While you aren't incapacitated, any ally within 30 feet of you who can see you can take the Dash action as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Awakened: Spectral Form</name>
+        <text>At 14th level, you gain the ability to become a ghostly figure of psionic energy. As an action, you can transform into a transparent, ghostly version of yourself. While in this form, you have resistance to all damage, move at half speed, and can pass through objects and creatures while moving but can't willingly end your movement in their spaces. The form lasts for 10 minutes or until you use an action to end it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Immortal: Immortal Will</name>
+        <text>Starting at 14th level, you can draw on your reserves of psionic power to survive beyond death. At the end of your turn while at 0 hit points, you can spend 5 psi points to immediately regain a number of hit points equal to your Mystic (UA) level + your Constitution modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Nomad: Effortless Journey</name>
+        <text>Starting at 14th level, your mind can Mystic (UA)ally move your body. Once on each of your turns, you can forfeit up to 30 feet of your movement to teleport the distance you forfeited. You must teleport to an unoccupied space you can see.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Soul Knife: Phantom Knife</name>
+        <text>Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target's AC as 10 against this attack, regardless of the target's actual AC.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Order of the Wu Jen: Elemental Mastery</name>
+        <text>Starting at 14th level, if you have resistance to a type of damage, you can spend 2 psi points as a reaction when you take damage of that type to ignore that damage; you gain immunity to that damage type until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Potent Psionics (2d8)</name>
+        <text>At 14th level, your potent psionics damage increased to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Psionic Mastery (3/Day)</name>
+        <text>At 15th level, you can use your Psionic Mastery three times per day.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Psionic Mastery (4/Day)</name>
+        <text>At 17th level, you can use your Psionic Mastery four times per day.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Psionic Body</name>
+        <text>At 20th level, your mastery of psionic power causes your mind to transcend the body. Your physical form is infused with psionic energy. You gain the following benefits:</text>
+        <text>• You gain resistance to bludgeoning, piercing, and slashing damage.</text>
+        <text>• You no longer age.</text>
+        <text>• You are immune to disease, poison damage, and the poisoned condition.</text>
+        <text>• If you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Mystic Class p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

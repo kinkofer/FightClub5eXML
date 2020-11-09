@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Way of Mercy</name>
+        <text>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help—whether ailing or evil—they bring a swift end as an act of mercy.</text>
+        <text>Those who follow the Way of Mercy might be humble members of a religious order, administering to those in greatest need, making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. The walkers of this way usually don simple robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death. If you wear a mask, choose its appearance, or determine it randomly by rolling on the Merciful Mask table.</text>
+        <text></text>
+        <text>Merciful Mask</text>
+        <text>d6 | Mask Appearance</text>
+        <text>1 | Raven</text>
+        <text>2 | Blank and white</text>
+        <text>3 | Crying visage</text>
+        <text>4 | Laughing visage</text>
+        <text>5 | Skull</text>
+        <text>6 | Butterfly</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Hands of Harm</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die. If the creature is incapacitated or poisoned, the creature instead takes necrotic damage equal to three rolls of your Martial Arts die instead. You can use this feature only once on each of your turns.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Hands of Healing</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.</text>
+        <text>When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending its ki cost.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Implements of Mercy</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner's kit.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Noxious Aura</name>
+        <text>6th-level Way of Mercy feature</text>
+        <text>As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you're incapacitated, or you dismiss it (no action required).</text>
+        <text>While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Healing Technique</name>
+        <text>11th-level Way of Mercy feature</text>
+        <text>Your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of Mercy (UA): Hand of Mercy</name>
+        <text>17th-level Way of Mercy feature</text>
+        <text>Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature's status.</text>
+        <text>You can have only one creature under the effect of this feature at a time.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

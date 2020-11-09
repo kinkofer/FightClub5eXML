@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Monster Hunter</name>
+        <text>As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Bonus Proficiencies</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in two of the following skills of your choice: Arcana, History, Insight, Investigation, Nature, or Perception. You can choose to gain proficiency with thieves' tools in place of one skill choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Combat Superiority</name>
+        <text>At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.</text>
+        <text></text>
+        <text>Superiority Dice</text>
+        <text>   You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a long or short rest. You gain another superiority die at 7th level and one more at 15th level.</text>
+        <text></text>
+        <text>Using Superiority Dice</text>
+        <text>   You can expend superiority dice to gain a number of different benefits:</text>
+        <text>• When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied.</text>
+        <text>• When you damage a creature with a weapon attack, you can expend one superiority die to add it to the damage roll. You can use this ability after rolling damage. If the attack causes the target to make a Constitution saving throw to maintain concentration, it has disadvantage on that save.</text>
+        <text>• When you make an Intelligence, a Wisdom, or a Charisma saving throw, you can expend one superiority die to add it to the roll. You can use this feature only before you learn if the save succeeded or failed.</text>
+        <text>• When you make a Wisdom (Perception) check to detect a hidden creature or object, or a Wisdom (Insight) check to determine if someone is lying to you, you can expend one superiority die to add it to the roll. You can use this feature after seeing the total but before learning if you succeeded or failed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Hunter's Mysticism</name>
+        <text>At 3rd level, your study of the supernatural gives you a limited ability to use magic. You can cast detect magic as a ritual. You can cast protection from evil and good, but you cannot cast it again with this feature until you finish a long rest. Wisdom is your spellcasting ability for these spells.</text>
+        <text>In addition, you gain the ability to speak one of the following languages of your choice: Abyssal, Celestial, or Infernal.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Monster Slayer</name>
+        <text>At 7th level, whenever you expend superiority dice to add to a damage roll, you can expend up to two dice instead of just one, adding both to the roll. Both dice are expended as normal. If the target of your attack is an aberration, a fey, a fiend, or an undead, you deal maximum damage with both dice, instead of rolling them.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Improved Combat Superiority</name>
+        <text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Relentless</name>
+        <text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Monster Hunter (UA): Improved Combat Superiority</name>
+        <text>At 18th level, your superiority dice turn into d12s.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

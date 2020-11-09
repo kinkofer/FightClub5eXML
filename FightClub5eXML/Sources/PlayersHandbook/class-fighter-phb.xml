@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <hd>10</hd>
+    <proficiency>Strength, Constitution, Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival</proficiency>
+    <numSkills>2</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Fighter</name>
+        <text>As a 1st-level Fighter, you begin play with 10+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium, heavy, shields</text>
+        <text>• Weapons: simple, martial</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 2 from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) chain mail or (b) leather armor, longbow, and arrows (20)</text>
+        <text>• (a) a martial weapon and a shield or (b) two martial weapons</text>
+        <text>• (a) a light crossbow and crossbow bolts (20) or (b) two handaxe</text>
+        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 70</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Fighter</name>
+        <text>To multiclass as a Fighter, you must meet the following prerequisites:</text>
+        <text></text>
+        <text>• Strength 13</text>
+        <text>• Dexterity 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light, medium, shields</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 70</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium, heavy, shields</armor>
+    <weapons>simple, martial</weapons>
+    <tools>none</tools>
+    <wealth>5d4x10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Fighting Style</name>
+        <text>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Archery</name>
+        <text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Defense</name>
+        <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Dueling</name>
+        <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Great Weapon Fighting</name>
+        <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Protection</name>
+        <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Two-Weapon Fighting</name>
+        <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Second Wind</name>
+        <text>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</text>
+        <text>Once you use this feature, you must finish a short or long rest before you can use it again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Action Surge</name>
+        <text>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.</text>
+        <text>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Martial Archetype</name>
+        <text>At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Champion</name>
+        <text>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Champion: Improved Critical</name>
+        <text>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Battle Master</name>
+        <text>Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Master: Combat Superiority</name>
+        <text>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</text>
+        <name>Battle Master: Maneuvers</name>
+        <text>   You learn three maneuvers of your choice, which are listed under "Maneuvers" below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</text>
+        <text>   You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</text>
+        <name>Battle Master: Superiority Dice</name>
+        <text>   You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+        <text>   You gain another superiority die at 7th level and one more at 15th level.</text>
+        <name>Battle Master: Saving Throws</name>
+        <text>   Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Master: Maneuver Options</name>
+        <text>1st-level feature (enhances Maneuvers)</text>
+        <text>If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters and to characters who have the Superior Technique fighting style or the Martial Adept feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Master: Maneuvers</name>
+        <text>The maneuvers are presented in alphabetical order.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Master: Student of War</name>
+        <text>At 3rd level, you gain proficiency with one type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Eldritch Knight</name>
+        <text>The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Eldritch Knight: Spellcasting</name>
+        <text>When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.</text>
+        <name>Eldritch Knight: Cantrips</name>
+        <text>   You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.</text>
+        <name>Eldritch Knight: Spell Slots</name>
+        <text>   The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   For example, if you know the 1st-level spell shield and have a 1st-level and a 2nd-level spell slot available, you can cast shield using either slot.</text>
+        <name>Eldritch Knight: Spells Known of 1st-Level and Higher</name>
+        <text>   You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.</text>
+        <text>   The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>   The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</text>
+        <text>   Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.</text>
+        <name>Eldritch Knight: Spellcasting Ability</name>
+        <text>   Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Eldritch Knight: Weapon Bond</name>
+        <text>At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.</text>
+        <text>Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.</text>
+        <text>You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Martial Archetype feature</name>
+        <text>At 7th level, you gain a feature granted by your Martial Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Champion: Remarkable Athlete</name>
+        <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</text>
+        <text>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Battle Master: Additional Maneuvers</name>
+        <text>At 7th level, you learn two additional maneuvers of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Battle Master: Additional Superiority Die</name>
+        <text>You gain another superiority die at 7th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Battle Master: Know Your Enemy</name>
+        <text>If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Strength score</text>
+        <text>• Dexterity score</text>
+        <text>• Constitution score</text>
+        <text>• Armor Class</text>
+        <text>• Current hit points</text>
+        <text>• Total class levels (if any)</text>
+        <text>• Fighter class levels (if any)</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Eldritch Knight: War Magic</name>
+        <text>Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature>
+          <name>Indomitable</name>
+        <text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</text>
+        <text>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Martial Archetype feature</name>
+        <text>At 10th level, you gain a feature granted by your Martial Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Champion: Additional Fighting Style</name>
+        <text>At 10th level, you can choose a second option from the Fighting Style class feature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Battle Master: Additional Maneuvers</name>
+        <text>At 10th level, you learn two additional maneuvers of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Battle Master: Improved Combat Superiority (d10)</name>
+        <text>At 10th level, your superiority dice turn into d10s.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Eldritch Knight: Eldritch Strike</name>
+        <text>At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Extra Attack (2)</name>
+        <text>At 11th level, you can attack three times whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Indomitable (two uses)</name>
+        <text>At 13th level, you can use Indomitable twice between long rests.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Martial Archetype feature</name>
+        <text>At 15th level, you gain a feature granted by your Martial Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Champion: Superior Critical</name>
+        <text>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Battle Master: Additional Maneuvers</name>
+        <text>At 15th level, you learn two additional maneuvers of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Battle Master: Additional Superiority Die</name>
+        <text>You gain another superiority die at 15th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Battle Master: Relentless</name>
+        <text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Eldritch Knight: Arcane Charge</name>
+        <text>At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Action Surge (two uses)</name>
+        <text>At 17th level, you can use Action Surge twice before a rest, but only once on the same turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Indomitable (three uses)</name>
+        <text>At 17th level, you can use Indomitable three times between long rests.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Martial Archetype feature</name>
+        <text>At 18th level, you gain a feature granted by your Martial Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Champion: Survivor</name>
+        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Battle Master: Improved Combat Superiority (d12)</name>
+        <text>At 18th level, your superiority dice turn into d12s.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Eldritch Knight: Improved War Magic</name>
+        <text>Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 74</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Extra Attack (3)</name>
+        <text>At 20th level, you can attack four times whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

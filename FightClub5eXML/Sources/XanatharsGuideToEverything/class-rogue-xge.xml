@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Inquisitive</name>
+        <text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Ear for Deceit</name>
+        <text>When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Eye for Detail</name>
+        <text>Starting at 3rd level, you can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive: Insightful Fighting</name>
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.</text>
+        <text>This benefit lasts for 1 minute or until you successfully use this feature against a different target.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, allowing you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Mastermind</name>
+        <text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Intrigue</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise Kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.</text>
+        <text>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Mastermind: Master of Tactics</name>
+        <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Scout</name>
+        <text>You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter—these are just a few of the roles that Scouts assume as they range the world.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout: Skirmisher</name>
+        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout: Survivalist</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Rakes, duelists, and pirates typically follow this archetype.</text>
+        <text>A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your unmistakable confidence propels you into battle. You add your Charisma modifier to your initiative rolls.</text>
+        <text>In addition, you don't need advantage on your attack roll to use your Sneak Attack if no creature other than your target is within 5 feet of you. All the other rules for the Sneak Attack class feature still apply to you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Roguish Archetype: Swashbuckler</name>
+        <text>You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.</text>
+        <text>A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Fancy Footwork</name>
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swashbuckler: Rakish Audacity</name>
+        <text>Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.</text>
+        <text>You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Inquisitive: Steady Eye</name>
+        <text>Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Mastermind: Insightful Manipulator</name>
+        <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</text>
+        <text>• Intelligence score</text>
+        <text>• Wisdom score</text>
+        <text>• Charisma score</text>
+        <text>• Class levels (if any)</text>
+        <text>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Scout: Superior Mobility</name>
+        <text>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Swashbuckler: Panache</name>
+        <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
+        <text>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
+        <text>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Inquisitive: Unerring Eye</name>
+        <text>Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Mastermind: Misdirection</name>
+        <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Scout: Ambush Master</name>
+        <text>Starting at 13th level, you excel at leading ambushes and acting first in a fight.</text>
+        <text>You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Swashbuckler: Elegant Maneuver</name>
+        <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Inquisitive: Eye for Weakness</name>
+        <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 45</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by making a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful, if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Mastermind: Soul of Deceit</name>
+        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.</text>
+        <text>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 46</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Scout: Sudden Strike</name>
+        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 47</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure to success in combat. If you miss with an attack roll, you can choose to roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Swashbuckler: Master Duelist</name>
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 48</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

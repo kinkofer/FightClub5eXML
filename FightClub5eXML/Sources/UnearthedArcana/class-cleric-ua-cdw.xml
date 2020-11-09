@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Twilight Domain (UA)</name>
+        <text>The Twilight Domain governs the transition and blending of light into darkness. It is a time of rest and comfort, but also the threshold between safety and the unknown. Deities of healing or respite (such as Boldrei, Hestia, Mishakal, or Pelor), bravery or protection (such as Dol Arrah, Hajama, Helm, or Ilmater), travel or transition (such as Fharlanghn, Hermes, the Raven Queen, or the Traveler), or the night and dreams (such as Celestian, Morpheus, Nut, or Selûne) might grant their clerics the Twilight Domain. Clerics who serve these deities tend to be brave, delving into the dark to hold its dangers at bay and to bring comfort to those lost far from the light.</text>
+        <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Twilight Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | faerie fire, sleep</text>
+        <text>3rd | darkness, invisibility</text>
+        <text>5th | aura of vitality, Leomund's tiny hut</text>
+        <text>7th | aura of life, greater invisibility</text>
+        <text>9th | circle of power, dream</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Bonus Proficiency</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>You gain proficiency with martial weapons and heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Eyes of Night</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>Your eyes are blessed, allowing you to see through the deepest gloom. You have darkvision with no maximum range; you can see in dim light as if it were bright light and in darkness as if it were dim light.</text>
+        <text>As an action, you can magically give the benefit of this feature to any number of creatures you can see within 10 feet of you. The shared benefit lasts for 10 minutes. You can extend this benefit a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Vigilant Blessing</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>The night has taught you to be vigilant. As an action, you give one creature you touch (including possibly yourself) advantage on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Channel Divinity: Twilight Sanctuary</name>
+        <text>2nd-level Twilight Domain feature</text>
+        <text>You can use your Channel Divinity to refresh your allies with soothing twilight.</text>
+        <text>As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</text>
+        <text>• Give it 1d8 temporary hit points.</text>
+        <text>• End one effect causing it to be charmed or frightened.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Steps of the Brave</name>
+        <text>6th-level Twilight Domain feature</text>
+        <text>You draw strength from your connection to twilight and find yourself at home within its dark embrace, gaining two benefits:</text>
+        <text>• You have advantage on saving throws against being frightened.</text>
+        <text>• If you are in dim light or darkness, you can use a bonus action to magically give yourself a flying speed equal to your walking speed until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Divine Strike</name>
+        <text>8th-level Twilight Domain feature</text>
+        <text>You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Twilight Domain (UA): Midnight Shroud</name>
+        <text>17th-level Twilight Domain feature</text>
+        <text>You can harness the shrouding power of night to protect your allies and stymie your foes. Whenever you cast the darkness spell using a spell slot, you can choose a number of creatures that you can see (including yourself) equal to your Wisdom modifier (minimum of one). The chosen creatures can see through the darkness.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

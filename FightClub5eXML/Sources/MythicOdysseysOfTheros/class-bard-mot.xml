@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Bard</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Bard College: College of Eloquence</name>
+        <text>Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence: Silver Tongue</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You are a master at saying the right thing at the right time. When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Eloquence: Unsettling Words</name>
+        <text>3rd-level College of Eloquence feature</text>
+        <text>You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a bonus action, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Eloquence: Unfailing Inspiration</name>
+        <text>6th-level College of Eloquence feature</text>
+        <text>Your inspiring words are so persuasive that others feel driven to succeed. When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Eloquence: Universal Speech</name>
+        <text>6th-level College of Eloquence feature</text>
+        <text>You have gained the ability to make your speech intelligible to any creature. As an action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest, unless you expend a spell slot to use it again.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Eloquence: Infectious Inspiration</name>
+        <text>14th-level College of Eloquence feature</text>
+        <text>When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.</text>
+        <text>You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Mythic Odysseys of Theros p. 28</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

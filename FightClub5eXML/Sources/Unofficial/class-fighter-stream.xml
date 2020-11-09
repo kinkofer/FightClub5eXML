@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Warlord (Livestream)</name>
+        <text>Transcribed on 2018-03-28. [Square bracketed text] denotes transcriber's annotations.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Tactical Focus</name>
+        <text>At 3rd level, your tactical acumen allows you to study an area of a battlefield and provide direction to your allies that can tilt a battle in your favor.</text>
+        <text>As a bonus action or as part of the attack action, you can select an area on the ground that measures 10 feet on each side. This area is your tactical focus. It remains your tactical focus until you use this ability again or you are unable to take actions.</text>
+        <text>When you select an area as your tactical focus, you choose one of your tactics to apply to that area. You gain three tactics at 3rd level. You gain an additional tactic at 7th and 15 level. Each time you complete a long rest, you can swap one of your tactics for a different one.</text>
+        <text></text>
+        <text>Tactics</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Tactician's Insight</name>
+        <text>Starting at 3rd level, you can grant your allies useful tactical insights while they are in the area of your tactical focus.</text>
+        <text>You gain a number of uses of insight based on your fighter level.</text>
+        <text>As a bonus action or as a part of an attack action you grant insight to yourself or allies in your tactical focus. You grant this benefit to yourself and as many allies as you wish in your focus, but you cannot expend more uses than you currently have [or more than the maximum in the table below. A creature can receive more than one Tactician's Insight when you take this action.]</text>
+        <text>A creature that gains your insight can use it in two ways. It can regain hit points immediately upon receiving it. Roll 2d10 and the creature regains that many hit points. If the creature would gain hit points that place it above its maximum, it gains the difference as temporary hit points.</text>
+        <text>Alternatively, a creature can save the insight to use when it hits with an attack. It increases the attack's damage by 2d10.</text>
+        <text>You regain expended uses of Tactician's Insight when you complete a long rest.</text>
+        <text></text>
+        <text>Tactician's Insight</text>
+        <text>Fighter Level | Uses | Maximum | Gambits</text>
+        <text>3 | 2 | 1 | 0</text>
+        <text>4-6 | 3 | 1 | 0</text>
+        <text>7-9 | 7 | 2 | 3</text>
+        <text>10-12 | 9 | 2 | 4</text>
+        <text>13-15 | 14 | 3 | 5</text>
+        <text>16-18 | 16 | 3 | 6</text>
+        <text>19-20 | 20 | 4 | 7</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Advance</name>
+        <text>You and your allies can move 10 ft. in your tactical focus for every 5 feet of movement expended there. [Changed during stream to "You and your allies can basically teleport into your focus. Movement on allies turn." Specifically, the movement is not made as a reaction—your allies can use their movement on their turn(s) to move towards the focus, and gain bonuses to speed or other effects (for example, ignoring difficult terrain, or movement does not provoke opportunity attacks) to aid and incentivize this. Additionally, this may replace "Cover That Flank" in future.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Clear the area</name>
+        <text>If an ally hits a creature in your tactical focus with an attack, the ally can move that creature 5 ft. in addition to the attack's other effects.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Cover That Flank</name>
+        <text>When a hostile creature that you can see enters your tactical focus, up to three target creatures of your choice that can see the creature can use a reaction to move up to their speed. The targets must end their movement in the tactical focus. A target creature that ends this movement adjacent to the triggering creature regains its reaction.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Form Shield Wall</name>
+        <text>Allies in your tactical focus gain a +2 bonus to AC while they are adjacent to an ally using a shield. [In future, this will likely be changed to benefit only creatures not already wielding a shield, and to affect each creature at most once.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Get Down</name>
+        <text>If an allied creature in your tactical focus must make a Dexterity saving throw it can use its reaction to move up to its speed. If this movement takes it out of the range or area of the effect that caused the saving throw, it is no longer subjected to the effect. [In future, this may be changed to instead give advantage on the saving throw, or require the creature to drop prone, or cancel the creature's next move.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Reorder Ranks</name>
+        <text>Allies in your tactical focus do not provoke opportunity attacks while they are within 5 feet of an ally. In addition, you and your allies can end movement in an ally's space. That ally immediately moves so that you do not occupy the same space, but it must end that move at least partially occupying your tactical focus. [Noted as requiring cleanup.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Paths of the Sublime Way</name>
+        <text>Each path of the sublime way features a unique take on combat mastery. Many, but not all, require you to wield certain weapons to use their exploits.</text>
+        <text>When you use a martial exploit, you can choose to use one of the special exploits listed under one of the paths you know. You choose the special exploit when you decide to use a martial exploit.</text>
+        <text>Some of these abilities require you to roll fewer dice when using a martial exploit. You cannot use an ability that reduces the total dice you roll for the exploit to less than 1. Such an ability is beyond your skill.</text>
+        <text>Some of these abilities require a creature to make a saving throw. The DC for such a save is 8 + your proficiency bonus + your Strength modifier.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Weapon Master (Livestream)</name>
+        <text>Transcribed on 2018-10-13. [Square bracketed text] denotes transcriber's annotations.</text>
+        <text>A weapon master follows the fighting techniques of the Sublime way. This martial discipline combines a variety of sources, from arcane and divine magic to the hardened resolve of a master warrior, to produce astounding battlefield effects.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Martial Exploits</name>
+        <text>Starting at 3rd level, you gain the ability to use your tactical acumen, physical prowess, and sometimes a dash of mystic energy to achieve astounding feats of martial skill.</text>
+        <text>You gain the ability to use martial exploits. You gain uses based on your fighter level, as shown on the Martial Exploits table. You regain all expended uses when you complete a long</text>
+        <text>You also gain access to one path of the Sublime Way at 3rd level. The Martial Exploits table also shows when you get access to additional paths as you gain fighter levels.</text>
+        <text>Whenever you gain a fighter level, you can choose to lose access to one path and replace it with access to a different one.</text>
+        <text></text>
+        <text>Martial Exploits</text>
+        <text>Level | Path | Uses | Exploit Dice</text>
+        <text>3 | 1 | 4 | 2d6</text>
+        <text>4 | 2 | 5 | 2d6</text>
+        <text>5 | 2 | 5 | 2d6</text>
+        <text>6 | 3 | 5 | 2d6</text>
+        <text>7 | 3 | 7 | 3d6</text>
+        <text>8 | 3 | 7 | 3d6</text>
+        <text>9 | 3 | 7 | 3d6</text>
+        <text>10 | 4 | 9 | 3d6</text>
+        <text>11 | 4 | 9 | 3d6</text>
+        <text>12 | 5 | 9 | 3d6</text>
+        <text>13 | 5 | 10 | 4d6</text>
+        <text>14 | 5 | 10 | 4d6</text>
+        <text>15 | 5 | 10 | 4d6</text>
+        <text>16 | 5 | 10 | 5d6</text>
+        <text>17 | 5 | 10 | 5d6</text>
+        <text>18 | 5 | 10 | 5d6</text>
+        <text>19 | 5 | 10 | 6d6</text>
+        <text>20 | 5 | 10 | 6d6</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Masterful Strike</name>
+        <text>When you reach 3rd level, you gain the ability to use a martial exploit to land a telling blow. When you make a weapon attack, you can expend a martial exploit. Roll the dice for your exploit along with your attack. If your attack misses, you can use one or more of the exploit's dice results as a bonus to your attack. If the attack hits, apply any unused dice as a bonus to your weapon damage roll.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Path of the Shadow Harlequin</name>
+        <text>The Shadow Harlequin path is a school of artful sword play and mesmerizing flourishes. Its practitioners attack a foe's mind and body, maneuvering their foes into tactical blunders with cunning feints and sudden, surprising moves.</text>
+        <text>Shadow Harlequins typically fight with light, agile weapons, such as rapiers and short swords, but their talents are useful to almost any warrior.</text>
+        <name>Weapon Master (Livestream): Come Forth to Dance</name>
+        <text>   Your weapon moves in a lazy, hypnotic pattern, luring your foe to blunder ahead and walk into your trap.</text>
+        <text>   As an action, expend a martial exploit and select a creature that can see you within 15 feet of you. The target must make a Wisdom saving throw. If it fails, it moves up to 15 feet closer to you. You then make a single melee attack against it using your martial exploit with one die fewer.</text>
+        <name>Weapon Master (Livestream): Cutting Dialogue</name>
+        <text>   If this exchange of blows is a dramatic play, let your rejoinder be its final act.</text>
+        <text>   As a reaction when a creature makes a melee attack against you, you can expend a martial exploit and make a melee weapon attack against that creature. You can select one of the dice rolled and add it to your AC against the target's attack.</text>
+        <name>Weapon Master (Livestream): Dramatic Exit</name>
+        <text>   Your overly dramatic strike distracts your opponent, allowing you to slip away from their grasp.</text>
+        <text>   When you expend a martial exploit when making a melee weapon attack, you can move up to 5 feet, without provoking opportunity attacks, per exploit die rolled after your attack.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Path of the Stone Dragon</name>
+        <text>The Stone Dragon path focuses on brutal power and overwhelming toughness. Most of these exploits require you to attack with a two-handed melee weapon or a versatile melee weapon you wield in two hands.</text>
+        <text>Warriors of the Stone Dragon are often cruel destroyers. They fight with the subtlety and irresistible force of an avalanche. Their punishing attacks render their enemies immobile, allowing them to then take careful aim for one, final executioner's blow.</text>
+        <name>Weapon Master (Livestream): Adamantine Bones</name>
+        <text>   You focus your mind and grit your teeth, pushing aside pain and drawing on wellsprings of energy that blot out the pain of your wounds.</text>
+        <text>   When you expend a martial exploit when attacking with a two-handed melee weapon or a versatile one wielded in two hands, after rolling the dice you can select one or more of them. You gain temporary hit points equal to the total of the dice + your Constitution modifier (minimum of 1).</text>
+        <text>   You can also activate this ability as a bonus action. In that case, you roll your martial exploit dice and gain temporary hit points equal to their total + your Constitution modifier.</text>
+        <name>Weapon Master (Livestream): Colossus Strike</name>
+        <text>   You swing your weapon in an upward arc, catching your foe in the chest and sending them flying across the battlefield.</text>
+        <text>   When you expend a martial exploit when attacking with a two-handed melee weapon or a versatile one wielded in two hands, after rolling the dice you can select one or more of them and disregard their result. For each die selected, you push the target 5 feet in a straight line along the ground if your attack hits.</text>
+        <name>Weapon Master (Livestream): Jaws of the Stone Dragon</name>
+        <text>   Like a mighty dragon pouncing upon a helpless victim, you take stock of an immobilized foe before landing a crushing strike.</text>
+        <text>   When you expend a martial exploit when attacking a target that cannot move or with a speed of 0 with a two-handed melee weapon or a versatile one wielded in two hands, you gain an additional +2 bonus per die used as a bonus to your weapon damage roll.</text>
+        <name>Weapon Master (Livestream): Mountain's Grasp</name>
+        <text>   Your blows land with such force that your enemy is left off balance, unable to escape your brutal assault.</text>
+        <text>   When you expend a martial exploit when attacking with a two-handed melee weapon or a versatile one wielded in two hands, after rolling the dice you can select at least two of them and disregard their results. The target must make a Constitution saving throw. If it fails, its speed is reduced to 0 until the end of your next turn.</text>
+        <name>Weapon Master (Livestream): Sweeping Bludgeon</name>
+        <text>   As you ready to strike your enemy, you sweep your weapon around you in a great arc that builds momentum and forces your enemies to dive to the ground to avoid a crushing blow.</text>
+        <text>   When you expend a martial exploit when attacking with a two-handed melee weapon or a versatile one wielded in two hands, after rolling the dice you can select one or more of them and disregard their result. For each die selected, pick a creature within reach of your attack. Each chosen creature must make a Strength saving throw or be knocked prone.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Slayer</name>
+        <text>A slayer is a fighter who specializes in bringing down the mightiest monsters wth a few, resounding blows. Some slayers target specific types of monsters, such as dwarven giant slayers who patrol the mountain's peaks or human dragon slayers who train to defeat wyrms of all types.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Martial Exploits</name>
+        <text>Starting at 3rd level, you gain the ability to use your tactical acumen and physical prowess to achieve astounding feats of martial skill.</text>
+        <text>You gain the ability to use martial exploits. You gain uses of martial exploits based on your fighter level, as shown in the Martial Exploits table. You retain all expenses uses when you complete a long rest.</text>
+        <text>You can apply the benefits of only one exploit to any given attack. If more than one exploit applies to an attack, you select which one to use. Some exploits require a creature to make a saving throw. The DC for such a save is 8 + your proficiency bonus + your Strength modifier.</text>
+        <text></text>
+        <text>Martial Exploits</text>
+        <text>Level | Uses</text>
+        <text>3 | 3</text>
+        <text>4-6 | 5</text>
+        <text>7-9 | 7</text>
+        <text>11-12 | 9</text>
+        <text>13+ | 10</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Slayer's Exploits</name>
+        <text>When you reach 3rd level, you gain several martial exploits that allow you to lay low even the mightiest foe. The ability to use a martial exploit to land a telling blow. You gain the Adamantine Bones, Bell Ringer, and Masterful Strike exploits.</text>
+        <name>Slayer (Livestream): Adamantine Bones</name>
+        <text>   You focus your mind and grit your teeth, pushing aside pain and drawing on wellsprings of energy that blot out the pain of your wounds.</text>
+        <text>   During your turn, you can expend a martial exploit to gain temporary hit points. You gain temporary hit points equal to 5 times your proficiency bonus.</text>
+        <name>Slayer (Livestream): Bellringer</name>
+        <text>   You take careful aim at your foe's head or other sensitive point, unleashing a brutal attack that knocks the target senseless.</text>
+        <text>   You can expend a martial exploit when you hit with a melee weapon attack. The target of the attack must make a Constitution saving throw. If it fails, it is paralyzed. At the end of each of its turns, it can make a Constitution saving throw to end this effect.</text>
+        <name>Slayer (Livestream): Masterful Strike</name>
+        <text>   You strike with overwhelming strength and accuracy, battering aside your foe's defense to deliver a deadly strike.</text>
+        <text>   When you make an attack, you can expend a martial exploit and roll a number of d6s equal to your proficiency bonus.</text>
+        <text>   If the attack misses, you learn the target's AC and can use the result of one or more d6s of your choice as a bonus to your attack roll, possibly turning the miss into a hit. Any remaining dice are used as a bonus to your weapon's damage roll.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Additional Tactic</name>
+        <text>At 7th level, you learn an additional tactic of your choice.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Tactical Gambits</name>
+        <text>Starting at 7th level, your tactical cunning allows you to seize the moment in battle.</text>
+        <text>At 7th level, you learn two gambits. You learn an additional gambit at 10th and 18th level.</text>
+        <text>You use a gambit as an action. You can use your gambits a number of times based on your fighter level.</text>
+        <text>Each time you complete a long rest, you regain all expended uses of your gambits and can swap one of your gambits for a different one.</text>
+        <name>Warlord (Livestream): Saving Throws</name>
+        <text>   A gambit sometimes requires a saving throw. The saving throw DC is calculated as follows:</text>
+        <name>Warlord (Livestream): Gambits</name>
+        <text>   The gambits are presented in alphabetical order.</text>
+        <name>Warlord (Livestream): Aggressive Advance</name>
+        <text>   You and your allies howl in rage and glower at your foes, making a display that sends fear into their hearts.</text>
+        <text>   Hostile creatures within 60 feet of you that can see you must make a Wisdom saving throw. On a failed save, a creature is frightened of your tactical focus. A creature frightened by this effect can repeat the saving throw at the end of each of its turns, ending the effect on a successful save. As part of this gambit, you may take the attack action. [In future, may be changed to require you or an ally to be present within the focus.]</text>
+        <name>Warlord (Livestream): Cut Them Down!</name>
+        <text>   You direct your allies to strike with perfect timing. Landing blows just as your enemies are of balance to send them tumbling to the ground.</text>
+        <text>   Until the end of your next turn, hostile creatures in your tactical focus that you can see must make Strength saves each time they are hit by an attack. On a failed save, they are knocked prone. As part of this gambit, you may take the attack action.</text>
+        <name>Warlord (Livestream): Luring Gambit</name>
+        <text>   You entangle your weapon with a chosen foe, luring it to duel you as your allies close in for the kill.</text>
+        <text>   As part of this gambit, you may take the attack action. If you hit a creature with a weapon attack during your turn, it must make a Wisdom saving throw. On a failed save, your allies are invisible to it until the end of your next turn.</text>
+        <name>Warlord (Livestream): Pile On</name>
+        <text>   You direct your allies' attacks against a target, each blow building on the next to build a devastating result. Select a creature in your tactical focus that you can see. At the start of your next turn, that creature must make a Constitution saving throw if you or an ally has hit it with an attack since you used this ability. It suffers disadvantage on the saving throw if it has been hit by three or more attacks [in future, this may be changed to "hit by three or more creatures"]. On a failed saving throw, the creature is stunned until the end of your next turn.</text>
+        <text>   As part of this gambit, you may take the attack action.</text>
+        <name>Warlord (Livestream): Pincer Movement</name>
+        <text>   With precise timing, you order your allies to charge into the enemy, dealing body checks that leave your foes entangled and helpless.</text>
+        <text>   Up to two allies that can see or hear you can use their reactions to move up to their speed. Any creature adjacent to both of your allies or to you and one of the chosen allies at the end of their movement must make a Strength saving throw or become restrained until the end of your next turn. As part of this gambit, you may take the attack action.</text>
+        <name>Warlord (Livestream): Vexing Maneuvers</name>
+        <text>   With precise movements, you and your allies dash around the foes to leave them confused and unable to pick out their most dangerous targets.</text>
+        <text>   Each enemy in your tactical focus that you can see must make an Intelligence saving throw. On a failed save, it cannot leave your tactical focus using its move until the end of your next turn. As part of this gambit you may take the attack action.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Way of the Blade</name>
+        <text>Starting at 7th level, you blend your martial talent with the softer skills needed to navigate the world. If you are holding a weapon when you make a Strength (Athletics), Dexterity (Acrobatics), or Charisma (Intimidation) check, you gain a bonus to the roll equal to half your proficiency bonus. You use your weapon to assist in your check, such as pole vaulting with a staff, using your sword to aid your balance, or menacing an enemy with your bloodied flail.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Slayer's Diplomacy</name>
+        <text>Starting at 7th level, you blend your martial talent with the softer skills needed to navigate the world. If you are holding a weapon when you make a Charisma (Intimidation) check, you gain a bonus to the roll equal to your proficiency bonus. You use your weapon to assist in your check, such as pole vaulting with your staff, using your sword to aid your balance, or menacing an enemy with a bloodied flail.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Additional Gambit</name>
+        <text>At 10th level, you learn an additional gambit of your choice.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Lead from the Front</name>
+        <text>At 10th level you strike with a cunning insight that allows your allies to make effective follow up attacks.</text>
+        <text>If you hit a creature with a weapon attack, it has disadvantage on all saving throws against your gambits until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Superior Fighting Style</name>
+        <text>Starting at 10th level, your mastery of your fighting style deepens. You can choose a second option from the Fighting Style feature you gain at 2nd level, or you can choose an improved version of a fighting style you already know as detailed below.</text>
+        <name>Weapon Master (Livestream): Superior Archery</name>
+        <text>   You gain a +3 bonus to attack rolls you make with ranged weapons.</text>
+        <name>Weapon Master (Livestream): Superior Defense</name>
+        <text>   While you are wearing armor, you gain a +1 bonus to AC. You also gain a +1 bonus to all saving throws.</text>
+        <name>Weapon Master (Livestream): Superior Dueling</name>
+        <text>   When you are wielding a melee weapon in one hand and no other weapons, you gain a +4 bonus to damage rolls with that weapon.</text>
+        <name>Weapon Master (Livestream): Superior Great Weapon Fighting</name>
+        <text>   When you roll a 1, 2, or 3 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is 1, 2, or 3. The weapon must have the two-handed or versatile property for you to gain this benefit.</text>
+        <name>Weapon Master (Livestream): Superior Protection</name>
+        <text>   When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll and make an opportunity attack against the attacker. You must be wielding a shield.</text>
+        <name>Weapon Master (Livestream): Superior Two-Weapon Fighting</name>
+        <text>   When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack. You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Superior Exploits</name>
+        <text>Starting at 10th level, your mastery of your exploits allows you to maximize their effectiveness.</text>
+        <name>Slayer (Livestream): Improved Adamantine Bones</name>
+        <text>   When you use Adamantine Bones, you gain advantage on all saving throws until the end of your next turn.</text>
+        <name>Slayer (Livestream): Improved Bell Ringer</name>
+        <text>   If a target successfully saves against your Bell Ringer exploit or the attack misses, you can choose to not expend the use of your exploit. If you do so, you cannot use Bell Ringer again until the start of your next turn.</text>
+        <name>Slayer (Livestream): Improved Masterful Strike</name>
+        <text>   You now roll d8s instead of d6s when using Masterful Strike.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Additional Tactic</name>
+        <text>At 15th level, you learn an additional tactic of your choice.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Tactical Maneuvers</name>
+        <text>At 15th level, you can provide leadership that allows your allies to move in perfect harmony.</text>
+        <text>In place of moving, you can instead allow up to three allies who can see or hear you to move up to half their speed. The chosen allies must be capable of taking actions in order to move in this manner.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Unknown</name>
+        <text>[No content available.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Bloodthirsty Rush</name>
+        <text>Starting at 15th level, you strike with speed and certainty that catches others off guard. When rolling initiative, you add your proficiency bonus to the roll.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Additional Gambit</name>
+        <text>At 18th level, you learn an additional gambit of your choice.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Warlord (Livestream): Perfect Coordination</name>
+        <text>Starting at 18th level, you gain the ability to unleash a devastating combination of your allies' abilities. As a bonus action, select up to five allies who can see or hear you. They can use their reactions to immediately take actions.</text>
+        <text>Once you use this ability, you cannot use it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Weapon Master (Livestream): Unknown</name>
+        <text>[No content available.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Slayer (Livestream): Overwhelming Momentum</name>
+        <text>Starting at 18th level, when you miss a foe with a melee attack, your next attack this turn against that target gains advantage.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

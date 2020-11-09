@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Storm Sorcery</name>
+        <text>Your innate magic comes from the power of elemental air. Perhaps you were born during a howling gale so powerful that folk still tell stories of it. Your lineage might include the influence of potent air creatures such as vaati or djinni. Whatever the case, the magic of the storm permeates your soul.</text>
+        <text>Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Stormborn</name>
+        <text>The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. In addition, you gain the following spells at the listed sorcerer level. These spells do not count against the number of sorcerer spells you know.</text>
+        <text></text>
+        <text>Storm Sorcerer Bonus Spells</text>
+        <text>Sorcerer Level | Spells</text>
+        <text>1st | Fog cloud, thunderwave</text>
+        <text>3rd | Gust of wind, levitate</text>
+        <text>5th | Call lightning, sleet storm</text>
+        <text>7th | Conjure minor elementals*, ice storm</text>
+        <text>9th | Conjure elemental**</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Tempestuous Magic</name>
+        <text>At 1st level, you are attuned to elemental air magic. Whenever you cast a spell other than a cantrip during your turn, whirling gusts of elemental air surround you. You can use a bonus action to fly 10 feet without provoking opportunity attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Heart of the Storm</name>
+        <text>At 6th level, you gain resistance to lightning and thunder damage. Whenever you cast a spell other than a cantrip that deals lightning or thunder damage, a stormy aura surrounds you. In addition to the spell's effects, creatures of your choice within 10 feet of you take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Storm Guide</name>
+        <text>At 6th level, you gain the ability to subtly control the weather around you.</text>
+        <text>If it is raining, you can use an action to cause the rain to stop falling in a 20‐foot radius centered on you. You can end this effect as a bonus action.</text>
+        <text>If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100‐foot radius around you. The wind blows in that direction until the end of your next turn. You have no ability to alter the speed of the wind.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Storm's Fury</name>
+        <text>At 14th level, the storm energy you channel through your magic seethes within your soul. When you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker equal to your sorcerer level. The attacker must also make a Strength saving throw, with a DC equal to 8 + your Charisma bonus + your proficiency bonus. On a failed save, the attacker is pushed in a straight line 20 feet away from you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Storm Sorcery (UA): Wind Soul</name>
+        <text>At 18th level, you gain a flying speed of 60 feet and immunity to lightning and thunder damage. As an action, you can reduce your flying speed to 30 feet for one hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a flying speed of 30 feet for 1 hour.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 4</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

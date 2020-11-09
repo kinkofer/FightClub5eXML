@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <hd>8</hd>
+    <proficiency>Wisdom, Charisma, Arcana, Deception, History, Intimidation, Investigation, Nature, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Charisma</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Warlock</name>
+        <text>As a 1st-level Warlock, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light</text>
+        <text>• Weapons: simple</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 2 from Arcana, Deception, History, Intimidation, Investigation, Nature, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a light crossbow and crossbow bolts (20) or (b) any simple weapon</text>
+        <text>• (a) a component pouch or (b) an arcane focus</text>
+        <text>• (a) a scholar's pack or (b) a dungeoneer's pack</text>
+        <text>• Leather armor, any simple weapon, and two dagger</text>
+        <text></text>
+        <text>Alternatively, you may start with 4d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Warlock</name>
+        <text>To multiclass as a Warlock, you must meet the following prerequisites:</text>
+        <text>• Charisma 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <armor>light</armor>
+    <weapons>simple</weapons>
+    <tools>none</tools>
+    <wealth>4d4x10</wealth>
+    <autolevel level="1">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Pact Magic</name>
+        <text>Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the warlock spell list.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</text>
+        <text>   For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   At 1st level, you know two 1st-level spells of your choice from the warlock spell list.</text>
+        <text>   The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.</text>
+        <text>   Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use an arcane focus as a spellcasting focus for your warlock spells.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Otherworldly Patron</name>
+        <text>At 1st level, you have struck a bargain with an otherworldly being chosen from the list of available patrons. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Archfey</name>
+        <text>Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Archfey Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | faerie fire, sleep</text>
+        <text>2nd | calm emotions, phantasmal force</text>
+        <text>3rd | blink, plant growth</text>
+        <text>4th | dominate beast, greater invisibility</text>
+        <text>5th | dominate person, seeming</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Archfey: Fey Presence</name>
+        <text>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Fiend</name>
+        <text>You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.</text>
+        <name>The Fiend: Expanded Spell List</name>
+        <text>   The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Fiend Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | burning hands, command</text>
+        <text>2nd | blindness/deafness, scorching ray</text>
+        <text>3rd | fireball, stinking cloud</text>
+        <text>4th | fire shield, wall of fire</text>
+        <text>5th | flame strike, hallow</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Fiend: Dark One's Blessing</name>
+        <text>Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: The Great Old One</name>
+        <text>Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.</text>
+        <name>The Great Old One: Expanded Spell List</name>
+        <text>   The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Great Old One Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | dissonant whispers, Tasha's hideous laughter</text>
+        <text>2nd | detect thoughts, phantasmal force</text>
+        <text>3rd | clairvoyance, sending</text>
+        <text>4th | dominate beast, Evard's black tentacles</text>
+        <text>5th | dominate person, telekinesis</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Great Old One: Awakened Mind</name>
+        <text>Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Eldritch Invocations</name>
+        <text>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.</text>
+        <text>   At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the Optional Features page. When you gain certain warlock levels, you gain additional invocations of your choice.</text>
+        <text>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.</text>
+        <text>A level prerequisite in an invocation refers to warlock level, not character level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>2</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Pact Boon</name>
+        <text>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Chain</name>
+        <text>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</text>
+        <text>When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.</text>
+        <text>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 107</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Blade</name>
+        <text>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</text>
+        <text>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 107</text>
+        </feature>
+      <feature optional="YES">
+          <name>Pact Boon: Pact of the Tome</name>
+        <text>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      <feature optional="YES">
+          <name></name>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 6th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Archfey: Misty Escape</name>
+        <text>Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Fiend: Dark One's Own Luck</name>
+        <text>Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Great Old One: Entropic Ward</name>
+        <text>At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 10th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Archfey: Beguiling Defenses</name>
+        <text>Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Fiend: Fiendish Resilience</name>
+        <text>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Great Old One: Thought Shield</name>
+        <text>Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Mystic Arcanum (6th level)</name>
+        <text>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Mystic Arcanum (7th level)</name>
+        <text>At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one 7th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Otherworldly Patron feature</name>
+        <text>At 14th level, you gain a feature granted by your Otherworldly Patron.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Archfey: Dark Delirium</name>
+        <text>Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.</text>
+        <text>Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.</text>
+        <text>You must finish a short or long rest before you can use this feature again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 108</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Fiend: Hurl Through Hell</name>
+        <text>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</text>
+        <text>At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Great Old One: Create Thrall</name>
+        <text>At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.</text>
+        <text>You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 109</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Mystic Arcanum (8th level)</name>
+        <text>At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one 8th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Mystic Arcanum (9th level)</name>
+        <text>At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one 9th-level spell from the warlock spell list as this arcanum.</text>
+        <text>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="19">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Eldritch Master</name>
+        <text>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 105</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

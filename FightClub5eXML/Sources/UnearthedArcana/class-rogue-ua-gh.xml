@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Inquisitive</name>
+        <text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for details, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Ear for Deceit</name>
+        <text>When you choose this archetype at 3rd level, you develop a keen ear for picking out lies. Whenever you make a Wisdom (Insight) check to sense if a creature is lying, you use the total of your check or 8 + your Wisdom modifier, whichever is higher. If you are proficient in Insight, you add your proficiency bonus to the fixed result. If you chose Insight as a skill augmented by your Expertise feature, add double your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Eye for Detail</name>
+        <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action feature to make a Wisdom (Perception) check to spot a hidden creature or object, to make an Intelligence (Investigation) check to uncover and decipher clues, or to use Insightful Fighting.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Insightful Fighting</name>
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As an action (or as a bonus action using Eye for Detail), you make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, opposed by the target's Charisma (Deception) check. If you succeed, you can use Sneak Attack against that creature even if you do not have advantage against it or if no enemy of the target is within 5 feet of it. You can use Sneak Attack in this way even if you have disadvantage against the target.</text>
+        <text>This benefit lasts for 1 minute or until you successfully use Insightful Fighting against a different target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Steady Eye</name>
+        <text>At 9th level, you gain advantage on any Wisdom (Perception) check made on your turn to find a hidden creature or object if you do not move during that turn. If you use this ability before moving, you cannot move or ready movement during your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Unerring Eye</name>
+        <text>At 13th level, you gain the ability to detect magical deception. As an action, you sense the presence within 30 feet of you of illusions, shapechanger creatures not in their true form, and other magic designed to deceive the senses. Though you determine that an effect is attempting to trick you, you gain no special insight into what is hidden or its true nature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Inquisitive (UA): Eye for Weakness</name>
+        <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 2d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Gothic Heroes p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

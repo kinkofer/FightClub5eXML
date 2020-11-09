@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.</text>
+        <text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King's rule.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Talent</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.</text>
+        <text></text>
+        <text>Psionic Talent Options</text>
+        <text>   You can use your Psionic Talent die in the following ways:</text>
+        <text></text>
+        <text>   Psi-Bolstered Knack.</text>
+        <text>• When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success.</text>
+        <text>   Psychic Whispers.</text>
+        <text>• You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.</text>
+        <text></text>
+        <text></text>
+        <text>Changing the Die's Size</text>
+        <text>   If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it's a d4 and you roll a 4, it becomes unusable until you finish a long rest.</text>
+        <text>   Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.</text>
+        <text>   Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).</text>
+        <text></text>
+        <text>Psi Replenishment</text>
+        <text>   As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can't use Psi Replenishment again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blades</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can manifest your psionic power as shimmering blades of psychic energy. When you are about to make a melee or ranged weapon attack against a creature, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</text>
+        <text>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soulknife</name>
+        <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.</text>
+        <text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Enhancement</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can focus your psionic power to give yourself an extraordinary ability. When you finish a long rest, you gain one of the following benefits of your choice, which lasts until you finish a long rest:</text>
+        <text>• You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
+        <text>• Increase your walking speed by 5 feet.</text>
+        <text>• Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Blade</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can't hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you're incapacitated.</text>
+        <text>The blade is a simple melee weapon with the finesse, light, and thrown properties. It has a normal range of 30 feet and a long range of 60 feet, and it deals 1d6 psychic damage on a hit. If you throw the blade as part of an attack, it vanishes immediately after it hits or misses its target. The blade otherwise disappears the instant it leaves your hand.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Soul Blades</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways:</text>
+        <text></text>
+        <text>   Homing Strikes.</text>
+        <text>• If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.</text>
+        <text>   Psychic Teleportation.</text>
+        <text>• If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.</text>
+        <text></text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Soulknife (UA): Terrifying Blade</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn't frightened and is immune to your Terrifying Blade for 24 hours.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psionic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes or until you dismiss this effect (no action required). This invisibility ends if you deal damage to a creature or if you force a creature to make a saving throw.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Soulknife (UA): Psychic Veil</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psionic static to mask your physical presence. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes. This invisibility ends if you make an attack or if you force a creature to make a saving throw.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Soulknife (UA): Rend Mind</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blade directly through a creature's mind. As an action while you have at least one Psychic Blade manifested, you can force a creature you can see within 30 feet of you to make an Intelligence saving throw (DC equal to 10 + your proficiency bonus + your Intelligence modifier). If you are hidden from the target, it has disadvantage on the save. On a failed save, the target takes 12d6 psychic damage, and it is stunned until the start of your next turn. On a successful save, the target takes half as much damage and isn't stunned. One of your Psychic Blades vanishes after using this feature.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

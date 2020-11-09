@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Cavalier v2</name>
+        <text>The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Bonus Proficiencies</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Born to the Saddle</name>
+        <text>Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.</text>
+        <text>Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Combat Superiority</name>
+        <text>At 3rd level, you gain a set of combat abilities, referred to as maneuvers, which are fueled by special dice called superiority dice.</text>
+        <text></text>
+        <text>Superiority Dice</text>
+        <text>   You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest.</text>
+        <text>   You gain another superiority die at 7th level and one more at 15th level.</text>
+        <text></text>
+        <text>Maneuvers</text>
+        <text>   You spend your superiority dice on your maneuvers. You can use more than one maneuver per turn, but no more than one maneuver per attack. You know the maneuvers detailed under "Maneuvers" below.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Maneuvers</name>
+        <text>The maneuvers are presented in alphabetical order.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Ferocious Charger</name>
+        <text>At 7th level, you gain additional benefits when you use your Trip Attack maneuver. You can expend up to two superiority dice on it, adding both dice to the damage roll. When you spend two dice in this way, the target has disadvantage on its Strength saving throw to avoid being knocked prone.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Improved Combat Superiority</name>
+        <text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Relentless</name>
+        <text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain one superiority die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Cavalier v2 (UA): Improved Combat Superiority</name>
+        <text>At 18th level, your superiority dice turn into d12s.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

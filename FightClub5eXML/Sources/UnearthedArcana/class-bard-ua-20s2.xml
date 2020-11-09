@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Bard</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Creation (UA): College of Creation</name>
+        <text>Bards believe the multiverse was given existence through word and sound, esoteric harmonies that continue to resound through existence: the Song of Creation. The bards of this college draw on this ancient power through performances of dance, music, or song to bring into being what they need most.</text>
+        <text>Members of this college might have developed their powers during experiences on other worlds or planes of existence. Those who have seen the commonalities of multiple realities might have learned how to tap into truths most mortals glimpse only for a moment. Alternatively, the bard might find themselves out of step with their own home plane, reality, or time, their connections to elsewhere allowing them to manipulate the space around them. Regardless of where a bard draws their powers from, other performers might be drawn to them, either to learn their secrets or to put an end to their dangerous manipulation of the Song of Creation.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Creation (UA): Note of Potential</name>
+        <text>3rd-level College of Creation feature</text>
+        <text>You can manipulate the Song of Creation to summon a floating musical note of possibility: Whenever you give a creature a Bardic Inspiration die, you can create a Note of Potential. The note orbits within 5 feet of the creature. The note is a Tiny object that is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. A creature with a note can use it in the following ways.</text>
+        <text></text>
+        <text>Note of Destruction</text>
+        <text>   Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll, the creature can expend the note to create a burst of sound. Each other creature within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.</text>
+        <text></text>
+        <text>Note of Protection</text>
+        <text>   Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the creature can expend the note to gain temporary hit points equal to the number rolled on the Bardic Inspiration die + your Charisma modifier, provided the creature doesn't already have temporary hit points.</text>
+        <text></text>
+        <text>Note of Ingenuity</text>
+        <text>   When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can expend the note to roll the Bardic Inspiration die again and choose which roll to use.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Creation (UA): Animating Performance</name>
+        <text>6th-level College of Creation feature</text>
+        <text>Your mastery over the Song of Creation allows you to magically bring items to life. As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the Dancing Item stat block and is under your control for 1 hour or until it is reduced to 0 hit points.</text>
+        <text>In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
+        <text>When you use your Bardic Inspiration feature, you can command which action your animated item takes as part of the same bonus action.</text>
+        <text>Once you animate an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher to use this feature. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Creation (UA): Performance of Creation</name>
+        <text>14th-level College of Creation feature</text>
+        <text>Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level and must be Large or smaller. Tiny glimmering, intangible notes float around it, and a creature can faintly hear music when touching it. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, Tools, and Mounts and Vehicles tables in chapter 5, "Equipment," of the Player's Handbook.</text>
+        <text>The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item's duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.</text>
+        <text>Once you create an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 5th level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

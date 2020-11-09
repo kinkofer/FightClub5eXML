@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Order Domain (UA)</name>
+        <text>The Order domain represents discipline, as well as service to a society or an institution, whether that service is rendered in obedience to or enforcement of the law—civil, religious, or both. Gods on many worlds grant access to this domain, including Bane, Tyr, Majere, Erathis, Pholtus, Wee Jas, Aureon, Maglubiyet, Nuada, Athena, Anubis, Forseti, and Asmodeus.</text>
+        <text>The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their deities.</text>
+        <text>More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.</text>
+        <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Order Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | command, heroism</text>
+        <text>3rd | enhance ability, hold person</text>
+        <text>5th | mass healing word, slow</text>
+        <text>7th | compulsion, locate creature</text>
+        <text>9th | commune, dominate person</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order Domain (UA): Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Order Domain (UA): Voice of Authority</name>
+        <text>Starting at 1st level, you can invoke the power of law to drive an ally to attack. Immediately after you cast a spell on an ally using a spell slot of 1st level or higher, that ally can use their reaction to make one weapon attack against a target of your choice that you can see. If the spell targets more than one ally, you choose the ally who can make the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Order Domain (UA): Channel Divinity: Order's Demand</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.</text>
+        <text>As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to fall prone when they fail the saving throw.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Order Domain (UA): Order's Dominion</name>
+        <text>At 6th level, you become extraordinarily adept at channeling magical energy to compel others.</text>
+        <text>When you cast a spell of the enchantment school using a spell slot of 2nd level or higher, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Order Domain (UA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Order Domain (UA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 force damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Order Domain (UA): Order's Wrath</name>
+        <text>Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature, that creature takes an extra 2d8 force damage the first time each turn that any ally of yours hits it with a weapon attack. This benefit lasts until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Order Domain p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

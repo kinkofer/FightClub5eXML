@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Bard</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): College of Glamour</name>
+        <text>The College of Glamour is open to those bards who mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.</text>
+        <text>The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. The bards of this college are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Enthralling Performance</name>
+        <text>Starting at 3rd level, you can charge your performance with seductive fey magic.</text>
+        <text>If you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.</text>
+        <text>If a target succeeds on its save against this effect, the target has no hint that you tried to charm it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Inspiration</name>
+        <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed.</text>
+        <text>As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points.</text>
+        <text>When a target gains these temporary hit points, it can also use its reaction to move up to its speed toward you, without provoking opportunity attacks. It must take the shortest, safest path to you.</text>
+        <text>The number of temporary hit points increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): College of Whispers</name>
+        <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</text>
+        <text>Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards' reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Venomous Blades</name>
+        <text>When you join the College of Whispers at 3rd level, you gain the ability to magically make your weapon attacks toxic for a moment.</text>
+        <text>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn.</text>
+        <text>The additional damage increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Venomous Words</name>
+        <text>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic. A creature that hears you speak can become plunged into fear and paranoia.</text>
+        <text>If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there.</text>
+        <text>If the target succeeds on its save, the target has no hint that you tried to frighten it.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short rest or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Majesty</name>
+        <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Mantle of Whispers</name>
+        <text>At 6th level, you gain the ability to adopt a creature's persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you're Small), and you can have only one shadow captured at a time.</text>
+        <text>After you capture a creature's shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature's appearance for 1 hour or until you end this effect as a bonus action.</text>
+        <text>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</text>
+        <text>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</text>
+        <text>The disguise and the knowledge it grants disappears when this ability's duration ends.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Glamour (UA): Mantle of Majesty</name>
+        <text>At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely.</text>
+        <text>In addition, through this feature, you can cast sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn.</text>
+        <text>Once you cast sanctuary using this feature, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>College of Whispers (UA): Shadow Lore</name>
+        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.</text>
+        <text>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</text>
+        <text>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</text>
+        <text>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</text>
+        <text>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Bard Bard Colleges p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

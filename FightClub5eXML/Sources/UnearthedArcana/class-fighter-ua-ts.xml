@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Brute (UA): Brute</name>
+        <text>Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Brute (UA): Brute Force</name>
+        <text>Starting at 3rd level, you're able to strike with your weapons with especially brutal force. Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by an amount based on your level in this class, as shown on the Brute Bonus Damage table.</text>
+        <text></text>
+        <text>Brute Bonus Damage</text>
+        <text>Fighter Level | Damage Increase</text>
+        <text>3rd | 1d4</text>
+        <text>10th | 1d6</text>
+        <text>16th | 1d8</text>
+        <text>20th | 1d10</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Brute (UA): Brutish Durability</name>
+        <text>Beginning at 7th level, your toughness allows you to shrug off assaults that would devastate others.</text>
+        <text>Whenever you make a saving throw, roll 1d6 and add the die to your saving throw total. If applying this bonus to a death saving throw increases the total to 20 or higher, you gain the benefits of rolling a 20 on the d20.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Brute (UA): Additional Fighting Style</name>
+        <text>At 10th level, you can choose a second option from the Fighting Style feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Brute (UA): Devastating Critical</name>
+        <text>Starting at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon's damage roll equal to your level in this class.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Brute (UA): Survivor</name>
+        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don't gain this benefit if you have 0 hit points or if you have more than half of your hit points left.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Three Subclasses p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

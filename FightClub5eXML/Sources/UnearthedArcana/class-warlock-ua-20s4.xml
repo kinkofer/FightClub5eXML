@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undead (UA): The Undead</name>
+        <text>The Undead is an entity that resides in the dark corners of the multiverse. Your patron could be Acererak, Azalin, Lord Soth, Strahd, or some other ancient undead being. You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   1st-level Undead feature</text>
+        <text>   The Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Undead Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | bane, false life</text>
+        <text>2nd | blindness/deafness, phantasmal force</text>
+        <text>3rd | speak with dead, phantom steed</text>
+        <text>4th | death ward, greater invisibility</text>
+        <text>5th | antilife shell, cloudkill</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undead (UA): Form of Dread</name>
+        <text>1st-level Undead feature</text>
+        <text>You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:</text>
+        <text>• You gain temporary hit points equal to 1d10 + your warlock level.</text>
+        <text>• Once during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.</text>
+        <text>• You are immune to the frightened condition.</text>
+        <text>You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text>The appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your face might transform into bat-like features due to your vampire patron.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Undead (UA): Grave Touched</name>
+        <text>6th-level Undead feature</text>
+        <text>Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.</text>
+        <text>In addition, when you hit a creature with an attack and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Undead (UA): Mortal Husk</name>
+        <text>10th-level Undead feature</text>
+        <text>Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.</text>
+        <text>In addition, when you are reduced to 0 hit points, you can cause your body to explode. Each creature within 30 feet of you takes necrotic damage equal to 2d10 + your warlock level. You then revive with 1 hit point in your previous space, along with your gear, and you gain 1 level of exhaustion. Once you revive this way, you can't do so again until you finish 1d4 long rests.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Undead (UA): Spirit Projection</name>
+        <text>14th-level Undead feature</text>
+        <text>Your body is now simply a vessel for your spirit. As an action, you can project your spirit from your body. The body you leave behind is unconscious and in a state of suspended animation.</text>
+        <text>Your spirit can remain outside your body for up to 1 hour or until your concentration is broken (as if concentrating on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).</text>
+        <text>While projecting your spirit, you gain the following benefits:</text>
+        <text>• Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.</text>
+        <text>• When you cast a spell of the conjuration or necromancy school, the spell doesn't require verbal, somatic, or material components that lack a gold cost.</text>
+        <text>• You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
+        <text>• While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

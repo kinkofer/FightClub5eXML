@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: War Magic</name>
+        <text>A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster's spells, while also providing methods for wizards to bolster their own defenses.</text>
+        <text>Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.</text>
+        <text>In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty fireball if I die before I can cast it?"</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>War Magic: Arcane Deflection</name>
+        <text>At 2nd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.</text>
+        <text>When you use this feature, you can't cast spells other than cantrips until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>War Magic: Tactical Wit</name>
+        <text>Starting at 2nd level, your keen ability to assess tactical situations allows you to act quickly in battle. You can give yourself a bonus to your initiative rolls equal to your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>War Magic: Power Surge</name>
+        <text>Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a power surge.</text>
+        <text>You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with dispel magic or counterspell, you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.</text>
+        <text>Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>War Magic: Durable Magic</name>
+        <text>Beginning at 10th level, the magic you channel helps ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>War Magic: Deflecting Shroud</name>
+        <text>At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 59</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

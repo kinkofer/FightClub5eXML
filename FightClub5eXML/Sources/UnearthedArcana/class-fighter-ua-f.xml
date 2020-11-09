@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Arcane Archer</name>
+        <text>An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Among elves, Arcane Archers are some of their most elite warriors. These archers stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Arcane Arrow</name>
+        <text>When you choose this archetype at 3rd level, you learn to channel magic into your attacks with a longbow or shortbow.</text>
+        <text></text>
+        <text>Create Magic Arrow</text>
+        <text>   As a bonus action on your turn, you can create one magic arrow in your hand. The arrow lasts until the end of the turn or until it hits or misses a target. You can fire the arrow from a shortbow or longbow. The arrow is a magic weapon that deals an additional 2d6 force damage on a hit.</text>
+        <text>   You have two uses of this feature, and you regain all expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Arcane Shot</text>
+        <text>   When you gain this feature, you learn two Arcane Shot options of your choice (see the Arcane Shots section below). Whenever you create a magic arrow with this feature, you can apply the benefits of one of your Arcane Shot options to that arrow.</text>
+        <text>   You gain an additional Arcane Shot option of your choice at 7th, 10th, 15th, and 18th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Arcane Shots</name>
+        <text>The Arcane Arrow feature lets you choose Arcane Shot options at certain levels. The options are presented here in alphabetical order. These are all magical effects.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Archer's Lore</name>
+        <text>At 3rd level, you learn a few skills relating to the typical duties of an Arcane Archer. You learn to understand magical theory and develop survival skills for wandering the wilds.</text>
+        <text>You gain proficiency in two of the following skills of your choice: Arcana, Athletics, Nature, Perception, Stealth, and Survival.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Knight (UA): Knight</name>
+        <text>The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy's forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Knight (UA): Born to the Saddle</name>
+        <text>Starting at 3rd level, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed. In addition, you have advantage on saving throws made to avoid falling off your mount. If you fall off it, you can automatically land on your feet if you aren't incapacitated and you fall less than 10 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Knight (UA): Implacable Mark</name>
+        <text>At 3rd level, you excel at foiling attacks and protecting your allies by menacing your foes. When you hit a creature with a melee weapon attack, the target is marked by you until the end of your next turn. A creature ignores this effect if the creature can't be frightened.</text>
+        <text>The marked target has disadvantage on any attack roll against a creature other than you or someone else who marked it.</text>
+        <text>If a target marked by you is within 5 feet of you on its turn and it moves at least 1 foot or makes an attack that suffers disadvantage from this feature, you can make one melee weapon attack against it using your reaction. This attack roll has advantage, and if it hits, the attack's weapon deals extra damage to the target equal to your fighter level.</text>
+        <text>You can make this special attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn. You can make this attack three times, and you regain all expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Samurai (UA): Samurai</name>
+        <text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's willpower is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Samurai (UA): Fighting Spirit</name>
+        <text>Starting at 3rd level, the might of your willpower can shield you and help you strike true. As a bonus action on your turn, you can give yourself two benefits: advantage on all attack rolls and resistance to bludgeoning, piercing, and slashing damage. These benefits last until the end of your next turn.</text>
+        <text>You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Sharpshooter</name>
+        <text>The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Steady Aim</name>
+        <text>Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you're wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:</text>
+        <text>• The attacks ignore half and three-quarters cover.</text>
+        <text>• On each hit, the weapon deals additional damage to the target equal to 2 + half your fighter level.</text>
+        <text>You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Conjure Arrows</name>
+        <text>At 7th level, you learn a minor but useful magical trick. As an action, you can conjure 20 nonmagical arrows. The arrows appear in your hand or in a container, such as a quiver, on your body. The arrows remain for 10 minutes or until you use this feature again; they then vanish.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Extra Arcane Shot</name>
+        <text>At 7th level, you learn an additional Arcane Shot option.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Knight (UA): Noble Cavalry</name>
+        <text>At 7th level, you gain proficiency in two of the following skills of your choice: Animal Handling, History, Insight, Persuasion, or Religion. Alternatively, you learn one language of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Samurai (UA): Elegant Courtier</name>
+        <text>Starting at 7th level, your discipline and attention to detail allow you to excel in social situations that require strict adherence to etiquette. You can add your Wisdom modifier to any Charisma check you make to persuade or please a noble or anyone else of high social station.</text>
+        <text>You also gain proficiency in the History, Insight, or Persuasion skill (choose one). Alternatively, you learn one language of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Careful Eyes</name>
+        <text>Starting at 7th level, you excel at picking out hidden enemies and other threats. You can take the Search action as a bonus action.</text>
+        <text>You also gain proficiency in the Perception, Investigation, or Survival skill (choose one).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Extra Arcane Shot</name>
+        <text>At 10th level, you learn an additional Arcane Shot option.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Knight (UA): Hold the Line</name>
+        <text>At 10th level, you master the ability to harass and slow your enemies. As a reaction when a creature moves at least 1 foot within 5 feet of you, you can make one melee weapon attack against that creature. If you hit, the attack's weapon deals extra damage to the target equal to half your fighter level, and the target's speed is reduced to 0 until the end of this turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Samurai (UA): Unbreakable Will</name>
+        <text>At 10th level, your superior willpower allows you to shrug off mind-assaulting effects. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you gain proficiency in Intelligence or Charisma saving throws (choose one).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Close-Quarters Shooting</name>
+        <text>At 10th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn't impose disadvantage on your roll.</text>
+        <text>In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can't take reactions until the end of this turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Ever-Ready Arrow</name>
+        <text>Starting at 15th level, you can conjure forth a magic-infused arrow more often than before. One minute after expending your last remaining use of Arcane Arrow, you regain one use of it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Extra Arcane Shot</name>
+        <text>At 15th level, you learn an additional Arcane Shot option.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Knight (UA): Rapid Strike</name>
+        <text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Samurai (UA): Rapid Strike</name>
+        <text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Rapid Strike</name>
+        <text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Deadly Arrow</name>
+        <text>At 18th level, your Arcane Arrow's bonus damage increases to 4d6 force damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Arcane Archer (UA): Extra Arcane Shot</name>
+        <text>At 18th level, you learn an additional Arcane Shot option.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Knight (UA): Defender's Blade</name>
+        <text>At 18th level, you respond to danger with extraordinary vigilance. You can use your reaction for an opportunity attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn.</text>
+        <text>In addition, you gain a +1 bonus to AC while wearing heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Samurai (UA): Strength Before Death</name>
+        <text>Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don't take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Sharpshooter (UA): Snap Shot</name>
+        <text>Starting at 18th level, you are ever ready to spring into action. If you take the Attack action on your first turn of a combat, you can make one additional ranged weapon attack as part of that action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

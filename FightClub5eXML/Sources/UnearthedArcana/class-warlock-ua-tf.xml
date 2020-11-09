@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Seeker (UA): The Seeker</name>
+        <text>Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron's gifts, you wander the world seeking lore that you can share with the Seeker.</text>
+        <text>Your patron could be any deity or other powerful entity dedicated to knowledge or forgotten lore. Celestian is an ideal patron for a Greyhawk campaign, and was the inspiration for this concept. In the Forgotten Realms, your patron might be Azuth or Oghma. Aureon makes an excellent patron in Eberron, while in Krynn and the Dragonlance campaign setting, Gilean is a good match for the Seeker's role.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Seeker lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Seeker Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | feather fall, jump</text>
+        <text>2nd | levitate, locate object</text>
+        <text>3rd | clairvoyance, sending</text>
+        <text>4th | arcane eye, locate creature</text>
+        <text>5th | legend lore, passwall</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Seeker (UA): Shielding Aurora</name>
+        <text>Starting at 1st level, you can invoke the Seeker's power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes radiant damage equal to your warlock level + your Charisma modifier.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Seeker (UA): Astral Refuge</name>
+        <text>At 6th level, you gain the ability to step into an astral refuge. As an action, you disappear from the world for a brief moment and enter the Astral Plane, taking advantage of its timeless nature. While in your astral refuge, you can take two actions to cast spells that target only you. After using those two actions, you return to the space you occupied and your turn ends.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Seeker (UA): Far Wanderer</name>
+        <text>At 10th level, you no longer need to breathe, and you gain resistance to fire damage and cold damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Seeker (UA): Astral Sequestration</name>
+        <text>Starting at 14th level, you gain the ability to sequester yourself and your allies on the Astral Plane.</text>
+        <text>By performing a special ritual over the course of 5 minutes, you shift yourself and up to ten willing creatures you can see to the Astral Plane. You and those creatures gain the benefits of a short rest while sequestered on the Astral Plane. You then return to the spaces you all occupied when you used this ability, with no time having passed in the world.</text>
+        <text>During this short rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.</text>
+        <text>Once you use this ability, you cannot use it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: The Faithful p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

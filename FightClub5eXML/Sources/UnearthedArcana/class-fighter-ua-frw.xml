@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Psychic Warrior</name>
+        <text>Awakening to the psionic power within themselves, a Psychic Warrior is a fighter who augments their physical might with psychically infused weapon strikes, telekinetic lashes, and barriers of mental force.</text>
+        <text>As a Psychic Warrior, you might have honed your psionic abilities through your own disciplined practice, unlocked it under the tutelage of a master, or developed it at an academy dedicated to wielding the mind's power as both weapon and shield.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Psionic Armament</name>
+        <text>3rd-level Psychic Warrior feature</text>
+        <text>You can channel your psychic power to magically augment your prowess. When you finish a long rest, choose whether to augment your defenses or your strikes. The chosen benefit lasts until you finish a long rest.</text>
+        <text></text>
+        <text>Augmented Defenses</text>
+        <text>   When you or a creature you can see within 30 feet of you takes damage, you can use your reaction to roll a d10 and reduce the amount of damage taken by the number rolled. When you reach 10th level in this class, the die changes to a d12.</text>
+        <text></text>
+        <text>Augmented Strikes</text>
+        <text>   Once during each of your turns when you hit a creature with a weapon attack, you can also deal 1d4 psychic damage to that target. When you reach 10th level in this class, the psychic damage increases to 1d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Telekinetic Hand</name>
+        <text>3rd-level Psychic Warrior feature</text>
+        <text>You learn the mage hand cantrip. You can cast it without components, and you can make the spectral hand invisible. Intelligence is your spellcasting ability for this spell.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Strength of Mind</name>
+        <text>7th-level Psychic Warrior feature</text>
+        <text>As a bonus action, you can telekinetically lash out at a creature you can see within 20 feet of you. The target must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. On a failed save, the target takes force damage equal to 2d6 plus your Intelligence modifier and is telekinetically moved 15 feet directly toward or away from you (your choice). On a successful save, it takes half as much damage and isn't moved.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Psionic Armament Improvement</name>
+        <text>10th-level Psychic Warrior feature</text>
+        <text>When you reach 10th level in this class, your Augmented Defenses dice increases to 1d12, and your Augmented Strikes dice increases to a d6.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Telekinetic Bulwark</name>
+        <text>10th-level Psychic Warrior feature</text>
+        <text>When you take the Attack action, you can forgo one of your attacks to project a bastion of psionic power in a 10-foot radius around yourself. It lasts for 1 minute or until you're incapacitated. For the duration, you and your allies in that area gain the benefits of half cover and have advantage on Strength saving throws.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest or until after you use your Second Wind feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Agonizing Strikes</name>
+        <text>15th-level Psychic Warrior feature</text>
+        <text>Your attacks can channel psychic agony. When you hit a creature with a weapon attack, you can also deal 2d10 psychic damage to that target and force it to make a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. Unless the save succeeds, the target falls prone, and it suffers disadvantage on ability checks until the end of your next turn.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Psychic Warrior (UA): Psychic Dreadnaught</name>
+        <text>18th-level Psychic Warrior feature</text>
+        <text>The power of your mind suffuses your entire being, making you a nigh-unstoppable force on the battlefield. Using your reaction when you take damage, you can give yourself the following benefits for 1 minute or until you're incapacitated:</text>
+        <text>• At the start of each of your turns, you regain 10 hit points.</text>
+        <text>• Your walking speed increases by 10 feet.</text>
+        <text>• If you're prone, you can stand up by spending 5 feet of movement.</text>
+        <text>Once you activate this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

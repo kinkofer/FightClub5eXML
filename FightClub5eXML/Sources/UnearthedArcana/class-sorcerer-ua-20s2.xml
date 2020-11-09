@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Clockwork Soul</name>
+        <text>A plane of utmost order, Mechanus is a realm overseen by a godlike entity called Primus, whose actions are inscrutable and calculations, vast. You, or someone from your lineage, might have become entangled in one of the machinations of the leader of the modrons. Perhaps you were exposed to an artifact created by Primus, or your ancestor took part in the Great Modron March in some way.</text>
+        <text>The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can't comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.</text>
+        <text></text>
+        <text>Manifestations of Mechanus</text>
+        <text>d6 | Manifestation</text>
+        <text>1 | Large, spectral cogwheels appear hovering behind you.</text>
+        <text>2 | The hands of a clock appear in your eyes.</text>
+        <text>3 | Your skin glows with a golden, metallic sheen.</text>
+        <text>4 | Your features become unnaturally angular, like geometric objects.</text>
+        <text>5 | Your spellcasting focus takes the form of a miniature Spawning Stone or other creation of Primus.</text>
+        <text>6 | The ringing of a clock can be heard by you and those affected by your magic.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Clockwork Magic</name>
+        <text>1st-level Clockwork Soul feature</text>
+        <text>You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.</text>
+        <text></text>
+        <text>Clockwork Spells</text>
+        <text>Sorcerer Level | Spells</text>
+        <text>1st | alarm, protection from evil and good</text>
+        <text>3rd | find traps, heat metal</text>
+        <text>5th | counterspell, glyph of warding</text>
+        <text>7th | arcane eye, Otiluke's resilient sphere</text>
+        <text>9th | animate objects, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Restore Balance</name>
+        <text>1st-level Clockwork Soul feature</text>
+        <text>Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.</text>
+        <text>You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Bulwark of Law</name>
+        <text>6th-level Clockwork Soul feature</text>
+        <text>You can imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.</text>
+        <text>The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can use its reaction to spend a number of those dice, roll them, and reduce the damage taken by the total of the spent dice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Trance of Order</name>
+        <text>14th-level Clockwork Soul feature</text>
+        <text>You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.</text>
+        <text>Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Clockwork Soul (UA): Clockwork Cavalcade</name>
+        <text>18th-level Clockwork Soul feature</text>
+        <text>You summon spirits of order to restore balance around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, work fast and efficiently, and create the following effects within the cube before vanishing:</text>
+        <text>• The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.</text>
+        <text>• Any damaged objects entirely in the cube are repaired.</text>
+        <text>• Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.</text>
+        <text>Once you use this action, you can't use it again until you finish a long rest or until you expend 7 sorcery points to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>
