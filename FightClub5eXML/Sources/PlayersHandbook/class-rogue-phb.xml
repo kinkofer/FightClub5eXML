@@ -13,7 +13,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light</text>
         <text>• Weapons: simple, hand crossbows, longswords, rapiers, shortswords</text>
-        <text>• Tools: {@item thieves' tools|PHB}</text>
+        <text>• Tools: thieves' tools</text>
         <text>• Skills: Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight Of Hand, Stealth</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -43,7 +43,7 @@
       </autolevel>
     <armor>light</armor>
     <weapons>simple, hand crossbows, longswords, rapiers, shortswords</weapons>
-    <tools>{@item thieves' tools|PHB}</tools>
+    <tools>thieves' tools</tools>
     <wealth>4d4x10</wealth>
     <autolevel level="1">
         <feature>

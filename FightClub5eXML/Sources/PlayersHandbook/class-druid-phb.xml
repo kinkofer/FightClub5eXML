@@ -14,7 +14,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light, medium, shields (druids will not wear armor or use shields made of metal)</text>
         <text>• Weapons: clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears</text>
-        <text>• Tools: {@item Herbalism kit|PHB}</text>
+        <text>• Tools: Herbalism kit</text>
         <text>• Skills: Choose 2 from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -43,7 +43,7 @@
       </autolevel>
     <armor>light, medium, shields (druids will not wear armor or use shields made of metal)</armor>
     <weapons>clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears</weapons>
-    <tools>{@item Herbalism kit|PHB}</tools>
+    <tools>Herbalism kit</tools>
     <wealth>2d4x10</wealth>
     <autolevel level="1">
         <slots>2, 2</slots>

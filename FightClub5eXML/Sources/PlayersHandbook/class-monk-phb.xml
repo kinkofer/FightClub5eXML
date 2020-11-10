@@ -13,7 +13,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: none</text>
         <text>• Weapons: simple, shortswords</text>
-        <text>• Tools: any one type of artisan's tools or any one {@item musical instrument|PHB} of your choice</text>
+        <text>• Tools: any one type of artisan's tools or any one musical instrument of your choice</text>
         <text>• Skills: Choose 2 from Acrobatics, Athletics, History, Insight, Religion, Stealth</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -42,7 +42,7 @@
       </autolevel>
     <armor>none</armor>
     <weapons>simple, shortswords</weapons>
-    <tools>any one type of artisan's tools or any one {@item musical instrument|PHB} of your choice</tools>
+    <tools>any one type of artisan's tools or any one musical instrument of your choice</tools>
     <wealth>5d4</wealth>
     <autolevel level="1">
         <feature>

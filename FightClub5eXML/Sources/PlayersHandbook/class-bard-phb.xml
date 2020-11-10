@@ -14,7 +14,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light</text>
         <text>• Weapons: simple, hand crossbows, longswords, rapiers, shortswords</text>
-        <text>• Tools: three {@item musical instrument|PHB|musical instruments} of your choice</text>
+        <text>• Tools: three musical instrument of your choice</text>
         <text>• Skills: Choose 3 from Athletics, Acrobatics, Sleight Of Hand, Stealth, Arcana, History, Investigation, Nature, Religion, Animal Handling, Insight, Medicine, Perception, Survival, Deception, Intimidation, Performance, Persuasion</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -44,7 +44,7 @@
       </autolevel>
     <armor>light</armor>
     <weapons>simple, hand crossbows, longswords, rapiers, shortswords</weapons>
-    <tools>three {@item musical instrument|PHB|musical instruments} of your choice</tools>
+    <tools>three musical instrument of your choice</tools>
     <wealth>5d4x10</wealth>
     <autolevel level="1">
         <slots>2, 2</slots>
