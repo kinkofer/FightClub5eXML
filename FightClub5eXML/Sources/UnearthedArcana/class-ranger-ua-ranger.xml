@@ -13,7 +13,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light, shields</text>
         <text>• Weapons: simple, martial</text>
-        <text>• Tools: {@item herbalism kit|PHB}</text>
+        <text>• Tools: herbalism kit</text>
         <text>• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -27,7 +27,7 @@
       </autolevel>
     <armor>light, shields</armor>
     <weapons>simple, martial</weapons>
-    <tools>{@item herbalism kit|PHB}</tools>
+    <tools>herbalism kit</tools>
     <autolevel level="1">
         <feature>
           <name>Ambuscade</name>

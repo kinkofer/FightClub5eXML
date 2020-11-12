@@ -61,9 +61,6 @@
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text></text>
@@ -82,37 +79,16 @@
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Protection</name>
         <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
         <text></text>
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
         <text></text>
         <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -143,22 +119,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Martial Archetype: Champion</name>
-        <text>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Champion: Improved Critical</name>
-        <text>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Martial Archetype: Battle Master</name>
         <text>Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.</text>
         <text></text>
@@ -169,13 +129,16 @@
         <feature optional="YES">
           <name>Battle Master: Combat Superiority</name>
         <text>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</text>
-        <name>Battle Master: Maneuvers</name>
+        <text></text>
+        <text>Maneuvers</text>
         <text>   You learn three maneuvers of your choice, which are listed under "Maneuvers" below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</text>
         <text>   You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</text>
-        <name>Battle Master: Superiority Dice</name>
+        <text></text>
+        <text>Superiority Dice</text>
         <text>   You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
         <text>   You gain another superiority die at 7th level and one more at 15th level.</text>
-        <name>Battle Master: Saving Throws</name>
+        <text></text>
+        <text>Saving Throws</text>
         <text>   Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
@@ -204,6 +167,22 @@
         <text>At 3rd level, you gain proficiency with one type of artisan's tools of your choice.</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Champion</name>
+        <text>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Champion: Improved Critical</name>
+        <text>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -281,15 +260,6 @@
       </autolevel>
     <autolevel level="7">
         <feature optional="YES">
-          <name>Champion: Remarkable Athlete</name>
-        <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</text>
-        <text>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <feature optional="YES">
           <name>Battle Master: Additional Maneuvers</name>
         <text>At 7th level, you learn two additional maneuvers of your choice.</text>
         <text></text>
@@ -317,6 +287,15 @@
         <text>• Fighter class levels (if any)</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Champion: Remarkable Athlete</name>
+        <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</text>
+        <text>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -355,14 +334,6 @@
       </autolevel>
     <autolevel level="10">
         <feature optional="YES">
-          <name>Champion: Additional Fighting Style</name>
-        <text>At 10th level, you can choose a second option from the Fighting Style class feature.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="10">
-        <feature optional="YES">
           <name>Battle Master: Additional Maneuvers</name>
         <text>At 10th level, you learn two additional maneuvers of your choice.</text>
         <text></text>
@@ -375,6 +346,14 @@
         <text>At 10th level, your superiority dice turn into d10s.</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Champion: Additional Fighting Style</name>
+        <text>At 10th level, you can choose a second option from the Fighting Style class feature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -429,14 +408,6 @@
       </autolevel>
     <autolevel level="15">
         <feature optional="YES">
-          <name>Champion: Superior Critical</name>
-        <text>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
           <name>Battle Master: Additional Maneuvers</name>
         <text>At 15th level, you learn two additional maneuvers of your choice.</text>
         <text></text>
@@ -457,6 +428,14 @@
         <text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Champion: Superior Critical</name>
+        <text>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
         </feature>
       </autolevel>
     <autolevel level="15">
@@ -502,18 +481,18 @@
       </autolevel>
     <autolevel level="18">
         <feature optional="YES">
-          <name>Champion: Survivor</name>
-        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      </autolevel>
-    <autolevel level="18">
-        <feature optional="YES">
           <name>Battle Master: Improved Combat Superiority (d12)</name>
         <text>At 18th level, your superiority dice turn into d12s.</text>
         <text></text>
         <text>Source: Player's Handbook p. 73</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Champion: Survivor</name>
+        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
         </feature>
       </autolevel>
     <autolevel level="18">

@@ -14,7 +14,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light, medium</text>
         <text>• Weapons: simple</text>
-        <text>• Tools: {@item Thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of artisan's tools of your choice</text>
+        <text>• Tools: Thieves' tools, tinker's tools, one type of artisan's tools of your choice</text>
         <text>• Skills: Choose 2 from Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight Of Hand</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -28,7 +28,7 @@
       </autolevel>
     <armor>light, medium</armor>
     <weapons>simple</weapons>
-    <tools>{@item Thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of artisan's tools of your choice</tools>
+    <tools>Thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
     <autolevel level="1">
         <feature>
           <name>Artificer (UA) Specialist</name>

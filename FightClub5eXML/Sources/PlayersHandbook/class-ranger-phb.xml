@@ -91,9 +91,6 @@
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text></text>
@@ -106,31 +103,10 @@
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
         <text></text>
         <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -162,86 +138,6 @@
         <text>At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.</text>
         <text></text>
         <text>Source: Player's Handbook p. 89</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Ranger Archetype: Hunter</name>
-        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Horde Breaker</name>
-        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Hunter's Prey</name>
-        <text>At 3rd level, you gain one of the following features of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Colossus Slayer</name>
-        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Giant Killer</name>
-        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Ranger Archetype: Hunter</name>
-        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Horde Breaker</name>
-        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Hunter's Prey</name>
-        <text>At 3rd level, you gain one of the following features of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Colossus Slayer</name>
-        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Hunter: Giant Killer</name>
-        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -309,6 +205,86 @@
         </feature>
       </autolevel>
     <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Hunter</name>
+        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Horde Breaker</name>
+        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Hunter's Prey</name>
+        <text>At 3rd level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Colossus Slayer</name>
+        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Giant Killer</name>
+        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Hunter</name>
+        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Horde Breaker</name>
+        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Hunter's Prey</name>
+        <text>At 3rd level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Colossus Slayer</name>
+        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Giant Killer</name>
+        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
         <feature>
           <name>Primeval Awareness</name>
         <text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</text>
@@ -364,6 +340,22 @@
       </autolevel>
     <autolevel level="7">
         <feature optional="YES">
+          <name>Beast Master: Exceptional Training</name>
+        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Beast Master: Exceptional Training</name>
+        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
           <name>Hunter: Defensive Tactics</name>
         <text>At 7th level, you gain one of the following features of your choice.</text>
         <text></text>
@@ -422,22 +414,6 @@
         <feature optional="YES">
           <name>Hunter: Steel Will</name>
         <text>You have advantage on saving throws against being frightened.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <feature optional="YES">
-          <name>Beast Master: Exceptional Training</name>
-        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <feature optional="YES">
-          <name>Beast Master: Exceptional Training</name>
-        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
         <text></text>
         <text>Source: Player's Handbook p. 93</text>
         </feature>
@@ -499,6 +475,22 @@
       </autolevel>
     <autolevel level="11">
         <feature optional="YES">
+          <name>Beast Master: Bestial Fury</name>
+        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Beast Master: Bestial Fury</name>
+        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
           <name>Hunter: Multiattack</name>
         <text>At 11th level, you gain one of the following features of your choice.</text>
         <text></text>
@@ -541,22 +533,6 @@
         <feature optional="YES">
           <name>Hunter: Whirlwind Attack</name>
         <text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
-          <name>Beast Master: Bestial Fury</name>
-        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
-          <name>Beast Master: Bestial Fury</name>
-        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
         <text></text>
         <text>Source: Player's Handbook p. 93</text>
         </feature>
@@ -608,70 +584,6 @@
       </autolevel>
     <autolevel level="15">
         <feature optional="YES">
-          <name>Hunter: Evasion</name>
-        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Stand Against the Tide</name>
-        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Superior Hunter's Defense</name>
-        <text>At 15th level, you gain one of the following features of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Uncanny Dodge</name>
-        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Evasion</name>
-        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Stand Against the Tide</name>
-        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Superior Hunter's Defense</name>
-        <text>At 15th level, you gain one of the following features of your choice.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Hunter: Uncanny Dodge</name>
-        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
           <name>Beast Master: Share Spells</name>
         <text>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.</text>
         <text></text>
@@ -682,6 +594,70 @@
         <feature optional="YES">
           <name>Beast Master: Beastly Coordination</name>
         <text>Beginning at 15th level, when an attacker that you can see hits your beast companion with an attack, you can call out a warning. If your beast companion can hear you, it can use its reaction to halve the attack's damage against it.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Evasion</name>
+        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Stand Against the Tide</name>
+        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Superior Hunter's Defense</name>
+        <text>At 15th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Uncanny Dodge</name>
+        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Evasion</name>
+        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Stand Against the Tide</name>
+        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Superior Hunter's Defense</name>
+        <text>At 15th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Uncanny Dodge</name>
+        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
         <text></text>
         <text>Source: Player's Handbook p. 93</text>
         </feature>

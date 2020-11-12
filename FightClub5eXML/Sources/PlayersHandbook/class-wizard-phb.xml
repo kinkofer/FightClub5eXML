@@ -268,31 +268,6 @@
       </autolevel>
     <autolevel level="2">
         <feature optional="YES">
-          <name>Arcane Tradition: School of Transmutation</name>
-        <text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.</text>
-        <text>Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <feature optional="YES">
-          <name>School of Transmutation: Minor Alchemy</name>
-        <text>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <feature optional="YES">
-          <name>School of Transmutation: Transmutation Savant</name>
-        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <feature optional="YES">
           <name>Arcane Tradition: School of Necromancy</name>
         <text>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.</text>
         <text>Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.</text>
@@ -314,6 +289,31 @@
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.</text>
         <text></text>
         <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Transmutation</name>
+        <text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.</text>
+        <text>Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Transmutation: Minor Alchemy</name>
+        <text>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Transmutation: Transmutation Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -397,6 +397,17 @@
       </autolevel>
     <autolevel level="6">
         <feature optional="YES">
+          <name>School of Necromancy: Undead Thralls</name>
+        <text>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</text>
+        <text>Whenever you create an undead using a necromancy spell, it has additional benefits:</text>
+        <text>• The creature's hit point maximum is increased by an amount equal to your wizard level.</text>
+        <text>• The creature adds your proficiency bonus to its weapon damage rolls.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
           <name>School of Transmutation: Transmuter's Stone</name>
         <text>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:</text>
         <text>• Darkvision out to a range of 60 feet, as described in chapter 8.</text>
@@ -407,17 +418,6 @@
         <text>If you create a new transmuter's stone, the previous one ceases to function.</text>
         <text></text>
         <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
-          <name>School of Necromancy: Undead Thralls</name>
-        <text>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</text>
-        <text>Whenever you create an undead using a necromancy spell, it has additional benefits:</text>
-        <text>• The creature's hit point maximum is increased by an amount equal to your wizard level.</text>
-        <text>• The creature adds your proficiency bonus to its weapon damage rolls.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 118</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -508,19 +508,19 @@
       </autolevel>
     <autolevel level="10">
         <feature optional="YES">
+          <name>School of Necromancy: Inured to Undeath</name>
+        <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
           <name>School of Transmutation: Shapechanger</name>
         <text>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.</text>
         <text>Once you cast polymorph in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</text>
         <text></text>
         <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="10">
-        <feature optional="YES">
-          <name>School of Necromancy: Inured to Undeath</name>
-        <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 118</text>
         </feature>
       </autolevel>
     <autolevel level="11">
@@ -606,6 +606,15 @@
       </autolevel>
     <autolevel level="14">
         <feature optional="YES">
+          <name>School of Necromancy: Command Undead</name>
+        <text>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.</text>
+        <text>Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
           <name>School of Transmutation: Master Transmuter</name>
         <text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.</text>
         <name>School of Transmutation: Major Transformation</name>
@@ -618,15 +627,6 @@
         <text>   You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.</text>
         <text></text>
         <text>Source: Player's Handbook p. 119</text>
-        </feature>
-      </autolevel>
-    <autolevel level="14">
-        <feature optional="YES">
-          <name>School of Necromancy: Command Undead</name>
-        <text>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.</text>
-        <text>Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 118</text>
         </feature>
       </autolevel>
     <autolevel level="15">

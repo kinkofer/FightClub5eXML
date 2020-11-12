@@ -14,7 +14,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light, medium, shields</text>
         <text>• Weapons: simple</text>
-        <text>• Tools: {@item thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of {@item artisan's tools|PHB} of your choice</text>
+        <text>• Tools: thieves' tools, tinker's tools, one type of artisan's tools of your choice</text>
         <text>• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight Of Hand</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -44,7 +44,7 @@
       </autolevel>
     <armor>light, medium, shields</armor>
     <weapons>simple</weapons>
-    <tools>{@item thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of {@item artisan's tools|PHB} of your choice</tools>
+    <tools>thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
     <wealth>5d4x10</wealth>
     <autolevel level="1">
         <slots>2, 2</slots>
@@ -60,7 +60,7 @@
     <autolevel level="1">
         <feature>
           <name>Magical Tinkering</name>
-        <text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have tinker's tools or other artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
+        <text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
         <text>• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
         <text>• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
         <text>• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
@@ -77,7 +77,7 @@
         <text>You have studied the workings of magic and how to channel it through objects. As a result, you have gained the ability to cast spells. To observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders using mundane items or outlandish inventions.</text>
         <text></text>
         <text>Tools Required:</text>
-        <text>   You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves' tools or some kind of artisan's tools—in hand when you cast any spell with this Spellcasting feature. You must be proficient with the tool to use it in this way. See chapter 5, "Equipment," in the Player's Handbook for descriptions of these tools.</text>
+        <text>   You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves' tools or some kind of artisan's tools—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See chapter 5, "Equipment," in the Player's Handbook for descriptions of these tools.</text>
         <text>   After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.</text>
         <text></text>
         <text>The Magic of Artifice:</text>
@@ -122,6 +122,7 @@
         <text>   Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see "Attunement" in chapter 7 of the Dungeon Master's Guide).</text>
         <text>   Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.</text>
         <text>   You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.</text>
+        <text>   If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.</text>
         <text></text>
         <text>Source: Eberron: Rising from the Last War p. 54</text>
         </feature>
@@ -277,7 +278,7 @@
           <name>Artillerist: Eldritch Cannon</name>
         <text>At 3rd level, you learn how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</text>
         <text>Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.</text>
-        <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
+        <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
         <text>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</text>
         <text></text>
         <text>Eldritch Cannons</text>
@@ -390,10 +391,10 @@
     <autolevel level="3">
         <feature optional="YES">
           <name>Battle Smith: Steel Defender</name>
-        <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
-        <text>In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
+        <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
+        <text>In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.</text>
         <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.</text>
-        <text>At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes.</text>
+        <text>At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.</text>
         <text></text>
         <text>Source: Eberron: Rising from the Last War p. 60</text>
         </feature>
@@ -467,7 +468,7 @@
     <autolevel level="3">
         <feature>
           <name>The Right Tool for the Job</name>
-        <text>At 3rd level, you learn how to produce exactly the tool you need: with tinker's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</text>
+        <text>At 3rd level, you learn how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</text>
         <text></text>
         <text>Source: Eberron: Rising from the Last War p. 54</text>
         </feature>

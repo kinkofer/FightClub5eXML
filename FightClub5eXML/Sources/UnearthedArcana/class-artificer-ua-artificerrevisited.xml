@@ -14,7 +14,7 @@
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>• Armor: light, medium, shields</text>
         <text>• Weapons: simple, hand crossbows, heavy crossbows</text>
-        <text>• Tools: {@item thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of artisan's tools of your choice</text>
+        <text>• Tools: thieves' tools, tinker's tools, one type of artisan's tools of your choice</text>
         <text>• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight Of Hand</text>
         <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
@@ -44,7 +44,7 @@
       </autolevel>
     <armor>light, medium, shields</armor>
     <weapons>simple, hand crossbows, heavy crossbows</weapons>
-    <tools>{@item thieves' tools|PHB}, {@item tinker's tools|PHB}, one type of artisan's tools of your choice</tools>
+    <tools>thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
     <wealth>5d4x10</wealth>
     <autolevel level="1">
         <slots>2, 2</slots>
@@ -346,7 +346,7 @@
           <name>Artillerist: Eldritch Cannon</name>
         <text>At 3rd level, you learn how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</text>
         <text>Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.</text>
-        <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
+        <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
         <text>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</text>
         <text></text>
         <text>Eldritch Cannons</text>
@@ -459,10 +459,10 @@
     <autolevel level="3">
         <feature optional="YES">
           <name>Battle Smith: Steel Defender</name>
-        <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
-        <text>In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
+        <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
+        <text>In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.</text>
         <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.</text>
-        <text>At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes.</text>
+        <text>At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.</text>
         <text></text>
         <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
         </feature>

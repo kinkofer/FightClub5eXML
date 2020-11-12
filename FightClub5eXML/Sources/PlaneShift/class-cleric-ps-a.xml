@@ -4,6 +4,33 @@
       <name>Cleric</name>
     <autolevel level="1">
         <feature optional="YES">
+          <name>Divine Domain: Ambition Domain (PSA)</name>
+        <text>"The worthy shall strive for greatness—supremacy in life leads to supremacy in the afterlife."</text>
+        <text>Bontu has fully embraced this dictum, and though she expends little effort in teaching it, she surely leads by example. Her viziers subtly plant the seeds that flower into the ambition the God-Pharaoh desires. Through insinuation, they remind acolytes and initiates alike that achieving one's place in the afterlife at the expense of others is not shameful, but is proof of the initiate's determination and drive. Nothing is more important than that drive, they suggest—not the bonds of a crop, not friendship or love. Not even devotion to a deity.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Ambition Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | bane, disguise self</text>
+        <text>3rd | mirror image, ray of enfeeblement</text>
+        <text>5th | bestow curse, vampiric touch</text>
+        <text>7th | death ward, dimension door</text>
+        <text>9th | dominate person, modify memory</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Warding Flare</name>
+        <text>When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
           <name>Divine Domain: Knowledge Domain (PSA)</name>
         <text>"The worthy shall cultivate a nimble mind that can perceive the wonders beyond imagination that wait in the afterlife."</text>
         <text>Kefnet's task is to pass on this teaching of the God-Pharaoh and elucidate its meaning. He teaches that the afterlife will be inhabited only by those who have proved by their wits that they are worthy of dwelling in the glorious presence of the God-Pharaoh. He trains acolytes and initiates to push their limits and challenge their mental capacity with spells of ever-greater power.</text>
@@ -82,33 +109,6 @@
       </autolevel>
     <autolevel level="1">
         <feature optional="YES">
-          <name>Divine Domain: Ambition Domain (PSA)</name>
-        <text>"The worthy shall strive for greatness—supremacy in life leads to supremacy in the afterlife."</text>
-        <text>Bontu has fully embraced this dictum, and though she expends little effort in teaching it, she surely leads by example. Her viziers subtly plant the seeds that flower into the ambition the God-Pharaoh desires. Through insinuation, they remind acolytes and initiates alike that achieving one's place in the afterlife at the expense of others is not shameful, but is proof of the initiate's determination and drive. Nothing is more important than that drive, they suggest—not the bonds of a crop, not friendship or love. Not even devotion to a deity.</text>
-        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
-        <text></text>
-        <text>Ambition Domain Spells</text>
-        <text>Cleric Level | Spells</text>
-        <text>1st | bane, disguise self</text>
-        <text>3rd | mirror image, ray of enfeeblement</text>
-        <text>5th | bestow curse, vampiric touch</text>
-        <text>7th | death ward, dimension door</text>
-        <text>9th | dominate person, modify memory</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Ambition Domain (PSA): Warding Flare</name>
-        <text>When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</text>
-        <text>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
           <name>Divine Domain: Zeal Domain (PSA)</name>
         <text>"The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle in their way."</text>
         <text>The God-Pharaoh expects those he welcomes into the afterlife to desire it above all other pleasures and achievements, and for them to show their dedication, passion, and fervor through their actions. Hazoret is charged with cultivating this zeal in the initiates who come under her care, and she has undertaken the task with appropriate enthusiasm. She recognizes, however, that the best way to teach zeal is by demonstrating it.</text>
@@ -144,6 +144,16 @@
       </autolevel>
     <autolevel level="2">
         <feature optional="YES">
+          <name>Ambition Domain (PSA): Channel Divinity: Invoke Duplicity</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</text>
+        <text>As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</text>
+        <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
           <name>Knowledge Domain (PSA): Subclass Feature</name>
         <text>See the Knowledge domain.</text>
         <text></text>
@@ -169,21 +179,19 @@
       </autolevel>
     <autolevel level="2">
         <feature optional="YES">
-          <name>Ambition Domain (PSA): Channel Divinity: Invoke Duplicity</name>
-        <text>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</text>
-        <text>As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</text>
-        <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <feature optional="YES">
           <name>Zeal Domain (PSA): Channel Divinity: Consuming Fervor</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to channel your zeal into unchecked ferocity.</text>
         <text>When you roll fire or thunder damage, you can use your Channel Divinity to deal maximum damage instead of rolling.</text>
         <text></text>
         <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Channel Divinity: Cloak of Shadows</name>
+        <text>Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -212,18 +220,27 @@
       </autolevel>
     <autolevel level="6">
         <feature optional="YES">
-          <name>Ambition Domain (PSA): Channel Divinity: Cloak of Shadows</name>
-        <text>Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
           <name>Zeal Domain (PSA): Resounding Strike</name>
         <text>At 6th level, when you deal thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.</text>
         <text></text>
         <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Potent Spellcasting</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -270,23 +287,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Ambition Domain (PSA): Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
-          <name>Ambition Domain (PSA): Potent Spellcasting</name>
-        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Zeal Domain (PSA): Blessed Strikes</name>
         <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
@@ -300,6 +300,14 @@
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
         <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Improved Duplicity</name>
+        <text>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -324,14 +332,6 @@
         <text>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.</text>
         <text></text>
         <text>Source: Plane Shift: Amonkhet p. 26</text>
-        </feature>
-      </autolevel>
-    <autolevel level="17">
-        <feature optional="YES">
-          <name>Ambition Domain (PSA): Improved Duplicity</name>
-        <text>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.</text>
-        <text></text>
-        <text>Source: Plane Shift: Amonkhet p. 27</text>
         </feature>
       </autolevel>
     <autolevel level="17">

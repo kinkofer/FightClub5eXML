@@ -38,7 +38,7 @@
         <text>• Your walking speed increases by 10 feet.</text>
         <text>• You have advantage on Dexterity (Acrobatics) checks.</text>
         <text>• You gain a bonus to any Constitution saving throws you make to maintain concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).</text>
-        <text>You can use this feature twice. You regain all expended uses of it when you finish a short or long rest.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</text>
         <text></text>
         <text>Source: Sword Coast Adventurer's Guide p. 141</text>
         </feature>
@@ -64,7 +64,7 @@
     <autolevel level="6">
         <feature optional="YES">
           <name>Bladesinging: Extra Attack</name>
-        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.</text>
         <text></text>
         <text>Source: Sword Coast Adventurer's Guide p. 141</text>
         </feature>

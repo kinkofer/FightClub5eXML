@@ -129,25 +129,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Monastic Tradition: Way of the Open Hand</name>
-        <text>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 79</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Way of the Open Hand: Open Hand Technique</name>
-        <text>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</text>
-        <text>• It must succeed on a Dexterity saving throw or be knocked prone.</text>
-        <text>• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</text>
-        <text>• It can't take reactions until the end of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 79</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Monastic Tradition: Way of the Four Elements</name>
         <text>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</text>
         <text>Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</text>
@@ -191,6 +172,25 @@
         <name>Way of the Four Elements: Wave of Rolling Earth (17th Level Required)</name>
         <text></text>
         <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of the Open Hand</name>
+        <text>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Open Hand Technique</name>
+        <text>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</text>
+        <text>• It must succeed on a Dexterity saving throw or be knocked prone.</text>
+        <text>• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</text>
+        <text>• It can't take reactions until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
         </feature>
       </autolevel>
     <autolevel level="4" scoreImprovement="YES">
@@ -252,19 +252,19 @@
       </autolevel>
     <autolevel level="6">
         <feature optional="YES">
-          <name>Way of the Open Hand: Wholeness of Body</name>
-        <text>You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 79</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
           <name>Way of the Four Elements: Extra Elemental Discipline</name>
         <text>You learn one additional elemental discipline of your choice. You should know 2 elemental disciplines, as well as Elemental Attunement.</text>
         <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
         <text></text>
         <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Wholeness of Body</name>
+        <text>You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -326,19 +326,19 @@
       </autolevel>
     <autolevel level="11">
         <feature optional="YES">
-          <name>Way of the Open Hand: Tranquility</name>
-        <text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 79</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
           <name>Way of the Four Elements: Extra Elemental Discipline</name>
         <text>You learn one additional elemental discipline of your choice. You should know 3 elemental disciplines, as well as Elemental Attunement.</text>
         <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
         <text></text>
         <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Tranquility</name>
+        <text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
         </feature>
       </autolevel>
     <autolevel level="12" scoreImprovement="YES">
@@ -402,20 +402,20 @@
       </autolevel>
     <autolevel level="17">
         <feature optional="YES">
-          <name>Way of the Open Hand: Quivering Palm</name>
-        <text>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</text>
-        <text>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 79</text>
-        </feature>
-      </autolevel>
-    <autolevel level="17">
-        <feature optional="YES">
           <name>Way of the Four Elements: Extra Elemental Discipline</name>
         <text>You learn one additional elemental discipline of your choice. You should know 4 elemental disciplines, as well as Elemental Attunement.</text>
         <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
         <text></text>
         <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Quivering Palm</name>
+        <text>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</text>
+        <text>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
         </feature>
       </autolevel>
     <autolevel level="18">

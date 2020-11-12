@@ -85,9 +85,6 @@
         <text>Source: Player's Handbook p. 82</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text></text>
@@ -106,31 +103,10 @@
         <text>Source: Player's Handbook p. 72</text>
         </feature>
       <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
           <name>Fighting Style: Protection</name>
         <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
         <text></text>
         <text>Source: Player's Handbook p. 72</text>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
-        </feature>
-      <feature optional="YES">
-          <name></name>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -189,68 +165,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Sacred Oath: Oath of the Ancients</name>
-        <text>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Oath of the Ancients: Channel Divinity: Nature's Wrath</name>
-        <text>You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Oath of the Ancients: Channel Divinity: Turn the Faithless</name>
-        <text>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
-        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
-        <text>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Oath of the Ancients: Oath Spells</name>
-        <text>You gain oath spells at the paladin levels listed.</text>
-        <text></text>
-        <text>Oath of the Ancients Spells</text>
-        <text>Paladin Level | Spells</text>
-        <text>3rd | ensnaring strike, speak with animals</text>
-        <text>5th | moonbeam, misty step</text>
-        <text>9th | plant growth, protection from energy</text>
-        <text>13th | ice storm, stoneskin</text>
-        <text>17th | commune with nature, tree stride</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Oath of the Ancients: Tenets of the Ancients</name>
-        <text>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</text>
-        <text></text>
-        <text>Kindle the Light</text>
-        <text>   Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</text>
-        <text></text>
-        <text>Shelter the Light</text>
-        <text>   Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</text>
-        <text></text>
-        <text>Preserve Your Own Light</text>
-        <text>   Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</text>
-        <text></text>
-        <text>Be the Light</text>
-        <text>   Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Sacred Oath: Oath of Devotion</name>
         <text>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</text>
         <text></text>
@@ -295,18 +209,81 @@
         <feature optional="YES">
           <name>Oath of Devotion: Tenets of Devotion</name>
         <text>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</text>
-        <name>Oath of Devotion: Honesty</name>
+        <text></text>
+        <text>Honesty</text>
         <text>   Don't lie or cheat. Let your word be your promise.</text>
-        <name>Oath of Devotion: Courage</name>
+        <text></text>
+        <text>Courage</text>
         <text>   Never fear to act, though caution is wise.</text>
-        <name>Oath of Devotion: Compassion</name>
+        <text></text>
+        <text>Compassion</text>
         <text>   Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</text>
-        <name>Oath of Devotion: Honor</name>
+        <text></text>
+        <text>Honor</text>
         <text>   Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</text>
-        <name>Oath of Devotion: Duty</name>
+        <text></text>
+        <text>Duty</text>
         <text>   Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</text>
         <text></text>
         <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of the Ancients</name>
+        <text>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Channel Divinity: Nature's Wrath</name>
+        <text>You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Channel Divinity: Turn the Faithless</name>
+        <text>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
+        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+        <text>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of the Ancients Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | ensnaring strike, speak with animals</text>
+        <text>5th | moonbeam, misty step</text>
+        <text>9th | plant growth, protection from energy</text>
+        <text>13th | ice storm, stoneskin</text>
+        <text>17th | commune with nature, tree stride</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Tenets of the Ancients</name>
+        <text>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</text>
+        <name>Oath of the Ancients: Kindle the Light</name>
+        <text>   Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</text>
+        <name>Oath of the Ancients: Shelter the Light</name>
+        <text>   Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</text>
+        <name>Oath of the Ancients: Preserve Your Own Light</name>
+        <text>   Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</text>
+        <name>Oath of the Ancients: Be the Light</name>
+        <text>   Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -415,20 +392,20 @@
       </autolevel>
     <autolevel level="7">
         <feature optional="YES">
-          <name>Oath of the Ancients: Aura of Warding</name>
-        <text>Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.</text>
-        <text>At 18th level, the range of this aura increases to 30 feet.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <feature optional="YES">
           <name>Oath of Devotion: Aura of Devotion</name>
         <text>Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.</text>
         <text>At 18th level, the range of this aura increases to 30 feet.</text>
         <text></text>
         <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of the Ancients: Aura of Warding</name>
+        <text>Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 86</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -517,19 +494,19 @@
       </autolevel>
     <autolevel level="15">
         <feature optional="YES">
+          <name>Oath of Devotion: Purity of Spirit</name>
+        <text>Beginning at 15th level, you are always under the effects of a protection from evil and good spell.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
           <name>Oath of the Ancients: Undying Sentinel</name>
         <text>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.</text>
         <text>Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.</text>
         <text></text>
         <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Oath of Devotion: Purity of Spirit</name>
-        <text>Beginning at 15th level, you are always under the effects of a protection from evil and good spell.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 85</text>
         </feature>
       </autolevel>
     <autolevel level="15">
@@ -591,6 +568,17 @@
       </autolevel>
     <autolevel level="20">
         <feature optional="YES">
+          <name>Oath of Devotion: Holy Nimbus</name>
+        <text>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</text>
+        <text>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</text>
+        <text>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 85</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
           <name>Oath of the Ancients: Elder Champion</name>
         <text>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.</text>
         <text>Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</text>
@@ -600,17 +588,6 @@
         <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
         <text></text>
         <text>Source: Player's Handbook p. 86</text>
-        </feature>
-      </autolevel>
-    <autolevel level="20">
-        <feature optional="YES">
-          <name>Oath of Devotion: Holy Nimbus</name>
-        <text>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</text>
-        <text>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</text>
-        <text>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</text>
-        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 85</text>
         </feature>
       </autolevel>
     <autolevel level="20">
