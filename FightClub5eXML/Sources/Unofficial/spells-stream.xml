@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Enter Mindscape</name>
+    <classes>Psion</classes>
+    <level>0</level>
+    <ritual>NO</ritual>
+    <time>1 bonus action</time>
+    <range>Self</range>
+    <components></components>
+    <duration>Concentration, up to 10 minutes</duration>
+    <text>By shutting down your normal senses, you extend your mind into the psionics landscape around you. For the duration you can use a bonus action to sense the presence of creatures within a 60-foot cone. You learn the number of creatures within the cone and their creature type. You cannot detect undead or constructs with this spell.
+This spell is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead,or 3 feet of wood or dirt.
+This spell's duration cannot be ended due to damage.
+Source: Livestream</text>
+    </spell>
+  <spell>
+      <name>Mind Fist</name>
+    <classes>Psion</classes>
+    <level>0</level>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components></components>
+    <duration>Instantaneous</duration>
+    <text>You point at one creature you can see within range and project a focused beam of telekinetic power at it. The target must succeed on a Strength saving throw or take 1d6 bludgeoning damage and be pushed up to 15 feet away from you.
+This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Source: Livestream</text>
+    <roll>1d6</roll>
+    <roll>2d6</roll>
+    <roll>3d6</roll>
+    <roll>4d6</roll>
+    </spell>
+  <spell>
+      <name>Mind Strike</name>
+    <classes>Psion</classes>
+    <level>0</level>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components></components>
+    <duration>Instantaneous</duration>
+    <text>You point at one creature you can see within range, and a psychic bolt pierces its mind. The target must succeed on an Intelligence saving throw or take 1d10 psychic damage.
+This spell's damage increases by one die when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+Source: Livestream</text>
+    <roll>1d10</roll>
+    <roll>2d10</roll>
+    <roll>3d10</roll>
+    <roll>4d10</roll>
+    </spell>
+  <spell>
+      <name>Psychic Step</name>
+    <classes>Psion</classes>
+    <level>0</level>
+    <ritual>NO</ritual>
+    <time>1 action</time>
+    <range>60 feet</range>
+    <components></components>
+    <duration>1 round</duration>
+    <text>You alter the composition of your body in a subtle manner, allowing you to take seemingly impossible steps.
+Until the end of your turn, you speed increases by 10 feet and you can walk across vertical surfaces without falling. If you end your turn on such a surface, you immediately fall.
+Source: Livestream</text>
+    </spell>
+  </compendium>

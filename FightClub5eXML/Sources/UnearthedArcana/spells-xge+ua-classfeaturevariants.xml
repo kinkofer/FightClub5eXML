@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Abi-Dalzim's Horrid Wilting</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Cause Fear</name>
+    <classes>Bard, Cleric</classes>
+    </spell>
+  <spell>
+      <name>Ceremony</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Create Homunculus</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Dawn</name>
+    <classes>Druid, Paladin</classes>
+    </spell>
+  <spell>
+      <name>Immolation</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Life Transference</name>
+    <classes>Paladin, Warlock</classes>
+    </spell>
+  <spell>
+      <name>Mass Polymorph</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Mental Prison</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Mind Spike</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Power Word Pain</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Primal Savagery</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Scatter</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Skill Empowerment</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Tenser's Transformation</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Thunder Step</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Tiny Servant</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Wall of Light</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Wall of Sand</name>
+    <classes>Druid</classes>
+    </spell>
+  </compendium>

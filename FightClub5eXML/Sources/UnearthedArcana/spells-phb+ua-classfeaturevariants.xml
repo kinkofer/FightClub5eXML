@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Acid Splash</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Aid</name>
+    <classes>Bard, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Animate Dead</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Antipathy/Sympathy</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Augury</name>
+    <classes>Druid, Wizard</classes>
+    </spell>
+  <spell>
+      <name>Aura of Life</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Aura of Purity</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Aura of Vitality</name>
+    <classes>Cleric, Druid</classes>
+    </spell>
+  <spell>
+      <name>Awaken</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Blinding Smite</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Branding Smite</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Color Spray</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Command</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Cone of Cold</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Contact Other Plane</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Continual Flame</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Death Ward</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Demiplane</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Divination</name>
+    <classes>Druid, Wizard</classes>
+    </spell>
+  <spell>
+      <name>Dominate Beast</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Elemental Weapon</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Enhance Ability</name>
+    <classes>Ranger, Wizard</classes>
+    </spell>
+  <spell>
+      <name>Enlarge/Reduce</name>
+    <classes>Bard, Druid</classes>
+    </spell>
+  <spell>
+      <name>Entangle</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Fire Shield</name>
+    <classes>Druid, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Flame Blade</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Flame Strike</name>
+    <classes>Paladin</classes>
+    </spell>
+  <spell>
+      <name>Flaming Sphere</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Flesh to Stone</name>
+    <classes>Druid, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Foresight</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Gate</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Gentle Repose</name>
+    <classes>Paladin</classes>
+    </spell>
+  <spell>
+      <name>Grease</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Greater Restoration</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Gust of Wind</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Heroes' Feast</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Incendiary Cloud</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Knock</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Magic Jar</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Magic Weapon</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Mass Healing Word</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Maze</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Meld into Stone</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Mirror Image</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Mislead</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Modify Memory</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Phantasmal Killer</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Planar Binding</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Power Word Heal</name>
+    <classes>Cleric, Druid</classes>
+    </spell>
+  <spell>
+      <name>Prayer of Healing</name>
+    <classes>Paladin</classes>
+    </spell>
+  <spell>
+      <name>Prismatic Spray</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Prismatic Wall</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Project Image</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Protection from Evil and Good</name>
+    <classes>Druid, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Rary's Telepathic Bond</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Revivify</name>
+    <classes>Druid, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Searing Smite</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Shapechange</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Slow</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Speak with Dead</name>
+    <classes>Wizard</classes>
+    </spell>
+  <spell>
+      <name>Spirit Guardians</name>
+    <classes>Paladin</classes>
+    </spell>
+  <spell>
+      <name>Symbol</name>
+    <classes>Druid</classes>
+    </spell>
+  <spell>
+      <name>Teleportation Circle</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Thunderwave</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Tongues</name>
+    <classes>Ranger</classes>
+    </spell>
+  <spell>
+      <name>Vampiric Touch</name>
+    <classes>Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Warding Bond</name>
+    <classes>Paladin, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Weird</name>
+    <classes>Warlock</classes>
+    </spell>
+  <spell>
+      <name>Wrathful Smite</name>
+    <classes>Cleric</classes>
+    </spell>
+  </compendium>
