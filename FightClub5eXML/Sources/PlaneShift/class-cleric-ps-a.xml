@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Ambition Domain (PSA)</name>
+        <text>"The worthy shall strive for greatness—supremacy in life leads to supremacy in the afterlife."</text>
+        <text>Bontu has fully embraced this dictum, and though she expends little effort in teaching it, she surely leads by example. Her viziers subtly plant the seeds that flower into the ambition the God-Pharaoh desires. Through insinuation, they remind acolytes and initiates alike that achieving one's place in the afterlife at the expense of others is not shameful, but is proof of the initiate's determination and drive. Nothing is more important than that drive, they suggest—not the bonds of a crop, not friendship or love. Not even devotion to a deity.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Ambition Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | bane, disguise self</text>
+        <text>3rd | mirror image, ray of enfeeblement</text>
+        <text>5th | bestow curse, vampiric touch</text>
+        <text>7th | death ward, dimension door</text>
+        <text>9th | dominate person, modify memory</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Warding Flare</name>
+        <text>When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Knowledge Domain (PSA)</name>
+        <text>"The worthy shall cultivate a nimble mind that can perceive the wonders beyond imagination that wait in the afterlife."</text>
+        <text>Kefnet's task is to pass on this teaching of the God-Pharaoh and elucidate its meaning. He teaches that the afterlife will be inhabited only by those who have proved by their wits that they are worthy of dwelling in the glorious presence of the God-Pharaoh. He trains acolytes and initiates to push their limits and challenge their mental capacity with spells of ever-greater power.</text>
+        <text>Kefnet's domain is identical to the Knowledge domain in the Player's Handbook.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 25</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Solidarity Domain (PSA)</name>
+        <text>"The worthy must know and respect all others whom the God-Pharaoh deems worthy, for in the afterlife, all will be united in purpose and action."</text>
+        <text>Oketra is charged with expounding upon this teaching of the God-Pharaoh, instilling in every initiate the virtue of solidarity. She forges each group of children into a crop of acolytes with just one purpose: to be judged worthy of a glorious afterlife. And she instills in each crop the ability to unite in a single action in pursuit of that purpose. She is fond of poetic imagery to communicate her ideals.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Solidarity Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | bless, guiding bolt</text>
+        <text>3rd | aid, warding bond</text>
+        <text>5th | beacon of hope, crusader's mantle</text>
+        <text>7th | aura of life, guardian of faith</text>
+        <text>9th | circle of power, mass cure wounds</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Solidarity's Action</name>
+        <text>Also at 1st level, when you take the Help action to aid an ally's attack, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Strength Domain (PSA)</name>
+        <text>"The worthy shall hone a strong body that can withstand the boundless energies of the afterlife."</text>
+        <text>It falls to Rhonas to instill this teaching in those who would enter the afterlife—but to his mind, the words themselves don't matter. Strength can't be taught. It must be built through practice and training. Rhonas demonstrates his teachings by his example, rather than by giving his students any kind of academic instruction. He welcomes the people of Naktamun to stand by the Hekma and watch him as he storms into the desert to battle the greatest horrors. He encourages them to observe his indomitable strength, for though they will never equal it, they can aspire to mimicry. He invites them to scrutinize every move and practice what they see.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Strength Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | divine favor, shield of faith</text>
+        <text>3rd | enhance ability, protection from poison</text>
+        <text>5th | haste, protection from energy</text>
+        <text>7th | dominate beast, stoneskin</text>
+        <text>9th | destructive wave, insect plague</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Acolyte of Strength</name>
+        <text>At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Athletics, Nature, or Survival.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Bonus Proficiency</name>
+        <text>Also at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Zeal Domain (PSA)</name>
+        <text>"The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle in their way."</text>
+        <text>The God-Pharaoh expects those he welcomes into the afterlife to desire it above all other pleasures and achievements, and for them to show their dedication, passion, and fervor through their actions. Hazoret is charged with cultivating this zeal in the initiates who come under her care, and she has undertaken the task with appropriate enthusiasm. She recognizes, however, that the best way to teach zeal is by demonstrating it.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Zeal Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | searing smite, thunderous smite</text>
+        <text>3rd | magic weapon, shatter</text>
+        <text>5th | haste, fireball</text>
+        <text>7th | fire shield, freedom of movement</text>
+        <text>9th | destructive wave, flame strike</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Bonus Proficiencies</name>
+        <text>At 1st level, you gain proficiency with martial weapons and heavy armor.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Priest of Zeal</name>
+        <text>From 1st level, Hazoret delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Channel Divinity: Invoke Duplicity</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</text>
+        <text>As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</text>
+        <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Knowledge Domain (PSA): Subclass Feature</name>
+        <text>See the Knowledge domain.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 25</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Channel Divinity: Preserve Life</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</text>
+        <text>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Channel Divinity: Feat of Strength</name>
+        <text>At 2nd level, you can use your Channel Divinity to enhance your physical might. When you make an attack roll, ability check, or saving throw using Strength, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the roll succeeds or fails.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Channel Divinity: Consuming Fervor</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to channel your zeal into unchecked ferocity.</text>
+        <text>When you roll fire or thunder damage, you can use your Channel Divinity to deal maximum damage instead of rolling.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Channel Divinity: Cloak of Shadows</name>
+        <text>Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Knowledge Domain (PSA): Subclass Feature</name>
+        <text>See the Knowledge domain.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 25</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Oketra's Blessing</name>
+        <text>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Rhonas's Blessing</name>
+        <text>At 6th level, when a creature within 30 feet of you makes an attack roll, ability check, or saving throw using Strength, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the roll succeeds or fail.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Resounding Strike</name>
+        <text>At 6th level, when you deal thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Potent Spellcasting</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Knowledge Domain (PSA): Subclass Feature</name>
+        <text>See the Knowledge domain.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 25</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Ambition Domain (PSA): Improved Duplicity</name>
+        <text>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 27</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Knowledge Domain (PSA): Subclass Feature</name>
+        <text>See the Knowledge domain.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 25</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Solidarity Domain (PSA): Supreme Healing</name>
+        <text>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 24</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Strength Domain (PSA): Avatar of Battle</name>
+        <text>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 26</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Zeal Domain (PSA): Blaze of Glory</name>
+        <text>Starting at 17th level, you can delay death for an instant to perform a final heroic act.</text>
+        <text>When you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon's type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Plane Shift: Amonkhet p. 28</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

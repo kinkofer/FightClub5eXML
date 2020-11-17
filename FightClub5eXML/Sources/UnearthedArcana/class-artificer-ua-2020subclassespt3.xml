@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Artificer</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Armorer (UA): Armorer</name>
+        <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Armorer (UA): Armor Model</name>
+        <text>3rd-level Armorer feature</text>
+        <text>You can customize your power armor. When you do so, choose one of the following armor models: guardian or infiltrator. The model you choose gives you special benefits while you wear it.</text>
+        <text>Each model includes a special weapon. When you attack with that weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
+        <text>You can change your power armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.</text>
+        <text></text>
+        <text>Guardian</text>
+        <text>   You design your armor to be in the frontline of conflict. It has the following features:</text>
+        <text></text>
+        <text>   Thunder Gauntlets.</text>
+        <text>• Your armored fists each count as a simple melee weapon, and each deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</text>
+        <text>   Defensive Field.</text>
+        <text>• You gain a bonus action that you can use on each of your turns to gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor.</text>
+        <text></text>
+        <text></text>
+        <text>Infiltrator</text>
+        <text>   You customize your armor for subtle undertakings. It has the following features:</text>
+        <text></text>
+        <text>   Lightning Launcher.</text>
+        <text>• A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.</text>
+        <text>   Powered Steps.</text>
+        <text>• Your walking speed increases by 5 feet.</text>
+        <text>   Second Skin.</text>
+        <text>• The armor's weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn't.</text>
+        <text></text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Armorer (UA): Armorer Spells</name>
+        <text>3rd-level Armorer feature</text>
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Armorer Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | magic missile, shield</text>
+        <text>5th | mirror image, shatter</text>
+        <text>9th | hypnotic pattern, lightning bolt</text>
+        <text>13th | fire shield, greater invisibility</text>
+        <text>17th | passwall, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Armorer (UA): Power Armor</name>
+        <text>3rd-level Armorer feature</text>
+        <text>Your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith's tools in hand.</text>
+        <text>You gain the following benefits while wearing the power armor:</text>
+        <text>• If the armor normally has a Strength requirement, the power armor lacks this requirement for you.</text>
+        <text>• You can use the power armor as a spellcasting focus for your artificer spells.</text>
+        <text>• The power armor attaches to you and can't be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.</text>
+        <text>The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Armorer (UA): Tools of the Trade</name>
+        <text>3rd-level Armorer feature</text>
+        <text>You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature optional="YES">
+          <name>Armorer (UA): Extra Attack</name>
+        <text>5th-level Armorer feature</text>
+        <text>You can attack twice, rather than once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Armorer (UA): Armor Modifications</name>
+        <text>9th-level Armorer feature</text>
+        <text>You learn how to use your artificer infusions to specially modify the armor enhanced by your Power Armor feature. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, bracers, and a weapon. Each of those items can bear one of your infusions. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your power armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Armorer (UA): Perfected Armor</name>
+        <text>15th-level Armorer feature</text>
+        <text>Your power armor gains additional benefits based on its model, as shown below.</text>
+        <name>Armorer (UA): Guardian</name>
+        <text>   Tinkering with your armor's energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</text>
+        <text>   You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+        <name>Armorer (UA): Infiltrator</name>
+        <text>   Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -2,6 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <spell>
       <name>Ego Whip</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>4</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -9,12 +10,12 @@
     <range>30 feet</range>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You lash the mind of one creature you can see within range, filling it with despair. The target must succeed on an Intelligence saving throw or suffer disadvantage on attack rolls, ability checks, and saving throws, and it can't cast spells. At the end of each of its turns, the target can make another Intelligence saving throw. On a success, the spell ends on the target.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     </spell>
   <spell>
       <name>Id Insinuation</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -22,13 +23,13 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You unleash a torrent of conflicting desires in the mind of one creature you can see within range, impairing its ability to make decisions. The target must succeed on a Wisdom saving throw or be incapacitated. At the end of each of its turns, it takes 1d12 psychic damage, and it can then make another Wisdom saving throw. On a success, the spell ends on the target.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <roll>1d12</roll>
     </spell>
   <spell>
       <name>Intellect Fortress</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>5</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -36,13 +37,13 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>Self</range>
     <components>V, S</components>
     <duration>Concentration, up to 10 minutes</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You create a faintly shimmering barrier of protective psychic power around you. For the duration, you have advantage on all saving throws.
 When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     </spell>
   <spell>
       <name>Mental Barrier</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -50,12 +51,12 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>Self</range>
     <components>V</components>
     <duration>1 round</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have advantage on Intelligence, Wisdom, and Charisma saving throws, and you have resistance to psychic damage.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     </spell>
   <spell>
       <name>Mind Sliver</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -63,7 +64,6 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>60 feet</range>
     <components>V</components>
     <duration>1 round</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must make an Intelligence saving throw. Unless the saving throw is successful, the target takes 1d6 psychic damage, and the first time it makes a saving throw before the end of your next turn, it must roll a d4 and subtract the number rolled from the save.
 This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
@@ -74,6 +74,7 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     </spell>
   <spell>
       <name>Mind Thrust</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -81,7 +82,6 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>1 round</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You propel a lance of psionic disruption into the mind of one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can use its action only to Dash or Disengage on its next turn. On a successful save, the target takes half as much damage, and this spell doesn't limit its action options.
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
@@ -90,6 +90,7 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     </spell>
   <spell>
       <name>Psionic Blast</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -97,7 +98,6 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 7</text>
     <range>Self (30-foot cone)</range>
     <components>V</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You unleash a destructive wave of mental power in a 30-foot cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a target takes 5d8 force damage, is pushed 20 feet directly away from you, and is knocked prone. On a successful save, a target takes half as much damage and isn't pushed or knocked prone.
 At Higher Levels:
 When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
@@ -106,6 +106,7 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     </spell>
   <spell>
       <name>Psychic Crush</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>6</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -113,7 +114,6 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>1 minute</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You overload the mind of one creature you can see within range, filling its psyche with discordant emotions. The target must make an Intelligence saving throw. On a failed save, the target takes 12d6 psychic damage and is stunned for 1 minute. On a successful save, the target takes half as much damage and isn't stunned.
 The stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the spell ends on the target.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
@@ -121,6 +121,7 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     </spell>
   <spell>
       <name>Thought Shield</name>
+    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -128,7 +129,6 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     <range>Touch</range>
     <components>V, S</components>
     <duration>8 hours</duration>
-    <classes>Wizard, Sorcerer, Warlock, Bard</classes>
     <text>You weave a clouding veil over the mind of one creature you touch. For the duration, the target's mind can't be read or detected, creatures can't telepathically communicate with the target unless the target allows it, and the target has advantage on saving throws against any effect that would determine whether it is telling the truth.
 Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     </spell>

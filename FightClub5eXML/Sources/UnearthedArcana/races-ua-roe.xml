@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Changeling (UA Races of Eberron)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Cha 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 1</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Changeling (UA Races of Eberron)s mature slightly faster than humans but share a similar lifespan—typically a century or less. While a Changeling (UA Races of Eberron) can shapeshift to conceal their age, the effects of aging still catch up to them.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Changeling (UA Races of Eberron)s hate to be bound in any way, and those who follow the path of the Traveler believe that chaos and change are important aspects of life. Most tend toward pragmatic neutrality as opposed to being concerned with lofty ideals. Few Changeling (UA Races of Eberron)s embrace evil.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>In their natural forms, Changeling (UA Races of Eberron)s average between 5 and 6 feet in height, with a slender build. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Change Appearance</name>
+      <text>As an action, you can transform your appearance or revert to your natural form. You can't duplicate the appearance of a creature you've never seen, and you revert to your natural form if you die.
+You decide what you look like, including your height, weight, facial features, the sound of your voice, coloration, hair length, sex, and any other distinguishing characteristics. You can make yourself appear as a member of another race, though none of your game statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this trait to become quadrupedal, for instance. Your clothing and other equipment don't change in appearance, size, or shape to match your new form, requiring you to keep a few extra outfits on hand to make the most compelling disguise possible.
+Even to the most astute observers, your ruse is usually indiscernible. If you rouse suspicion, or if a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
+</text>
+      </trait>
+    <trait>
+        <name>Changeling Instincts</name>
+      <text>You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, or Persuasion
+</text>
+      </trait>
+    <trait>
+        <name>Unsettling Visage</name>
+      <text>When a creature you can see makes an attack roll against you, you can use your reaction to impose disadvantage on the roll. You must use this feature before knowing whether the attack hits or misses. Using this trait reveals your shapeshifting nature to any creature within 30 feet that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Divergent Persona</name>
+      <text>You gain proficiency with one tool of your choice. Define a persona associated with that proficiency: establish the name, race, gender, age, and other details. While you are in the form of this persona, the related proficiency bonus is doubled for any ability check you make that uses that proficiency.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and two other languages of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Kalashtar (UA Races of Eberron)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Cha 1, Wis 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 3</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Kalashtar (UA Races of Eberron) develop physically at the same rate as humans do and have similar lifespans.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>The noble spirit tied to a Kalashtar (UA Races of Eberron) drives it toward lawful and good behavior. Most Kalashtar (UA Races of Eberron) combine self-discipline with compassion for all sentient beings, but some Kalashtar (UA Races of Eberron) resist the virtuous influence of their spirit.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Kalashtar (UA Races of Eberron) are similar in build to humans, though they are typically a few inches taller. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Dual Mind</name>
+      <text>When you make a Wisdom saving throw, you can use your reaction to gain advantage on the roll. You can use this trait immediately before or after you roll, but before any of the roll's effects occur.
+</text>
+      </trait>
+    <trait>
+        <name>Mental Discipline</name>
+      <text>You have resistance to psychic damage.
+</text>
+      </trait>
+    <trait>
+        <name>Mind Link</name>
+      <text>You can speak telepathically to any creature you can see within 60 feet of you. You don't need to share a language with the creature for it to understand your telepathic messages, but the creature must be able to understand at least one language or be telepathic itself.
+As a bonus action when you're speaking telepathically to a creature, you can give that creature the ability to speak telepathically to you until the start of your next turn. To use this ability, the creature must be within 60 feet of you and able to see you.
+</text>
+      </trait>
+    <trait>
+        <name>Psychic Glamour</name>
+      <text>Choose one of the following skills: Insight, Intimidation, Performance, or Persuasion. You have advantage on all ability checks you make with that skill.
+</text>
+      </trait>
+    <trait>
+        <name>Severed from Dreams</name>
+      <text>Kalashtar (UA Races of Eberron) sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like the dream spell, but not to spells and effects that put you to sleep, like the sleep spell.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common, Quori, and one other language of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA Races of Eberron) (Beasthide)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Con 2</ability>
+    <proficiency>Athletics</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 6</text>
+      </trait>
+    <trait>
+        <name>Tough</name>
+      <text>You have proficiency with the Athletics skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>Whenever you shift, you gain 1d6 additional temporary hit points, and while shifted, you have a +1 bonus to your AC.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifter (UA Races of Eberron) (Beasthide)s are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifter (UA Races of Eberron) (Beasthide)s tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive Shifter (UA Races of Eberron) (Beasthide)s toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA Races of Eberron) (Beasthide)s range from 5 to almost 7 feet tall, depending on their subrace. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency with the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your Shifter (UA Races of Eberron) (Beasthide) subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA Races of Eberron) (Longtooth)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Str 2</ability>
+    <proficiency>Intimidation</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 6</text>
+      </trait>
+    <trait>
+        <name>Fierce</name>
+      <text>You have proficiency with the Intimidation skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifter (UA Races of Eberron) (Longtooth)s are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifter (UA Races of Eberron) (Longtooth)s tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive Shifter (UA Races of Eberron) (Longtooth)s toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA Races of Eberron) (Longtooth)s range from 5 to almost 7 feet tall, depending on their subrace. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency with the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your Shifter (UA Races of Eberron) (Longtooth) subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA Races of Eberron) (Swiftstride)</name>
+    <size>M</size>
+    <speed>35</speed>
+    <ability>Dex 1, Dex 2, Cha 1</ability>
+    <proficiency>Acrobatics</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 6</text>
+      </trait>
+    <trait>
+        <name>Graceful</name>
+      <text>You have proficiency with the Acrobatics skill.
+</text>
+      </trait>
+    <trait>
+        <name>Swift Stride</name>
+      <text>Your walking speed increases by 5 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, your walking speed increases by 5 feet. Additionally, you can move up to 10 feet as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifter (UA Races of Eberron) (Swiftstride)s are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifter (UA Races of Eberron) (Swiftstride)s tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive Shifter (UA Races of Eberron) (Swiftstride)s toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA Races of Eberron) (Swiftstride)s range from 5 to almost 7 feet tall, depending on their subrace. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency with the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your Shifter (UA Races of Eberron) (Swiftstride) subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Shifter (UA Races of Eberron) (Wildhunt)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 1, Wis 2</ability>
+    <proficiency>Survival</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 6</text>
+      </trait>
+    <trait>
+        <name>Natural Tracker</name>
+      <text>You have proficiency with the Survival skill.
+</text>
+      </trait>
+    <trait>
+        <name>Mark the Scent</name>
+      <text>As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can't use this trait again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting Feature</name>
+      <text>While shifted, you have advantage on Wisdom checks.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Shifter (UA Races of Eberron) (Wildhunt)s are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Shifter (UA Races of Eberron) (Wildhunt)s tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive Shifter (UA Races of Eberron) (Wildhunt)s toward chaotic alignments.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Shifter (UA Races of Eberron) (Wildhunt)s range from 5 to almost 7 feet tall, depending on their subrace. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Senses</name>
+      <text>You have proficiency with the Perception skill.
+</text>
+      </trait>
+    <trait>
+        <name>Shifting</name>
+      <text>As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your Shifter (UA Races of Eberron) (Wildhunt) subrace, described below.
+Once you shift, you can't do so again until you finish a short or long rest.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Warforged (UA Races of Eberron) (Envoy)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 69</text>
+      </trait>
+    <trait>
+        <name>Specialized Design</name>
+      <text>You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Integrated Tool</name>
+      <text>Choose one tool you're proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
+</text>
+      </trait>
+    <trait>
+        <name>Envoys: Specialized Design</name>
+      <text>As the name implies, most Warforged (UA Races of Eberron) (Envoy) were built to fight in the Last War. The vast majority of Warforged (UA Races of Eberron) (Envoy) are juggernauts or skirmishers—soldiers and scouts who fought under the banner of one of the Five Nations. Warforged (UA Races of Eberron) (Envoy) envoys, however, were designed to perform other functions. As an envoy, you have a skill, a tool proficiency, and a tool that's part of your body. When you make an envoy character, consider the following questions: What is your purpose? How does your skill and your tool reflect that purpose? What form does your integrated tool take? If you have embedded thieves' tools, for instance, are your fingers actually lockpicks, or can you produce keys from various parts of your body? The following characters are examples of Warforged (UA Races of Eberron) (Envoy) with integrated tools.
+Lute is a bard with the entertainer background; his namesake instrument folds out of his left arm.
+Compass Rose is a wizard with the outlander background. A keen explorer, she uses her built-in cartographer's tools to record the paths she travels.
+Masque is an infiltrator. A rogue with the charlatan background and an integrated disguise Kit, she was built to blend in and assassinate. Cannith built six Warforged (UA Races of Eberron) (Envoy) of her design, and Masque has vowed to hunt down and destroy the other five.
+In developing your integrated tool, remember that you must have your hands free to use it. Masque, the infiltrator mentioned above, doesn't shapeshift like a changeling; she has to manually adjust her appearance.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>A typical Warforged (UA Races of Eberron) (Envoy) is between two and thirty years old. The maximum lifespan of the Warforged (UA Races of Eberron) (Envoy) remains a mystery; so far, Warforged (UA Races of Eberron) (Envoy) have shown no signs of deterioration due to age.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most Warforged (UA Races of Eberron) (Envoy) take comfort in order and discipline, tending toward law and neutrality, but some have absorbed the morality—or lack thereof—of the beings they served with.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium. Most Warforged (UA Races of Eberron) (Envoy) stand between 5 and 6½ feet tall. Build is affected by your subrace.
+</text>
+      </trait>
+    <trait>
+        <name>Warforged Resilience</name>
+      <text>You were created to have remarkable fortitude, represented by the following benefits:
+• You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+• You are immune to disease.
+• You don't need to eat, drink, or breathe.
+• You don't need to sleep and don't suffer the effects of exhaustion due to lack of rest, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Sentry's Rest</name>
+      <text>When you take a long rest, you must spend at least six hours of it in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Integrated Protection</name>
+      <text>Integrated protection
+Your body has built-in protective layers, which determine your Armor Class. You gain no benefit from wearing armor, but if you are using a shield, you apply its bonus as normal.
+You can alter your body to enter different defensive modes; each time you finish a long rest, choose one mode to adopt from the Integrated Protection table, provided you meet the mode's prerequisite.
+Mode | Prerequisite | Armor Class
+Darkwood core (unarmored) | None | 11 + your Dexterity modifier (add proficiency bonus if proficient with light armor)
+Composite plating (armor) | Medium armor proficiency | 13 + your Dexterity modifier (maximum of 2) + your proficiency bonus
+Heavy plating (armor) | Heavy armor proficiency | 16 + your proficiency bonus; disadvantage on Dexterity (Stealth) checks
+
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Warforged (UA Races of Eberron) (Juggernaut)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 1, Str 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 70</text>
+      </trait>
+    <trait>
+        <name>Iron Fists</name>
+      <text>When you hit with an unarmed strike, you can deal 1d4 + your Strength modifier bludgeoning damage, instead of the normal damage for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Powerful Build</name>
+      <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>A typical Warforged (UA Races of Eberron) (Juggernaut) is between two and thirty years old. The maximum lifespan of the Warforged (UA Races of Eberron) (Juggernaut) remains a mystery; so far, Warforged (UA Races of Eberron) (Juggernaut) have shown no signs of deterioration due to age.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most Warforged (UA Races of Eberron) (Juggernaut) take comfort in order and discipline, tending toward law and neutrality, but some have absorbed the morality—or lack thereof—of the beings they served with.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium. Most Warforged (UA Races of Eberron) (Juggernaut) stand between 5 and 6½ feet tall. Build is affected by your subrace.
+</text>
+      </trait>
+    <trait>
+        <name>Warforged Resilience</name>
+      <text>You were created to have remarkable fortitude, represented by the following benefits:
+• You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+• You are immune to disease.
+• You don't need to eat, drink, or breathe.
+• You don't need to sleep and don't suffer the effects of exhaustion due to lack of rest, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Sentry's Rest</name>
+      <text>When you take a long rest, you must spend at least six hours of it in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Integrated Protection</name>
+      <text>Integrated protection
+Your body has built-in protective layers, which determine your Armor Class. You gain no benefit from wearing armor, but if you are using a shield, you apply its bonus as normal.
+You can alter your body to enter different defensive modes; each time you finish a long rest, choose one mode to adopt from the Integrated Protection table, provided you meet the mode's prerequisite.
+Mode | Prerequisite | Armor Class
+Darkwood core (unarmored) | None | 11 + your Dexterity modifier (add proficiency bonus if proficient with light armor)
+Composite plating (armor) | Medium armor proficiency | 13 + your Dexterity modifier (maximum of 2) + your proficiency bonus
+Heavy plating (armor) | Heavy armor proficiency | 16 + your proficiency bonus; disadvantage on Dexterity (Stealth) checks
+
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Warforged (UA Races of Eberron) (Skirmisher)</name>
+    <size>M</size>
+    <speed>35</speed>
+    <ability>Con 1, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Races Of Eberron p. 70</text>
+      </trait>
+    <trait>
+        <name>Swift</name>
+      <text>Your walking speed increases by 5 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Light Step</name>
+      <text>When you are traveling alone for an extended period of time (one hour or more), you can move stealthily at a normal pace. (See chapter 8 of the Player's Handbook for information about travel pace.)
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>A typical Warforged (UA Races of Eberron) (Skirmisher) is between two and thirty years old. The maximum lifespan of the Warforged (UA Races of Eberron) (Skirmisher) remains a mystery; so far, Warforged (UA Races of Eberron) (Skirmisher) have shown no signs of deterioration due to age.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Most Warforged (UA Races of Eberron) (Skirmisher) take comfort in order and discipline, tending toward law and neutrality, but some have absorbed the morality—or lack thereof—of the beings they served with.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Your size is Medium. Most Warforged (UA Races of Eberron) (Skirmisher) stand between 5 and 6½ feet tall. Build is affected by your subrace.
+</text>
+      </trait>
+    <trait>
+        <name>Warforged Resilience</name>
+      <text>You were created to have remarkable fortitude, represented by the following benefits:
+• You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+• You are immune to disease.
+• You don't need to eat, drink, or breathe.
+• You don't need to sleep and don't suffer the effects of exhaustion due to lack of rest, and magic can't put you to sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Sentry's Rest</name>
+      <text>When you take a long rest, you must spend at least six hours of it in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
+</text>
+      </trait>
+    <trait>
+        <name>Integrated Protection</name>
+      <text>Integrated protection
+Your body has built-in protective layers, which determine your Armor Class. You gain no benefit from wearing armor, but if you are using a shield, you apply its bonus as normal.
+You can alter your body to enter different defensive modes; each time you finish a long rest, choose one mode to adopt from the Integrated Protection table, provided you meet the mode's prerequisite.
+Mode | Prerequisite | Armor Class
+Darkwood core (unarmored) | None | 11 + your Dexterity modifier (add proficiency bonus if proficient with light armor)
+Composite plating (armor) | Medium armor proficiency | 13 + your Dexterity modifier (maximum of 2) + your proficiency bonus
+Heavy plating (armor) | Heavy armor proficiency | 16 + your proficiency bonus; disadvantage on Dexterity (Stealth) checks
+
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common.
+</text>
+      </trait>
+    </race>
+  </compendium>

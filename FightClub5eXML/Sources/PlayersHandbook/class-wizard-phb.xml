@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <hd>6</hd>
+    <proficiency>Intelligence, Wisdom, Arcana, History, Insight, Investigation, Medicine, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Intelligence</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Wizard</name>
+        <text>As a 1st-level Wizard, you begin play with 6+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: none</text>
+        <text>• Weapons: daggers, darts, slings, quarterstaffs, light crossbows</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 2 from Arcana, History, Insight, Investigation, Medicine, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a quarterstaff or (b) a dagger</text>
+        <text>• (a) a component pouch or (b) an arcane focus</text>
+        <text>• (a) a scholar's pack or (b) an explorer's pack</text>
+        <text>• A spellbook</text>
+        <text></text>
+        <text>Alternatively, you may start with 4d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Wizard</name>
+        <text>To multiclass as a Wizard, you must meet the following prerequisites:</text>
+        <text>• Intelligence 13</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <armor>none</armor>
+    <weapons>daggers, darts, slings, quarterstaffs, light crossbows</weapons>
+    <tools>none</tools>
+    <wealth>4d4x10</wealth>
+    <autolevel level="1">
+        <slots>3, 2</slots>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Arcane Recovery</name>
+        <text>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.</text>
+        <text>For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots.</text>
+        <text>You can recover either a 2nd-level spell slot or two 1st-level spell slots.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Spellcasting</name>
+        <text>As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.</text>
+        <text></text>
+        <text>Spellbook:</text>
+        <text>   At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.</text>
+        <text></text>
+        <text>Preparing and Casting Spells:</text>
+        <text>   The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.</text>
+        <text>   For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</text>
+        <text>   You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Ritual Casting:</text>
+        <text>   You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use an arcane focus as a spellcasting focus for your wizard spells.</text>
+        <text></text>
+        <text>Learning Spells of 1st Level and Higher:</text>
+        <text>   Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").</text>
+        <text></text>
+        <text>Your Spellbook:</text>
+        <text>   The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.</text>
+        <text>   A spellbook doesn't contain cantrips.</text>
+        <text></text>
+        <text>Copying a Spell into the Book:</text>
+        <text>   When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.</text>
+        <text>   Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.</text>
+        <text>   For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.</text>
+        <text>   A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</text>
+        <text></text>
+        <text>Replacing the Book:</text>
+        <text>   You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.</text>
+        <text>   If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.</text>
+        <text></text>
+        <text>The Book's Appearance:</text>
+        <text>   Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>3, 3</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Arcane Tradition</name>
+        <text>When you reach 2nd level, you choose an arcane tradition from the list of available traditions, shaping your practice of magic. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Abjuration</name>
+        <text>The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.</text>
+        <text>Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Abjuration: Abjuration Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Abjuration: Arcane Ward</name>
+        <text>Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.</text>
+        <text>While the ward has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.</text>
+        <text>Once you create the ward, you can't create it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Conjuration</name>
+        <text>As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Conjuration: Conjuration Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Conjuration: Minor Conjuration</name>
+        <text>Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.</text>
+        <text>The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Divination</name>
+        <text>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Divination: Divination Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Divination: Portent</name>
+        <text>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</text>
+        <text>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Enchantment</name>
+        <text>As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Enchantment: Enchantment Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Enchantment: Hypnotic Gaze</name>
+        <text>Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.</text>
+        <text>On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.</text>
+        <text>Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Evocation</name>
+        <text>You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Evocation: Evocation Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Evocation: Sculpt Spells</name>
+        <text>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Illusion</name>
+        <text>You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome wizards—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Illusion: Illusion Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Illusion: Improved Minor Illusion</name>
+        <text>When you choose this school at 2nd level, you learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.</text>
+        <text>When you cast minor illusion, you can create both a sound and an image with a single casting of the spell.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Necromancy</name>
+        <text>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.</text>
+        <text>Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Necromancy: Grim Harvest</name>
+        <text>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Necromancy: Necromancy Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: School of Transmutation</name>
+        <text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.</text>
+        <text>Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Transmutation: Minor Alchemy</name>
+        <text>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>School of Transmutation: Transmutation Savant</name>
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>3, 4, 2</slots>
+      </autolevel>
+    <autolevel level="4">
+        <slots>4, 4, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>4, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="6">
+        <slots>4, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Arcane Tradition feature</name>
+        <text>At 6th level, you gain a feature granted by your Arcane Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Abjuration: Projected Ward</name>
+        <text>Starting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Conjuration: Benign Transposition</name>
+        <text>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Divination: Expert Divination</name>
+        <text>Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Enchantment: Instinctive Charm</name>
+        <text>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.</text>
+        <text>You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Evocation: Potent Cantrip</name>
+        <text>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Illusion: Malleable Illusions</name>
+        <text>Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Necromancy: Undead Thralls</name>
+        <text>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</text>
+        <text>Whenever you create an undead using a necromancy spell, it has additional benefits:</text>
+        <text>• The creature's hit point maximum is increased by an amount equal to your wizard level.</text>
+        <text>• The creature adds your proficiency bonus to its weapon damage rolls.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>School of Transmutation: Transmuter's Stone</name>
+        <text>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:</text>
+        <text>• Darkvision out to a range of 60 feet, as described in chapter 8.</text>
+        <text>• An increase to speed of 10 feet while the creature is unencumbered.</text>
+        <text>• Proficiency in Constitution saving throws.</text>
+        <text>• Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).</text>
+        <text>Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.</text>
+        <text>If you create a new transmuter's stone, the previous one ceases to function.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>4, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>4, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>4, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>5, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Arcane Tradition feature</name>
+        <text>At 10th level, you gain a feature granted by your Arcane Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Abjuration: Improved Abjuration</name>
+        <text>Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Conjuration: Focused Conjuration</name>
+        <text>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Divination: The Third Eye</name>
+        <text>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can't use the feature again until you finish a rest.</text>
+        <name>School of Divination: Darkvision</name>
+        <text>   You gain darkvision out to a range of 60 feet.</text>
+        <name>School of Divination: Ethereal Sight</name>
+        <text>   You can see into the Ethereal Plane within 60 feet of you.</text>
+        <name>School of Divination: Greater Comprehension</name>
+        <text>   You can read any language.</text>
+        <name>School of Divination: See Invisibility</name>
+        <text>   You can see invisible creatures and objects within 10 feet of you that are within line of sight.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Enchantment: Split Enchantment</name>
+        <text>Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Evocation: Empowered Evocation</name>
+        <text>Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Illusion: Illusory Step</name>
+        <text>Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Necromancy: Inured to Undeath</name>
+        <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>School of Transmutation: Shapechanger</name>
+        <text>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.</text>
+        <text>Once you cast polymorph in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>5, 4, 3, 3, 3, 2, 1</slots>
+      </autolevel>
+    <autolevel level="12">
+        <slots>5, 4, 3, 3, 3, 2, 1</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>5, 4, 3, 3, 3, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>5, 4, 3, 3, 3, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Arcane Tradition feature</name>
+        <text>At 14th level, you gain a feature granted by your Arcane Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Abjuration: Spell Resistance</name>
+        <text>Starting at 14th level, you have advantage on saving throws against spells.</text>
+        <text>Furthermore, you have resistance against the damage of spells.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 115</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Conjuration: Durable Summons</name>
+        <text>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Divination: Greater Portent</name>
+        <text>Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 116</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Enchantment: Alter Memories</name>
+        <text>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.</text>
+        <text>Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Evocation: Overchannel</name>
+        <text>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.</text>
+        <text>The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 117</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Illusion: Illusory Reality</name>
+        <text>By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.</text>
+        <text>The object can't deal damage or otherwise directly harm anyone.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Necromancy: Command Undead</name>
+        <text>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.</text>
+        <text>Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 118</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>School of Transmutation: Master Transmuter</name>
+        <text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.</text>
+        <name>School of Transmutation: Major Transformation</name>
+        <text>   You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.</text>
+        <name>School of Transmutation: Panacea</name>
+        <text>   You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.</text>
+        <name>School of Transmutation: Restore Life</name>
+        <text>   You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.</text>
+        <name>School of Transmutation: Restore Youth</name>
+        <text>   You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 119</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>5, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="16">
+        <slots>5, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>5, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <slots>5, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Spell Mastery</name>
+        <text>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</text>
+        <text>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>5, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>5, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Signature Spells</name>
+        <text>When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.</text>
+        <text>If you want to cast either spell at a higher level, you must expend a spell slot as normal.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 112</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Dragonmark of Detection (UA)</name>
+    <prerequisite>Half-Elf</prerequisite>
+    <text>Your have the magical mark of Detection, the dragonmark of House Medani, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Wisdom as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: detect magic, mage hand
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: detect thoughts
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: clairvoyance
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Finding (UA)</name>
+    <prerequisite>Half-Orc, Human</prerequisite>
+    <text>Your have the magical mark of Finding, the dragonmark of House Tharashk, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Wisdom as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: identify, mage hand
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: locate object
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: clairvoyance
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Handling (UA)</name>
+    <prerequisite>Human</prerequisite>
+    <text>Your have the magical mark of Handling, the dragonmark of House Vadalis, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Wisdom as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: druidcraft, speak with animals
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: beast sense
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: conjure animals
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Healing (UA)</name>
+    <prerequisite>Halfling</prerequisite>
+    <text>Your have the magical mark of Healing, the dragonmark of House Jorasco, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Wisdom as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: cure wounds, spare the dying
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: lesser restoration
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: revivify
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Hospitality (UA)</name>
+    <prerequisite>Halfling</prerequisite>
+    <text>Your have the magical mark of Hospitality, the dragonmark of House Ghallanda, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Charisma as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: friends, unseen servant
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: rope trick
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: Leomund's tiny hut
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Making (UA)</name>
+    <prerequisite>Human</prerequisite>
+    <text>Your have the magical mark of Making, the dragonmark of House Cannith, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Intelligence as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: identify, mending
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: magic weapon
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: fabricate
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Passage (UA)</name>
+    <prerequisite>Human</prerequisite>
+    <text>Your have the magical mark of Passage, the dragonmark of House Orien, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Intelligence as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: expeditious retreat, light
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: misty step
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: teleportation circle
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Scribing (UA)</name>
+    <prerequisite>Gnome</prerequisite>
+    <text>Your have the magical mark of Scribing, the dragonmark of House Sivis, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Intelligence as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: comprehend languages, message
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: sending
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: tongues
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Sentinel (UA)</name>
+    <prerequisite>Human</prerequisite>
+    <text>Your have the magical mark of Sentinel, the dragonmark of House Deneith, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Wisdom as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: blade ward, compelled duel
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: blur
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: protection from energy
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Shadow (UA)</name>
+    <prerequisite>Elf</prerequisite>
+    <text>Your have the magical mark of Shadow, the dragonmark of House Phiarlan and House Thuranni, and are a member of one of those houses.
+You gain the ability to innately cast spells and cantrips, using Charisma as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: dancing lights, disguise self
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: darkness
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: nondetection
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Storm (UA)</name>
+    <prerequisite>Half-Elf</prerequisite>
+    <text>Your have the magical mark of Storm, the dragonmark of House Lyrander, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Intelligence as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: fog cloud, shocking grasp
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: gust of wind
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: sleet storm
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  <feat>
+      <name>Dragonmark of Warding (UA)</name>
+    <prerequisite>Dwarf</prerequisite>
+    <text>Your have the magical mark of Warding, the dragonmark of House Kundarak, and are a member of that house.
+You gain the ability to innately cast spells and cantrips, using Intelligence as your spellcasting ability. You cast each spell at its lowest level. Once you cast a given spell this way, you must finish a long rest before you can cast it innately again. You must still expend any material components. Your dragonmark confers the following benefits:
+Least Dragonmark: When you first take this feat, you gain the least dragonmark. You learn the following spells: alarm, resistance
+Lesser Dragonmark: At 5th level and higher, your mark becomes more potent, improving to lesser dragonmark. You learn the following spell: arcane lock
+Greater Dragonmark: At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: magic circle
+Source: Unearthed Arcana: Eberron p. 5</text>
+    </feat>
+  </compendium>

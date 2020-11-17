@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Artificer (Revisited) (UA)</name>
+    <hd>8</hd>
+    <proficiency>Constitution, Intelligence, Arcana, History, Investigation, Medicine, Nature, Perception, Sleight Of Hand</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Intelligence</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Artificer (Revisited) (UA)</name>
+        <text>As a 1st-level Artificer (Revisited) (UA), you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium, shields</text>
+        <text>• Weapons: simple, hand crossbows, heavy crossbows</text>
+        <text>• Tools: thieves' tools, tinker's tools, one type of artisan's tools of your choice</text>
+        <text>• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight Of Hand</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• any two simple weapons</text>
+        <text>• a light crossbow and crossbow bolts (20)</text>
+        <text>• (a) studded leather armor or (b) scale mail</text>
+        <text>• thieves' tools and a dungeoneer's pack</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Artificer (Revisited) (UA)</name>
+        <text>To multiclass as a Artificer (Revisited) (UA), you must meet the following prerequisites:</text>
+        <text>• Intelligence 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light, medium, shields</text>
+        <text>• Weapons: none</text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium, shields</armor>
+    <weapons>simple, hand crossbows, heavy crossbows</weapons>
+    <tools>thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
+    <wealth>5d4x10</wealth>
+    <autolevel level="1">
+        <slots>2, 2</slots>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Magical Tinkering</name>
+        <text>At 1st level, you learn how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must have thieves' tools, tinker's tools, or other artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
+        <text>• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
+        <text>• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
+        <text>• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
+        <text>• A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
+        <text>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</text>
+        <text>You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Spellcasting</name>
+        <text>You have studied the workings of magic, how to channel it through objects, and how to awaken it within them. As a result, you have gained a limited ability to cast spells. To observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders through various items.</text>
+        <text></text>
+        <text>Tools Required:</text>
+        <text>   You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves' tools or some kind of artisan's tool—in hand when you cast any spell with this Spellcasting feature. You must be proficient with the tool to use it in this way. See chapter 5, "Equipment," in the Player's Handbook for descriptions of these tools.</text>
+        <text>   After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.</text>
+        <text>   When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</text>
+        <text></text>
+        <text>Preparing and Casting Spells:</text>
+        <text>   The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</text>
+        <text>   For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</text>
+        <text>   You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent in tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Ritual Casting:</text>
+        <text>   You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text>
+        <text></text>
+        <text>The Magic of Artifice:</text>
+        <text>   As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast cure wounds using alchemist's supplies, you could be quickly producing a salve. If you cast it using tinker's tools, you might have a miniature mechanical spider that binds wounds. When you cast poison spray, you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.</text>
+        <text>   The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace cure wounds with shocking grasp, you might be breaking down the device you used to heal and creating an offensive item in its place—perhaps a gauntlet that lets you channel a surge of energy.</text>
+        <text>   Such details don't limit you in any way or provide you with any benefit. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>2, 2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Infuse Item</name>
+        <text>At 2nd level, you gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.</text>
+        <text></text>
+        <text>Infusions Known:</text>
+        <text>   When you gain this feature, pick three artificer infusions to learn, choosing from the "Artificer Infusions" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.</text>
+        <text>   Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.</text>
+        <text></text>
+        <text>Infusing an Item:</text>
+        <text>   Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item, or you can forgo attunement so that someone else can attune to the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see "Attunement" in the Dungeon Master's Guide, page 136).</text>
+        <text>   Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.</text>
+        <text>   You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.</text>
+        <text></text>
+        <text>Artificer Infusions:</text>
+        <text>   Artificers have invented numerous magical infusions that rapidly create magic items. To the untrained, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.</text>
+        <text>   The description of each infusion tells you the type of item that can receive it. The description also tells you if the resulting magic item requires attunement.</text>
+        <text>   Some infusions specify a minimum artificer level. You can't learn such an infusion until you are at least that level.</text>
+        <text>   Unless an infusion's description says otherwise, you can't learn the infusion more than once.</text>
+        <text>   See the Class Feature Options page for the full list of infusions.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>2, 3</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Artificer Specialist</name>
+        <text>At 3rd level, you choose the type of specialist you are: Alchemist, Archivist, or Artillerist, or Battle Smith, each of which is detailed at the end of the class's description. Your choice grants you features at 3rd level and again at 6th and 14th level.</text>
+        <text></text>
+        <text>Variant: Crafting:</text>
+        <text>   An artificer subclass makes you more efficient at crafting certain items. The feature you get from your subclass works whether you're using the crafting rules in the Player's Handbook, Dungeon Master's Guide, or Xanathar's Guide to Everything.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Alchemist</name>
+        <text>An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Alchemist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | healing word, ray of sickness</text>
+        <text>5th | flaming sphere, Melf's acid arrow</text>
+        <text>9th | gaseous form, mass healing word</text>
+        <text>13th | blight, death ward</text>
+        <text>17th | cloudkill, raise dead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Experimental Elixir</name>
+        <text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</text>
+        <text>Creating an experimental elixir requires you to have alchemist's supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</text>
+        <text>When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir's effect separately. Each elixir requires its own flask.</text>
+        <text>You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir's effect from the Experimental Elixir table.</text>
+        <text></text>
+        <text>Experimental Elixir</text>
+        <text>d6 | Effect</text>
+        <text>1 | Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.</text>
+        <text>2 | Swiftness. The drinker's walking speed increases by 10 feet for 1 hour.</text>
+        <text>3 | Resilience. The drinker gains a +1 bonus to AC for 10 minutes.</text>
+        <text>4 | Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</text>
+        <text>5 | Flight. The drinker gains a flying speed of 10 feet for 10 minutes.</text>
+        <text>6 | Transformation. The drinker's body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Tool Proficiency</name>
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 3rd level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Alchemist</name>
+        <text>An Alchemist is an expert at combining exotic reagents to produce mystical effects. Among artificers, members of this subclass are the greatest healers, as well as the ones most adept at wielding dangerous chemicals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemical Homunculus</name>
+        <text>At 3rd level, you learn ancient methods for magically creating a special homunculus that is formed by alchemical substances.</text>
+        <text>Whenever you finish a long rest and your alchemist's supplies are with you, you can form this homunculus in an unoccupied space within 5 feet of you. If you already have a homunculus from this feature, the first one immediately dies.</text>
+        <text>The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Alchemical Homunculus stat block. You determine the homunculus's appearance, which includes wings and bits of alchemical equipment. Some alchemists prefer mechanical-looking birds, whereas others like winged vials or miniature cauldrons.</text>
+        <text>In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or to take the Dash, Disengage, or Help action.</text>
+        <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your alchemist's supplies as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The homunculus returns to life with all its hit points restored.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Alchemist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | purify food and drink, ray of sickness</text>
+        <text>5th | Melf's acid arrow, web</text>
+        <text>9th | create food and water, stinking cloud</text>
+        <text>13th | blight, death ward</text>
+        <text>17th | cloudkill, raise dead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Tools of the Trade</name>
+        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.</text>
+        <text></text>
+        <text>Proficiencies</text>
+        <text>   You gain proficiency with alchemist's supplies and the herbalism kit, assuming you don't already have them. You also gain alchemist's supplies and an herbalism kit for free—the result of tinkering you've done as you've prepared for this specialization.</text>
+        <text></text>
+        <text>Crafting</text>
+        <text>   If you craft a magic item in the potion category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Archivist</name>
+        <text>What are the best ways to store vast amounts of information? That question has occupied chroniclers and librarians for centuries. Scrolls and books were the finest information-storing methods for a long time, but the first Archivists imagined something greater: storing information in a real or an artificial mind. What library could match a mental archive capable of accessing information in seconds? As they work towards this goal, Archivists have become masters of storing knowledge and creating artificial intelligences fueled by magic. These techniques have yet to be perfected and institutionalized, and of all artificers, archivists are on the cutting edge of arcane science.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Archivist: Archivist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Archivist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | comprehend languages, dissonant whispers</text>
+        <text>5th | detect thoughts, locate object</text>
+        <text>9th | hypnotic pattern, tongues</text>
+        <text>13th | locate creature, phantasmal killer</text>
+        <text>17th | legend lore, modify memory</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Archivist: Artificial Mind</name>
+        <text>At 3rd level, you discover how to awaken a mind inside an object. Whenever you finish a long rest and your calligrapher's supplies are with you, you can magically rouse a keen mind within a Tiny, nonmagical object on which you write mystical symbols. The object is a magic item while the mind is inside it, and you can use it as a spellcasting focus. If you already have an artificial mind from this feature, the first one immediately dissipates.</text>
+        <text>The magic item has the following properties.</text>
+        <name>Archivist: Telepathic Advisor</name>
+        <text>   The artificial mind telepathically supplies you with advice and information about certain topics: while the item is on your person, you have proficiency in two skills of your choice; the item's main material determines which skills you can choose from, as shown on the Artificial Mind table in the Skill Proficiencies column, for the nature of the object affects the mind's knowledge.</text>
+        <name>Archivist: Manifest Mind</name>
+        <text>   As a bonus action while the item is on your person, you can cause the mind to manifest as a Tiny spectral presence, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and invulnerable, and it sheds dim light in a 10-foot radius. You determine its appearance; the Artificial Mind table offers suggested appearances based on the object's main material.</text>
+        <text>   While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. As an action, you can hear and see using the mind's senses, instead of your own, until your concentration ends (as if concentrating on a spell).</text>
+        <text>   As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The spectral mind stops manifesting if it is ever more than 300 feet away from its magic item or if you dismiss it as a bonus action.</text>
+        <text>   When you cast an artificer spell on your turn, you can cast it as if you were in the spectral mind's space, instead of your own, using its senses. You can do so a number of times per day equal to your Intelligence modifier (at least once), and you regain all expended uses when you finish a long rest.</text>
+        <name>Archivist: Information Overload</name>
+        <text>   As an action while the item is on your person, you can try to magically overload the thoughts of one creature you or the mind can see that is within 5 feet of the manifested mind, channeling a jumble of information from the artificial mind. Unless the target succeeds on an Intelligence saving throw against your spell save DC, the target takes 1d8 psychic damage, and the next attack roll against it before the end of your next turn has advantage, since it is temporarily too distracted to defend itself well. The damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8) in this class.</text>
+        <text>   Whenever you deal damage with this feature, you can expend a spell slot to deal extra damage to the target. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than first.</text>
+        <text></text>
+        <text>Artificial Mind</text>
+        <text>Main Material | Skill Proficiencies | Suggested Appearance</text>
+        <text>Animal (parchment, leather, bone) | Animal Handling, Insight, Medicine, Perception, Survival | A beast or a humanoid visage with antlers</text>
+        <text>Mineral (glass, stone, metal) | Deception, Intimidation, Performance, Persuasion | A robotic or golem-like face</text>
+        <text>Plant (paper, wood) | Arcana, History, Investigation, Nature, Religion | A bespectacled visage or a treant</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Archivist: The First Warforged Minds</name>
+        <text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d'Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team's records were destroyed and Aaren d'Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Archivist: Tools of the Trade</name>
+        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.</text>
+        <name>Archivist: Proficiencies</name>
+        <text>   You gain proficiency with calligrapher's supplies and the forgery kit, assuming you don't already have them. You also gain calligrapher's supplies and a forgery kit for free—the result of tinkering you've done as you've prepared for this specialization.</text>
+        <name>Archivist: Crafting</name>
+        <text>   If you craft a magic item in the scroll category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Artillerist</name>
+        <text>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power was valued by all the armies of the Last War. Now that the war is over, some members of this specialization have sought to build a more peaceful world by using their powers to fight the resurgence of strife in Khorvaire.</text>
+        <text>The gnome artificer Vi, an unlikely yet key member of House Cannith's warforged project, has been especially vocal about making things right: "It's about time we fixed things instead of blowing them all to hell."</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Artillerist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Artillerist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | shield, thunderwave</text>
+        <text>5th | scorching ray, shatter</text>
+        <text>9th | fireball, wind wall</text>
+        <text>13th | ice storm, wall of fire</text>
+        <text>17th | cone of cold, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Eldritch Cannon</name>
+        <text>At 3rd level, you learn how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</text>
+        <text>Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.</text>
+        <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
+        <text>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</text>
+        <text></text>
+        <text>Eldritch Cannons</text>
+        <text>Cannon | Activation</text>
+        <text>Flamethrower | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</text>
+        <text>Force Ballista | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</text>
+        <text>Protector | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Tool Proficiency</name>
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with woodcarver's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Artillerist</name>
+        <text>An Artillerist specializes in using magic to create explosions and defensive positions, as well as magic-infused sidearms—especially wands—that can be used on the battlefield. Artillerists were valued by all the armies of the Last War.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Arcane Turret</name>
+        <text>At 3rd level, you learn how to create a magical turret. With your smith's tools in hand, you can take an action to magically summon a Medium turret in an unoccupied space on a horizontal surface within 5 feet of you.</text>
+        <text>The turret is a magical object that occupies its space and that has crablike legs. It has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 10 minutes. You can dismiss it early as an action.</text>
+        <text>When you summon the turret, you decide which type it is, choosing from the options on the Arcane Turrets table. On each of your turns, you can take a bonus action to cause the turret to activate if you are within 60 feet of it. As part of the same action, you can direct the turret to walk or climb up to 15 feet to an unoccupied space.</text>
+        <text>You can summon a turret once for free and must finish a long rest before doing so again. You can also summon the turret by expending a spell slot of 1st level or higher. If you summon a second turret, the first turret disappears.</text>
+        <text>As an action, you can command your turret to detonate if you are within 60 feet of it. Doing so destroys the turret and forces each creature within 10 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d6 force damage on a failed save or half as much damage on a successful one.</text>
+        <text></text>
+        <text>Arcane Turrets</text>
+        <text>Turret | Activation</text>
+        <text>Flamethrower | The turret exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 1d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</text>
+        <text>Force Ballista | Make a ranged spell attack, originating from the turret, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the turret.</text>
+        <text>Defender | The turret emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Artillerist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Artillerist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | shield, thunderwave</text>
+        <text>5th | scorching ray, shatter</text>
+        <text>9th | fireball, wind wall</text>
+        <text>13th | ice storm, wall of fire</text>
+        <text>17th | cone of cold, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artillerist: Tools of the Trade</name>
+        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.</text>
+        <name>Artillerist: Proficiencies</name>
+        <text>   You gain proficiency with smith's tools and woodcarver's tools, assuming you don't already have them. You also gain those tools for free—the result of tinkering you've done as you've prepared for this specialization.</text>
+        <text>   In addition, you gain the ability to use rods, staffs, and wands as spellcasting focuses for your artificer spells. You also gain a nonmagical, wooden wand for free, which you've carved in your spare time.</text>
+        <name>Artillerist: Crafting</name>
+        <text>   If you craft a magic item in the wand category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Battle Smith</name>
+        <text>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</text>
+        <text>Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Battle Ready</name>
+        <text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:</text>
+        <text>• You gain proficiency with martial weapons.</text>
+        <text>• When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Battle Smith Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Battle Smith Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | heroism, shield</text>
+        <text>5th | branding smite, warding bond</text>
+        <text>9th | aura of vitality, conjure barrage</text>
+        <text>13th | aura of purity, fire shield</text>
+        <text>17th | banishing smite, mass cure wounds</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Steel Defender</name>
+        <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
+        <text>In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.</text>
+        <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.</text>
+        <text>At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Tool Proficiency</name>
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer Specialist: Battle Smith</name>
+        <text>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel. To aid in their work, Battle Smiths are usually accompanied by an iron defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and an iron defender.</text>
+        <text>Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Battle Ready</name>
+        <text>When you reach 3rd level, your combat training and your experiments with magic and have paid off in two ways:</text>
+        <text>• You gain proficiency with martial weapons.</text>
+        <text>• When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Battle Smith Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text>Battle Smith Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | heroism, searing smite</text>
+        <text>5th | branding smite, warding bond</text>
+        <text>9th | aura of vitality, blinding smite</text>
+        <text>13th | aura of purity, staggering smite</text>
+        <text>17th | banishing smite, mass cure wounds</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Iron Defender</name>
+        <text>By 3rd level, the tinkering in your free time has borne you a faithful companion, an iron defender. This metallic creature resembles a hound, a cougar, a bear, or another four-legged creature of your choice. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the iron defender stat block.</text>
+        <text>In combat, the iron defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, or Help action.</text>
+        <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The iron defender returns to life after 1 minute with all its hit points restored.</text>
+        <text>At the end of a long rest, you can create a new iron defender if you have your smith's tools with you. If you already have an iron defender from this feature, the first one immediately perishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Battle Smith: Tools of the Trade</name>
+        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.</text>
+        <name>Battle Smith: Proficiencies</name>
+        <text>   You gain proficiency with leatherworker's tools and smith's tools, assuming you don't already have them. You also gain leatherworker's tools and smith's tools for free—the result of tinkering you've done as you've prepared for this specialization.</text>
+        <name>Battle Smith: Crafting</name>
+        <text>   If you craft a magic item in the armor category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Tool Expertise</name>
+        <text>Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>2, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>2, 4, 2</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Arcane Armament</name>
+        <text>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn, but one of the attacks must be made with a magic weapon, the magic of which you use to propel the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>2, 4, 2</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Artificer Specialist Feature</name>
+        <text>At 6th level, you gain a feature granted by your Artificer Specialist choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Alchemist: Alchemical Mastery</name>
+        <text>At 6th level, your command of magical chemicals has become masterful, enhancing the healing and damage you create through them. When you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</text>
+        <text>In addition, you can cast lesser restoration without expending a spell slot, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times per day equal to your Intelligence modifier (minimum of once).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Archivist: Mind Network</name>
+        <text>At 6th level, you've learned how to use your artifices to access minds, both to communicate and to harm.</text>
+        <name>Archivist: Magical Telephony</name>
+        <text>   While you have your Artificial Mind item on your person, you can communicate telepathically with anyone carrying an item bearing one of your artificer infusions, as the mind transmits your thoughts to each other. That person can also communicate telepathically with you as long as they have the item. This two-way communication can even cross planar boundaries.</text>
+        <name>Archivist: Psychic Damage</name>
+        <text>   When you make a psychic damage roll for an artificer spell or for Information Overload, you gain a bonus to the damage roll equal to your Intelligence modifier (minimum bonus of +1).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Artillerist: Wand Prototype</name>
+        <text>By 6th level, you now regularly experiment with channeling different types of magic through wands. Whenever you finish a long rest and your woodcarver's tools are with you, you can touch a nonmagical, wooden wand and turn it into a magic item. When you do so, you invest it with one artificer cantrip of your choice—even one you don't know—that has a casting time of 1 action. As an action, you can cause the magic wand to produce the cantrip, using your spellcasting ability modifier (other creatures are unable to use the wand's magic). The wand loses this magic when you finish your next long rest.</text>
+        <text>Any damage roll you make for a cantrip in the wand gains a bonus equal to your Intelligence modifier (minimum of +1).</text>
+        <text>When you reach 14th level in this class, you can invest the wand with two cantrips at the end of a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Battle Smith: Arcane Jolt</name>
+        <text>At 6th level, you learn new ways to channel arcane energy through your weapon attacks and your iron defender.</text>
+        <text>First, your iron defender's bite attack is now considered magical for the purposes of bypassing resistances and immunities, thanks to enhancements you've made to the creature in your free time.</text>
+        <text>Second, when you or your iron defender hits a target with a magic weapon attack, you can channel magical energy through the strike to create one of the following effects:</text>
+        <text>• The target takes an extra 2d4 force damage.</text>
+        <text>• Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d4 hit points to it.</text>
+        <text>You can channel this magical energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses of this feature when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>2, 4, 3</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>2, 4, 3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>2, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>3, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>The Right Cantrip for the Job</name>
+        <text>At 10th level, you gain the ability to make sure you have the right magical tool for a job. Whenever you finish a short or long rest, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>3, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="12">
+        <slots>3, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>3, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>4, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Artificer Specialist Feature</name>
+        <text>At 14th level, you gain a feature granted by your Artificer Specialist choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 14th level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Alchemist: Chemical Savant</name>
+        <text>By 14th level, you have been exposed to so many chemicals and unlocked their secrets that they pose little risk to you, and you can use them to quickly end certain ailments. You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.</text>
+        <text>In addition, you can cast greater restoration once without expending a spell slot and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. You regain the ability to do so when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Archivist: Pure Information</name>
+        <text>At 14th level, your Artificial Mind is able to receive and transmit more information than ever before.</text>
+        <name>Archivist: Mind Overload</name>
+        <text>   When you expend a spell slot to increase the damage of Information Overload, the target must succeed on an Intelligence saving throw against your spell save DC or be stunned until the end of your next turn.</text>
+        <name>Archivist: Infoportation</name>
+        <text>   As an action while your Artificial Mind magic item is on your person, you cause the mind to turn you into pure information, teleporting you to the unoccupied space nearest to the spectral mind or to an item bearing one of your artificer infusions, where you physically reappear.</text>
+        <text>   You can teleport in this way once for free and must finish a long rest before doing so again. You can also use this special ability by expending a spell slot of 2nd level or higher.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 7</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Artillerist: Fortified Position</name>
+        <text>Starting at 14th level, you're a master at conjuring a well-defended emplacement. You and your allies have half cover while within 10 feet of a turret you create with Arcane Turret, as a result of a shimmering field of magical protection that the turret emits.</text>
+        <text>You can also now summon a second turret for free and must finish a long rest before doing so again. If you summon the second turret while the first is still present, the first one doesn't disappear, and each turret can be of a different type (if you summon a third turret, the first turret vanishes). Moreover, you can use one bonus action to activate both turrets.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Battle Smith: Improved Defender</name>
+        <text>At 14th level, your Arcane Jolt and iron defender become more powerful:</text>
+        <text>• The extra damage and the healing of your Arcane Jolt both increase to 4d4.</text>
+        <text>• Whenever your iron defender uses its Defensive Pounce, the attacker takes force damage equal to 1d4 + your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 11</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>4, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="16">
+        <slots>4, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>4, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <slots>4, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Spell-Storing Item</name>
+        <text>When you reach 18th level, you learn how to store a spell in an object for repeated use. Whenever you finish a long rest, you can touch one simple or martial weapon or an item that you can use as a spellcasting focus and store a spell in it, choosing one 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you don't need to have the spell prepared). With the object in hand, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier.</text>
+        <text>The spell stays in the object until it has been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>4, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>4, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Soul of Artifice</name>
+        <text>At 20th level, your understanding of magic items is unmatched, allowing you to mingle your soul with items linked to you. You can attune to up to six magic items at once. In addition, you gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

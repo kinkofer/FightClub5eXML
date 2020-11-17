@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Barbarian</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian v2 (UA): Path of the Ancestral Guardian v2</name>
+        <text>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When barbarians who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.</text>
+        <text>Barbarians who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.</text>
+        <text>In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian v2 (UA): Ancestral Protectors</name>
+        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you rage. These warriors distract a foe you designate and hinder its attempts to evade you. While you're raging, the first creature you hit with an attack on your turn becomes the target of these warriors. Until the start of your next turn or until your rage ends, that target has disadvantage on any attack roll that doesn't target you, and creatures other than you have resistance to the damage of the creature's attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian v2 (UA): Ancestral Shield</name>
+        <text>Beginning at 6th level, the guardian spirits that aid you can provide protection for your allies. If you are raging and a creature you can see within 30 feet of you takes damage, you can use your reaction and reduce that damage by 2d8. When you reach certain levels in this class, you can reduce the damage by more: by 3d8 at 10th level and by 4d8 at 14th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian v2 (UA): Consult the Spirits</name>
+        <text>At 10th level, you gain the ability to consult with your ancestral spirits and use them to scout far-off lands. When you do so, you cast the clairvoyance spell, without needing a spell slot. Rather than creating a spherical sensor, the spell invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for the spell. After you cast the spell in this way, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of the Ancestral Guardian v2 (UA): Vengeful Ancestors</name>
+        <text>At 14th level, your ancestral spirits grow powerful enough to strike foes that dare harm those that you protect. When you use your Spirit Shield Ability to protect a creature damaged by an attack, the attacker takes the same amount of damage that the Spirit Shield protects.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

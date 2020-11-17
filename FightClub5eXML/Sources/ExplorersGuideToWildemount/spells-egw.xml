@@ -2,6 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <spell>
       <name>Dark Star</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>8</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -9,7 +10,6 @@
     <range>150 feet</range>
     <components>V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>This spell creates a sphere centered on a point you choose within range. The sphere can have a radius of up to 40 feet. The area within this sphere is filled with magical darkness and crushing gravitational force.
 For the duration, the spell's area is difficult terrain. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
@@ -18,6 +18,7 @@ Source: Explorer's Guide to Wildemount p. 186</text>
     </spell>
   <spell>
       <name>Fortune's Favor</name>
+    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>2</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -25,7 +26,6 @@ Source: Explorer's Guide to Wildemount p. 186</text>
     <range>Touch</range>
     <components>V, S, M (a white pearl worth at least 100 gp, which the spell consumes)</components>
     <duration>1 hour</duration>
-    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <text>You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a saving throw before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
 If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.
 At Higher Levels:
@@ -34,6 +34,7 @@ Source: Explorer's Guide to Wildemount p. 186</text>
     </spell>
   <spell>
       <name>Gift of Alacrity</name>
+    <classes>Wizard (Chronurgy)</classes>
     <level>1</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -41,13 +42,13 @@ Source: Explorer's Guide to Wildemount p. 186</text>
     <range>Touch</range>
     <components>V, S</components>
     <duration>8 hours</duration>
-    <classes>Wizard (Chronurgy)</classes>
     <text>You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
 Source: Explorer's Guide to Wildemount p. 186</text>
     <roll>1d8</roll>
     </spell>
   <spell>
       <name>Gravity Fissure</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>6</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -55,7 +56,6 @@ Source: Explorer's Guide to Wildemount p. 186</text>
     <range>Self (100-foot line)</range>
     <components>V, S, M (a fistful of iron filings)</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
 Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
 At Higher Levels:
@@ -68,6 +68,7 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     </spell>
   <spell>
       <name>Gravity Sinkhole</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -75,7 +76,6 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     <range>120 feet</range>
     <components>V, S, M (a black marble)</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
@@ -89,6 +89,7 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     </spell>
   <spell>
       <name>Immovable Object</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -96,7 +97,6 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     <range>Touch</range>
     <components>V, S, M (gold dust worth at least 25 gp, which the spell consumes)</components>
     <duration>1 hour</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>You touch an object that weighs no more than 10 pounds and cause it to become magically fixed in place. You and the creatures you designate when you cast this spell can move the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute.
 If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an action to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.
 At Higher Levels:
@@ -105,6 +105,7 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     </spell>
   <spell>
       <name>Magnify Gravity</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>1</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -112,7 +113,6 @@ Source: Explorer's Guide to Wildemount p. 187</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>1 round</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution saving throw. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
 At Higher Levels:
@@ -130,6 +130,7 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     </spell>
   <spell>
       <name>Pulse Wave</name>
+    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -137,7 +138,6 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     <range>Self (30-foot cone)</range>
     <components>V, S</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <text>You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution saving throw. A creature takes 6d6 force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
 In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
 At Higher Levels:
@@ -148,6 +148,7 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     </spell>
   <spell>
       <name>Ravenous Void</name>
+    <classes>Wizard (Graviturgy)</classes>
     <level>9</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -155,7 +156,6 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     <range>1000 feet</range>
     <components>V, S, M (a small, nine-pointed star made of iron)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>Wizard (Graviturgy)</classes>
     <text>You create a 20-foot-radius sphere of destructive gravitational force centered on a point you can see within range. For the spell's duration, the sphere and any space within 100 feet of it are difficult terrain, and nonmagical objects fully inside the sphere are destroyed if they aren't being worn or carried.
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
@@ -164,6 +164,7 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     </spell>
   <spell>
       <name>Reality Break</name>
+    <classes>Wizard (Chronurgy)</classes>
     <level>8</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -171,7 +172,6 @@ Source: Explorer's Guide to Wildemount p. 188</text>
     <range>60 feet</range>
     <components>V, S, M (a crystal prism)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>Wizard (Chronurgy)</classes>
     <text>You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can't take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
 At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.
 Reality Break Effects
@@ -187,6 +187,7 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     </spell>
   <spell>
       <name>Sapping Sting</name>
+    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>0</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -194,7 +195,6 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     <range>30 feet</range>
     <components>V, S</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <text>You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 Source: Explorer's Guide to Wildemount p. 189</text>
@@ -205,6 +205,7 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     </spell>
   <spell>
       <name>Temporal Shunt</name>
+    <classes>Wizard (Chronurgy)</classes>
     <level>5</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -212,7 +213,6 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     <range>120 feet</range>
     <components>V, S</components>
     <duration>1 round</duration>
-    <classes>Wizard (Chronurgy)</classes>
     <text>You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.
 At Higher Levels:
 When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
@@ -220,6 +220,7 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     </spell>
   <spell>
       <name>Tether Essence</name>
+    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>7</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -227,12 +228,12 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     <range>60 feet</range>
     <components>V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)</components>
     <duration>Concentration, up to 1 hour</duration>
-    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <text>Two creatures you can see within range must make a Constitution saving throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.
 Source: Explorer's Guide to Wildemount p. 189</text>
     </spell>
   <spell>
       <name>Time Ravage</name>
+    <classes>Wizard (Chronurgy)</classes>
     <level>9</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -240,13 +241,13 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     <range>90 feet</range>
     <components>V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)</components>
     <duration>Instantaneous</duration>
-    <classes>Wizard (Chronurgy)</classes>
     <text>You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the wish spell or the greater restoration cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
 Source: Explorer's Guide to Wildemount p. 189</text>
     <roll>10d12</roll>
     </spell>
   <spell>
       <name>Wristpocket</name>
+    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>2</level>
     <school>C</school>
     <ritual>YES</ritual>
@@ -254,7 +255,6 @@ Source: Explorer's Guide to Wildemount p. 189</text>
     <range>Self</range>
     <components>S</components>
     <duration>Concentration, up to 1 hour</duration>
-    <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <text>You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.
 Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.
 Source: Explorer's Guide to Wildemount p. 190</text>

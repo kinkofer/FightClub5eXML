@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Airship (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (80 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>13</ac>
+    <hp>300</hp>
+    <speed>9 miles per hour (216 miles per day)</speed>
+    <str>14</str>
+    <dex>14</dex>
+    <con>12</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>300</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 13</text>
+      <text>Hit Points: 300</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of its elemental engine, with one 90-degree turn. If the helm is destroyed, the Airship (Unearthed Arcana) can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Elemental Engine</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 100; -20 ft. speed per 25 damage taken</text>
+      <text>Locomotion (air): elemental power, speed 80 ft. If the engine is destroyed, the ship immediately crashes.</text>
+      </trait>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballistas (4)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 2</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Galley (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (130 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>500</hp>
+    <speed>4 miles per hour (96 miles per day)</speed>
+    <str>24</str>
+    <dex>4</dex>
+    <con>20</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>500</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 500 (damage threshold 20)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the Galley (Unearthed Arcana) can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): sails, speed 35 ft.; 15 ft. while sailing into the wind; 50 ft. while sailing with the wind.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): oars, speed 30 ft.</text>
+      </trait>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballistas (4)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonels (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 each</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ram</text>
+      <text>Armor Class: 20</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      <text>The Galley (Unearthed Arcana) has advantage on all saving throws relating to crashing when it crashes into a creature or object, and any damage it suffers from the crash is instead applied to the ram. These benefits do not apply if a vehicle crashes into the Galley (Unearthed Arcana).</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 2</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Keelboat (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (60 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>100</hp>
+    <speed>3 miles per hour (72 miles per day)</speed>
+    <str>16</str>
+    <dex>7</dex>
+    <con>13</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>100</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the Keelboat (Unearthed Arcana) can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 20 damage taken </text>
+      <text>Locomotion (water): sails, speed 25 ft.; 15 ft. while sailing into the wind; 35 ft. while sailing with the wind.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): oars, speed 20 ft.</text>
+      </trait>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballista</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage. Keelboat (Unearthed Arcana)s typically include a ballista only when they are equipped for combat.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 3</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Longship (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (70 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>300</hp>
+    <speed>5 miles per hour (120 miles per day)</speed>
+    <str>20</str>
+    <dex>6</dex>
+    <con>17</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>300</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 300 (damage threshold 15)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the Longship (Unearthed Arcana) can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): sails, speed 45 ft.; 15 ft. while sailing into the wind; 60 ft. while sailing with the wind.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): oars, speed 20 ft.</text>
+      </trait>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 4</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Rowboat (Unearthed Arcana)</name>
+    <size>L</size>
+    <type>vehicle (10 ft. x 5 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>11</ac>
+    <hp>50</hp>
+    <speed>3 miles per hour (72 miles per day)</speed>
+    <str>11</str>
+    <dex>8</dex>
+    <con>11</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>50</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 11</text>
+      <text>Hit Points: 50 (damage threshold 0)</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 25</text>
+      <text>Locomotion (water): oars, speed 15 ft. Move up to its speed, with one 90-degree turn. Without oars, the Rowboat (Unearthed Arcana)'s speed is 0.</text>
+      </trait>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 4</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sailing Ship (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (80 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>300</hp>
+    <speed>5 miles per hour (120 miles per day)</speed>
+    <str>20</str>
+    <dex>7</dex>
+    <con>17</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>300</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 300 (damage threshold 15)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of its sails, with one 90-degree turn. If the helm is destroyed, the ship can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): sails, speed 45 ft.; 15 ft. while sailing into the wind; 60 ft. while sailing with the wind.</text>
+      </trait>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballista</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonel</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 4</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Warship (Unearthed Arcana)</name>
+    <size>G</size>
+    <type>vehicle (100 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>500</hp>
+    <speed>4 miles per hour (96 miles per day)</speed>
+    <str>20</str>
+    <dex>4</dex>
+    <con>20</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>500</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 500 (damage threshold 20)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the Warship (Unearthed Arcana) can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): sails, speed 35 ft.; 15 ft. while sailing into the wind; 50 ft. while sailing with the wind.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      <text>Locomotion (water): oars, speed 20 ft. with 80 or more rowers, 10 feet with 40 or more rowers, 5 ft. with 20 or more rowers.</text>
+      </trait>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballistas (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonels (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 each</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ram</text>
+      <text>Armor Class: 20</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      <text>The Warship (Unearthed Arcana) has advantage on all saving throws relating to crashing when it crashes into a creature or object. Any damage it suffers from the crash is instead applied to the ram. These benefits do not apply if another vessel crashes into the Warship (Unearthed Arcana).</text>
+      </action>
+    <description>
+Source: Unearthed Arcana: Of Ships And Sea p. 5</description>
+    <environment></environment>
+    </monster>
+  </compendium>

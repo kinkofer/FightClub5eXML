@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Acrobat</name>
+        <text>Transcribed on 2018-04-07. [Square bracketed text] denotes transcriber's annotations.</text>
+        <text>Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Aerial Artistry</name>
+        <text>Starting at 3rd level, you gain the ability [to] move with incredible speed, precision, and power, Few obstacles can prevent you from reaching your destination.</text>
+        <text>When you move, you can instead take two short movements by flying. Each movement is half your speed, and you must end each one on a solid object or [the] ground. If you do not, you fall and your movement ends.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Fearless Aerialist</name>
+        <text>Starting at 9th level, you no longer take damage from falling.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Unchained Agility</name>
+        <text>At 13th level, your agility, speed and flexibility allow you to escape from almost any danger. You gain the benefits of freedom of movement.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Acrobat (Livestream): Aerial Mastery</name>
+        <text>At 17th level your Aerial Artistry ability improves. When you move you can instead take four short movements by flying. [Each short movement is still limited to half your speed, and between each movement you must still touch a solid object or the ground. If you do not, you fall and your movement ends.]</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

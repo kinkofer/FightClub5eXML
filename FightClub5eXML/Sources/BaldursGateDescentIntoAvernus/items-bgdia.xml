@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Battle Standard of Infernal Power</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This hell-forged battle standard is made of infernal iron and fitted with a small, unopenable cage containing a quasit. The trapped quasit is incapacitated, and its cage has AC 19, 10 hit points, and immunity to all types of damage except force damage. If killed or somehow released, the quasit disappears in a cloud of smoke, and a new one appears in the cage, provided the cage is intact.
+While you hold the banner, your weapon attacks and those of all allied creatures within 300 feet of you count as magical for the purposes of overcoming damage immunities and resistances.
+Source: Baldur's Gate: Descent Into Avernus p. 223</text>
+    </item>
+  <item>
+      <name>Blade of Avernus</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
+Random Properties: The sword has the following randomly determined properties, as described in chapter 7 of the Dungeon Master's Guide:
+• 2 minor beneficial properties
+• 1 major beneficial property
+• 1 major detrimental property, which is suppressed while the sword is attuned to an archdevil
+Ruler of Avernus: As an action, you can point this sword at one devil you can see within 60 feet of you. That devil must succeed on a DC 22 Charisma saving throw or be charmed by you for 1 hour. While charmed in this way, the devil follows your orders to the best of its ability. If you command the devil to do something it perceives as suicidal, the effect ends and you can no longer use this power of the sword against that devil.
+Infernal Recall: As an action, you can use the sword to cast word of recall. Creatures transported by this spell appear in an unoccupied space within 30 feet of the current ruler of Avernus, or a sanctuary you designate if you rule Avernus.
+Destroying the Sword: The sword can be destroyed by casting it into the River Styx or melting it down in the forge that created it.
+Source: Baldur's Gate: Descent Into Avernus p. 150</text>
+    <roll>6d8</roll>
+    </item>
+  <item>
+      <name>Candle Mace</name>
+    <detail>simple Weapon, Melee Weapon</detail>
+    <type>M</type>
+    <weight>4</weight>
+    <property></property>
+    <dmg1>1d6</dmg1>
+    <dmgType>B</dmgType>
+    <text>The head of this mace sheds bright light in a 5-foot-radius and dim light for an additional 5 feet. When you wield this mace, you can extinguish or ignite its light as an action.
+Source: Baldur's Gate: Descent Into Avernus p. 39</text>
+    </item>
+  <item>
+      <name>Fane-Eater</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>Fane-Eater is a battleaxe belonging to Arkhan the Cruel.
+You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra 2d8 necrotic damage, and you regain a number of hit points equal to the necrotic damage taken.
+Source: Baldur's Gate: Descent Into Avernus p. 223</text>
+    <roll>2d8</roll>
+    </item>
+  <item>
+      <name>Gauntlets of Flaming Fury</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While you wear both of these steel gauntlets, any non- magical weapon you grasp with either gauntlet is treated as a magic weapon. As a bonus action, you can use the gauntlets to cause magical flames to envelop one or two melee weapons in your grasp. Each flaming weapon deals an extra 1d6 fire damage on a hit. The flames last until you sheath or let go of either weapon. Once used, this property can't be used again until the next dawn.
+Source: Baldur's Gate: Descent Into Avernus p. 223</text>
+    <roll>1d6</roll>
+    </item>
+  <item>
+      <name>Helm of Devil Command</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This bulky, eyeless helmet is made for a pit fiend but magically resizes to fit the heads of other wearers.
+While wearing the helm, you can see out of it as though you weren't wearing it. In addition, you know the exact location and type of all devils within 1,000 feet of you. You can telepathically communicate with a devil within range, or you can broadcast your thoughts to all devils within range. The devils receiving your broadcasted thoughts have no special means of replying to them.
+The helm has 3 charges. As an action, you can expend 1 charge to cast dominate monster (save DC 21), which affects devils only. (The spell fails and the charge is wasted if you target any creature that's not a devil.) If a devil can see you when you cast this spell on it, the devil knows you tried to charm it. The helm regains all its charges 24 hours after its last charge is expended.
+If you are not a devil, using the helm's dominate monster property in the Nine Hells has a 20 percent chance of attracting a narzugon, which arrives on the back of a nightmare mount in 1d4 hours. The narzugon tries to recover the helm, killing you if necessary to obtain it. If it gets the helm, the narzugon tries to deliver it to its infernal master.
+Source: Baldur's Gate: Descent Into Avernus p. 223</text>
+    <roll>1d4</roll>
+    </item>
+  <item>
+      <name>Infernal Puzzle Box</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An infernal puzzle box is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. Infernal puzzle boxes are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty infernal puzzle box weighs 3 pounds regardless of the materials used to fashion it.
+When an object small enough to fit inside an infernal puzzle box is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every infernal puzzle box is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular infernal puzzle box, that creature can open the box as an action, allowing access to the box's contents.
+A creature that spends 1 hour holding an infernal puzzle box while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the creature must make a DC 18 Wisdom saving throw, taking 42 (12d6) psychic damage on a failed save, or half as much damage on a successful one.
+Source: Baldur's Gate: Descent Into Avernus p. 224</text>
+    <roll>12d6</roll>
+    </item>
+  <item>
+      <name>Matalotok</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>2</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>B</dmgType>
+    <range>20/60</range>
+    <text>Matalotok, the Frost Father, is an ancient hammer fashioned by Thrym, the god of frost giants. The favored weapon of the demon lord Kostchtchie, Matalotok is frigid to the touch and wreathed in mist.
+You are immune to cold damage while holding Matalotok. Whenever it deals damage to a creature, the hammer radiates a burst of intense cold in a 30-foot-radius sphere. Each creature in that area takes 10 (3d6) cold damage.
+Source: Baldur's Gate: Descent Into Avernus p. 224</text>
+    <roll>3d6</roll>
+    </item>
+  <item>
+      <name>Obsidian Flint Dragon Plate</name>
+    <detail>Heavy Armor</detail>
+    <type>HA</type>
+    <weight>65</weight>
+    <property></property>
+    <ac>18</ac>
+    <stealth>1</stealth>
+    <strength>15</strength>
+    <text>You gain a +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end the grappled condition on yourself.
+The wearer has disadvantage on Stealth (Dexterity) checks.
+If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet.
+Source: Baldur's Gate: Descent Into Avernus p. 224</text>
+    </item>
+  <item>
+      <name>Shatterstick</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>A shatterstick is a nonmagical, 12-inch-long, 4-pound stake made of blue-tinged infernal iron mined on Cania, the eighth layer of the Nine Hells. When embedded in earth or pounded into solid rock, the stake emits a seismic vibration in a 20-foot radius centered on itself for 1 minute, shaking the ground in that area for the duration. When the effects ends, the shatterstick breaks apart, becoming useless, and all structures within 20 feet of it take 35 (10d6) bludgeoning damage.
+Source: Baldur's Gate: Descent Into Avernus p. 99</text>
+    <roll>10d6</roll>
+    </item>
+  <item>
+      <name>Shield of the Hidden Lord</name>
+    <detail>Shield</detail>
+    <type>S</type>
+    <weight>6</weight>
+    <property></property>
+    <ac>2</ac>
+    <text>The Shield of the Hidden Lord is of celestial origin and serves as a prison for the pit fiend Gargauth, whose mortal followers revere it as a god. Over time, Gargauth's evil has warped the shield's appearance, so that its celestial motif and designs have become twisted into a fiendish face that subtly moves in disturbing ways.
+While holding this shield, you gain a +2 bonus to AC and resistance to fire damage.
+Sentience: The Shield of the Hidden Lord is sentient as long as it imprisons Gargauth. While sentient, the shield has the following properties:
+• The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
+• The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
+• The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall of fire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
+• Anytime during your turn, the shield can choose to radiate an aura of dread for 1 minute. (This is not a power of the shield that you control.) Any creature hostile to you that starts its turn within 20 feet of the shield must make a DC 18 Wisdom saving throw. On a failed save, the creature is frightened until the start of its next turn. On a successful save, the creature is immune to this power of the shield for the next 24 hours. Once the shield uses this power, it can't use it again until the next dawn.
+Gargauth's Personality: Gargauth desperately seeks freedom but can't escape on its own. The pit fiend won't reveal its true nature, referring to itself only as the Hidden Lord. It drops hints and subtle suggestions that it is an angel trapped in an unholy prison. If released from the shield, the pit fiend honors the terms of whatever bargain it struck to facilitate its escape.
+While trapped in the shield, Gargauth carefully steers the shield's current owner toward committing acts of cruelty and domination, hoping to condemn the individual's soul to the Nine Hells. Conflict occurs if the shield's owner does anything that would make it more difficult for Gargauth to escape its prison, such as leaving the shield in a place where others are unlikely to find it.
+Gargauth doesn't know how to escape from the shield. The pit fiend believes (incorrectly) that it can break free of the shield if it's brought to the Nine Hells, for it's convinced that the shield's powers are weaker there.
+Freeing Gargauth: Casting dispel evil and good on the shield has a 1 percent chance of freeing the pit fiend, or automatically succeeds if the spell is cast by a solar, a planetar, or an archdevil. A god can release the pit fiend by touching the shield and speaking Gargauth's name. When released, Gargauth appears in a random, unoccupied space as close to the shield as possible.
+Source: Baldur's Gate: Descent Into Avernus p. 225</text>
+    </item>
+  <item>
+      <name>Soul Coin</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
+Carrying Soul Coins: To hold a soul coin is to feel the soul bound within it—overcome with rage or fraught with despair.
+An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.
+Using a Soul Coin: A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
+• Drain Life.: You siphon away some of the soul's essence and gain 1d10 temporary hit points.
+• Query.: You telepathically ask the soul a question and receive a brief telepathic response, which you can understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
+Freeing a Soul: Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.
+A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage except that which is dealt by a hellfire weapon or an infernal war machine's furnace (see "Soul Fuel").
+Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
+Hellish Currency: Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling, and reward the faithful for services rendered.
+Soul coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.
+Source: Baldur's Gate: Descent Into Avernus p. 225</text>
+    <roll>1d10</roll>
+    </item>
+  <item>
+      <name>Sword of Zariel</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can't. It desires a wielder who embodies bravery and heroism.
+Attunement: The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits:
+• Angelic Language: You can speak, read, and write Celestial.
+• Celestial Resistance: You have resistance to necrotic and radiant damage.
+• Divine Presence: Your Charisma score becomes 20, unless it is already 20 or higher.
+• Feathered Wings: You sprout a beautiful pair of feathered wings that grant you a flying speed of 90 feet and the ability to hover. If you already have a different kind of wings, these new wings replace the old ones, which fall off.
+• Truesight: Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within a range of 60 feet.
+You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond, or flaw.
+You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond, or flaw.
+You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond, or flaw.
+You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond, or flaw.
+You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond, or flaw.
+Holy Light: The sword sheds bright light in a 5-foot radius and dim light for an additional 5 feet. Fiends find the sword's light disconcerting and painful, even if they can't see it, and have disadvantage on attack rolls made within the weapon's radius of bright light.
+As a bonus action, you can intensify the sword's light, causing it to shed bright light in a 15-foot radius and dim light for an additional 15 feet, or reduce its glow to its normal intensity.
+Random Properties: The sword has 2 minor beneficial properties.
+Searing Radiance: The sword deals an extra 9 (2d8) radiant damage to any creature it hits, or 16 (3d10) radiant damage if you're wielding the weapon with two hands. An evil creature that takes this radiant damage must succeed on a DC 17 Constitution saving throw or be blinded until the end of its next turn.
+Sentience: The Sword of Zariel is a sentient, lawful good item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 18. It has hearing and normal vision out to a range of 30 feet.
+The sword communicates by transmitting emotion to the creature carrying or wielding it.
+Truth Seer: While holding the sword, you gain advantage on all Wisdom (Insight) checks.
+Destroying the Sword: Zariel can destroy the sword simply by grasping it. She couldn't bring herself to do so when she was an angel, but as an archdevil she has no compunction about ridding the multiverse of the weapon. The sword is also destroyed if it's used to shatter the Companion (see "Shattering the Companion"), unless the blade is wielded by an angel of challenge rating 15 or higher, or a good-aligned cleric or paladin of at least 10th level.
+If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.
+Source: Baldur's Gate: Descent Into Avernus p. 226</text>
+    <roll>2d8</roll>
+    <roll>3d10</roll>
+    </item>
+  </compendium>

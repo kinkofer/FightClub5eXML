@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Human (Innistrad) (Gavony)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Innistrad p. 8</text>
+      </trait>
+    <trait>
+        <name>Ability Score Increase</name>
+      <text>Your ability scores each increase by 1.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Humans reach adulthood in their late teens and live less than a century.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Humans tend toward no particular alignment.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one extra language of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Human (Innistrad) (Kessig)</name>
+    <size>M</size>
+    <speed>40</speed>
+    <ability>Dex 1, Wis 1</ability>
+    <proficiency>Survival</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Innistrad p. 8</text>
+      </trait>
+    <trait>
+        <name>Forest Folk</name>
+      <text>You have proficiency in the Survival skill.
+</text>
+      </trait>
+    <trait>
+        <name>Fleet of Foot</name>
+      <text>Your base walking speed is 40 feet.
+</text>
+      </trait>
+    <trait>
+        <name>Sure-footed</name>
+      <text>When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+</text>
+      </trait>
+    <trait>
+        <name>Spring Attack</name>
+      <text>When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of your turn, whether you hit or not.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Humans reach adulthood in their late teens and live less than a century.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Humans tend toward no particular alignment.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one extra language of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Human (Innistrad) (Nephalia)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Int 1, Cha 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Innistrad p. 8</text>
+      </trait>
+    <trait>
+        <name>Breadth of Knowledge</name>
+      <text>You gain proficiency in any combination of four skills or with four tools of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Humans reach adulthood in their late teens and live less than a century.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Humans tend toward no particular alignment.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one extra language of your choice.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Human (Innistrad) (Stensia)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 1, Con 1</ability>
+    <proficiency>Intimidation</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Innistrad p. 8</text>
+      </trait>
+    <trait>
+        <name>Daunting</name>
+      <text>You have proficiency in the Intimidation skill.
+</text>
+      </trait>
+    <trait>
+        <name>Tough</name>
+      <text>Your hit point maximum increases by 2, and it increases by 2 every time you gain a level.
+</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Humans reach adulthood in their late teens and live less than a century.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Humans tend toward no particular alignment.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one extra language of your choice.
+</text>
+      </trait>
+    </race>
+  </compendium>

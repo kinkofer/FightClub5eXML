@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <hd>10</hd>
+    <proficiency>Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</proficiency>
+    <numSkills>3</numSkills>
+    <spellAbility>Wisdom</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Ranger</name>
+        <text>As a 1st-level Ranger, you begin play with 10+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium, shields</text>
+        <text>• Weapons: simple, martial</text>
+        <text>• Tools: none</text>
+        <text>• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) scale mail or (b) leather armor</text>
+        <text>• (a) two shortsword or (b) two simple melee weapons</text>
+        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+        <text>• A longbow and a quiver of arrows (20)</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Ranger</name>
+        <text>To multiclass as a Ranger, you must meet the following prerequisites:</text>
+        <text>• Wisdom 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light, medium, shields</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium, shields</armor>
+    <weapons>simple, martial</weapons>
+    <tools>none</tools>
+    <wealth>5d4x10</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Favored Enemy</name>
+        <text>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</text>
+        <text>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnoll and orc) as favored enemies.</text>
+        <text>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</text>
+        <text>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</text>
+        <text>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Natural Explorer</name>
+        <text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</text>
+        <text>While traveling for an hour or more in your favored terrain, you gain the following benefits:</text>
+        <text>• Difficult terrain doesn't slow your group's travel.</text>
+        <text>• Your group can't become lost except by magical means.</text>
+        <text>• Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
+        <text>• If you are traveling alone, you can move stealthily at a normal pace.</text>
+        <text>• When you forage, you find twice as much food as you normally would.</text>
+        <text>• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
+        <text>You choose additional favored terrain types at 6th and 10th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>0, 2</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Fighting Style</name>
+        <text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Archery</name>
+        <text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Defense</name>
+        <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Dueling</name>
+        <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Two-Weapon Fighting</name>
+        <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 72</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Spellcasting</name>
+        <text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>   For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   You know two 1st-level spells of your choice from the ranger spell list.</text>
+        <text>   The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>   Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Ranger Archetype</name>
+        <text>At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Beast Master</name>
+        <text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Master: Ranger Companion Options</name>
+        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
+        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
+        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
+        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
+        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Master: Ranger's Companion</name>
+        <text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</text>
+        <text>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
+        <text>If you are incapacitated or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.</text>
+        <text>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.</text>
+        <text>If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Beast Master</name>
+        <text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Master: Ranger Companion Options</name>
+        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
+        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
+        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
+        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
+        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Beast Master: Ranger's Companion</name>
+        <text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</text>
+        <text>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
+        <text>If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. The beast never requires your command to use its reaction, such as when making an opportunity attack.</text>
+        <text>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.</text>
+        <text>If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Hunter</name>
+        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Horde Breaker</name>
+        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Hunter's Prey</name>
+        <text>At 3rd level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Colossus Slayer</name>
+        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Giant Killer</name>
+        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Hunter</name>
+        <text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Horde Breaker</name>
+        <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Hunter's Prey</name>
+        <text>At 3rd level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Colossus Slayer</name>
+        <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Hunter: Giant Killer</name>
+        <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Primeval Awareness</name>
+        <text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Favored Enemy and Natural Explorer improvements</name>
+        <text>At 6th level, you gain an additional favored terrain.</text>
+        <text>At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Ranger Archetype feature</name>
+        <text>At 7th level, you gain a feature granted to you by your Ranger Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Beast Master: Exceptional Training</name>
+        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Beast Master: Exceptional Training</name>
+        <text>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Defensive Tactics</name>
+        <text>At 7th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Escape the Horde</name>
+        <text>Opportunity attacks against you are made with disadvantage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Multiattack Defense</name>
+        <text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Steel Will</name>
+        <text>You have advantage on saving throws against being frightened.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Defensive Tactics</name>
+        <text>At 7th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Escape the Horde</name>
+        <text>Opportunity attacks against you are made with disadvantage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Multiattack Defense</name>
+        <text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Hunter: Steel Will</name>
+        <text>You have advantage on saving throws against being frightened.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature>
+          <name>Land's Stride</name>
+        <text>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</text>
+        <text>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Hide in Plain Sight</name>
+        <text>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</text>
+        <text>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Natural Explorer improvement</name>
+        <text>You gain an additional favored terrain.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Ranger Archetype feature</name>
+        <text>At 11th level, you gain a feature granted to you by your Ranger Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Beast Master: Bestial Fury</name>
+        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Beast Master: Bestial Fury</name>
+        <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Multiattack</name>
+        <text>At 11th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Volley</name>
+        <text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Whirlwind Attack</name>
+        <text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Multiattack</name>
+        <text>At 11th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Volley</name>
+        <text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Hunter: Whirlwind Attack</name>
+        <text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Vanish</name>
+        <text>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Favored Enemy improvement</name>
+        <text>At 14th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Ranger Archetype feature</name>
+        <text>At 15th level, you gain a feature granted to you by your Ranger Archetype.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Beast Master: Share Spells</name>
+        <text>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Beast Master: Beastly Coordination</name>
+        <text>Beginning at 15th level, when an attacker that you can see hits your beast companion with an attack, you can call out a warning. If your beast companion can hear you, it can use its reaction to halve the attack's damage against it.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Evasion</name>
+        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Stand Against the Tide</name>
+        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Superior Hunter's Defense</name>
+        <text>At 15th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Uncanny Dodge</name>
+        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Evasion</name>
+        <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Stand Against the Tide</name>
+        <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Superior Hunter's Defense</name>
+        <text>At 15th level, you gain one of the following features of your choice.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Hunter: Uncanny Dodge</name>
+        <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 93</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>0, 4, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <slots>0, 4, 3, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Feral Senses</name>
+        <text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>0, 4, 3, 3, 3, 2</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Foe Slayer</name>
+        <text>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 89</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

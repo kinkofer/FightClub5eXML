@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Drunken Master (UA): Way of the Drunken Master</name>
+        <text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Drunken Master (UA): Drunken Technique</name>
+        <text>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it; your martial arts technique mixes martial training with the precision of a dancer and the antics of a jester.</text>
+        <text>You also learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Drunken Master (UA): Tipsy Sway</name>
+        <text>At 6th level, your swaying in combat becomes maddeningly unpredictable. As a reaction when an enemy misses you with a melee attack roll, you can cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Drunken Master (UA): Drunkard's Luck</name>
+        <text>Starting at 11th level, you always seem to get a lucky bounce at just the right moment to save you from doom. When you make a saving throw, you can spend 1 ki point to give yourself advantage on that roll. You must decide to use this feature before rolling.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Drunken Master (UA): Intoxicated Frenzy</name>
+        <text>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five attacks), provided that each Flurry of Blows attack targets a different creature this turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

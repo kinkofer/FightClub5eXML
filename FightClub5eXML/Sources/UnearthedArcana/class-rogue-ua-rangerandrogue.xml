@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Rogue</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Scout</name>
+        <text>You are skilled in woodcraft and stealth, allowing you to range ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and fighters, as they serve as the eyes and ears of war bands across the world. Compared to other rogues, you are skilled at surviving in the wilds.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Skirmisher</name>
+        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Scout (UA): Survivalist</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Scout (UA): Superior Mobility</name>
+        <text>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature optional="YES">
+          <name>Scout (UA): Ambush Master</name>
+        <text>Starting at 13th level, you excel at leading ambushes. If any of your foes are surprised, you can use a bonus action on your turn in the first round of the combat to grant each ally who can see you a +5 bonus to initiative that lasts until the combat ends. If the initiative bonus would increase an ally's initiative above yours, the ally's initiative instead equals your initiative.</text>
+        <text>Each of the allies also receives a 10-foot increase to speed that lasts until the end of the ally's next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Scout (UA): Sudden Strike</name>
+        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but only if the attack is the only one you make against the target this turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

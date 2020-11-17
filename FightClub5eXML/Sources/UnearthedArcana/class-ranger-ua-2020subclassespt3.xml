@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Fey Wanderer</name>
+        <text>As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.</text>
+        <text>Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Delicate horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Cunning Will</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your experience with the fey has guarded your mind and sharpened your tongue. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
+        <text>When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Fey Wanderer Magic</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Fey Wanderer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | charm person</text>
+        <text>5th | misty step</text>
+        <text>9th | dispel magic</text>
+        <text>13th | banishment</text>
+        <text>17th | mislead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Fey Wanderer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.</text>
+        <text>Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Delicate horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Cunning Will</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your experience with the fey has guarded your mind and sharpened your tongue. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
+        <text>When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Fey Wanderer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.</text>
+        <text>Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Delicate horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Cunning Will</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your experience with the fey has guarded your mind and sharpened your tongue. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
+        <text>When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Fey Wanderer Magic</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Fey Wanderer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | charm person</text>
+        <text>5th | misty step</text>
+        <text>9th | dispel magic</text>
+        <text>13th | banishment</text>
+        <text>17th | mislead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Blessings of the Courts</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>You have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.</text>
+        <text>In addition, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Blessings of the Courts</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>You have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.</text>
+        <text>In addition, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Blessings of the Courts</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>You have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.</text>
+        <text>In addition, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Beguiling Twist</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:</text>
+        <text>• The creature is charmed or frightened by you (your choice) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text>• The creature takes 3d10 psychic damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Beguiling Twist</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:</text>
+        <text>• The creature is charmed or frightened by you (your choice) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text>• The creature takes 3d10 psychic damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Beguiling Twist</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:</text>
+        <text>• The creature is charmed or frightened by you (your choice) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text>• The creature takes 3d10 psychic damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Misty Presence</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.</text>
+        <text>Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Misty Presence</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.</text>
+        <text>Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer (UA): Misty Presence</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.</text>
+        <text>Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt3 p. 5</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

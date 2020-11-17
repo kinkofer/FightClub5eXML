@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Kensei (UA): Way of the Kensei</name>
+        <text>Monks of the Way of Kensei train relentlessly with their weapons, to the point that the weapon becomes like an extension of the body. A kensei sees a weapon in much the same way a painter regards a brush or a writer sees parchment, ink, and quill. A sword or bow is a tool used to express the beauty and elegance of the martial arts. That such mastery makes a kensei a peerless warrior and is but a side effect of intense devotion, practice, and study.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Kensei (UA): Path of the Kensei</name>
+        <text>When you choose this tradition at 3rd level, you learn to extend your knowledge of the martial arts beyond the standard array of monk weapons.</text>
+        <text>You gain the following benefits:</text>
+        <text>• You gain proficiency with three martial weapons of your choice. A martial weapon is considered a kensei weapon for you if you're proficient with it.</text>
+        <text>• Whenever you wield a kensei weapon, you choose whether to use Dexterity or Strength for the attack and damage rolls of the weapon, and you choose whether to use your Martial Arts damage die in place of the weapon's damage die.</text>
+        <text>• When you take the Attack action on your turn and hit a target with a kensei weapon, you can use a bonus action to pummel the target, dealing an additional 1d4 bludgeoning damage to that target and to any other target you hit with the weapon as part of the Attack.</text>
+        <text>• If you make an unarmed strike as part of the Attack action on your turn and are holding a kensei weapon, you can use that weapon to defend yourself. You gain a +2 bonus to AC until the start of your next turn while you are not incapacitated and the weapon is in your hand.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Way of Tranquility</name>
+        <text>Monks of the Way of Tranquility see violence as a last resort. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts, and can preserve their allies in the face of daunting foes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Healing Hands</name>
+        <text>Your mystical touch can heal wounds. Starting at 3rd level, you have a pool of magical healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level x 10.</text>
+        <text>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in the pool.</text>
+        <text>Instead of healing the creature, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Healing Hands, expending hit points separately for each one.</text>
+        <text>When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature.</text>
+        <text>This feature has no effect on undead and constructs.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Path of Tranquility</name>
+        <text>When you choose this tradition at 3rd level, you can become an island of calm in even the most chaotic of situations. With this feature, you can cast the sanctuary spell on yourself, no material component required, and it lasts up to 8 hours. Its saving throw DC equals 8 + your proficiency bonus + your Wisdom modifier. A creature that succeeds on the save is immune to this effect for 1 hour.</text>
+        <text>Once you cast the spell in this way, you can't do so again for 1 minute.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Kensei (UA): One with the Blade</name>
+        <text>At 6th level, you extend your ki into the weapons you hold, granting you the following benefits:</text>
+        <name>Way of the Kensei (UA): Magic Weapons</name>
+        <text>   Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <name>Way of the Kensei (UA): Precise Strike</name>
+        <text>   You can focus your attention on a single target in battle to understand and overcome its defenses. As a bonus action, pick one creature you can see within 30 feet of you. The next weapon attack you make against that creature during the current turn adds double your proficiency bonus to the attack roll, rather than your normal proficiency bonus. Once you use this ability, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Emissary of Peace</name>
+        <text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn't apply if proficiency in the Deception or Intimidation skill applies to your check.</text>
+        <text>You also gain proficiency in the Performance or Persuasion skill (choose one).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Kensei (UA): Sharpen the Blade</name>
+        <text>At 11th level, you gain the ability to augment your weapons with the strength of your ki. As a bonus action, you can expend up to 3 ki points to grant a weapon you touch a bonus to attack and damage rolls while you wield it. The bonus equals the number of ki points you spent. This bonus lasts for 1 minute.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Douse the Flames of War</name>
+        <text>At 11th level, you gain the ability to temporarily extinguish a creature's violent impulses. As an action, you can touch a creature, and it must make a Wisdom saving throw with a DC equal to 8 + your proficiency bonus + your Wisdom modifier. The target automatically succeeds if it's missing any of its hit points. If the target fails the save, it can't attack for 1 minute. During that time, it also can't cast spells that deal damage or that force someone to make a saving throw.</text>
+        <text>This effect ends if the target is attacked, takes damage, or is forced to make a saving throw or if the target witnesses any of those things happening to its allies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Kensei (UA): Unerring Accuracy</name>
+        <text>At 17th level, your mastery of weapons grants you extraordinary accuracy. On each of your turns, you can reroll one weapon attack roll you make that misses.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of Tranquility (UA): Anger of a Gentle Soul</name>
+        <text>At 17th level, you gain the ability to visit vengeance on someone who fells others. If you see a creature reduce another creature to 0 hit points, you can use your reaction to grant yourself a bonus to all damage rolls against the aggressor until the end of your next turn. The bonus equals your monk level.</text>
+        <text>Once you use this ability, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Monk p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

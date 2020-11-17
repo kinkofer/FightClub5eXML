@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <hd>8</hd>
+    <proficiency>Strength, Dexterity, Acrobatics, Athletics, History, Insight, Religion, Stealth</proficiency>
+    <numSkills>2</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Monk</name>
+        <text>As a 1st-level Monk, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: none</text>
+        <text>• Weapons: simple, shortswords</text>
+        <text>• Tools: any one type of artisan's tools or any one musical instrument of your choice</text>
+        <text>• Skills: Choose 2 from Acrobatics, Athletics, History, Insight, Religion, Stealth</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a shortsword or (b) any simple weapon</text>
+        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+        <text>• 10 dart</text>
+        <text></text>
+        <text>Alternatively, you may start with 5d4 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Monk</name>
+        <text>To multiclass as a Monk, you must meet the following prerequisites:</text>
+        <text>• Wisdom 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: none</text>
+        <text></text>
+        <text>• Tools: none</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <armor>none</armor>
+    <weapons>simple, shortswords</weapons>
+    <tools>any one type of artisan's tools or any one musical instrument of your choice</tools>
+    <wealth>5d4</wealth>
+    <autolevel level="1">
+        <feature>
+          <name>Unarmored Defense</name>
+        <text>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Martial Arts</name>
+        <text>Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.</text>
+        <text>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield.</text>
+        <text>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</text>
+        <text>• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</text>
+        <text>• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</text>
+        <text>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Ki</name>
+        <text>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.</text>
+        <text>You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.</text>
+        <text>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</text>
+        <text>Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</text>
+        <text></text>
+        <text>Flurry of Blows:</text>
+        <text>   Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</text>
+        <text></text>
+        <text>Patient Defense:</text>
+        <text>   You can spend 1 ki point to take the Dodge action as a bonus action on your turn.</text>
+        <text></text>
+        <text>Step of the Wind:</text>
+        <text>   You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Unarmored Movement</name>
+        <text>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.</text>
+        <text>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Deflect Missiles</name>
+        <text>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.</text>
+        <text>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Monastic Tradition</name>
+        <text>When you reach 3rd level, you commit yourself to a monastic tradition, chosen from the list of available traditions. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of Shadow</name>
+        <text>Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Shadow: Shadow Arts</name>
+        <text>You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don't already know it.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of the Four Elements</name>
+        <text>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</text>
+        <text>Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Four Elements: Disciple of the Elements</name>
+        <text>You learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.</text>
+        <text>You know the Elemental Attunement discipline and one other elemental discipline of your choice. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.</text>
+        <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
+        <name>Way of the Four Elements: Casting Elemental Spells</name>
+        <text>   Some elemental disciplines allow you to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.</text>
+        <text>   Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as burning hands does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast burning hands, you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).</text>
+        <text>   The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.</text>
+        <text></text>
+        <text>Spells and Ki Points</text>
+        <text>Monk Levels | Maximum Ki Points for a Spell</text>
+        <text>5th-8th | 3</text>
+        <text>9th-12th | 4</text>
+        <text>13th-16th | 5</text>
+        <text>17th-20th | 6</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Four Elements: Elemental Disciplines</name>
+        <text>The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.</text>
+        <name>Way of the Four Elements: Breath of Winter (17th Level Required)</name>
+        <name>Way of the Four Elements: Clench of the North Wind (6th Level Required)</name>
+        <name>Way of the Four Elements: Eternal Mountain Defense (17th Level Required)</name>
+        <name>Way of the Four Elements: Flames of the Phoenix (11th Level Required)</name>
+        <name>Way of the Four Elements: Gong of the Summit (6th Level Required)</name>
+        <name>Way of the Four Elements: Mist Stance (11th Level Required)</name>
+        <name>Way of the Four Elements: Ride the Wind (11th Level Required)</name>
+        <name>Way of the Four Elements: River of Hungry Flame (17th Level Required)</name>
+        <name>Way of the Four Elements: Wave of Rolling Earth (17th Level Required)</name>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of the Open Hand</name>
+        <text>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Open Hand Technique</name>
+        <text>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</text>
+        <text>• It must succeed on a Dexterity saving throw or be knocked prone.</text>
+        <text>• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</text>
+        <text>• It can't take reactions until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Slow Fall</name>
+        <text>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Stunning Strike</name>
+        <text>Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Ki-Empowered Strikes</name>
+        <text>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Monastic Tradition feature</name>
+        <text>At 6th level, you gain one feature granted by your Monastic Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of Shadow: Shadow Step</name>
+        <text>You gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Four Elements: Extra Elemental Discipline</name>
+        <text>You learn one additional elemental discipline of your choice. You should know 2 elemental disciplines, as well as Elemental Attunement.</text>
+        <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Wholeness of Body</name>
+        <text>You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Evasion</name>
+        <text>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Stillness of Mind</name>
+        <text>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature>
+          <name>Unarmored Movement improvement</name>
+        <text>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Purity of Body</name>
+        <text>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Monastic Tradition feature</name>
+        <text>At 11th level, you gain one feature granted by your Monastic Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of Shadow: Cloak of Shadows</name>
+        <text>By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Four Elements: Extra Elemental Discipline</name>
+        <text>You learn one additional elemental discipline of your choice. You should know 3 elemental disciplines, as well as Elemental Attunement.</text>
+        <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Tranquility</name>
+        <text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Tongue of the Sun and Moon</name>
+        <text>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Diamond Soul</name>
+        <text>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.</text>
+        <text>Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Timeless Body</name>
+        <text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Monastic Tradition feature</name>
+        <text>At 17th level, you gain one feature granted by your Monastic Tradition.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of Shadow: Opportunist</name>
+        <text>At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Four Elements: Extra Elemental Discipline</name>
+        <text>You learn one additional elemental discipline of your choice. You should know 4 elemental disciplines, as well as Elemental Attunement.</text>
+        <text>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 80</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Open Hand: Quivering Palm</name>
+        <text>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</text>
+        <text>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 79</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature>
+          <name>Empty Body</name>
+        <text>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</text>
+        <text>Additionally, you can spend 8 ki points to cast the astral projection spell, without needing material components. When you do so, you can't take any other creatures with you.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Perfect Self</name>
+        <text>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 76</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

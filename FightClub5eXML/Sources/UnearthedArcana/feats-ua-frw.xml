@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Telekinetic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You learn to move things with your mind. You gain the following benefits:
+• You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.
+• As a bonus action, you can try to shove one creature you can see within 5 feet of the spectral hand created by your mage hand spell. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Intelligence modifier) or be pushed 5 feet away from you.
+Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    </feat>
+  <feat>
+      <name>Telepathic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You awaken the ability to mentally connect with others. You gain the following benefits:
+• You gain proficiency in one skill of your choice from the following list: Deception, Insight, Intimidation, or Persuasion.
+• You can communicate Telepathic (UA)ally with any creature you can see within 30 feet of you. If it understands at least one language, it can respond to you Telepathic (UA)ally.
+Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    </feat>
+  </compendium>

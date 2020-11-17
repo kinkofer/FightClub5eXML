@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Druid</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Dreams (UA): Circle of Dreams</name>
+        <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with merriment and light. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Dreams (UA): Balm of the Summer Court</name>
+        <text>At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that lends relief to weary feet and respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level.</text>
+        <text>As a bonus action, you can choose an ally you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent, and its speed increases by 5 feet per die spent. The speed increase lasts for 1 minute.</text>
+        <text>You regain the expended dice when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Circle of the Shepherd</name>
+        <text>Druids of the Circle of the Shepherd commune with the spirits of beasts. While these druids recognize that all living things play a role in the natural world, they focus on protecting animals. Shepherds, as they are known, see beasts as their charges. They ward off monsters that threaten natural creatures, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on habitats and paths needed for animal migrations. Many of these druids are happiest far from cities and towns, content to spend their days in the company of wild animals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Beast Speech</name>
+        <text>At 2nd level, you gain the ability to converse with beasts. Beasts can understand your speech, and you gain the ability to decipher their noises and motions into recognizable words and phrases. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past.</text>
+        <text>This ability does not grant you any special friendship with beasts, though you can combine this ability with gifts and other favors to curry favor with them as you would any other nonplayer character.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Spirit Bond</name>
+        <text>Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around it, it doesn't occupy its space, it is immobile, and it counts as neither a creature nor an object.</text>
+        <text>The spirit persists for 1 minute. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text>The nature of the aura depends on the type of spirit you choose to summon from the options below.</text>
+        <name>Circle of the Shepherd (UA): Bear</name>
+        <text>   The bear spirit grants you and your allies its might and endurance. You and your allies who are in the aura when the spirit appears each gain temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.</text>
+        <name>Circle of the Shepherd (UA): Hawk</name>
+        <text>   The hawk spirit is a consummate hunter, marking your enemies with its keen sight. You and your allies gain advantage on ranged attack rolls against targets in the spirit's aura.</text>
+        <name>Circle of the Shepherd (UA): Wolf</name>
+        <text>   The wolf spirit lends you and your allies its precise senses, while your magic works to benefit the members of your pack. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each of your allies in the aura also regains hit points equal to your druid level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Twilight (UA): Circle of Twilight</name>
+        <text>The Circle of Twilight seeks to exterminate undead creatures and preserve the natural cycle of life and death that rules over the cosmos. Their magic allows them to manipulate the boundary between life and death, sending their foes to their final rest while keeping their allies from that fate.</text>
+        <text>These druids seek out lands that have been tainted by undeath. Such places are grim and foreboding. Once vibrant forests become gloomy, haunted places devoid of animals and filled with plants dying a slow, lingering death. The Circle of Twilight goes to such places to banish undeath and restore life.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Twilight (UA): Harvest's Scythe</name>
+        <text>Starting at 2nd level, you learn to unravel and harvest the life energy of other creatures. You can augment your spells to drain the life force from creatures. You have a pool of energy represented by a number of d10s equal to your druid level.</text>
+        <text>When you roll damage for a spell, you can increase that damage by spending dice from the pool. You can spend a number of dice equal to half your druid level or less. Roll the spent dice and add them to the damage as necrotic damage. If you kill one or more hostile creatures with a spell augmented in this way, you or an ally of your choice that you can see within 30 feet of you regains 2 hit points per die spent to increase the spell's damage, or 5 hit points per die if at least one of the slain creatures was undead.</text>
+        <text>You regain the expended dice when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of Dreams (UA): Hearth of Moonlight and Shadow</name>
+        <text>At 6th level, home is wherever you set up camp. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to ward your campsite from intruders. At the start of the rest, you create an area with a 30-foot radius. Within this area, you and your allies gain a +5 bonus to Wisdom (Perception) checks to detect creatures, and any light from open flames (campfire, torches, and the like) is not visible outside the area. These effects end when the rest finishes or when you leave the area.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Mighty Summoner</name>
+        <text>At 6th level, you gain the ability to conjure forth powerful animals. Any beast summoned or created by your spells gains two benefits. Its hit point maximum increases by 2 per Hit Die, and the damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of Twilight (UA): Speech Beyond the Grave</name>
+        <text>At 6th level, you gain the ability to reach beyond death's veil in search of knowledge. Using this feature, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don't share a language or it is not intelligent enough to speak.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of Dreams (UA): Hidden Paths</name>
+        <text>At 10th level, you can use the hidden, unpredictable magical pathways that some fey use to traverse space in a blink of an eye. On your turn, you can teleport up to 30 feet to a spot you can see. Each foot of this teleportation costs 1 foot of your movement.</text>
+        <text>You can also use this feature to teleport someone else. As an action, you can teleport a willing ally you touch up to 30 feet to a point you can see.</text>
+        <text>Once you use either option—teleporting yourself or an ally—you can't use that option again until 1d4 rounds have passed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Guardian Spirit</name>
+        <text>At 10th level, you gain the services of a spirit that watches over you and protects you from harm. Whenever you finish a long rest, you gain the benefits of a death ward spell. The spell's duration is extended to 24 hours.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of Twilight (UA): Watcher at the Threshold</name>
+        <text>At 10th level, you gain resistance to necrotic and radiant damage. In addition, while you aren't incapacitated, any ally within 30 feet of you has advantage on death saving throws.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of Dreams (UA): Purifying Light</name>
+        <text>At 14th level, the favor of the Summer Court allows you to end spells that hamper you and your allies. When you cast a spell with a spell slot and it restores hit points to you or an ally this turn, you can simultaneously target the healed creature with dispel magic, using a spell slot with a level equal to the slot used to cast the healing spell.</text>
+        <text>You can use this feature three times, and you regain expended uses of it when you finish a long rest. If the healing spell targets more than one creature, you can use this feature on more than one at the same time, expending one use of it per creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of the Shepherd (UA): Faithful Summons</name>
+        <text>Starting at 14th level, the bestial spirits you commune with protect you when you are vulnerable. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it was cast with a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of Twilight (UA): Paths of the Dead</name>
+        <text>At 14th level, your mastery of death allows you to tread the paths used by ghosts and other spirits. Using this feature, you can cast etherealness. Once the spell ends, you can't cast it with this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Druid p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

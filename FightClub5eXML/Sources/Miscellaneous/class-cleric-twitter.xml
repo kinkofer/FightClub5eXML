@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Darkness Domain (Twitter)</name>
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]</text>
+        <text>Custom built for clerics of Zehir, and perhaps Lolth.</text>
+        <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Darkness Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | arms of hadar, hex</text>
+        <text>3rd | blindness/deafness, darkness</text>
+        <text>5th | fear, vampiric touch</text>
+        <text>7th | blight, Evard's black tentacles</text>
+        <text>9th | contagion, enervation</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Child of Night</name>
+        <text>When you choose this domain at 1st level, you gain the chill touch cantrip. If you do not have darkvision, you gain it with a range of 30 feet.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Shield of Ineffable Darkness</name>
+        <text>Starting at 1st level, you can invoke the power of darkness to punish anyone fool enough to harm you. As a reaction when a creature you can see damages you, you cause that creature to become blinded until the end of your next turn.</text>
+        <text>Once you use this feature, you can't use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Destruction Domain (Twitter)</name>
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]</text>
+        <text>Custom built for clerics of Gruumsh, and perhaps Tiamat.</text>
+        <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Destruction Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | inflict wounds, wrathful smite</text>
+        <text>3rd | enlarge/reduce, shatter</text>
+        <text>5th | fireball, lightning bolt</text>
+        <text>7th | ice storm, staggering smite</text>
+        <text>9th | cloudkill, destructive wave</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Armed for Destruction</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with martial weapons.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Destructive Fury</name>
+        <text>Starting at 1st level, you can channel divine energy to enter a destructive frenzy. As a bonus action, you gain 5 temporary hit points and a +1 bonus to weapon damage rolls. This benefit lasts for one minute. Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text>When you use this ability, you can expend a spell slot to augment its effects. You gain additional temporary hit points equal to three times the slot's level and a bonus to weapon damage rolls equal to half the slot's level (minimum 1). This benefit lasts for one minute.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Beauty Domain (Twitter)</name>
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]</text>
+        <text>Beauty can both bend minds and inspire hearts. It is the force that compels others to lose control and give in to their impulses, but it can also awaken strength and determination to steel a forlorn heart.</text>
+        <text>Clerics of Beauty bring joy and hope to the world. They are the beacon of light that reminds us that some things are worth fighting for. They seek to bring peace and amity among the world's folk. They fight only when they must, and prefer to use their magic to end fights with as little bloodshed as possible.</text>
+        <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Beauty Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | charm person, heroism</text>
+        <text>3rd | enthrall, suggestion</text>
+        <text>5th | beacon of hope, hypnotic pattern</text>
+        <text>7th | charm monster, compulsion</text>
+        <text>9th | dominate person, hold monster</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Beauty's Refuge</name>
+        <text>Starting at 1st level, your mere presence is enough to inspire hope and determination in others. When you complete a short or long rest, up to 12 allies of your choice gain temporary hit points equal to your Charisma modifier (minimum 1).</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Rebuke the Defiler</name>
+        <text>When you select this domain at 1st level, you gain the ability to rebuke those who lash out at your in violence.</text>
+        <text>As a reaction when a creature you can see within 30 feet of you inflicts damage, you force that creature to make a Wisdom save. On a failed saving throw, it takes psychic damage equal to the damage dealt. On a successful save, it takes half that damage.</text>
+        <text>If the creature made multiple attacks, select one attack to determine the damage dealt. If the creature used one or more effects that damaged multiple targets, choose the damage take by one of those targets from one of the effects.</text>
+        <text>Once you use this feature, you can't use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Channel Divinity: Shadow Spawn</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to fade into the darkness.</text>
+        <text>As a bonus action, you become a creature of darkness that can blend into the shadows. You gain advantage on all Dexterity (Stealth) checks. If a creature cannot see you, your spells and attacks deal maximum damage to them. The shadows seem to draw around, as if they seek to protect you. This benefit lasts for one minute.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Channel Divinity: Sundering Invocation</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to channel destructive energy.</text>
+        <text>As an action, you touch a creature or a an unattended object within reach. A creature must make a Constitution saving throw, taking 5 times your cleric level thunder damage on a failed saving throw and half as much on a successful one. An unattended object takes 5 times your cleric level thunder damage.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Channel Divinity: Beauty's Truce</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to quell the flame of violence.</text>
+        <text>As an action, you force all creatures within 100 feet of you to make Charisma saving throws. Each creature that fails this saved is charmed by every other creature that also failed the saving throw. This benefit lasts for one hour. While charmed by this ability, creatures consider all other creatures charmed by it to be their allies. They fight to defend them from attackers.</text>
+        <text>While this ability persists, absent any threat creatures charmed by it will rest, talk among themselves, share stories of their lives, create a communal feast using food and drink they carry, and generally act as if they are old friends, long separated and brought together again for a joyous reunion.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Hungry Darkness</name>
+        <text>Starting at 6th level, your Shield of Ineffable Darkness becomes more powerful. When you use it, you can select up to three additional, hostile creatures you can see within 30 feet of you. They are also blinded until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Appetite for Destruction</name>
+        <text>Starting at 6th level, your destructive acts fuel further expressions of devastation. If you kill a creature or destroy an object with a weapon attack, you can use your reaction to immediately make one additional weapon attack.</text>
+        <text>You can use this ability a number of times equal to your Wisdom modifier (minimum 1). You regain all expended uses when you complete a long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Superior Refuge</name>
+        <text>Starting at 6th level, the temporary hit points granted by your Beauty's Refuge ability increase to 5 + your Charisma modifier (minimum 1).</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Potent Cantrip</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Divine Strike</name>
+        <text>Starting at 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Potent Cantrip</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Darkness Domain (Twitter): Soul of Darkness</name>
+        <text>Starting at 17th level, you gain strength from darkness. As a bonus action, you fade into the shadows. You regain hit points equal to your cleric level and gain resistance to all damage for one minute. In addition, while this duration lasts you can use a bonus action to teleport up to 30 feet to an unoccupied space you can see that is in dim light or darkness.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Destruction Domain (Twitter): Hand of Devastation</name>
+        <text>Starting at 17th level, your spells deliver exceptional power. When you roll damage for a spell, roll twice the listed number of dice. You then choose from among the rolled dice the results you wish to use to determine the spell's damage. You must select dice that match the quantity and type normally rolled to determine the spell's damage.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Beauty Domain (Twitter): Soul of Beauty</name>
+        <text>Starting at 17th level, you become an avatar of unearthly beauty. Your enemies attack with uncertainty, fearful of damaging the wondrous being they behold, while your magic draws upon your presence to augment its power.</text>
+        <text>As a reaction, you can impose a penalty on a creature's attacks against you or on its saving throws against your spells and abilities. This benefit lasts until the end of the current turn The penalty equals your Charisma modifier (minimum 1).</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

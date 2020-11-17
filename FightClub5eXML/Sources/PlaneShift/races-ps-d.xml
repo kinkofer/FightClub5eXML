@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Aven</name>
+    <size>M</size>
+    <speed>25</speed>
+    <ability>Dex 2, Wis 2</ability>
+    <proficiency>Perception</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Plane Shift: Dominaria p. 6</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Like humans, aven reach adulthood in their late teens and can live into their 80s.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Aven are inclined toward the lawful good alignment of the Church of Serra
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Aven stand from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Flight</name>
+      <text>You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.) 
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Aven.
+</text>
+      </trait>
+    <trait>
+        <name>Hawkeyed</name>
+      <text>You have proficiency in the Perception skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+</text>
+      </trait>
+    </race>
+  </compendium>

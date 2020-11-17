@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Shadow (UA): Shadow</name>
+        <text>Your innate magic comes from the Shadowfell. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed in some fundamental manner.</text>
+        <text>The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the following table to create a unique quirk for your character.</text>
+        <text></text>
+        <text>Shadow Sorcerer Quirks</text>
+        <text>d6 | Quirk</text>
+        <text>1 | You are always icy cold to the touch.</text>
+        <text>2 | When you are asleep, you don't appear to breathe (though you must still breathe to survive).</text>
+        <text>3 | You don't seem to bleed, even when badly injured.</text>
+        <text>4 | Your heart beats once per minute. This even sometimes surprises you.</text>
+        <text>5 | You have trouble remembering that living creatures and corpses should be treated differently.</text>
+        <text>6 | You blinked. Once. Last week.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Shadow (UA): Eyes of the Dark</name>
+        <text>From 1st level, you have darkvision with a range of 60 feet. You can cast darkness by spending 1 sorcery point. You can see through any darkness spell you cast using this ability.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Shadow (UA): Strength of the Grave</name>
+        <text>Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. Whenever damage reduces you to 0 hit points, you can make a Constitution saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You cannot use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Shadow (UA): Hound of Ill Omen</name>
+        <text>At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to summon a hound of ill omen to target one creature you can see. The hound uses a dire wolf's statistics with the following changes:</text>
+        <text>• The hound is size Medium.</text>
+        <text>• It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.</text>
+        <text>• At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.</text>
+        <text>The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only towards its target by the most direct route, and it can use its action only to attack its target. The hound makes opportunity attack, but only against its target. Additionally, the target has disadvantage on all saving throws against your spells while the hound is within 5 feet of it. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Shadow (UA): Shadow Walk</name>
+        <text>At 14th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Shadow (UA): Shadow Form</name>
+        <text>At 18th level, you can spend 3 sorcery points to transform yourself into a shadow form as a bonus action. In this form, you have resistance to all damage except force damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object. You remain in this form for 1 minute.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

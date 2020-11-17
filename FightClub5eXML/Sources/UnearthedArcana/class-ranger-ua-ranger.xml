@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger (Ambuscade) (UA)</name>
+    <hd>6</hd>
+    <proficiency>Dexterity, Wisdom, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</proficiency>
+    <numSkills>3</numSkills>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Ranger (Ambuscade) (UA)</name>
+        <text>As a 1st-level Ranger (Ambuscade) (UA), you begin play with 6+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, shields</text>
+        <text>• Weapons: simple, martial</text>
+        <text>• Tools: herbalism kit</text>
+        <text>• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• leather armor</text>
+        <text>• (a) two shortsword or (b) two martial melee weapons or (c) a martial weapon and a shield</text>
+        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+        <text>• (a) a longbow and a quiver of arrows (20) or (b) a martial weapon</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 2</text>
+        </feature>
+      </autolevel>
+    <armor>light, shields</armor>
+    <weapons>simple, martial</weapons>
+    <tools>herbalism kit</tools>
+    <autolevel level="1">
+        <feature>
+          <name>Ambuscade</name>
+        <text>Rangers strike first and strike hard. When you roll initiative, you gain a special turn that takes place before other creatures can act. On this turn, you can use your action to take either the Attack or Hide action.</text>
+        <text>If more than one creature in an encounter has this feature, they all act first in order of initiative, then the regular initiative order begins.</text>
+        <text>If you would normally be surprised at the start of an encounter, you are not surprised but you do not gain this extra turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Skirmisher's Stealth</name>
+        <text>Beginning at 2nd level, you combine speed and stealth in combat to make yourself hard to pin down. You are difficult to detect even if you attack or otherwise take actions that would normally reveal your presence.</text>
+        <text>At the start of your turn, pick a creature you are hidden from. You remain hidden from that creature during your turn, regardless of your actions or the actions of other creatures. As a bonus action at the end of your turn, you can make a Dexterity (Stealth) check to hide again if you fulfill the conditions needed to hide. Otherwise, creatures are aware of you at the end of your turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Spirit Path</name>
+        <text>At 3rd level, you form a bond with a nature spirit—a companion forged by your link to the wild. This spirit companion protects you as you travel and watches your back in battle. You choose a ranger path that shapes your spirit companion and its magic: the Guardian, the Seeker, or the Stalker. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</text>
+        <text></text>
+        <text>Spirit Companion:</text>
+        <text>   All rangers gain a spirit companion and the ability to invoke its magical power. (Your spirit companion grants you one benefit you can call on in this playtest version of the revised ranger, with more benefits gained at higher levels.) You regain your ability to call on your spirit companion in this way when you finish a short or long rest.</text>
+        <text>   Once per day as a bonus action, you can command your spirit companion to materialize as a living creature, determined by the ranger path you choose. Your spirit companion manifests as an animal for 1 minute or until your concentration is broken (as if you are concentrating on a spell). You can also dismiss it as a bonus action.</text>
+        <text>   The manifested creature gains a bonus to attack rolls and saving throws equal to your Wisdom modifier. It uses the hit points in the animal's stat block or half your hit point maximum, whichever is higher.</text>
+        <text>   The manifested creature takes its turn on your initiative and acts immediately after you. You control its actions, even if you are unconscious or otherwise unable to act.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Path: Guardian</name>
+        <text>By following the path of the Guardian, you protect the natural world from creatures that would despoil it, even as you engage with the common folk who rely upon nature's bounty to survive. You patrol the pathways through the wilds, keeping them clear of bandits and rampaging monsters, even as you keep careful watch on how civilized realms interact with the wilderness. Those who take more than their fair share—clear-cutting forests or hunting for sport rather than survival—risk your wrath.</text>
+        <text>When your spirit companion manifests, it takes the form of a brown bear.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Guardian: Guardian's Shroud</name>
+        <text>Your companion spirit helps to protect you and the creatures closest to you. As a bonus action, you invoke your spirit companion and choose yourself or an ally you can see. The chosen creature gains temporary hit points equal to 2d6 + your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Path: Seeker</name>
+        <text>By taking up the Seeker path, you are drawn into the unknown wilds far from civilization in search of lost treasures, forgotten evil, and sites of primal magic. You understand that the trackless wilderness can harbor many secrets. Some of those secrets—such as a lonely oasis providing water to a desert realm—must be protected. Others—such as an ancient idol infused with the foul magic of the demon worshippers who crafted it—must be destroyed before their evil awakens once more.</text>
+        <text>When your spirit companion manifests, it takes the form of a giant eagle.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Seeker: Seeker's Eye</name>
+        <text>Your companion spirit lends its sharp combat senses to you and your companions. As a bonus action, you invoke your spirit companion and choose a creature you can see. Until the end of your next turn, all attacks made against the chosen creature have advantage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Path: Stalker</name>
+        <text>As a ranger of the Stalker path, you prowl the wilderness in search of aberrations, fiends, and other monsters that must be slain before they wreak havoc on the natural world. You are the power of nature's vengeance made manifest, and anything that poses a threat to nature is your target. When a powerful creature such as a dragon threatens a region, a ranger of the Stalker path leads the hunt that will take it down. Like others of your kind, you do not rest until your quarry is dead and the natural world is safe.</text>
+        <text>When your spirit companion manifests, it takes the form of a dire wolf.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 4</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Stalker: Stalker's Fangs</name>
+        <text>Your companion spirit lends the strength of its deadly bite to you or one of your companions. As a bonus action, you invoke your spirit companion and choose yourself or a creature you can see. The next time the chosen creature hits with a weapon attack, the target of the attack takes extra slashing damage equal to 2d6 + your Wisdom modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger p. 4</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

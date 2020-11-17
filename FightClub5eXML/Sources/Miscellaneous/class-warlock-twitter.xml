@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Otherworldly Patron: Lolth (Twitter)</name>
+        <text>Your patron is Lolth, queen of the dark fey. She rules over the drow that dwell within the Feywild, and commands the loyalty of all hags. Evil fey pay her respect, though not all obey her edicts. She is a sworn enemy of Torog, due to the constant threat he and his minions pose to her Underdark domains.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   Lolth lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Lolth Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | faerie fire, jump</text>
+        <text>2nd | darkness, web</text>
+        <text>3rd | fear, vampiric touch</text>
+        <text>4th | dimension door, giant insect</text>
+        <text>5th | cloudkill, hold monster</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Dark Queen's Servitor</name>
+        <text>Starting at 1st level, you gain the ability to transform into Lolth's most beloved servitor, a giant spider. As a bonus action you turn into a spider. You gain a +2 bonus to AC. You gain 3 temporary hit points per level. You gain a climb speed equal to your normal speed. You can climb difficult surfaces, such as along a ceiling, without needing to make a check. You gain a bite attack. You are proficient with this attack and it inflicts poison damage based on your level. You can use your choice of Strength or Dexterity to modify your bite attack's attack and damage rolls. While in this form, you lack hands and cannot do anything that normally requires them. However, you can cast spells but can only cast the ones listed on your expanded spell list for Lolth.</text>
+        <text>Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Spider Form Bite Damage</text>
+        <text>Level | Damage</text>
+        <text>1st—4th | 1d10 poison</text>
+        <text>5th—10th | 2d10 poison</text>
+        <text>11th—16th | 3d10 poison</text>
+        <text>17th+ | 4d10 poison</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Poisoned Beauty</name>
+        <text>At 6th level, you gain the ability to use a shard of Lolth's alien beauty, causing other creatures to become enraptured by your appearance. As a bonus action, pick a creature you can see. That creature must succeed on a Charisma saving throw or become charmed by you. While charmed, it also gains vulnerability to poison damage. This benefit lasts for one minute or until you or your allies damages the creature. Once you use this ability, you cannot use it again until you complete a short or long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Spider Queen's Chosen</name>
+        <text>At 10th level, Lolth extends her protection to you while you are in her favored form. You gain resistance to bludgeoning, piercing, and slashing damage from non-magical sources while in your spider form.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Lolth (Twitter): Kiss of the Spider Queen</name>
+        <text>Starting at 14th level, you can channel Lolth's malevolence into a deadly kiss. As an action, you touch a creature within your reach. The target takes 12d10 poison or psychic damage (your choice), or half as much on a successful Constitution save. A creature charmed by you has disadvantage on its saving throw. After you use this ability, you cannot cast it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Twitter</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

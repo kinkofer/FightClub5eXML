@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undying Light (UA): The Undying Light</name>
+        <text>Your patron is not a specific entity, but the energy that radiates from the Positive Plane. Your pact allows you to experience the barest touch of the raw stuff of life that powers the multiverse. Anything more, and you would be instantly incinerated by its energy.</text>
+        <text>Contact with the Positive Plane causes subtle changes to your behavior and beliefs. You are driven to bring light to dark places, to annihilate undead creatures, and to protect all living things. At the same time, you crave the light and find total darkness a suffocating experience akin to drowning.</text>
+        <text>As an optional way to add more flavor to your character, you can pick from or roll on the following table of flaws associated with warlocks of the Undying Light.</text>
+        <text></text>
+        <text>Undying Light Flaws</text>
+        <text>d6 | Quirk</text>
+        <text>1 | You are afraid of the dark, and must always have a light source at hand.</text>
+        <text>2 | You have a nervous compulsion to keep a bright light in even the barest shadow.</text>
+        <text>3 | You have a compulsion to enter and illuminate dark areas.</text>
+        <text>4 | You have an overwhelming hatred of undead creatures.</text>
+        <text>5 | You fidget and are irritable when you can't see the sun.</text>
+        <text>6 | In a dark area, you always carry a lit torch or lantern. Putting it down is an unbearable thought.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Undying Light lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Undying Light Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | burning hands</text>
+        <text>2nd | flaming sphere</text>
+        <text>3rd | daylight</text>
+        <text>4th | fire shield</text>
+        <text>5th | flame strike</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Radiant Soul</name>
+        <text>Starting at 1st level, your link to the Positive Plane allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant damage or fire damage, you add your Charisma modifier to that damage. Additionally, you know the sacred flame and light cantrips and can cast them at will. They don't count against your number of cantrips known.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Searing Vengeance</name>
+        <text>Starting at 6th level, the radiant energy you channel allows you to overcome grievous injuries. When you would make a death saving throw, you can instead spring back to your feet with a burst of radiant energy. You immediately stand up (if you so choose), and you regain hit points equal to half your hit point maximum. All hostile creatures within 30 feet of you take 10 + your Charisma modifier radiant damage and are blinded until the end of your turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Radiant Resilience</name>
+        <text>Starting at 10th level, you gain temporary hit points whenever you finish a long or short rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of your rest. Those creatures gain temporary hit points equal to half your warlock level + your Charisma modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Undying Light (UA): Healing Light</name>
+        <text>At 14th level, you gain the ability to channel the Undying Light to heal yourself and other creatures. As a bonus action, you can touch a creature and heal it. With each touch, a creature regains from 1d6 to 5d6 hit points (your choice). You have a total pool of 15d6 you can expend. Subtract the dice you use with each touch from that total.</text>
+        <text>You regain all expended dice from your pool when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

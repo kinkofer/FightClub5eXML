@@ -2,6 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <spell>
       <name>Intellect Fortress</name>
+    <classes>Bard, Sorcerer, Wizard</classes>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -9,7 +10,6 @@
     <range>30 feet</range>
     <components>V</components>
     <duration>Concentration, up to 1 hour</duration>
-    <classes>Bard, Sorcerer, Wizard</classes>
     <text>For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on Intelligence, Wisdom, and Charisma saving throws.
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
@@ -17,6 +17,7 @@ Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 7</text>
     </spell>
   <spell>
       <name>Mind Sliver</name>
+    <classes>Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -24,7 +25,6 @@ Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 7</text>
     <range>60 feet</range>
     <components>V</components>
     <duration>1 round</duration>
-    <classes>Sorcerer, Warlock, Wizard</classes>
     <text>You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must make an Intelligence saving throw. Unless the saving throw is successful, the target takes 1d6 psychic damage, and the first time it makes a saving throw before the end of your next turn, it must roll a d4 and subtract the number rolled from the save.
 This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 7</text>
@@ -35,6 +35,7 @@ Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 7</text>
     </spell>
   <spell>
       <name>Mind Thrust</name>
+    <classes>Sorcerer, Wizard</classes>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -42,7 +43,6 @@ Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 7</text>
     <range>90 feet</range>
     <components>V</components>
     <duration>1 round</duration>
-    <classes>Sorcerer, Wizard</classes>
     <text>You thrust a lance of psychic disruption into the mind of one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of the Soul Knife (Livestream)</name>
+        <text>Transcribed on 2018-10-13. [Square bracketed text] denotes transcriber's annotations.</text>
+        <text>Monks of the Way of the Soul Knife are deadly assassins and bounty hunters. They use their psionic talents to manifest psionic blades that tear through their enemies' bodies and psychic auras. Their talents extend beyond combat, as their ability to perceive auras allows them to track down foes and see through their deceptions.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Soul Knife (Livestream): Psychic Slash</name>
+        <text>At 3rd level, when you channel ki into your attacks you augment your soul knives to inflict devastating psionic attacks.</text>
+        <text>Whenever you hit a creature with one of the attacks granted by your Flurry of Blows and that attack inflicts psychic damage, you can impose one of the following effects on the target:</text>
+        <text></text>
+        <text>Life Drain</text>
+        <text>   You gain temporary hit points equal to half the damage your attack deals.</text>
+        <text></text>
+        <text>Invoke Terror</text>
+        <text>   The target must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.</text>
+        <text></text>
+        <text>Invoke Wrath</text>
+        <text>   The target suffers disadvantage on all attack rolls against targets other than you until the end of your next turn.</text>
+        <text></text>
+        <text>Astral Slide</text>
+        <text>   You teleport the target up to 10 feet to a destination you can see.</text>
+        <text></text>
+        <text>Synaptic Overload</text>
+        <text>   The target gains vulnerability to psychic damage until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Soul Knife (Livestream): Soul Knife</name>
+        <text>Starting when you choose this tradition at 3rd level, you can use your psionic energy to manifest blades that disrupt your foes' minds.</text>
+        <text>Your unarmed strikes deal your choice of psychic, piercing, slashing, or bludgeoning damage each time you hit.</text>
+        <text>In addition, you can use a bonus action to increase the reach of your unarmed strikes by 30 feet until the end of your turn.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Soul Knife (Livestream): Aura Sight</name>
+        <text>At 6th level, you gain the ability to perceive the auras of other creatures.</text>
+        <text>As an action, select a creature that you can see. That creature makes a Wisdom saving throw, though it has no knowledge that you forced it to attempt this saving throw. On a failed save, you learn if the creature shares any aspects of its alignment with you, its current hit points, and its current attitude and intentions toward you or one other creature, object, or location of your choice. In addition, for the next 24 hours or until you use this ability again, you can use an action to determine the creature's distance and direction from you.</text>
+        <text>If a creature succeeds on its saving throw against this ability, you cannot use this ability against that creature again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Soul Knife (Livestream): Spectral Blades</name>
+        <text>At 11th level, you can cause your blades to phase through physical objects and defenses.</text>
+        <text>Once during your turn, you can choose to forego one unarmed strike in place of forcing a creature within the reach of that attack to make a Dexterity saving throw. On a failed saving throw, it takes your unarmed strike's damage, or half that damage if it succeeds.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Soul Knife (Livestream): Psychic Form</name>
+        <text>At 17th level, you can transform your physical body into the same psychic energy that comprises your soul knives. As a bonus action, you gain resistance to all types of damage, a fly speed of 30 feet, and the ability to pass through solid objects but not end your movement within them. This benefit lasts for 1 minute. You cannot use it again until you complete a long rest.</text>
+        <text></text>
+        <text>Source: Livestream</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

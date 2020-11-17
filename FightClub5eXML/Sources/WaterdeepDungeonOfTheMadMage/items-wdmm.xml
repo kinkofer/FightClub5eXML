@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Black Crystal Tablet</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Any creature that attunes to the tablet must make a DC 20 Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see "Madness" in chapter 8 of the Dungeon Master's Guide).
+As an action, a creature attuned to the Black Crystal Tablet can use it to cast eyebite or gate (the portal created by this spell links to the Far Realm only). After the tablet is used to cast a spell, it cannot be used again until the next dawn.
+Source: Waterdeep: Dungeon of the Mad Mage p. 284</text>
+    </item>
+  <item>
+      <name>Blast Scepter</name>
+    <detail></detail>
+    <type>RD</type>
+    <weight></weight>
+    <property></property>
+    <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+The Blast Scepter can be used as an arcane focus.
+Whoever is attuned to the Blast Scepter gains resistance to fire and lightning damage and can, as an action, use it to cast thunderwave as a 4th-level spell (save DC 16) without expending a spell slot.
+Source: Waterdeep: Dungeon of the Mad Mage p. 310</text>
+    </item>
+  <item>
+      <name>Chest of Preserving</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>25</weight>
+    <property></property>
+    <text>Food and other perishable items do not age or decay while inside a Chest of Preserving. The chest is 2½ feet long, 1½ feet wide, and 1 foot tall with a half-barrel lid. The chest has a lock, which can be picked with thieves' tools and a successful DC 15 Dexterity check. Smashing the lock or any other part of the chest renders it nonmagical.
+Source: Waterdeep: Dungeon of the Mad Mage p. 139</text>
+    </item>
+  <item>
+      <name>Circlet of Human Perfection</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>The Circlet of Human Perfection transforms its attuned wearer into an attractive human of average height and weight. The circlet chooses the physical characteristics of the form, such as age, gender, skin color, hair color, and voice. Except for size, the wearer's statistics and racial traits don't change, nor do items worn or carried by the wearer. Removing the circlet ends the effect.
+Source: Waterdeep: Dungeon of the Mad Mage p. 30</text>
+    </item>
+  <item>
+      <name>Dagger of Blindsight</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>1</weight>
+    <property>F,L,T</property>
+    <dmg1>1d4</dmg1>
+    <dmgType>P</dmgType>
+    <range>20/60</range>
+    <text>This rare magic item requires attunement. A creature attuned to it gains blindsight out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl nested in its pommel.
+Source: Waterdeep: Dungeon of the Mad Mage p. 86</text>
+    </item>
+  <item>
+      <name>Dagger of Guitar Solos</name>
+    <detail>simple Weapon, Melee Weapon</detail>
+    <type>M</type>
+    <weight>1</weight>
+    <value>750.0</value>
+    <property>F,L,T</property>
+    <dmg1>1d4</dmg1>
+    <dmgType>P</dmgType>
+    <range>20/60</range>
+    <text>This drow-made dagger is decorated with silver web filigree. It magically plays a fragment of a guitar solo when struck or used to strike a foe.
+Source: Waterdeep: Dungeon of the Mad Mage p. 228</text>
+    </item>
+  <item>
+      <name>Dodecahedron of Doom</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This twelve-sided metal die is 12 inches across and bears the numbers 1 through 12 engraved on its pentagonal sides. The dodecahedron contains arcane clockwork mechanisms that whir and click whenever the die is cast.
+The dodecahedron can be hurled up to 60 feet as an action. A random magical effect occurs when the die comes to rest after rolling across the ground for at least 10 feet. If an effect requires a target and no eligible target is within range, nothing happens. Spells cast by the dodecahedron require no components. Roll a d12 and consult the following table to determine the effect:
+d12 | effect
+1–2 | The dodecahedron explodes and is destroyed. Each creature within 20 feet of the exploding die must make a DC 13 Dexterity saving throw, taking 40 (9d8) force damage on a failed save, or half as much damage on a successful one.
+3–4 | The dodecahedron casts light on itself. The effect lasts until a creature touches the die.
+5–6 | The dodecahedron casts ray of frost (+5 to hit), targeting a random creature within 60 feet of it that doesn't have total cover against the attack.
+7–8 | The dodecahedron casts shocking grasp (+5 to hit) on the next creature that touches it.
+9–10 | The dodecahedron casts darkness on itself. The effect has a duration of 10 minutes.
+11–12 | The next creature to touch the dodecahedron gains 1d10 temporary hit points that last for 1 hour.
+Source: Waterdeep: Dungeon of the Mad Mage p. 284</text>
+    <roll>9d8</roll>
+    <roll>1d10</roll>
+    </item>
+  <item>
+      <name>Falkir's Helm of Pigheadedness</name>
+    <detail>Cursed item, Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This steel helm is shaped like the head of a boar. Once you don the helm, it can't be removed until you die or until a remove curse spell or similar magic is cast on it. If you wear the helm and are a humanoid, you gain the following flaw until the helm is removed: "I'm exceedingly stubborn and think I'm right all the time." (This flaw supersedes any conflicting flaw.)
+Source: Waterdeep: Dungeon of the Mad Mage p. 141</text>
+    </item>
+  <item>
+      <name>Helm of the Scavenger</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This ornate chair is designed to propel and maneuver a ship through space.
+Passive Properties: The following properties of the helm come into play even when no creature is attuned to it:
+• When placed aboard a vessel weighing between 1 and 100 tons, the helm generates an envelope of fresh air around the ship while it is in the void of space (but not underwater). This envelope extends out from the edges of the hull in all directions for a distance equal in length to the vessel's beam, so that creatures aboard and near the ship can breathe normally in space. The temperature within the air envelope is 70 degrees Fahrenheit.
+• When placed aboard a vessel weighing between 1 and 100 tons, the helm generates an artificial gravity field while the ship is in the void of space, so that creatures can walk on the ship's decks as they normally would. Creatures and objects that fall overboard bob in a gravity plane that extends out from the main deck for a distance equal in length to the vessel's beam.
+Active Properties: The sensation of being attuned to the helm is akin to being immersed in warm water. While attuned to the helm, you gain the following abilities while you sit in it:
+• You can use the helm to propel the vessel across or through water and other liquids at a maximum speed in miles per hour equal to your highest-level unexpended spell slot.
+• You can use the helm to propel the vessel through air or space at a maximum speed in miles per hour equal to your highest-level unexpended spell slot x 10.
+• Provided you have at least one unexpended spell slot, you can steer the vessel, albeit in a somewhat clumsy fashion, in much the same way that oars or a rudder can maneuver a seafaring ship.
+• Whenever you like, you can see what's happening on and around the vessel as though you were standing in a location of your choice aboard it.
+Drawback: While attuned to the helm, you cannot expend your own spell slots.
+Source: Waterdeep: Dungeon of the Mad Mage p. 297</text>
+    </item>
+  <item>
+      <name>Horn of the Endless Maze</name>
+    <detail>Wondrous item, major</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>2</weight>
+    <property></property>
+    <text>You can use an action to blow this horn. In response, warrior spirits from the plane of Ysgard appear within 60 feet of you. These spirits use the berserker statistics. They return to Ysgard after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+A brass horn summons 3d4 + 3 berserker. To use the brass horn, you must be proficient with all simple weapons.
+If you blow the horn without meeting its requirement, the summoned berserker attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
+Found On: Magic Item Table G
+Source: Waterdeep: Dungeon of the Mad Mage p. 163</text>
+    <roll>3d4+3</roll>
+    </item>
+  <item>
+      <name>Horned Ring</name>
+    <detail></detail>
+    <type>RG</type>
+    <weight></weight>
+    <property></property>
+    <text>Allows an attuned wearer to ignore Undermountain's magical restrictions (see "Alterations to Magic").
+Source: Waterdeep: Dungeon of the Mad Mage p. 108</text>
+    </item>
+  <item>
+      <name>Jade Serpent Staff</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with mending cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a giant poisonous snake, with these changes:
+• The serpent is a construct that understands and obeys whoever was holding the staff when it transformed.
+• It has immunity to poison damage and the poisoned condition. It doesn't require air, food, drink, or sleep.
+• When it drops to 0 hit points, roll a d6. On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into 1d4 + 1 pieces that must be magically mended before the staff can be used again.
+Source: Waterdeep: Dungeon of the Mad Mage p. 92</text>
+    <roll>1d4+1</roll>
+    </item>
+  <item>
+      <name>Maddgoth's Helm</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>While you wear this helm and are inside Maddgoth's castle, on its roof, or in its courtyard, you have immunity to all damage. If the helm is taken from the castle, it turns to dust and is destroyed.
+Source: Waterdeep: Dungeon of the Mad Mage p. 103</text>
+    </item>
+  <item>
+      <name>Mind Flayer Skull</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>While you have the skull in your possession, you are invisible to mind flayers, as is anything you are wearing or carrying.
+Source: Waterdeep: Dungeon of the Mad Mage p. 197</text>
+    </item>
+  <item>
+      <name>Orb of Gonging</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>5</weight>
+    <property></property>
+    <text>This common wondrous item is a hollow, 5-inch-diameter orb that weighs 5 pounds. Its outer shell is composed of notched bronze rings, which can be turned so that the notches line up. Aligning the notches requires an action, and doing so causes the orb to gong loudly until the notches are no longer aligned. The sounds are spaced 6 seconds apart and can be heard out to a range of 600 feet.
+Source: Waterdeep: Dungeon of the Mad Mage p. 174</text>
+    </item>
+  <item>
+      <name>Pearl of Undead Detection</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <value>500.0</value>
+    <property></property>
+    <text>This black pearl glows faintly when undead are within 120 feet of it.
+Source: Waterdeep: Dungeon of the Mad Mage p. 76</text>
+    </item>
+  <item>
+      <name>Potion of Comprehension</name>
+    <detail></detail>
+    <type>P</type>
+    <weight></weight>
+    <property></property>
+    <text>When you drink this potion, you gain the effect of a comprehend languages spell for 1 hour. This liquid is a clear concoction with bits of salt and soot swirling in it.
+Source: Waterdeep: Dungeon of the Mad Mage p. 62</text>
+    </item>
+  <item>
+      <name>Potion of Watchful Rest</name>
+    <detail></detail>
+    <type>P</type>
+    <weight></weight>
+    <property></property>
+    <text>When you drink this potion, you gain the following benefits for the next 8 hours: magic can't put you to sleep, and you can remain awake during a long rest and still gain its benefits. This sweet, amber-colored brew has no effect on creatures that don't require sleep, such as elves.
+Source: Waterdeep: Dungeon of the Mad Mage p. 62</text>
+    </item>
+  <item>
+      <name>Professor Orb</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>5</weight>
+    <property></property>
+    <text>Each professor orb takes the form of a smooth, solid, 5-pound sphere of smoky gray quartz about the size of a grapefruit. Close examination reveals two or more pinpricks of silver light deep inside the sphere.
+A Professor Orb is sentient and has the personality of a scholar. Its alignment is determined by rolling on the alignment table in the "Sentient Magic Items" section in chapter 7 of the Dungeon Master's Guide. Regardless of its disposition, the orb has an Intelligence of 18, and Wisdom and Charisma scores determined by rolling 3d6 for each ability. The orb speaks, reads, and understands four languages, and can see and hear normally out to a range of 60 feet. Unlike most sentient items, the orb has no will of its own and can't initiate a conflict with the creature in possession of it.
+A Professor Orb has extensive knowledge of four narrow academic subjects. When making an Intelligence check to recall lore from any of its areas of expertise, the orb has a +9 bonus to its roll (including its Intelligence modifier).
+In addition to the knowledge it possesses, a professor orb can cast the mage hand cantrip at will. It uses the spell only to transport itself. Its spellcasting ability is Intelligence.
+Source: Waterdeep: Dungeon of the Mad Mage p. 284</text>
+    <roll>3d6</roll>
+    </item>
+  <item>
+      <name>Propeller Helm</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While worn, the helm allows its wearer to use an action to cast the levitate spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
+Source: Waterdeep: Dungeon of the Mad Mage p. 251</text>
+    </item>
+  <item>
+      <name>Shield of the Uven Rune</name>
+    <detail>Shield</detail>
+    <type>S</type>
+    <weight>6</weight>
+    <property></property>
+    <ac>2</ac>
+    <text>This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a DC 20 Intelligence (History) check recognizes it as an uven ("enemy" in Giant) rune that confers great power.
+While holding the shield, you benefit from the following properties.
+Winter's Friend: You are immune to cold damage.
+Deadly Rebuke: Immediately after a creature hits you with a melee attack, you can use your reaction to deal 3d6 necrotic damage to that creature.
+Bane: You can cast the bane spell from the shield (save DC 17). The spell does not require concentration and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest.
+Gift of Vengeance: You can transfer the shield's magic to a nonmagical weapon by tracing the uven rune on the weapon with one finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the shield is destroyed, and the rune is etched or burned into the chosen weapon. This weapon becomes a rare magic item that requires attunement. It has the properties of a +1 weapon. The bonus increases to +3 when the weapon is used against one of the following creature types, chosen by you at the time of the magic weapon's creation: aberrations, celestials, constructs, dragons, elementals, fey, fiends, giants, or undead.
+Source: Waterdeep: Dungeon of the Mad Mage p. 299</text>
+    <roll>3d6</roll>
+    </item>
+  <item>
+      <name>Tangler Grenade</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>A tangler grenade is an alchemical, nonmagical item with an ovoid resin shell that shatters on impact. An as action, a creature can throw a tangler grenade at a point up to 60 feet away. Each creature within 10 feet of a shattered tangler grenade must succeed on a DC 15 Dexterity saving throw or be restrained by sticky white webs. As an action, a creature can try to free itself or another creature within its reach from the webs, doing so with a successful DC 20 Strength (Athletics) check. A gallon of alcohol dissolves the webs produced by a single tangler grenade. Otherwise, the webs dissolve on their own after 1 hour, freeing any creatures restrained by them.
+Source: Waterdeep: Dungeon of the Mad Mage p. 244</text>
+    </item>
+  <item>
+      <name>Tearulai</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>The longsword, Tearulai, is a sentient, neutral good sword of sharpness with an emerald-colored blade and precious gemstones embedded in its hilt and pommel. The sword's magical properties are suppressed until it is removed from Valdemar's skull.
+Evil creatures can't attune to Tearulai; any evil creature that tries to do so takes 20 psychic damage. The weapon's emerald blade can't be damaged or dulled, and the sword can't be teleported anywhere without its wielder while the two are attuned to one another.
+Spells: The sword has 6 charges and regains 1d4 + 2 expended charges daily at dawn. A creature attuned to the sword can use an action and expend 1 or more charges to cast one of the following spells from it without material components: fly (2 charges), polymorph (3 charges), or transport via plants (4 charges).
+Sentience: The sword has an Intelligence of 17, a Wisdom of 12, and a Charisma of 20. It has hearing and truesight out to a range of 120 feet. It communicates telepathically with its attuned wielder and can speak, read, and understand Common, Draconic, Elvish, and Sylvan. In addition, the sword can ascertain the true value of any gemstone brought within 5 feet of it.
+Personality: Tearulai admires great beauty, music, fine art, and poetry. Vain, the weapon strives to improve its appearance. It craves gemstones and seeks out better ones with which to adorn itself. Most of all, it longs to return to the forests around Myth Drannor, where it was created. If its wielder's goals run counter to its own, Tearulai attempts to take control of its wielder and escape Undermountain, whereupon it can use its transport via plants spell to return whence it came.
+When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.
+Note: According to the SRD, it is an extra 4d6 slashing damage, although this is incorrect (https://twitter.com/JeremyECrawford/status/949111823990534144).
+In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
+Source: Waterdeep: Dungeon of the Mad Mage p. 70</text>
+    <roll>1d4+2</roll>
+    <roll>4d6</roll>
+    </item>
+  <item>
+      <name>Vanrak's Mithral Shirt</name>
+    <detail>Medium Armor</detail>
+    <type>MA</type>
+    <weight>20</weight>
+    <property></property>
+    <ac>13</ac>
+    <strength></strength>
+    <text>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+While you wear this armor, you gain darkvision out to a range of 60 feet.
+Source: Waterdeep: Dungeon of the Mad Mage p. 237</text>
+    </item>
+  <item>
+      <name>Vial of Stardust</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>Any creature that sprinkles the contents of a Vial of Stardust over itself gains the ability to cast the dream spell once as an action (spell save DC 15), requiring no components.
+Source: Waterdeep: Dungeon of the Mad Mage p. 251</text>
+    </item>
+  <item>
+      <name>Wyllow's Staff of Flowers</name>
+    <detail>minor, Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mildscented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns into flower petals and is lost forever.
+Wyllow's staff is peculiar in that it can't create roses, which the archdruid dislikes. If a rose is chosen, a daisy grows instead.
+Source: Waterdeep: Dungeon of the Mad Mage p. 75</text>
+    <roll>1d6+4</roll>
+    </item>
+  </compendium>

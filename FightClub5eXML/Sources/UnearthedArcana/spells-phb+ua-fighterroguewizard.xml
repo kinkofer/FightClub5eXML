@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Dominate Person</name>
+    <classes>Wizard (Psionics (UA))</classes>
+    </spell>
+  <spell>
+      <name>Friends</name>
+    <classes>Wizard (Psionics (UA))</classes>
+    </spell>
+  <spell>
+      <name>Mage Hand</name>
+    <classes>Fighter (Psychic Warrior (UA)), Wizard (Psionics (UA))</classes>
+    </spell>
+  <spell>
+      <name>Message</name>
+    <classes>Wizard (Psionics (UA))</classes>
+    </spell>
+  <spell>
+      <name>Scrying</name>
+    <classes>Wizard (Psionics (UA))</classes>
+    </spell>
+  <spell>
+      <name>Telekinesis</name>
+    <classes>Wizard (Psionics (UA))</classes>
+    </spell>
+  </compendium>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Metabolic Control (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You have refined psionic control over your body's functions.
+• Increase your Strength or Dexterity or Constitution score by 1, to a maximum of 20
+• If your Psionic Talent die is available, you can take an action to channel your psionic power to nourish yourself for the next 24 hours, as if you consumed sufficient food and water for a day. When you take this action, your Psionic Talent die decreases by one die size.
+• If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can't meditate in this way again until you finish a long rest.
+Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
+    </feat>
+  <feat>
+      <name>Telekinetic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You learn to move things with your mind. You gain the following benefits:
+• Increase your Intelligence or Wisdom or Charisma score by 1, to a maximum of 20
+• You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+• As a bonus action, you can try to Telekinetic (UA)ally shove one creature you can see within 30 feet of you. When you do so, roll your Psionic Talent die, and the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved toward you or away from you a number of feet equal to 5 times the number you rolled. A creature can willingly fail this save.
+Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
+    </feat>
+  <feat>
+      <name>Telepathic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You awaken the ability to mentally connect with others. You gain the following benefits:
+• Increase your Intelligence or Wisdom or Charisma score by 1, to a maximum of 20
+• You can speak Telepathic (UA)ally to any creature you can see within 30 feet of you. Your Telepathic (UA) utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you Telepathic (UA)ally.
+• If your Psionic Talent die is available, you can cast the detect thoughts spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.
+Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
+    </feat>
+  <feat>
+      <name>Tower of Iron Will (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your mind's defenses are formidable. After you or another creature you can see within 30 feet of you fails a saving throw, you can use your reaction to roll your Psionic Talent die and add the number rolled to the saving throw, potentially causing it to succeed.
+Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 9</text>
+    </feat>
+  <feat>
+      <name>Wild Talent (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You awaken to your psionic potential, which enhances your mind or body. Increase one ability score of your choice by 1, to a maximum of 20, to represent this enhancement.
+You also harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.
+Psionic Talent Options: You can use your Psionic Talent die in the following ways:
+• Psi-Boosted Ability.: When you make an ability check with the ability increased by this feat, you can roll your Psionic Talent die and add the number rolled to the check. You can choose to do so before or after rolling the d20, but before you know whether the check succeeded or failed.
+• Psi-Guided Strike.: Once on each of your turns when you hit with an attack roll that uses the ability increased by this feat, you can roll your Psionic Talent die after you make the damage roll and then replace one of the damage dice with the number rolled on the Psionic Talent die.
+Changing the Die's Size: If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it's a d4 and you roll a 4, it becomes unusable until you finish a long rest.
+Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.
+Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). If you have a Psionic Talent die from another source, such as a class feature, you don't get more than one die; use only the one with the largest starting size.
+Psi Replenishment: As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can't use Psi Replenishment again until you finish a long rest.
+Source: Unearthed Arcana: 2020 Psionic Options Revisited p. 9</text>
+    </feat>
+  </compendium>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): The Hexblade</name>
+        <text>You have made your pact with a powerful, sentient magic weapon carved from the stuff of the Shadowfell. The mighty sword Blackrazor is the most notable of these weapons, several of which have spread across the multiverse over the ages. These weapons grow stronger as they consume the life essence of their victims. The strongest of them can use their ties to the Shadowfell to offer power to mortals who serve them. The Raven Queen forged the first of these weapons. They, along with the hexblade warlocks, are another tool she can use to manipulate events in the Material Plane to her inscrutable ends.</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Hexblade Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | shield, wrathful smite</text>
+        <text>2nd | branding smite, magic weapon</text>
+        <text>3rd | blink, elemental weapon</text>
+        <text>4th | phantasmal killer, staggering smite</text>
+        <text>5th | cone of cold, destructive wave</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Hex Warrior</name>
+        <text>At 1st level, you gain proficiency with medium armor, shields, and martial weapons. In addition, when attacking with a melee weapon that you are proficient with and that lacks the two-handed property, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Hexblade's Curse</name>
+        <text>Starting at 1st level, you gain the ability to place a baleful curse on an enemy. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. Until the curse ends, you gain the following benefits:</text>
+        <text>• You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.</text>
+        <text>• Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>• If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier.</text>
+        <text>You can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): The Raven Queen</name>
+        <text>You patron is the Raven Queen, a mysterious being who rules the Shadowfell from a palace of ice deep within that dread realm. The Raven Queen watches over the world, anticipating each creature's death and ensuring that it meets its end at the proscribed time and place. As the ruler of the Shadowfell, she dwells in a decayed, dark reflection of the world. Her ability to reach into the world is limited. Thus, she turns to mortal warlocks to serve her will. Warlocks sworn to the Raven Queen receive visions and whispers from her in their dreams, sending them on quests and warning them of impending dangers.</text>
+        <text>The Raven Queen's followers are expected to serve her will in the world. She concerns herself with ensuring that those fated to die pass from the world as expected, and bids her agents to defeat those who seek to cheat death through undeath or other imitations of immortality. She hates intelligent undead and expects her followers to strike them down, whereas mindless undead such as skeletons and zombies are little more than stumbling automatons in her eyes.</text>
+        <name>The Raven Queen (UA): Expanded Spell List</name>
+        <text>   The Raven Queen lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
+        <text></text>
+        <text>Raven Queen Expanded Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | false life, sanctuary</text>
+        <text>2nd | silence, spiritual weapon</text>
+        <text>3rd | feign death, speak with dead</text>
+        <text>4th | ice storm, locate creature</text>
+        <text>5th | commune, cone of cold</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Sentinel Raven</name>
+        <text>Starting at 1st level, you gain the service of a spirit sent by the Raven Queen to watch over you. The spirit assumes the form and game statistics of a raven, and it always obeys your commands, which you can give telepathically while it is within 100 feet of you.</text>
+        <text>While the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and a bonus to your passive Wisdom (Perception) score and to Wisdom (Perception) checks. The bonus equals your Charisma modifier. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.</text>
+        <text>You can see through the raven's eyes and hear what it hears while it is within 100 feet of you. In combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.</text>
+        <text>The raven doesn't require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action. The raven vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles.</text>
+        <text>At the end of a short or long rest, you can call the raven back to you—no matter where it is or whether it died—and it reappears within 5 feet of you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Shadow Hound</name>
+        <text>Starting at 6th level, your shadow can split from you and transform into a hound of pure darkness. Most of the time, your shadow hound masquerades as your normal shadow. As a bonus action, you can command it to magically slip into the shadow of a creature you can see within 60 feet of you. While the shadow hound is merged in this manner, the target can't gain the benefits of half cover or three-quarters cover against your attack rolls, and you know the distance and direction to the target even if it is hidden. The hound can't be seen by anyone but you and those with truesight, and it is unaffected by light. The target has a vague feeling of dread while the hound is present.</text>
+        <text>As a bonus action, you can command your shadow hound to return to you. It also automatically returns to you if you and the target are on different planes of existence, if you're incapacitated, or if dispel magic, remove curse, or similar magic is used on the target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Soul of the Raven</name>
+        <text>At 6th level, you gain the ability to merge with your raven spirit. As a bonus action when your raven is perched on your shoulder, your body merges with your raven's form. While merged, you become Tiny, you replace your speed with the raven's, and you can use your action only to Dash, Disengage, Dodge, Help, Hide, or Search. During this time, you gain the benefits of your raven being perched on your shoulder. As an action, you and the raven return to normal.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Armor of Hexes</name>
+        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, roll a d6. On a 4 or higher, the attack instead misses you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Raven's Shield</name>
+        <text>At 10th level, the Raven Queen grants you a protective blessing. You gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Hexblade (UA): Master of Hexes</name>
+        <text>Starting at 14th level, you can use your Hexblade's Curse again without resting, but when you apply it to a new target, the curse immediately ends on the previous target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Raven Queen (UA): Queen's Right Hand</name>
+        <text>Starting at 14th level, you can channel the Raven Queen's power to slay a creature. You can cast finger of death. After you cast the spell with this feature, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

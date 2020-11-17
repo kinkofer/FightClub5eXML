@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Dragonguard</name>
+    <detail>Medium Armor</detail>
+    <type>MA</type>
+    <weight>20</weight>
+    <property></property>
+    <ac>14</ac>
+    <text>You have a +1 bonus to AC while wearing this armor.
+This +1 breastplate has a gold dragon motif worked into its design. Created for a human hero of Neverwinter named Tergon, it grants its wearer advantage on saving throws against the breath weapons of creatures that have the dragon type.
+Source: Lost Mine of Phandelver p. 48</text>
+    </item>
+  <item>
+      <name>Hew</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <text>This +1 battleaxe deals maximum damage when the wielder hits a plant creature or an object made of wood. The axe's creator was a dwarf smith who feuded with the dryads of a forest where he cut firewood. Whoever carries the axe feels uneasy whenever he or she travels through a forest.
+Source: Lost Mine of Phandelver p. 33</text>
+    </item>
+  <item>
+      <name>Lightbringer</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>4</weight>
+    <property></property>
+    <dmg1>1d6</dmg1>
+    <dmgType>B</dmgType>
+    <text>This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra 1d6 radiant damage to undead creatures.
+Source: Lost Mine of Phandelver p. 48</text>
+    <roll>1d6</roll>
+    </item>
+  <item>
+      <name>Spider Staff</name>
+    <detail>Staff</detail>
+    <type>ST</type>
+    <weight>6</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>The top of this black, adamantine staff is shaped like a spider. The staff weighs 6 pounds. You must be attuned to the staff to gain its benefits and cast its spells. The staff can be wielded as a quarterstaff. It deals 1d6 extra poison damage on a hit when used to make a weapon attack.
+The staff has 10 charges, which are used to fuel the spells within it. With the staff in hand, you can use your action to cast one of the following spells from the staff if the spell is on your class's spell list: spider climb (1 charge) or web (2 charges, spell save DC 15). No components are required.
+The staff regains 1d6 + 4 expended charges each day at dusk. If you expend the staff's last charge, roll a d20. On a 1, the staff crumbles to dust and is destroyed.
+Source: Lost Mine of Phandelver p. 53</text>
+    <roll>1d6</roll>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Staff of Defense</name>
+    <detail>Staff</detail>
+    <type>ST</type>
+    <weight>3</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>This slender, hollow staff is made of glass yet is as strong as oak. It weighs 3 pounds. You must be attuned to the staff to gain its benefits and cast its spells.
+While holding the staff, you have a +1 bonus to your Armor Class.
+The staff has 10 charges, which are used to fuel the spells within it. With the staff in hand, you can use your action to cast one of the following spells from the staff if the spell is on your class's spell list: mage armor (1 charge) or shield (2 charges). No components are required.
+The staff regains 1d6 + 4 expended charges each day at dawn. If you expend the staff's last charge, roll a d20. On a 1, the staff shatters and is destroyed.
+Source: Lost Mine of Phandelver p. 53</text>
+    <roll>1d6+4</roll>
+    </item>
+  </compendium>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Way of the Ascendant Dragon</name>
+        <text>Monks who follow the Way of the Ascendant Dragon revere the power and grandeur of dragons. They alter their own ki to resonate with draconic might, channeling it to augment their prowess in battle, soar through the air, and to bolster their allies.</text>
+        <text>As a follower of this Monastic Tradition, you decide how you unlocked the power of dragons through your ki. The Ascendant Dragon Origin table offers some possibilities.</text>
+        <text></text>
+        <text>Ascendant Dragon Origin</text>
+        <text>d6 | Origin</text>
+        <text>1 | You honed your abilities by observing a dragon and aligning your ki with their world-altering power.</text>
+        <text>2 | A dragon personally took an active role in shaping your inner energy.</text>
+        <text>3 | You studied at a monastery that traces its teachings back centuries or more to a single dragon's instruction.</text>
+        <text>4 | You spent long stretches meditating in the region of influence of an ancient dragon's lair, absorbing its ambient magic.</text>
+        <text>5 | You found a scroll written in Draconic that contained inspiring new techniques.</text>
+        <text>6 | After a dream that featured a five-handed dragonborn you awoke with altered ki, reflecting the breaths of dragons.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Breath of the Dragon</name>
+        <text>3rd-level Way of the Ascendant Dragon feature</text>
+        <text>You can channel your ki into destructive waves of energy like the dragons you emulate. When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Choose a damage type: acid, cold, fire, lightning, or poison. Each creature in the area must make a Dexterity saving throw against your ki save DC, taking damage of the chosen type equal to two rolls of your Martial Arts die on a failure, or half as much damage on a success.</text>
+        <text>At 11th level, the damage of your breath increases to three rolls of your Martial Arts die.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 1 ki point to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Draconic Disciple</name>
+        <text>3rd-level Way of the Ascendant Dragon feature</text>
+        <text>You can channel your draconic ki to imbue your unarmed strikes with the essence of a dragon's breath and to use your connection with draconic creatures to magnify your presence. You gain the following benefits:</text>
+        <text>• When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.</text>
+        <text>• If you can't already, you learn to speak, read, and write Draconic.</text>
+        <text>• If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Wings Unfurled</name>
+        <text>6th-level Way of the Ascendant Dragon feature</text>
+        <text>When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist, you have a flying speed equal to your walking speed.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 1 additional ki point when you activate Step of the Wind to use this feature again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Aspect of the Wyrm</name>
+        <text>11th-level Way of the Ascendant Dragon feature</text>
+        <text>The power of your draconic ki now radiates from you, protecting your allies from harm and punishing any who raise arms against them. As a bonus action, you can create an aura of draconic power that radiates 30 feet from you for 1 minute. Choose acid, cold, fire, lightning, or poison damage, and for the duration, you gain the following effects:</text>
+        <text>• You and your allies within your aura gain resistance to the chosen damage type.</text>
+        <text>• Waves of destructive energy flow out from you and your allies when any of you are attacked. When you or one of your allies in the aura is hit by an attack made by another creature within the aura, the target that was hit can use their reaction to deal an amount of damage of the chosen type equal to one roll of your Martial Arts die to the attacker.</text>
+        <text>Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend 4 ki points to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Ascendant Dragon (UA): Ascendant Aspect</name>
+        <text>17th-level Way of the Ascendant Dragon feature</text>
+        <text>Your draconic ki reaches its peak. You gain the following benefits:</text>
+        <text>• You gain blindsight out to 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.</text>
+        <text>• When you damage a creature with your Breath of the Dragon, the energy clings to the target. At the start of each of the creature's turns, it takes damage of the type your breath dealt equal to one roll of your Martial Arts die. At the end of its turn, the creature can repeat the save, ending the effect on itself on a success.</text>
+        <text>• When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see within your aura. Those creatures each take 4d10 acid, cold, fire, lightning, or poison damage (your choice).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

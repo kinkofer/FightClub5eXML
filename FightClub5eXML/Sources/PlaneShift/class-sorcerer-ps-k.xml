@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Pyromancer (PSK)</name>
+        <text>Your innate magic manifests in fire. You are your fire, and your fire is you.</text>
+        <text></text>
+        <text>Source: Plane Shift: Kaladesh p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Pyromancer (PSK): Heart of Fire</name>
+        <text>At 1st level, whenever you start casting a spell of 1st level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take fire damage equal to half your sorcerer level (minimum of 1).</text>
+        <text></text>
+        <text>Source: Plane Shift: Kaladesh p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Pyromancer (PSK): Fire in the Veins</name>
+        <text>At 6th level, you gain resistance to fire damage. In addition, spells you cast ignore resistance to fire damage.</text>
+        <text></text>
+        <text>Source: Plane Shift: Kaladesh p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Pyromancer (PSK): Pyromancer's Fury</name>
+        <text>Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal fire damage to the attacker. The damage equals your sorcerer level, and ignores resistance to fire damage.</text>
+        <text></text>
+        <text>Source: Plane Shift: Kaladesh p. 9</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Pyromancer (PSK): Fiery Soul</name>
+        <text>At 18th level, you gain immunity to fire damage. In addition, any spell or effect you create ignores resistance to fire damage and treats immunity to fire damage as resistance to fire damage.</text>
+        <text></text>
+        <text>Source: Plane Shift: Kaladesh p. 9</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

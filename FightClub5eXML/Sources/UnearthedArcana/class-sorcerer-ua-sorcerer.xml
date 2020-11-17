@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Favored Soul v2</name>
+        <text>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a favored soul, your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.</text>
+        <text>Favored souls, with their natural magnetism and strong personalities, are often seen as threats by traditional religious hierarchies. As outsiders who command the power of the gods, these sorcerers can undermine the existing order and claim a direct tie to the divine.</text>
+        <text>In some cultures, only those who can claim the power of a favored soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Divine Magic</name>
+        <text>Your link to the divine allows you to learn spells normally associated with the cleric class. When your Spellcasting feature lets you learn a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Favored by the Gods</name>
+        <text>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Supernatural Resilience</name>
+        <text>At 1st level, the blessing of the gods grants you enhanced durability. Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Phoenix Sorcery (UA)</name>
+        <text>Your power draws from the immortal flame that fuels the legendary phoenix. You or your ancestors perhaps rendered a phoenix a great service, or you were born in its presence. Whatever the cause, a shard of the phoenix's power dwells within you.</text>
+        <text>That power is a mixed blessing. Like the mythical creature, you can invoke fiery energy and gain the ability to cheat death itself. This power comes at a cost. The fire within you seethes, demanding to be unleashed. You sometimes find yourself absentmindedly feeding fires. You can't bear to allow a fire to sputter out. You feel most comfortable while holding a lit torch or sitting in front of a campfire.</text>
+        <text>More importantly, this gift comes with no special protection from fire. You are as vulnerable as any other creature to fiery magic, including your own. Phoenix sorcerers can use their powers to pull themselves back from the brink of death, and all too often their own, rash nature or reliance on destructive magic is what puts them there in the first place.</text>
+        <text>Such sorcerers are wanderers by necessity. The volatile nature of their magic makes other folk nervous. If a fire breaks out in town, a phoenix sorcerer had best flee, whether guilty or not. Fire is a dangerous force, and phoenix sorcerers have a reputation (deserved or not) for reckless behavior, confident that the essence of the phoenix can save them.</text>
+        <text></text>
+        <text>Phoenix Soul Quirks</text>
+        <text>d6 | Phoenix Soul</text>
+        <text>1 | You absentmindedly ignite small fires that quickly sputter out.</text>
+        <text>2 | You cackle like a fiend when you unleash your fire spells.</text>
+        <text>3 | You admire fire, even if it burns your friends.</text>
+        <text>4 | You are covered in burns that mark the first time your power manifested.</text>
+        <text>5 | You like your food charred.</text>
+        <text>6 | You are brave to the point of recklessness.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Phoenix Sorcery (UA): Ignite</name>
+        <text>At 1st level, you gain the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand—an object such as a torch, a piece of tinder, or the hem of drapes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Phoenix Sorcery (UA): Mantle of Flame</name>
+        <text>Starting at 1st level, you can unleash the phoenix fire that blazes within you.</text>
+        <text>As a bonus action, you magically wreathe yourself in swirling fire, as your eyes glow like hot coals. For 1 minute, you gain the following benefits:</text>
+        <text>• You shed bright light in a 30-foot radius and dim light for an additional 30 feet.</text>
+        <text>• Any creature takes fire damage equal to your Charisma modifier if it hits you with a melee attack from within 5 feet of you or if it touches you.</text>
+        <text>• Whenever you roll fire damage on your turn, the roll gains a bonus to equal to your Charisma modifier.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Sea Sorcery (UA)</name>
+        <text>The power of water is the strength of flexibility, resilience, and a relentless nature. Water parts to allow a ship to sail over it or a diver to plunge into it, but their passing leaves no mark. Water flowing down a mountain reaches the sea. It might bend and turn across valleys and down hillsides, but it slowly and steadily returns to the waves. Those whose souls are touched by the power of elemental water command a similar power.</text>
+        <text>Your heritage ties to powerful creatures of the sea, such as nereids, the lords of the merfolk, and elemental powers. Like a river, you feel the call of the ocean. The call is ever present in your heart, and you are never completely at peace until you are near the sea.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sea Sorcery (UA): Curse of the Sea</name>
+        <text>When you choose this origin at 1st level, you learn the secret of infusing your spells with a watery curse.</text>
+        <text>When you hit a creature with a cantrip's attack or when a creature fails a saving throw against your cantrip, you can curse the target until the end of your next turn or until you curse a different creature with this feature.</text>
+        <text>Once per turn when you cast a spell, you can trigger the curse if that spell deals cold or lightning damage to the cursed target or forces it to move. Doing so subjects the target to the appropriate additional effect below, and then the curse ends if the spell isn't a cantrip (you choose the effect to use if more than one effect applies):</text>
+        <name>Sea Sorcery (UA): Cold damage</name>
+        <text>   If the affected target takes cold damage from your spell, the target's speed is also reduced by 15 feet until the end of your next turn. If the spell already reduces the target's speed, use whichever reduction is greater.</text>
+        <name>Sea Sorcery (UA): Lightning Damage</name>
+        <text>   If the affected target takes lightning damage from your spell, the target takes additional lightning damage equal to your Charisma modifier.</text>
+        <name>Sea Sorcery (UA): Forced Movement</name>
+        <text>   If the target is moved by your spell, increase the distance it is moved by 15 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sea Sorcery (UA): Soul of the Sea</name>
+        <text>At 1st level, your tie to the sea grants you the ability to breathe underwater, and you have a swim speed equal to your walking speed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Stone Sorcery (UA)</name>
+        <text>Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command.</text>
+        <text>Your link to earth magic grants you extraordinary resilience, and stone sorcerers have a natural affinity for combat. A steel blade feels like a natural extension of your body, and sorcerers with this origin have a knack for wielding both shields and weapons. In combat your place is amid the fray. You rely on your elemental nature to shield you from harm and your magic and metal weapons to overwhelm your foes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Bonus Proficiencies</name>
+        <text>At 1st level, you gain proficiency with shields, simple weapons, and martial weapons.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Stone's Durability</name>
+        <text>At 1st level, your connection to stone gives you extra fortitude. Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.</text>
+        <text>As an action, you can gain a base AC of 13 + your Constitution modifier if you aren't wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Stone: Metal Magic</name>
+        <text>Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</text>
+        <text></text>
+        <text>Metal Magic</text>
+        <text>Spell Level | Spell</text>
+        <text>1st | compelled duel, searing smite, thunderous smite, wrathful smite</text>
+        <text>2nd | branding smite, magic weapon</text>
+        <text>3rd | blinding smite, elemental weapon</text>
+        <text>4th | staggering smite</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Blessed Countenance</name>
+        <text>At 6th level, your divine essence causes you to undergo a minor physical transformation. Your appearance takes on an otherworldly version of one of the following qualities (your choice): beautiful, youthful, kind, or imposing.</text>
+        <text>Whatever your choice, if your proficiency bonus applies to a Charisma check, double that bonus.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Phoenix Sorcery (UA): Phoenix Spark</name>
+        <text>Starting at 6th level, the fiery energy within you grows restless and vengeful. In the face of defeat, it surges outward to preserve you in a fiery roar.</text>
+        <text>If you are reduced to 0 hit points, you can use your reaction to draw on the spark of the phoenix. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your sorcerer level + your Charisma modifier.</text>
+        <text>If you use this feature while under the effects of your Mantle of Flame, this feature instead deals fire damage equal to your sorcerer level + double your Charisma modifier, and your Mantle of Flame immediately ends.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Sea Sorcery (UA): Watery Defense</name>
+        <text>At 6th level, you gain resistance to fire damage.</text>
+        <text>You also gain the ability to defend yourself by momentarily assuming a watery form. As a reaction when you are hit by an attack and take bludgeoning, piercing, or slashing damage from it, you can reduce that damage by an amount equal to your sorcerer level plus your Charisma score, and then you can move up to 30 feet without provoking opportunity attacks. Once you use this special reaction, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Stone Aegis</name>
+        <text>Starting at 6th level, your command of earth magic grows stronger, allowing you to harness it for your allies' protection.</text>
+        <text>As a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.</text>
+        <text>In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can teleport only if you and the attacker are on the same surface. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 1d10 force damage. This extra damage increases to 2d10 at 11th level and 3d10 at 17th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Divine Purity</name>
+        <text>At 14th level, you become immune to disease, poison damage, and the poisoned condition.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Phoenix Sorcery (UA): Nourishing Fire</name>
+        <text>Starting at 14th level, your fire spells soothe and restore you. When you expend a spell slot to cast a spell that includes a fire damage roll, you regain hit points equal to the slot's level + your Charisma modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Sea Sorcery (UA): Shifting Form</name>
+        <text>Starting at 14th level, you gain the ability to enter a liquid state while moving.</text>
+        <text>When you move on your turn, you take only half damage from opportunity attacks, and you can move through any enemy's space but can't willingly end your move there.</text>
+        <text>On your turn, you can move through any space that is at least 3 inches in diameter and do so without squeezing. When you stop moving, the regular squeezing rules apply if you're in a space one size smaller than you. You can't willingly stop in a space smaller than that, and if you're forced to do so, you immediately flow to the nearest space that can fit you, back along the path of your movement.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Stone's Edge</name>
+        <text>Starting at 14th level, your mastery of earth magic allows you to add the force of elemental earth to your spells. When you cast a spell that deals damage, choose one creature damaged by that spell on the round you cast it. That creature takes extra force damage equal to half your sorcerer level. This feature can be used only once per casting of a spell.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Favored Soul v2 (UA): Unearthly Recovery</name>
+        <text>At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have less than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Phoenix Sorcery (UA): Form of the Phoenix</name>
+        <text>At 18th level, you finally master the spark of fire that dances within you. While under the effect of your Mantle of Flame feature, you gain additional benefits:</text>
+        <text>• You have a flying speed of 40 feet and can hover.</text>
+        <text>• You have resistance to all damage.</text>
+        <text>• If you use your Phoenix Spark, that feature deals an extra 20 fire damage to each creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Sea Sorcery (UA): Water Soul</name>
+        <text>Starting at 18th level, your being is altered by the power of the sea. You gain the following benefits:</text>
+        <text>• You no longer need to eat, drink, or sleep.</text>
+        <text>• A critical hit against you becomes a normal hit.</text>
+        <text>• You have resistance to bludgeoning, piercing, and slashing damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Stone Sorcery (UA): Earth Master's Aegis</name>
+        <text>Beginning at 18th level, when you use your Stone Aegis to protect an ally, you can choose up to three creatures to gain its benefits.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Sorcerer p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

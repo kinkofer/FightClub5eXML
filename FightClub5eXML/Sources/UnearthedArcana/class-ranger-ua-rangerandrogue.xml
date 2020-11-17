@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Horizon Walker</name>
+        <text>Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Planar Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Horizon Walker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | alter self</text>
+        <text>9th | protection from energy</text>
+        <text>13th | banishment</text>
+        <text>17th | teleportation circle</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Portal Lore</name>
+        <text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Horizon Walker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Portal Lore</name>
+        <text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Horizon Walker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Planar Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Horizon Walker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | alter self</text>
+        <text>9th | protection from energy</text>
+        <text>13th | banishment</text>
+        <text>17th | teleportation circle</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Portal Lore</name>
+        <text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Primeval Guardian</name>
+        <text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.</text>
+        <text>These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Primeval Guardian Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | entangle</text>
+        <text>5th | enhance ability</text>
+        <text>9th | conjure animals</text>
+        <text>13th | giant insect</text>
+        <text>17th | insect plague</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Soul</name>
+        <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.</text>
+        <text>You undergo the following changes while in your guardian form:</text>
+        <text>• Your size becomes Large, unless you were larger.</text>
+        <text>• Any speed you have becomes 5 feet, unless the speed was lower.</text>
+        <text>• Your reach increases by 5 feet.</text>
+        <text>• You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Piercing Thorns</name>
+        <text>At 3rd level, your command of primal magic allows you to enhance your attacks with thorns. Once during each of your turns, you can deal an additional 1d6 piercing damage to one creature you hit with a weapon attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Primeval Guardian</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.</text>
+        <text>These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Soul</name>
+        <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.</text>
+        <text>You undergo the following changes while in your guardian form:</text>
+        <text>• Your size becomes Large, unless you were larger.</text>
+        <text>• Any speed you have becomes 5 feet, unless the speed was lower.</text>
+        <text>• Your reach increases by 5 feet.</text>
+        <text>• You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Piercing Thorns</name>
+        <text>At 3rd level, your command of primal magic allows you to enhance your attacks with thorns. Once during each of your turns, you can deal an additional 1d6 piercing damage to one creature you hit with a weapon attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Primeval Guardian</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.</text>
+        <text>These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Primeval Guardian Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | entangle</text>
+        <text>5th | enhance ability</text>
+        <text>9th | conjure animals</text>
+        <text>13th | giant insect</text>
+        <text>17th | insect plague</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Soul</name>
+        <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.</text>
+        <text>You undergo the following changes while in your guardian form:</text>
+        <text>• Your size becomes Large, unless you were larger.</text>
+        <text>• Any speed you have becomes 5 feet, unless the speed was lower.</text>
+        <text>• Your reach increases by 5 feet.</text>
+        <text>• You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Piercing Thorns</name>
+        <text>At 3rd level, your command of primal magic allows you to enhance your attacks with thorns. Once during each of your turns, you can deal an additional 1d6 piercing damage to one creature you hit with a weapon attack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Ancient Fortitude</name>
+        <text>At 7th level, you gain the endurance of the ancient forests. Your hit point maximum and current hit points increase by 2 per ranger level when you assume your guardian form. This increase lasts until you leave the form; your hit point maximum then returns to normal, but your current hit points remain the same, unless they must decrease to abide by your hit point maximum.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Ancient Fortitude</name>
+        <text>At 7th level, you gain the endurance of the ancient forests. Your hit point maximum and current hit points increase by 2 per ranger level when you assume your guardian form. This increase lasts until you leave the form; your hit point maximum then returns to normal, but your current hit points remain the same, unless they must decrease to abide by your hit point maximum.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Ancient Fortitude</name>
+        <text>At 7th level, you gain the endurance of the ancient forests. Your hit point maximum and current hit points increase by 2 per ranger level when you assume your guardian form. This increase lasts until you leave the form; your hit point maximum then returns to normal, but your current hit points remain the same, unless they must decrease to abide by your hit point maximum.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Distant Strike</name>
+        <text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Distant Strike</name>
+        <text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Distant Strike</name>
+        <text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Rooted Defense</name>
+        <text>At 11th level, you gain the ability to twist and turn the ground beneath you. While you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Rooted Defense</name>
+        <text>At 11th level, you gain the ability to twist and turn the ground beneath you. While you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Rooted Defense</name>
+        <text>At 11th level, you gain the ability to twist and turn the ground beneath you. While you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker (UA): Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Aura</name>
+        <text>Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Aura</name>
+        <text>Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Primeval Guardian (UA): Guardian Aura</name>
+        <text>Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Ranger And Rogue p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

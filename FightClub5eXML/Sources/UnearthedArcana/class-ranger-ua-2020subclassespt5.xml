@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drakewarden</name>
+        <text>Drakewardens are rangers who use their magical connection with nature to form an enduring bond with a minor dragon, a drake. This bond allows the ranger to summon the</text>
+        <text>drake to their side and to share in the awe-inspiring power wielded by dragons. Consider how your ranger gained their bond with the drake. The Drakewarden Origin table offers some examples.</text>
+        <text></text>
+        <text></text>
+        <text>d6 | Origin</text>
+        <text>1 | You studied a dragon's scale or claw, or a trinket from its hoard, and created your bond through the token's lingering draconic magic.</text>
+        <text>2 | A secret order of rangers who collect and guard draconic lore taught you their ways.</text>
+        <text>3 | A true dragon gave you a drake egg to care for. When it hatched, the drake bonded to you.</text>
+        <text>4 | You drank a few drops of dragon blood, forever infusing your nature magic with draconic power.</text>
+        <text>5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud.</text>
+        <text>6 | You had a vivid dream of a mysterious man, accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Draconic Gift</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>The bond you share with your drake creates a deeper connection to dragon kind, granting you understanding and empowering your presence. You gain the following benefits:</text>
+        <text>• If you can't already, you learn to speak, read, and write Draconic.</text>
+        <text>• You learn the thaumaturgy cantrip, which is a ranger spell for you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake Companion</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>You can magically summon the drake bound to you. As an action, you can summon the drake, which appears in an unoccupied space of your choice that you can see within 30 feet of you.</text>
+        <text>The drake is friendly to you and your companions and obeys your commands. See its game statistics in the Drake Companion stat block, which uses your proficiency bonus (PB) in several places. When you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake such as its color, scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.</text>
+        <text>In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.</text>
+        <text>Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.</text>
+        <text>The drake remains for a number of hours equal to your proficiency bonus, until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drakewarden</name>
+        <text>Drakewardens are rangers who use their magical connection with nature to form an enduring bond with a minor dragon, a drake. This bond allows the ranger to summon the</text>
+        <text>drake to their side and to share in the awe-inspiring power wielded by dragons. Consider how your ranger gained their bond with the drake. The Drakewarden Origin table offers some examples.</text>
+        <text></text>
+        <text></text>
+        <text>d6 | Origin</text>
+        <text>1 | You studied a dragon's scale or claw, or a trinket from its hoard, and created your bond through the token's lingering draconic magic.</text>
+        <text>2 | A secret order of rangers who collect and guard draconic lore taught you their ways.</text>
+        <text>3 | A true dragon gave you a drake egg to care for. When it hatched, the drake bonded to you.</text>
+        <text>4 | You drank a few drops of dragon blood, forever infusing your nature magic with draconic power.</text>
+        <text>5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud.</text>
+        <text>6 | You had a vivid dream of a mysterious man, accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Draconic Gift</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>The bond you share with your drake creates a deeper connection to dragon kind, granting you understanding and empowering your presence. You gain the following benefits:</text>
+        <text>• If you can't already, you learn to speak, read, and write Draconic.</text>
+        <text>• You learn the thaumaturgy cantrip, which is a ranger spell for you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake Companion</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>You can magically summon the drake bound to you. As an action, you can summon the drake, which appears in an unoccupied space of your choice that you can see within 30 feet of you.</text>
+        <text>The drake is friendly to you and your companions and obeys your commands. See its game statistics in the Drake Companion stat block, which uses your proficiency bonus (PB) in several places. When you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake such as its color, scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.</text>
+        <text>In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.</text>
+        <text>Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.</text>
+        <text>The drake remains for a number of hours equal to your proficiency bonus, until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drakewarden</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Drakewardens are rangers who use their magical connection with nature to form an enduring bond with a minor dragon, a drake. This bond allows the ranger to summon the</text>
+        <text>drake to their side and to share in the awe-inspiring power wielded by dragons. Consider how your ranger gained their bond with the drake. The Drakewarden Origin table offers some examples.</text>
+        <text></text>
+        <text></text>
+        <text>d6 | Origin</text>
+        <text>1 | You studied a dragon's scale or claw, or a trinket from its hoard, and created your bond through the token's lingering draconic magic.</text>
+        <text>2 | A secret order of rangers who collect and guard draconic lore taught you their ways.</text>
+        <text>3 | A true dragon gave you a drake egg to care for. When it hatched, the drake bonded to you.</text>
+        <text>4 | You drank a few drops of dragon blood, forever infusing your nature magic with draconic power.</text>
+        <text>5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud.</text>
+        <text>6 | You had a vivid dream of a mysterious man, accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Draconic Gift</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>The bond you share with your drake creates a deeper connection to dragon kind, granting you understanding and empowering your presence. You gain the following benefits:</text>
+        <text>• If you can't already, you learn to speak, read, and write Draconic.</text>
+        <text>• You learn the thaumaturgy cantrip, which is a ranger spell for you.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake Companion</name>
+        <text>3rd-level Drakewarden feature</text>
+        <text>You can magically summon the drake bound to you. As an action, you can summon the drake, which appears in an unoccupied space of your choice that you can see within 30 feet of you.</text>
+        <text>The drake is friendly to you and your companions and obeys your commands. See its game statistics in the Drake Companion stat block, which uses your proficiency bonus (PB) in several places. When you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake such as its color, scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.</text>
+        <text>In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.</text>
+        <text>Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.</text>
+        <text>The drake remains for a number of hours equal to your proficiency bonus, until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Bond of Fang and Scale</name>
+        <text>7th-level Drakewarden feature</text>
+        <text>The bond you share with your drake intensifies, protecting you and stoking the drake's fury. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• You gain resistance to the damage type chosen for the drake's Draconic Essence.</text>
+        <text>• Choose one of the following: the drake gains a swimming speed of 40 feet and can breathe both air and water, or the drake grows wings and gains a flying speed of 40 feet.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Bond of Fang and Scale</name>
+        <text>7th-level Drakewarden feature</text>
+        <text>The bond you share with your drake intensifies, protecting you and stoking the drake's fury. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• You gain resistance to the damage type chosen for the drake's Draconic Essence.</text>
+        <text>• Choose one of the following: the drake gains a swimming speed of 40 feet and can breathe both air and water, or the drake grows wings and gains a flying speed of 40 feet.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Bond of Fang and Scale</name>
+        <text>7th-level Drakewarden feature</text>
+        <text>The bond you share with your drake intensifies, protecting you and stoking the drake's fury. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• You gain resistance to the damage type chosen for the drake's Draconic Essence.</text>
+        <text>• Choose one of the following: the drake gains a swimming speed of 40 feet and can breathe both air and water, or the drake grows wings and gains a flying speed of 40 feet.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake's Breath</name>
+        <text>11th-level Drakewarden feature</text>
+        <text>As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage. Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 6d6 damage on a failed save, or half as much damage on a successful one.</text>
+        <text>This damage increases to 8d6 when you reach 15th level in this class.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake's Breath</name>
+        <text>11th-level Drakewarden feature</text>
+        <text>As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage. Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 6d6 damage on a failed save, or half as much damage on a successful one.</text>
+        <text>This damage increases to 8d6 when you reach 15th level in this class.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Drake's Breath</name>
+        <text>11th-level Drakewarden feature</text>
+        <text>As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage. Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 6d6 damage on a failed save, or half as much damage on a successful one.</text>
+        <text>This damage increases to 8d6 when you reach 15th level in this class.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Perfected Bond</name>
+        <text>15th-level Drakewarden feature</text>
+        <text>Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• The drake grows to Large size.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).</text>
+        <text>• When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Perfected Bond</name>
+        <text>15th-level Drakewarden feature</text>
+        <text>Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• The drake grows to Large size.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).</text>
+        <text>• When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Drakewarden (UA): Perfected Bond</name>
+        <text>15th-level Drakewarden feature</text>
+        <text>Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:</text>
+        <text>• The drake grows to Large size.</text>
+        <text>• The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).</text>
+        <text>• When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

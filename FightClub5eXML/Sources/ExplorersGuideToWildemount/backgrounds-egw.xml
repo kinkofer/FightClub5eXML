@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Augen Trust (Spy)</name>
+    <proficiency></proficiency>
+    <trait>
+        <name>Description</name>
+      <text>Source: Explorer's Guide to Wildemount p. 203</text>
+      </trait>
+    </background>
+  <background>
+      <name>Cobalt Scholar (Sage)</name>
+    <proficiency>Arcana, History</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Arcana, History
+• Languages: Two of your choice
+• Equipment: A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
+Source: Explorer's Guide to Wildemount p. 203</text>
+      </trait>
+    <trait>
+        <name>Feature: Researcher</name>
+      <text>When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
+d8 | Field of Study
+1 | Alchemist
+2 | Astronomer
+3 | Discredited academic
+4 | Librarian
+5 | Professor
+6 | Researcher
+7 | Wizard's apprentice
+8 | Scribe
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
+d8 | Personality Trait
+1 | I use polysyllabic words that convey the impression of great erudition.
+2 | I've read every book in the world's greatest libraries—or I like to boast that I have.
+3 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others.
+4 | There's nothing I like more than a good mystery.
+5 | I'm willing to listen to every side of an argument before I make my own judgment.
+6 | I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me.
+7 | I am horribly, horribly awkward in social situations.
+8 | I'm convinced that people are always trying to steal my secrets.
+
+d6 | Ideal
+1 | Knowledge. The path to power and self-improvement is through knowledge. (Neutral)
+2 | Beauty. What is beautiful points us beyond itself toward what is true. (Good)
+3 | Logic. Emotions must not cloud our logical thinking. (Lawful)
+4 | No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)
+5 | Power. Knowledge is the path to power and domination. (Evil)
+6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)
+
+d6 | Bond
+1 | It is my duty to protect my students.
+2 | I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+3 | I work to preserve a library, university, scriptorium, or monastery.
+4 | My life's work is a series of tomes related to a specific field of lore.
+5 | I've been searching my whole life for the answer to a certain question.
+6 | I sold my soul for knowledge. I hope to do great deeds and win it back.
+
+d6 | Flaw
+1 | I am easily distracted by the promise of information.
+2 | Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+3 | Unlocking an ancient mystery is worth the price of a civilization.
+4 | I overlook obvious solutions in favor of complicated ones.
+5 | I speak without really thinking through my words, invariably insulting others.
+6 | I can't keep a secret to save my life, or anyone else's.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Grinner</name>
+    <proficiency>Deception, Performance</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>The Golden Grin began in the far-off land of Tal'Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king's authoritarian rule. Today, Tal'Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
+You are a Grinner. Your goals are to spread freedom and inspire hope—or, in time, revolution—in the hearts of the oppressed.
+• Skill Proficiencies: Deception, Performance
+• Tool Proficiencies: One type of musical instrument, thieves' tools
+• Equipment: A set of fine clothes, a disguise kit, a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a pouch containing 15 gp
+Source: Explorer's Guide to Wildemount p. 200</text>
+      </trait>
+    <trait>
+        <name>Favorite Code-Song</name>
+      <text>All members of the Golden Grin have learned a handful of folk songs in their travels, and use those songs to send secret codes and alert fellow Grinners to danger. Choose a favorite song or roll on the Favorite Code-Songs table.
+d6 | Favorite Code-Song
+1 | Zan's Comin' Back. This hopeful Tal'Dorei folk song declares the inevitable return of a just ruler. Use it to seek out potential allies.
+2 | Blow Fire Down the Coast. A rowdy fighting song from the Clovis Concord, this ditty talks of blasting up pirate ships. Use it to encourage battle.
+3 | Hush! Onward Come the Dragons. This Tal'Dorei folk song recounts the terror in the days after the invasion of the red dragon called the Cinder King. Use it to encourage caution in speech and deed.
+4 | Let the Sword Grow Rust. An antiwar anthem from Marquet, this song has uncertain origins. Use it to help quell violent encounters.
+5 | Drink Deep, Li'l Hummingbird. A drinking rondo from the Menagerie Coast, this song tells the tale of a young person who drinks so heavily that they awaken to find they've stowed away on a ship. Use it to encourage alertness in social situations.
+6 | Dirge for the Emerald Fire. This elven song supposedly has thousands of obscure verses. Use the first two verses to spread news of death or defeat.
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Ballad of the Grinning Fool</name>
+      <text>Like every Grinner, you know how to find a hideout. In any city of 10,000 people or more on the Menagerie Coast or in the lands of the Dwendalian Empire, you can play the "Ballad of the Grinning Fool" in a major tavern or inn. A member of the Golden Grin will find you and give shelter to you and any companions you vouch for. This shelter might be discontinued if it becomes too dangerous to hide you, at the DM's discretion.
+This feature must be used with caution, for not all who know the ballad are your friends. Some are traitors, counterspies, or agents of tyranny.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Grinners are trained in the art of secrecy and innuendo, and are skilled at hiding in plain sight by being the loudest and brightest person in the room. Their skills in subterfuge and combat lend themselves well to an adventuring lifestyle, and traveling with mercenaries and treasure hunters creates a convenient excuse to journey through lands bent under tyranny.
+d8 | Personality Trait
+1 | I love the spotlight. Everyone, look at me!
+2 | Give me a drink and I'm your friend.
+3 | Talk to me about yourself. I'm a hell of a listener.
+4 | I hate to start fights, but I love to finish them.
+5 | I can't sit still.
+6 | I'm always humming an old tune from my past.
+7 | When I don't have a reason to smile, I'm miserable.
+8 | I'm lucky like you wouldn't believe.
+
+d6 | Ideal
+1 | Revolution. Tyrants must fall, no matter the cost. (Chaotic)
+2 | Compassion. The only way to make a better world is to perform small kindnesses. (Good)
+3 | Justice. A nation built upon just foundations will uphold freedom for all. (Law)
+4 | Expression. Music, joy, and laughter are the keys to freedom. (Good)
+5 | Self-Determination. People should be free to do as they please. (Chaotic)
+6 | Vigilance. A free people must be carefully taught, lest they be misled. (Neutral)
+
+d6 | Bond
+1 | I lost someone important to an agent of the Dwendalian Empire. That regime will fall.
+2 | The first people to be hurt by this war will be the common folk. I need to protect them.
+3 | Music helped me through a dark time in my life. Now, I'll use music to change the world.
+4 | I will be known as the greatest spy who ever lived.
+5 | All life is precious to me. I know I can change the world without taking a humanoid life.
+6 | The elite in their ivory towers don't understand how we suffer. I intend to show them.
+
+d6 | Flaw
+1 | I've never lied once in my life. What? No, I'm not crossing my fingers!
+2 | I do everything big! Subtlety? I don't know the meaning of subtlety! Oh, that's a problem?
+3 | Being a spy in wartime is painful. I've seen so much suffering, I think I'm losing my mind.
+4 | I can't focus on my mission. I just want to carouse and sing and play!
+5 | Yeah, that's my name. Yeah, I'm a Grinner spy. Who cares about staying undercover?
+6 | I can't afford to trust anyone. Not. Anyone.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Luxonborn (Acolyte)</name>
+    <proficiency>Insight, Religion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Insight, Religion
+• Languages: Two of your choice
+• Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+Source: Explorer's Guide to Wildemount p. 203</text>
+      </trait>
+    <trait>
+        <name>Feature: Shelter of the Faithful</name>
+      <text>As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
+You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+d8 | Personality Trait
+1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.
+2 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
+3 | I see omens in every event and action. The gods try to speak to us, we just need to listen.
+4 | Nothing can shake my optimistic attitude.
+5 | I quote (or misquote) sacred texts and proverbs in almost every situation.
+6 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
+7 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me.
+8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world.
+
+d6 | Ideal
+1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
+2 | Charity. I always try to help those in need, no matter what the personal cost. (Good)
+3 | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)
+4 | Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)
+5 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)
+6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)
+
+d6 | Bond
+1 | I would die to recover an ancient relic of my faith that was lost long ago.
+2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
+3 | I owe my life to the priest who took me in when my parents died.
+4 | Everything I do is for the common people.
+5 | I will do anything to protect the temple where I served.
+6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
+
+d6 | Flaw
+1 | I judge others harshly, and myself even more severely.
+2 | I put too much trust in those who wield power within my temple's hierarchy.
+3 | My piety sometimes leads me to blindly trust those that profess faith in my god.
+4 | I am inflexible in my thinking.
+5 | I am suspicious of strangers and expect the worst of them.
+6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Myriad Operative (Criminal)</name>
+    <proficiency>Deception, Stealth</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Deception, Stealth
+• Tool Proficiencies: One type of gaming set, thieves' tools
+• Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
+Source: Explorer's Guide to Wildemount p. 203</text>
+      </trait>
+    <trait>
+        <name>Feature: Criminal Contact</name>
+      <text>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+</text>
+      </trait>
+    <trait>
+        <name>Specialty</name>
+      <text>There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
+d8 | Specialty
+1 | Blackmailer
+2 | Burglar
+3 | Enforcer
+4 | Fence
+5 | Highway robber
+6 | Hired killer
+7 | Pickpocket
+8 | Smuggler
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.
+d8 | Personality Trait
+1 | I always have a plan for when things go wrong.
+2 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.
+3 | The first thing I do in a new place is note the locations of everything valuable—or where such things could be hidden.
+4 | I would rather make a new friend than a new enemy.
+5 | I am incredibly slow to trust. Those who seem the fairest often have the most to hide.
+6 | I don't pay attention to the risks in a situation. Never tell me the odds.
+7 | The best way to get me to do something is to tell me I can't do it.
+8 | I blow up at the slightest insult.
+
+d6 | Ideal
+1 | Honor. I don't steal from others in the trade. (Lawful)
+2 | Freedom. Chains are meant to be broken, as are those who would forge them. (Chaotic)
+3 | Charity. I steal from the wealthy so that I can help people in need. (Good)
+4 | Greed. I will do whatever it takes to become wealthy. (Evil)
+5 | People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)
+6 | Redemption. There's a spark of good in everyone. (Good)
+
+d6 | Bond
+1 | I'm trying to pay off an old debt I owe to a generous benefactor.
+2 | My ill-gotten gains go to support my family.
+3 | Something important was taken from me, and I aim to steal it back.
+4 | I will become the greatest thief that ever lived.
+5 | I'm guilty of a terrible crime. I hope I can redeem myself for it.
+6 | Someone I loved died because of a mistake I made. That will never happen again.
+
+d6 | Flaw
+1 | When I see something valuable, I can't think about anything but how to steal it.
+2 | When faced with a choice between money and my friends, I usually choose the money.
+3 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+4 | I have a 'tell' that reveals when I'm lying.
+5 | I turn tail and run when things look bad.
+6 | An innocent person is in prison for a crime that I committed. I'm okay with that.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Revelry Pirate (Sailor)</name>
+    <proficiency>Athletics, Perception</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>• Skill Proficiencies: Athletics, Perception
+• Tool Proficiencies: Navigator's tools, vehicles (water)
+• Equipment: A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
+Source: Explorer's Guide to Wildemount p. 203</text>
+      </trait>
+    <trait>
+        <name>Feature: Ship's Passage</name>
+      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
+d8 | Personality Trait
+1 | My friends know they can rely on me, no matter what.
+2 | I work hard so that I can play hard when the work is done.
+3 | I enjoy sailing into new ports and making new friends over a flagon of ale.
+4 | I stretch the truth for the sake of a good story.
+5 | To me, a tavern brawl is a nice way to get to know a new city.
+6 | I never pass up a friendly wager.
+7 | My language is as foul as an otyugh nest.
+8 | I like a job well done, especially if I can convince someone else to do it.
+
+d6 | Ideal
+1 | Respect. The thing that keeps a ship together is mutual respect between captain and crew. (Good)
+2 | Fairness. We all do the work, so we all share in the rewards. (Lawful)
+3 | Freedom. The sea is freedom—the freedom to go anywhere and do anything. (Chaotic)
+4 | Mastery. I'm a predator, and the other ships on the sea are my prey. (Evil)
+5 | People. I'm committed to my crewmates, not to ideals. (Neutral)
+6 | Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any)
+
+d6 | Bond
+1 | I'm loyal to my captain first, everything else second.
+2 | The ship is most important—crewmates and captains come and go.
+3 | I'll always remember my first ship.
+4 | In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+5 | I was cheated out of my fair share of the profits, and I want to get my due.
+6 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine.
+
+d6 | Flaw
+1 | I follow orders, even if I think they're wrong.
+2 | I'll say anything to avoid having to do extra work.
+3 | Once someone questions my courage, I never back down no matter how dangerous the situation.
+4 | Once I start drinking, it's hard for me to stop.
+5 | I can't help but pocket loose coins and other trinkets I come across.
+6 | My pride will probably lead to my destruction.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Volstrucker Agent</name>
+    <proficiency>Deception, Stealth</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the Cerberus Assembly. Their operatives bear no official title, but are referred to in hushed tones as "scourgers" by residents of large Dwendalian cities such as Zadash and Rexxentrum.
+You are a Volstrucker agent. Your duty is to silence dissidents who would undermine the will of King Dwendal—and more importantly, the will of the Assembly.
+• Skill Proficiencies: Deception, Stealth
+• Tool Proficiencies: Poisoner's kit
+• Languages: One of your choice
+• Equipment: A set of common clothes, a black cloak with a hood, a poisoner's kit, and a pouch containing 10 gp
+Source: Explorer's Guide to Wildemount p. 202</text>
+      </trait>
+    <trait>
+        <name>Tragedy</name>
+      <text>Happy people aren't selected to join the Volstrucker. The Cerberus Assembly preys upon talented individuals who have been broken by tragedy—in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
+d6 | Tragedy
+1 | Familicide. Through deceit or manipulation, the Volstrucker convinced you to slaughter your own family.
+2 | Amnesia. You were forced to study magic so potent that it strained your mind beyond mortal limits, stealing away the memories of your past.
+3 | Capture. You were captured and tortured by agents of the Kryn Dynasty, and barely escaped.
+4 | Starvation. A terrible blight afflicted your rural village, and many of your friends and family members starved to death. You survived, but only barely.
+5 | Disfigurement. One of your arcane experiments went wrong and scarred or dismembered you so gravely that others now shun you. Only the Volstrucker showed you kindness after that day.
+6 | Vicissitude. You were once the scion of a wealthy family who lost their entire fortune in the blink of an eye.
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Shadow Network</name>
+      <text>You have access to the Volstrucker shadow network, which allows you to communicate with other members of the order over long distances. If you write a letter in a special arcane ink, address it to a member of the Volstrucker, and cast it into a fire, the letter will burn to cinders and materialize whole again on the person of the agent you addressed it to.
+The ink used to send a letter across the shadow network is the same as that used by a wizard to scribe spells in a spellbook. Writing a letter in this ink costs 10 gp per page.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Agents of the Volstrucker are groomed to follow orders without question and to kill without mercy. The trauma that brings one into the order can fester even more strongly against the darkness of a Volstrucker agent's assignments. Officially, no one ever leaves the order—but those desperate enough do whatever it takes to gain some measure of freedom.
+d6 | Personality Trait
+1 | I prefer to keep my thoughts to myself.
+2 | I indulge vice in excess to quiet my conscience.
+3 | I've left emotion behind me. I'm now perfectly placid.
+4 | Some event from the past keeps worming its way into my mind, making me restless.
+5 | I always keep my word—except when I'm commanded to break it.
+6 | I laugh off insults and never take them personally.
+
+d6 | Ideal
+1 | Order. The will of the crown is absolute. (Law)
+2 | True Loyalty. The Cerberus Assembly is greater than any power, even the crown. (Law)
+3 | Death. The penalty for disloyalty is death. (Evil)
+4 | Determination. I cannot fail. Not ever. (Neutral)
+5 | Fear. People should not respect power. They should fear it. (Evil)
+6 | Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life. (Any)
+
+d4 | Bond
+1 | The job is all that matters. I will see it through.
+2 | My orders are important, but my comrades are worth more than anything. I would die for them.
+3 | Everything I've done, I've done to protect someone close to me.
+4 | If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost.
+
+d4 | Flaw
+1 | I drink to dull the pain in the back of my head.
+2 | I go a bit mad when I see blood.
+3 | I can hear the voices of everyone I've killed. I see their faces. I can't be free of these ghosts.
+4 | Fear is a powerful motivator. I will do whatever it takes to prevent those who know what I am from seeing me fail, and from those I care about from knowing what I am.
+
+</text>
+      </trait>
+    </background>
+  </compendium>

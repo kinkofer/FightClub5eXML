@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Inquisitor</name>
+    <proficiency>Investigation, Religion</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>Historically, inquisitors were cathar detectives who investigated crimes both mundane and supernatural. They were known for traveling to remote parishes plagued by unexplained murders, and for exposing werewolves living among normal humans. During Avacyn's absence, when the archangel was trapped within the demonic prison known as the Helvault, the inquisitors led a series of brutal forays into Kessig and the Gavony Moorland. They executed suspected lycanthropes with little or no proof, and punished accused heretics in unsanctioned trials. With Avacyn's madness, this savage form of inquisition has become the norm, and inquisitors who still pry into dark mysteries have become a minority.
+• Skill Proficiencies: Investigation, Religion
+• Tool Proficiencies: Thieves' tools, one type of artisan's tools
+• Equipment: A holy symbol, a set of traveler's clothes, and a belt pouch containing 15 gp
+Source: Plane Shift: Innistrad p. 12</text>
+      </trait>
+    <trait>
+        <name>Feature: Legal Authority</name>
+      <text>As an inquisitor of the church, you have the authority to arrest criminals. In the absence of other authorities, you are authorized to pass judgement and even carry out sentencing. If you abuse this power, however, your superiors in the church might strip it from you.
+</text>
+      </trait>
+    </background>
+  </compendium>

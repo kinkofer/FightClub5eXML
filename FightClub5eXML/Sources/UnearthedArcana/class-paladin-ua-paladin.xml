@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Paladin</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Oath of Conquest</name>
+        <text>The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might. Some of these paladins go so far as to consort with the powers of the Nine Hells. The archdevil Bel, warlord of Avernus, counts many of these paladins called hell knights as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Channel Divinity: Conquering Strike</name>
+        <text>You can use your Channel Divinity to break a foe's will. When you hit a creature with a melee weapon attack as part of the Attack action, you can also use your Channel Divinity to force the target to make a Wisdom saving throw. On a failed save, the target becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Channel Divinity: Guided Strike</name>
+        <text>You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Conquest Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | armor of Agathys, command</text>
+        <text>5th | hold person, spiritual weapon</text>
+        <text>9th | bestow curse, fear</text>
+        <text>13th | blight, dominate beast</text>
+        <text>17th | dominate person, insect plague</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Tenets of Conquest</name>
+        <text>A paladin who takes this oath has the tenets of conquest seared on the upper arm. A hell knight's oath appears in Infernal runes, a brutal reminder of vows to the Lords of Hell.</text>
+        <text></text>
+        <text>Douse the Flame of Hope</text>
+        <text>   It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies will to fight is shattered forever. A blade can end a life. Fear can end an empire.</text>
+        <text></text>
+        <text>Rule with an Iron Fist</text>
+        <text>   Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.</text>
+        <text></text>
+        <text>Strength Above All</text>
+        <text>   You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Oath of Treachery</name>
+        <text>The Oath of Treachery is the path followed by paladins who have forsworn other oaths or who care only for their own power and survival. Commonly known as blackguards, these profane warriors are faithful only to themselves. Anyone desperate enough to follow one of these paladins does so because, while deceitful, these paladins command great power. Those who follow them without falling prey to their treachery hope to indulge in wanton violence and accumulate great treasure. Many of these paladins pay homage to demon lords, especially Grazz't and Orcus. Even the Lords of Hell are loath to ally with these champions of chaos, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard's penchant for double dealing and treachery.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Channel Divinity: Conjure Duplicate</name>
+        <text>As an action, you create a visual illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space of your choice that you can see within 30 feet of you. The illusion looks exactly like you; it is silent; it is your size, is insubstantial, doesn't occupy its space; and it is unaffected by attacks and damage. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but the illusion must remain within 120 feet of you.</text>
+        <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how uncanny the illusion is.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Channel Divinity: Poison Strike</name>
+        <text>You can use your Channel Divinity to make a weapon deadlier. As a bonus action, you touch one weapon or piece of ammunition and conjure a special poison on it. The poison lasts for 1 minute. The next time you hit a target with an attack using that weapon or ammunition, the target takes poison damage immediately after the attack. The poison damage equals 2d10 + your paladin level, or 20 + your paladin level if you had advantage on the attack roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Oath Spells</name>
+        <text>You gain oath spells at the paladin levels listed.</text>
+        <text></text>
+        <text>Oath of Treachery Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | charm person, expeditious retreat</text>
+        <text>5th | invisibility, mirror image</text>
+        <text>9th | gaseous form, haste</text>
+        <text>13th | confusion, greater invisibility</text>
+        <text>17th | dominate person, passwall</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Tenets of Treachery</name>
+        <text>A paladin who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard's overwhelming concern is power and safety, especially if both can be obtained at the expense of others.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Aura of Conquest</name>
+        <text>Starting at 7th level, you emanate a menacing aura while you're not incapacitated. The aura includes your space, extends 10 feet from you in every direction, and is blocked by total cover. Any enemy in the aura has disadvantage on saving throws against being frightened.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Aura of Treachery</name>
+        <text>Starting at 7th level, you emanate an aura of discord, which gives you the following benefits.</text>
+        <name>Oath of Treachery (UA): Cull the Herd</name>
+        <text>   You have advantage on melee attack rolls against any creature that has one or more of its allies within 5 feet of it.</text>
+        <name>Oath of Treachery (UA): Treacherous Strike</name>
+        <text>   If a creature within 5 feet of you misses you with a melee attack, you can use your reaction to force the attacker to reroll that attack against a creature of your choice that is also within 5 feet of the attacker. The ability fails and is wasted if the attacker is immune to being charmed.</text>
+        <text>   You can use this ability three times. You regain expended uses of it when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Implacable Spirit</name>
+        <text>Once you reach 15th level, you can no longer be charmed.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Blackguard's Escape</name>
+        <text>At 15th level, you have the ability to slip away from your foes. Immediately after you are hit by an attack, you can use your reaction to turn invisible and teleport up to 60 feet to a spot you can see. You remain invisible until the end of your next turn or until you attack, deal damage, or force a creature to make a saving throw. Once you use this feature, you must finish a short or long rest before you can use it again.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Conquest (UA): Invincible Conqueror</name>
+        <text>At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:</text>
+        <text>• You have resistance to all damage.</text>
+        <text>• When you take the Attack action on your turn, you can make one additional attack as part of that action.</text>
+        <text>• Your melee weapon attacks score a critical hit on a roll of 19 or 20.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Treachery (UA): Icon of Deceit</name>
+        <text>At 20th level, you gain the ability to emanate feelings of treachery. As an action, you can magically become an avatar of deceit, gaining the following benefits for 1 minute:</text>
+        <text>• You are invisible.</text>
+        <text>• If a creature damages you on its turn, it must succeed on a Wisdom saving throw (DC equal to your spell save DC) or you control its next action, provided that you aren't incapacitated when it takes the action. A creature automatically succeeds on the save if the creature is immune to being charmed.</text>
+        <text>• If you have advantage on an attack roll, you gain a bonus to its damage roll equal to your paladin level.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Paladin p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

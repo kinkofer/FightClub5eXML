@@ -5,7 +5,7 @@
     <size>S</size>
     <type>dragon</type>
     <alignment>Any alignment</alignment>
-    <ac>14 + PB (natural armor)</ac>
+    <ac>0</ac>
     <hp>5</hp>
     <speed>walk 40 ft.</speed>
     <str>16</str>
@@ -14,7 +14,7 @@
     <int>8</int>
     <wis>14</wis>
     <cha>8</cha>
-    <save>Special Dex {@d20 +2} plus PB, Wis {@d20 +2} plus PB</save>
+    <save></save>
     <skill></skill>
     <passive>12</passive>
     <languages>Draconic</languages>

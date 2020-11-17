@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Bag of Bounty</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This is a sturdy leather sack with tiny Siberys shards embedded into the lining. If you have the Mark of Hospitality you can use an action to cast create food and water, drawing a feast from within the bag. You shape this meal with your thoughts. You can create the standard bland fare without requiring any sort of check, but you can attempt to create finer food by making a Charisma check; if you're proficient with cook's utensils, add your bonus to this check. A failed check results in a sour and squalid meal.
+Food Quality | Difficulty
+Poor | No roll required
+Modest | 10
+Comfortable | 13
+Wealthy | 15
+Aristocratic | 18
+A bag of bounty can be used up to three times over the course of a day. After that, the bag can't be used again until the next dawn.
+Source: Wayfinder's Guide to Eberron p. 116</text>
+    </item>
+  <item>
+      <name>Band of Loyalty</name>
+    <detail></detail>
+    <type>RG</type>
+    <weight></weight>
+    <property></property>
+    <text>If you are reduced to zero hit points while attuned to a band of loyalty, you instantly die. These rings are favored by spies who can't afford to fall into enemy hands.
+Source: Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Rings of Shared Suffering</name>
+    <detail></detail>
+    <type>RG</type>
+    <weight></weight>
+    <property></property>
+    <text>These rings come in linked pairs. If you possess the Mark of Sentinel, you can use a bonus action to form a link to the creature attuned to the other ring; from then on, whenever that creature suffers damage, they only suffer half of that damage and you take the rest. This effect continues until you end it as a bonus action or until you or the other creature removes their ring. This effect isn't limited by range. A creature cannot be attuned to more than one ring of shared suffering.
+Source: Wayfinder's Guide to Eberron p. 117</text>
+    </item>
+  </compendium>

@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Barbed Hide (UA)</name>
+    <prerequisite>Tiefling</prerequisite>
+    <text>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits:
+• Increase your Constitution or Charisma score by 1, to a maximum of 20
+• As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you.
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+Source: Unearthed Arcana: Feats For Races p. 1</text>
+    <proficiency>Intimidation</proficiency>
+    </feat>
+  <feat>
+      <name>Bountiful Luck (UA)</name>
+    <prerequisite>Halfling</prerequisite>
+    <text>Whenever an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll.
+Source: Unearthed Arcana: Feats For Races p. 1</text>
+    </feat>
+  <feat>
+      <name>Critter Friend (UA)</name>
+    <prerequisite>Gnome (Forest)</prerequisite>
+    <text>Your friendship with animals mystically deepens. You gain the following benefits:
+• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the speak with animals spell and can cast it at will, without expending a spell slot. You also learn the animal friendship spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+Source: Unearthed Arcana: Feats For Races p. 1</text>
+    </feat>
+  <feat>
+      <name>Dragon Fear (UA)</name>
+    <prerequisite>Dragonborn</prerequisite>
+    <text>When angered, you radiate menace. You gain the following benefits:
+• Increase your Strength or Charisma score by 1, to a maximum of 20
+• Instead of exhaling destructive energy, you can roar and expend a use of your breath weapon to force each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds if it can't hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    </feat>
+  <feat>
+      <name>Dragon Hide (UA)</name>
+    <prerequisite>Dragonborn</prerequisite>
+    <text>You inherited the might and majesty of your dragon ancestors. You gain the following benefits:
+• Increase your Strength or Charisma score by 1, to a maximum of 20
+• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+• Your scales harden; you gain a +1 bonus to AC while you aren't wearing armor.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    </feat>
+  <feat>
+      <name>Dragon Wings (UA)</name>
+    <prerequisite>Dragonborn</prerequisite>
+    <text>You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren't wearing heavy armor and aren't exceeding your carrying capacity.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    </feat>
+  <feat>
+      <name>Drow High Magic (UA)</name>
+    <prerequisite>Elf (Drow)</prerequisite>
+    <text>You learn more of the spells typical for your people. You learn detect magic and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Charisma is your spellcasting ability for these spells.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    </feat>
+  <feat>
+      <name>Dwarf Resilience (UA)</name>
+    <prerequisite>Dwarf</prerequisite>
+    <text>You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
+• Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    <modifier category="ability score">Constitution +1</modifier>
+    </feat>
+  <feat>
+      <name>Elven Accuracy (UA)</name>
+    <prerequisite>Elf, Half-Elf</prerequisite>
+    <text>You have uncanny aim. You gain the following benefits:
+• Whenever you have advantage on an attack roll, you can reroll one of the dice once.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    <modifier category="ability score">Dexterity +1</modifier>
+    </feat>
+  <feat>
+      <name>Everybody's Friend (UA)</name>
+    <prerequisite>Half-Elf</prerequisite>
+    <text>You develop your magnetic personality to ease your way through the world. You gain the following benefits:
+• You gain proficiency in the Deception and Persuasion skills. If you're already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    <modifier category="ability score">Charisma +1</modifier>
+    <proficiency>, Persuasion</proficiency>
+    </feat>
+  <feat>
+      <name>Fade Away (UA)</name>
+    <prerequisite>Gnome</prerequisite>
+    <text>You can draw on your magical heritage to escape danger. You gain the following benefits:
+• When you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
+Source: Unearthed Arcana: Feats For Races p. 2</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    </feat>
+  <feat>
+      <name>Fey Teleportation (UA)</name>
+    <prerequisite>Elf (High)</prerequisite>
+    <text>Drawing on your fey ancestry, you have learned how to teleport. You gain the following benefits:
+• You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    </feat>
+  <feat>
+      <name>Flames of Phlegethos (UA)</name>
+    <prerequisite>Tiefling</prerequisite>
+    <text>You learn to call on hellfire to serve your commands. You gain the following benefits:
+• Increase your Intelligence or Charisma score by 1, to a maximum of 20
+• When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
+• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    </feat>
+  <feat>
+      <name>Grudge-Bearer (UA)</name>
+    <prerequisite>Dwarf</prerequisite>
+    <text>You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits:
+• Increase your Strength or Constitution or Wisdom score by 1, to a maximum of 20
+• During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.
+• When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.
+• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you're not normally proficient.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    </feat>
+  <feat>
+      <name>Human Determination (UA)</name>
+    <prerequisite>Human</prerequisite>
+    <text>You are filled with a determination that can draw the unreachable within your reach. You gain the following benefits:
+• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can't use it again until you finish a short or long rest.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    </feat>
+  <feat>
+      <name>Infernal Constitution (UA)</name>
+    <prerequisite>Tiefling</prerequisite>
+    <text>Fiendish blood runs strong in you. You gain the following benefits:
+• You have resistance to cold and poison damage.
+• You have advantage on saving throws against being poisoned.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    <modifier category="ability score">Constitution +1</modifier>
+    </feat>
+  <feat>
+      <name>Orcish Aggression (UA)</name>
+    <prerequisite>Half-Orc</prerequisite>
+    <text>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+Source: Unearthed Arcana: Feats For Races p. 3</text>
+    </feat>
+  <feat>
+      <name>Orcish Fury (UA)</name>
+    <prerequisite>Half-Orc</prerequisite>
+    <text>Your fury burns tirelessly. You gain the following benefits:
+• Increase your Strength or Constitution score by 1, to a maximum of 20
+• When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.
+• Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  <feat>
+      <name>Prodigy (UA)</name>
+    <prerequisite>Half-Elf, Human</prerequisite>
+    <text>You have a knack for learning new things. You gain the following benefits:
+• You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  <feat>
+      <name>Second Chance (UA)</name>
+    <prerequisite>Halfling</prerequisite>
+    <text>You have a knack for learning new things. You gain the following benefits:
+• Increase your Dexterity or Constitution or Charisma score by 1, to a maximum of 20
+• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't do so again until you finish a short or long rest.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  <feat>
+      <name>Squat Nimbleness (UA)</name>
+    <prerequisite>Dwarf, Gnome, Halfling</prerequisite>
+    <text>You are uncommonly nimble for your race. You gain the following benefits:
+• Increase your Strength or Dexterity score by 1, to a maximum of 20
+• Increase your walking speed by 5 feet.
+• You gain proficiency in the Acrobatics or Athletics skill. If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  <feat>
+      <name>Wonder Maker (UA)</name>
+    <prerequisite>Gnome (Rock)</prerequisite>
+    <text>You master the tinker techniques of your people. You gain the following benefits:
+• Increase your Dexterity or Intelligence score by 1, to a maximum of 20
+• When you make a check using your proficiency with tinker's tools, you add double your proficiency bonus to the check.
+• When you make a device with your Tinker trait, you have the following additional options for what you make:
+This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away.
+This device makes doing sums easy.
+This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.
+This pocket watch keeps accurate time.
+When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  <feat>
+      <name>Wood Elf Magic (UA)</name>
+    <prerequisite>Elf (Wood)</prerequisite>
+    <text>You learn the magic of the primeval woods. You learn one druid cantrip of your choice. You also learn longstrider and pass without trace, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Wisdom is your spellcasting ability for these spells.
+Source: Unearthed Arcana: Feats For Races p. 4</text>
+    </feat>
+  </compendium>

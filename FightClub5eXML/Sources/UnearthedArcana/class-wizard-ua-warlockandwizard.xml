@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Lore Mastery</name>
+        <text>Lore Mastery is an arcane tradition fixated on understanding the underlying mechanics of magic. It is the most academic of all arcane traditions. The promise of uncovering new knowledge or proving (or discrediting) a theory of magic is usually required to rouse its practitioners from their laboratories, academies, and archives to pursue a life of adventure.</text>
+        <text>Known as savants, followers of this tradition are a bookish lot who see beauty and mystery in the application of magic. The results of a spell are less interesting to them than the process that creates it. Some savants take a haughty attitude toward those who follow a tradition focused on a single school of magic, seeing them as provincial and lacking the sophistication needed to master true magic. Other savants are generous teachers, countering ignorance and deception with deep knowledge and good humor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Altering Spells</name>
+        <text>While the Spell Secrets feature offers increased versatility, at the table its effects can be difficult to spot by the other players. If you're playing a savant, take a moment to describe how you alter your spells. Think of a signature change your character is particularly proud of. Be inventive, and make the game more fun for everyone by playing up the sudden, unexpected tricks you character can employ. For example, a fireball transformed to require a Strength save might become a sphere of burning rock that shatters and slams into its target. A charm person that requires a Constitution save might take the form of a vaporous narcotic that alters the target's mood.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Lore Master</name>
+        <text>Starting at 2nd level, you become a compendium of knowledge on a vast array of topics. Your proficiency bonus is doubled for any ability check you make that uses the Arcana, History, Nature, or Religion skill if you are proficient in that skill.</text>
+        <text>In addition, your analytical abilities are so well-honed that your initiative in combat can be driven by mental agility, rather than physical agility. When you roll initiative, it is either an Intelligence check or a Dexterity check for you (your choice).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Spell Secrets</name>
+        <text>At 2nd level, you master the first in a series of arcane secrets uncovered by your extensive studies.</text>
+        <text>When you cast a spell with a spell slot and the spell deals acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage, you can substitute that damage type with one other type from that list (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell's formula as you cast it.</text>
+        <text>When you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. Once you change a saving throw in this way, you can't do so again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Alchemical Casting</name>
+        <text>At 6th level, you learn to augment spells in a variety of ways. When you cast a spell with a spell slot, you can expend one additional spell slot to augment its effects for this casting, mixing the raw stuff of magic into your spell to amplify it. The effect depends on the spell slot you expend.</text>
+        <text>An additional 1st-level spell slot can increase the spell's raw force. If you roll damage for the spell when you cast it, increase the damage against every target by 2d10 force damage. If the spell can deal damage on more than one turn, it deals this extra force damage only on the turn you cast the spell.</text>
+        <text>An additional 2nd-level spell slot can increase the spell's range. If the spell's range is at least 30 feet, it becomes 1 mile.</text>
+        <text>An additional 3rd-level spell slot can increase the spell's potency. Increase the spell's save DC by 2.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Prodigious Memory</name>
+        <text>At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can't use this feature again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Lore Mastery (UA): Master of Magic</name>
+        <text>At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class's spell list. The spell must be of a level for which you have spell slots, you mustn't have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn't a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.</text>
+        <text>You can't use this feature again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

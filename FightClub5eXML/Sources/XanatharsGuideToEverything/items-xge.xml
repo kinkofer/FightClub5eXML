@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Bead of Nourishment</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Bead of Refreshment</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water. The bead has no effect on magical liquids or harmful substances such as poison.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Boots of False Tracks</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Only humanoids can wear these boots. While wearing the boots, you can choose to have them leave tracks like those of another kind of humanoid of your size.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Candle of the Deep</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Charlatan's Die</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Whenever you roll this six—sided die, you can control which number it rolls.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Cloak of Billowing</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While wearing this cloak, you can use a bonus action to make it billow dramatically.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Cloak of Many Fashions</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While wearing this cloak, you can use a bonus action to change the style, color, and apparent quality of the garment. The cloak's weight doesn't change. Regardless of its appearance, the cloak can't be anything but a cloak. Although it can duplicate the appearance of other magic cloaks, it doesn't gain their magical properties.
+Source: Xanathar's Guide to Everything p. 136</text>
+    </item>
+  <item>
+      <name>Clockwork Amulet</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This copper amulet contains tiny interlocking gears and is powered by magic from Mechanus, a plane of clockwork predictability. A creature that puts an ear to the amulet can hear faint ticking and whirring noises coming from within.
+When you make an attack roll while wearing the amulet, you can forgo rolling the d20 to get a 10 on the die. Once used, this property can't be used again until the next dawn.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Clothes of Mending</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This elegant outfit of traveler's clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can't be repaired in this way.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Dark Shard Amulet</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This amulet is fashioned from a single shard of resilient extraplanar material originating from the realm of your warlock patron. While you are wearing it, you gain the following benefits:
+• You can use the amulet as a spellcasting focus for your warlock spells.
+• You can try to cast a cantrip that you don't know. The cantrip must be on the warlock spell list, and you must make a DC 10 Intelligence (Arcana) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a long rest.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Dread Helm</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This fearsome steel helm makes your eyes glow red while you wear it.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Ear Horn of Hearing</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While held up to your ear, this horn suppresses the effects of the deafened condition on you, allowing you to hear normally.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Enduring Spellbook</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This spellbook, along with anything written on its pages, can't be damaged by fire or immersion in water. In addition, the spellbook doesn't deteriorate with age.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Ersatz Eye</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This artificial eye replaces a real one that was lost or removed. While the ersatz eye is embedded in your eye socket, it can't be removed by anyone other than you, and you can see through the tiny orb as though it were a normal eye.
+Source: Xanathar's Guide to Everything p. 137, Explorer's Guide to Wildemount</text>
+    </item>
+  <item>
+      <name>Hat of Vermin</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This hat has 3 charges. While holding the hat, you can use an action to expend 1 of its charges and speak a command word that summons your choice of a bat, a frog, or a rat. The summoned creature magically appears in the hat and tries to get away from you as quickly as possible. The creature is neither friendly nor hostile, and it isn't under your control. It behaves as an ordinary creature of its kind and disappears after 1 hour or when it drops to 0 hit points. The hat regains all expended charges daily at dawn.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Hat of Wizardry</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This antiquated, cone—shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:
+• You can use the hat as a spellcasting focus for your wizard spells.
+• You can try to cast a cantrip that you don't know. The cantrip must be on the wizard spell list, and you must make a DC 10 Intelligence (Arcana) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a long rest.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Heward's Handy Spice Pouch</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This belt pouch appears empty and has 10 charges. While holding the pouch, you can use an action to expend 1 of its charges, speak the name of any nonmagical food seasoning (such as salt, pepper, saffron, or cilantro), and remove a pinch of the desired seasoning from the pouch. A pinch is enough to season a single meal. The pouch regains 1d6 + 4 expended charges daily at dawn.
+Source: Xanathar's Guide to Everything p. 137</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Horn of Silent Alarm</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This horn has 4 charges. When you use an action to blow it, one creature of your choice can hear the horns blare, provided the creature is within 600 feet of the horn and not deafened. No other creature hears sound coming from the horn. The horn regains 1d4 expended charges daily at dawn.
+Source: Xanathar's Guide to Everything p. 137</text>
+    <roll>1d4</roll>
+    </item>
+  <item>
+      <name>Instrument of Illusions</name>
+    <detail>Wondrous item, minor, Instrument</detail>
+    <type>G</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While you are playing this musical instrument, you can create harmless, illusory visual effects within a 5-foot-radius sphere centered on the instrument. If you are a bard, the radius increases to 15 feet. Sample visual effects include luminous musical notes, a spectral dancer, butterflies, and gently falling snow. The magical effects have neither substance nor sound, and they are obviously illusory. The effects end when you stop playing.
+Source: Xanathar's Guide to Everything p. 137</text>
+    </item>
+  <item>
+      <name>Instrument of Scribing</name>
+    <detail>Wondrous item, minor, Instrument</detail>
+    <type>G</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This musical instrument has 3 charges. While you are playing it, you can use an action to expend 1 charge from the instrument and write a magical message on a nonmagical object or surface that you can see within 30 feet of you. The message can be up to six words long and is written in a language you know. If you are a bard, you can scribe an additional seven words and choose to make the message glow faintly, allowing it to be seen in nonmagical darkness. Casting dispel magic on the message erases it. Otherwise, the message fades away after 24 hours.
+The instrument regains all expended charges daily at dawn.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Lock of Trickery</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This lock appears to be an ordinary lock (of the type described in chapter 5 of the Player's Handbook) and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have disadvantage.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Mystery Key</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>A question mark is worked into the head of this key. The key has a 5 chance of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Orb of Direction</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>3</weight>
+    <property></property>
+    <text>While holding this orb, you can use an action to determine which way is north. This property functions only on the Material Plane.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Orb of Time</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight>3</weight>
+    <property></property>
+    <text>While holding this orb, you can use an action to determine whether it is morning, afternoon, evening, or nighttime outside. This property functions only on the Material Plane.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Perfume of Bewitching</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This tiny vial contains magic perfume, enough for one use. You can use an action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have advantage on all Charisma checks directed at humanoids of challenge rating 1 or lower. Those subjected to the perfume's effect are not aware that they've been influenced by magic.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Pipe of Smoke Monsters</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While smoking this pipe, you can use an action to exhale a puff of smoke that takes the form of a single creature, such as a dragon, a flumph, or a froghemoth. The form must be small enough to fit in a 1-foot cube and loses its shape after a few seconds, becoming an ordinary puff of smoke.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Pole of Angling</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While holding this 10-foot pole, you can speak a command word and transform it into a fishing pole with a hook, a line, and a reel. Speaking the command word again changes the fishing pole back into a normal 10-foot pole.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Pole of Collapsing</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While holding this 10-foot pole, you can use an action to speak a command word and cause it to collapse into a 1-foot-long rod, for ease of storage. The pole's weight doesn't change. You can use an action to speak a different command word and cause the rod to revert to a pole; however, the rod will elongate only as far as the surrounding space allows.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Pot of Awakening</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, the shrub magically transforms into an awakened shrub at the end of that time. When the shrub awakens, its roots break the pot, destroying it.
+The awakened shrub is friendly toward you. Absent commands from you, it does nothing.
+Source: Xanathar's Guide to Everything p. 138, Infernal Machine Rebuild p. 95</text>
+    </item>
+  <item>
+      <name>Rope of Mending</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>You can cut this 50-foot coil of hempen rope into any number of smaller pieces, and then use an action to speak a command word and cause the pieces to knit back together. The pieces must be in contact with each other and not otherwise in use. A rope of mending is forever shortened if a section of it is lost or destroyed.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Ruby of the War Mage</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a simple or martial weapon as a spellcasting focus for your spells. For this property to work, you must attach the ruby to the weapon by pressing the ruby against it for at least 10 minutes. Thereafter, the ruby can't be removed unless you detach it as an action or the weapon is destroyed. Not even an antimagic field causes it to fall off. The ruby does fall off the weapon if your attunement to the ruby ends.
+Source: Xanathar's Guide to Everything p. 138</text>
+    </item>
+  <item>
+      <name>Shield of Expression</name>
+    <detail>minor, Shield</detail>
+    <type>S</type>
+    <weight>6</weight>
+    <property></property>
+    <ac>2</ac>
+    <text>The front of this shield is shaped in the likeness of a face. While bearing the shield, you can use a bonus action to alter the face's expression.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Staff of Adornment</name>
+    <detail>minor, Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>If you place an object weighing no more than 1 pound (such as a shard of crystal, an egg, or a stone) above the tip of the staff while holding it, the object floats an inch from the staff's tip and remains there until it is removed or until the staff is no longer in your possession. The staff can have up to three such objects floating over its tip at any given time. While holding the staff, you can make one or more of the objects slowly spin or turn in place.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Staff of Birdcalls</name>
+    <detail>minor, Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>This wooden staff is decorated with bird carvings. It has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause it to create one of the following sounds out to a range of 60 feet: a finch's chirp, a raven's caw, a duck's quack, a chicken's cluck, a goose's book, a loon's call, a turkey's gobble, a seagull's cry, an owl's hoot, or an eagle's shriek.
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff explodes in a harmless cloud of bird feathers and is lost forever.
+Source: Xanathar's Guide to Everything p. 139</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Staff of Flowers</name>
+    <detail>minor, Staff</detail>
+    <type>ST</type>
+    <weight>4</weight>
+    <property>V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>B</dmgType>
+    <text>This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mildscented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns into flower petals and is lost forever.
+Source: Xanathar's Guide to Everything p. 139</text>
+    <roll>1d6+4</roll>
+    </item>
+  <item>
+      <name>Talking Doll</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>While this stuffed doll is within 5 feet of you, you can spend a short rest telling it to say up to six phrases, none of which can be more than six words long, and set an observable condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, "I want a piece of candy." The doll's phrases are lost when your attunement to the doll ends.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Tankard of Sobriety</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This tankard has a stern face sculpted into one side. You can drink ale, wine, or any other nonmagical alcoholic beverage poured into it without becoming inebriated. The tankard has no effect on magical liquids or harmful substances such as poison.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Unbreakable Arrow</name>
+    <detail>minor, Ammunition</detail>
+    <type>A</type>
+    <weight></weight>
+    <property></property>
+    <text>This arrow can't be broken, except when it is within an antimagic field.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Veteran's Cane</name>
+    <detail>Wondrous item, minor</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>When you grasp this walking cane and use a bonus action to speak the command word, it transforms into an ordinary longsword and ceases to be magical.
+Source: Xanathar's Guide to Everything p. 139</text>
+    </item>
+  <item>
+      <name>Wand of Conducting</name>
+    <detail>minor</detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and create orchestral music by waving it around. The music can be heard out to a range of 60 feet and ends when you stop waving the wand.
+The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, a sad tuba sound plays as the wand crumbles to dust and is destroyed.
+Source: Xanathar's Guide to Everything p. 140</text>
+    </item>
+  <item>
+      <name>Wand of Pyrotechnics</name>
+    <detail>minor</detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and create a harmless burst of multicolored light at a point you can see up to 60 feet away. The burst of light is accompanied by a crackling noise that can be heard up to 300 feet away. The light is as bright as a torch flame but lasts only a second.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand erupts in a harmless pyrotechnic display and is destroyed.
+Source: Xanathar's Guide to Everything p. 140</text>
+    <roll>1d6+1</roll>
+    </item>
+  <item>
+      <name>Wand of Scowls</name>
+    <detail>minor</detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to scowl for 1 minute.
+The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand transforms into a wand of smiles.
+Source: Xanathar's Guide to Everything p. 140</text>
+    </item>
+  <item>
+      <name>Wand of Smiles</name>
+    <detail>minor</detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to smile for 1 minute.
+The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand transforms into a wand of scowls.
+Source: Xanathar's Guide to Everything p. 140</text>
+    </item>
+  </compendium>

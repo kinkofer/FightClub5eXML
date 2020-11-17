@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Acrobat (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You become more nimble, gaining the following benefits:
+• You gain proficiency in the Acrobat (UA)ics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• As a bonus action, you can make a DC 15 Dexterity (Acrobat (UA)ics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.
+Source: Unearthed Arcana: Feats For Skills p. 1</text>
+    <modifier category="ability score">Dexterity +1</modifier>
+    </feat>
+  <feat>
+      <name>Animal Handler (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You master the techniques needed to train and handle animals. You gain the following benefits:
+• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+Source: Unearthed Arcana: Feats For Skills p. 1</text>
+    <modifier category="ability score">Wisdom +1</modifier>
+    </feat>
+  <feat>
+      <name>Arcanist (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You study the arcane arts, gaining the following benefits:
+• You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+Source: Unearthed Arcana: Feats For Skills p. 1</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    <proficiency>Arcana</proficiency>
+    </feat>
+  <feat>
+      <name>Brawny (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You become stronger, gaining the following benefits:
+• You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You count as if you were one size larger for the purpose of determining your carrying capacity.
+Source: Unearthed Arcana: Feats For Skills p. 1</text>
+    <modifier category="ability score">Strength +1</modifier>
+    <proficiency>Athletics</proficiency>
+    </feat>
+  <feat>
+      <name>Diplomat (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You master the arts of diplomacy, gaining the following benefits:
+• You gain proficiency in the Persuasion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Charisma +1</modifier>
+    <proficiency>Persuasion</proficiency>
+    </feat>
+  <feat>
+      <name>Empathic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You possess keen insight into how other people think and feel. You gain the following benefits:
+• You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target's Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Wisdom +1</modifier>
+    <proficiency>Insight</proficiency>
+    </feat>
+  <feat>
+      <name>Historian (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your study of history rewards you with the following benefits:
+• You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    <proficiency>History</proficiency>
+    </feat>
+  <feat>
+      <name>Investigator (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You have an eye for detail and can pick out the smallest clues. You gain the following benefits:
+• You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You can take the Search action as a bonus action.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    <proficiency>Investigation</proficiency>
+    </feat>
+  <feat>
+      <name>Medic (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You master the physician's arts, gaining the following benefits:
+• You gain proficiency in the Medic (UA)ine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medic (UA)ine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Wisdom +1</modifier>
+    </feat>
+  <feat>
+      <name>Menacing (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You become fearsome to others, gaining the following benefits:
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can't be frightened by you in this way for 1 hour.
+Source: Unearthed Arcana: Feats For Skills p. 2</text>
+    <modifier category="ability score">Charisma +1</modifier>
+    <proficiency>Intimidation</proficiency>
+    </feat>
+  <feat>
+      <name>Naturalist (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your extensive study of nature rewards you with the following benefits:
+• You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+Source: Unearthed Arcana: Feats For Skills p. 3</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    <proficiency>Nature</proficiency>
+    </feat>
+  <feat>
+      <name>Perceptive (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You hone your senses until they become razor sharp. You gain the following benefits:
+• You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• Being in a lightly obscured area doesn't impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
+Source: Unearthed Arcana: Feats For Skills p. 3</text>
+    <modifier category="ability score">Wisdom +1</modifier>
+    <proficiency>Perception</proficiency>
+    </feat>
+  <feat>
+      <name>Performer (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You master performance so that you can command any stage. You gain the following benefits:
+• You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+Source: Unearthed Arcana: Feats For Skills p. 3</text>
+    <modifier category="ability score">Charisma +1</modifier>
+    <proficiency>Performance</proficiency>
+    </feat>
+  <feat>
+      <name>Quick-Fingered (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:
+• You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
+Source: Unearthed Arcana: Feats For Skills p. 3</text>
+    <modifier category="ability score">Dexterity +1</modifier>
+    </feat>
+  <feat>
+      <name>Silver-Tongued (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You develop your conversational skill to better deceive others. You gain the following benefits:
+• You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target's Wisdom (Insight) check. If your check succeeds, your movement doesn't provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can't be deceived by you in this way for 1 hour.
+Source: Unearthed Arcana: Feats For Skills p. 3</text>
+    <modifier category="ability score">Charisma +1</modifier>
+    <proficiency>Deception</proficiency>
+    </feat>
+  <feat>
+      <name>Stealthy (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You know how best to hide. You gain the following benefits:
+• You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible.
+Source: Unearthed Arcana: Feats For Skills p. 4</text>
+    <modifier category="ability score">Dexterity +1</modifier>
+    <proficiency>Stealth</proficiency>
+    </feat>
+  <feat>
+      <name>Survivalist (UA)</name>
+    <prerequisite></prerequisite>
+    <text>You master wilderness lore, gaining the following benefits:
+• You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+Source: Unearthed Arcana: Feats For Skills p. 4</text>
+    <modifier category="ability score">Wisdom +1</modifier>
+    <proficiency>Survival</proficiency>
+    </feat>
+  <feat>
+      <name>Theologian (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your extensive study of religion rewards you with the following benefits:
+• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+Source: Unearthed Arcana: Feats For Skills p. 4</text>
+    <modifier category="ability score">Intelligence +1</modifier>
+    <proficiency>Religion</proficiency>
+    </feat>
+  </compendium>

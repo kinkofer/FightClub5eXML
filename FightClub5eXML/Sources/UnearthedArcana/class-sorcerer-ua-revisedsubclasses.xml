@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Favored Soul v3</name>
+        <text>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a favored soul, your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.</text>
+        <text>Favored souls, with their natural magnetism and strong personalities, are often seen as threats by traditional religious hierarchies. As outsiders who command the power of the gods, these sorcerers can undermine the existing order and claim a direct tie to the divine.</text>
+        <text>In some cultures, only those who can claim the power of a favored soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Divine Magic</name>
+        <text>Your link to the divine allows you to learn spells normally associated with the cleric class. When your Spellcasting feature lets you learn a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</text>
+        <text>You also learn the cure wounds spell, which does not count against your number of sorcerer spells known.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Favored by the Gods</name>
+        <text>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Empowered Healing</name>
+        <text>Starting at 6th level, the celestial energy coursing through you can empower your healing magic. Whenever you roll dice to determine the number of hit points a sorcerer spell of yours restores, you can spend 1 sorcery point to reroll any number of those dice once.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Angelic Form</name>
+        <text>At 14th level, your divine essence causes you to undergo a minor physical transformation. Your appearance takes on an otherworldly version of one of the following qualities (your choice): beautiful, youthful, kind, or imposing.</text>
+        <text>In addition, as a bonus action, you can manifest a pair of spectral wings from your back. The wings last until you're incapacitated or you dismiss them as a bonus action. While the wings are present, you have a flying speed of 30 feet.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Favored Soul v3 (UA): Unearthly Recovery</name>
+        <text>At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have less than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Subclasses p. 5</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

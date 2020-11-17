@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Forge Domain (UA)</name>
+        <text>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Forge Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | searing smite, shield</text>
+        <text>3rd | heat metal, magic weapon</text>
+        <text>5th | elemental weapon, protection from energy</text>
+        <text>7th | fabricate, wall of fire</text>
+        <text>9th | animate objects, creation</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Blessing of the Forge</name>
+        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Grave Domain (UA)</name>
+        <text>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. Deities of the grave include Kelemvor, WeeJas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature's death, though they refuse to use such magic to extend a creature's lifespan beyond its mortal limits.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Grave Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | bane, false life</text>
+        <text>3rd | gentle repose, ray of enfeeblement</text>
+        <text>5th | revivify, vampiric touch</text>
+        <text>7th | blight, death ward</text>
+        <text>9th | antilife shell, raise dead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Circle of Mortality</name>
+        <text>At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Eyes of the Grave</name>
+        <text>Starting at 1st level, you gain an innate sense of creatures whose existence is an insult to the natural cycle of life. If you spend 1 minute in uninterrupted contemplation, you can determine the presence and nature of undead creatures in the area. This detection extends up to 1 mile in all directions. You learn the number of undead and their distance and direction from you. In addition, you learn the creature type of the undead in that area that has the highest challenge rating.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Protection Domain (UA)</name>
+        <text>The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods' faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Protection Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | compelled duel, protection from evil and good</text>
+        <text>3rd | aid, protection from poison</text>
+        <text>5th | protection from energy, slow</text>
+        <text>7th | guardian of faith, Otiluke's resilient sphere</text>
+        <text>9th | antilife shell, wall of force</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Shield of the Faithful</name>
+        <text>Starting at 1st level, you gain the ability to hinder attacks intended for others. When a creature attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. To do so, you must be able to see both the attacker and the target. You interpose an arm, a shield, or some other part of yourself to try to throw the attack off target.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Channel Divinity: Artisan's Blessing</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to create simple items.</text>
+        <text>Starting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</text>
+        <text>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Channel Divinity: Path to the Grave</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</text>
+        <text>As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends.</text>
+        <text>If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Channel Divinity: Radiant Defense</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to cloak your allies in radiant armor.</text>
+        <text>As an action, you channel blessed energy into an ally that you can see within 30 feet of you. The first time that ally is hit by an attack within the next minute, the attacker takes radiant damage equal to 2d10 + your cleric level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Soul of the Forge</name>
+        <text>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</text>
+        <text>• You gain a +1 bonus to AC while you are wearing medium or heavy armor.</text>
+        <text>• You gain resistance to fire damage.</text>
+        <text>• When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Sentinel at Death's Door</name>
+        <text>Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Blessed Healer</name>
+        <text>Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Forge Domain (UA): Saint of Forge and Fire</name>
+        <text>At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Grave Domain (UA): Keeper of Souls</name>
+        <text>At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Protection Domain (UA): Indomitable Defense</name>
+        <text>At 17th level, you gain resistance to two damage types of your choice, choosing from bludgeoning, necrotic, piercing, radiant, and slashing. Whenever you finish a short or long rest, you can change the damage types you chose.</text>
+        <text>As an action, you can temporarily give up this resistance and transfer it to one creature you touch. The creature keeps the resistance until the end of your next short or long rest or until you transfer it back to yourself as a bonus action.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

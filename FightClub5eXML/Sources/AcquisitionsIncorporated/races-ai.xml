@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Verdan</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 1, Cha 2</ability>
+    <proficiency>Persuasion</proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Acquisitions Incorporated p. 72</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Verdan reach adulthood at around the age of 24, and it is thought that they might live to nearly 200 years old. However, because no verdan has died of old age since the race's initial creation, their upper age limits remain subject to speculation.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Verdan are generally good, although their absence of racial identity and shared history can sometimes see individual verdan become untethered from any moral or ethical framework.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Verdan start out similar in size to the goblins they were created from, ranging from 3 to 4 feet in height. But at some point after reaching maturity, each verdan undergoes a sudden growth spurt of 2 feet or more. At 1st level, you are a Small creature. When you reach 5th level, you become a Medium creature.
+</text>
+      </trait>
+    <trait>
+        <name>Black Blood Healing</name>
+      <text>The black blood that is a sign of your people's connection to That-Which-Endures boosts your natural healing. When you roll a 1 or 2 on any Hit Die you spend at the end of a short rest, you can reroll the die and must use the new roll.
+</text>
+      </trait>
+    <trait>
+        <name>Limited Telepathy</name>
+      <text>You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathy, but it must be able to understand at least one language. This process of communication is slow and limited, allowing you to transmit and receive only simple ideas and straightforward concepts.
+</text>
+      </trait>
+    <trait>
+        <name>Persuasive</name>
+      <text>Your people's lack of history makes you trustworthy and humble. You have proficiency in the Persuasion skill.
+</text>
+      </trait>
+    <trait>
+        <name>Telepathic Insight</name>
+      <text>Your mind's connection to the world around you strengthens your will. You have advantage on all Wisdom and Charisma saving throws.
+</text>
+      </trait>
+    <trait>
+        <name>Language</name>
+      <text>You speak, read, and write Common, Goblin, and one additional language of your choice. This language typically has some connection to one of the areas or cultures that has been part of your life.
+</text>
+      </trait>
+    </race>
+  </compendium>

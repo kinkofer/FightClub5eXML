@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Arcana Domain</name>
+        <text>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</text>
+        <text>The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and WeeJas of Greyhawk.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</text>
+        <text></text>
+        <text>Arcana Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | detect magic, magic missile</text>
+        <text>3rd | magic weapon, Nystul's magic aura</text>
+        <text>5th | dispel magic, magic circle</text>
+        <text>7th | arcane eye, Leomund's secret chest</text>
+        <text>9th | planar binding, teleportation circle</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Arcana Domain: Arcane Initiate</name>
+        <text>When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcana Domain: Channel Divinity: Arcane Abjuration</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.</text>
+        <text>As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
+        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the Dodge action.</text>
+        <text>After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.</text>
+        <text></text>
+        <text>Arcane Banishment</text>
+        <text>Cleric level | Banishes Creatures of CR...</text>
+        <text>5th | 1/2 or lower</text>
+        <text>8th | 1 or lower</text>
+        <text>11th | 2 or lower</text>
+        <text>14th | 3 or lower</text>
+        <text>17th | 4 or lower</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Arcana Domain: Spell Breaker</name>
+        <text>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Arcana Domain: Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Arcana Domain: Potent Spellcasting</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Arcana Domain: Arcane Mastery</name>
+        <text>At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

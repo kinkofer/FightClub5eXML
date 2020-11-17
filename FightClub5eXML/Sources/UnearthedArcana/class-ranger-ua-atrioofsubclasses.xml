@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Monster Slayer</name>
+        <text>Rangers of the Slayer Conclave seek out vampires, dragons, evil fey, fiends, and other powerful magical threats. Trained in a variety of arcane and divine techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty foes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Eye</name>
+        <text>Starting at 3rd level, you gain the ability to study and unravel a creature's defenses. As a bonus action, choose one creature you can see within 120 feet of you. You immediately learn the target's vulnerabilities, immunities, and resistances. You also learn any special effects triggered when the target takes damage, such as fire damage halting its regeneration.</text>
+        <text>In addition, the first time each turn you hit the target with a weapon attack, the target takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you target a different creature with this feature or until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Mysticism</name>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Slayer Spells table. The spell counts as a ranger spell for you but doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Monster Slayer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | zone of truth</text>
+        <text>9th | magic circle</text>
+        <text>13th | banishment</text>
+        <text>17th | planar binding</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Monster Slayer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Rangers of the Slayer Conclave seek out vampires, dragons, evil fey, fiends, and other powerful magical threats. Trained in a variety of arcane and divine techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty foes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Eye</name>
+        <text>Starting at 3rd level, you gain the ability to study and unravel a creature's defenses. As a bonus action, choose one creature you can see within 120 feet of you. You immediately learn the target's vulnerabilities, immunities, and resistances. You also learn any special effects triggered when the target takes damage, such as fire damage halting its regeneration.</text>
+        <text>In addition, the first time each turn you hit the target with a weapon attack, the target takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you target a different creature with this feature or until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Monster Slayer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>Rangers of the Slayer Conclave seek out vampires, dragons, evil fey, fiends, and other powerful magical threats. Trained in a variety of arcane and divine techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty foes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Eye</name>
+        <text>Starting at 3rd level, you gain the ability to study and unravel a creature's defenses. As a bonus action, choose one creature you can see within 120 feet of you. You immediately learn the target's vulnerabilities, immunities, and resistances. You also learn any special effects triggered when the target takes damage, such as fire damage halting its regeneration.</text>
+        <text>In addition, the first time each turn you hit the target with a weapon attack, the target takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you target a different creature with this feature or until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Mysticism</name>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Slayer Spells table. The spell counts as a ranger spell for you but doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Monster Slayer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | zone of truth</text>
+        <text>9th | magic circle</text>
+        <text>13th | banishment</text>
+        <text>17th | planar binding</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Eye forces you to make a saving throw, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Eye forces you to make a saving throw, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Eye forces you to make a saving throw, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Relentless Slayer</name>
+        <text>At 11th level, you gain the ability to foil your foe's ability to escape. Your study of folklore and arcane knowledge gives you a key insight to keep your prey cornered. If the target of your Slayer's Eye attempts to teleport, change its shape, travel to another plane of existence, or turn gaseous, you can use your reaction to make a Wisdom check contested by a Wisdom check made by the target. To use this ability, you must be able to see the target and need to be within 30 feet of it. If you succeed, you foil its attempt, causing it to waste the action, bonus action, or reaction it used.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Relentless Slayer</name>
+        <text>At 11th level, you gain the ability to foil your foe's ability to escape. Your study of folklore and arcane knowledge gives you a key insight to keep your prey cornered. If the target of your Slayer's Eye attempts to teleport, change its shape, travel to another plane of existence, or turn gaseous, you can use your reaction to make a Wisdom check contested by a Wisdom check made by the target. To use this ability, you must be able to see the target and need to be within 30 feet of it. If you succeed, you foil its attempt, causing it to waste the action, bonus action, or reaction it used.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Relentless Slayer</name>
+        <text>At 11th level, you gain the ability to foil your foe's ability to escape. Your study of folklore and arcane knowledge gives you a key insight to keep your prey cornered. If the target of your Slayer's Eye attempts to teleport, change its shape, travel to another plane of existence, or turn gaseous, you can use your reaction to make a Wisdom check contested by a Wisdom check made by the target. To use this ability, you must be able to see the target and need to be within 30 feet of it. If you succeed, you foil its attempt, causing it to waste the action, bonus action, or reaction it used.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Eye forces you to make a saving throw, you can use your reaction to make one weapon attack against it. You make this attack immediately before making the saving throw. If the attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Eye forces you to make a saving throw, you can use your reaction to make one weapon attack against it. You make this attack immediately before making the saving throw. If the attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer (UA): Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Eye forces you to make a saving throw, you can use your reaction to make one weapon attack against it. You make this attack immediately before making the saving throw. If the attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: A Trio Of Subclasses p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

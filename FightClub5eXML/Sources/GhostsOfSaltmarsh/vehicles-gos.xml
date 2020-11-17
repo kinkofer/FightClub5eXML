@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Galley</name>
+    <size>G</size>
+    <type>vehicle (130 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>500</hp>
+    <speed>4 miles per hour (96 miles per day)</speed>
+    <str>24</str>
+    <dex>4</dex>
+    <con>20</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>500</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 500 (damage threshold 20)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the galley can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn, the galley can take 3 actions, choosing from the options below. It can take only 2 actions if it has fewer than forty crew and only 1 action if it has fewer than twenty. It can't take these actions if it has fewer than three crew.</text>
+      <text>• Fire Ballistas. The galley can fire its ballista (DMG, ch. 8).</text>
+      <text>• Fire Mangonels. The galley can fire its mangonel (DMG, ch. 8).</text>
+      <text>• Move. The galley can use its helm to move with its oars or sails. As part of this move, it can use its naval ram.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballistas (4)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonels (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 each</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Naval Ram</text>
+      <text>Armor Class: 20</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      <text>The galley has advantage on all saving throws relating to crashing when it crashes into a creature or an object. Any damage it takes from the crash is applied to the naval ram rather than to the ship. These benefits don't apply if another vessel crashes into the galley.</text>
+      </action>
+    <description>Example Galley Crew
+A galley requires a crew of eighty to properly sail or row the vessel and might carry extra passengers or soldiers. If the characters are guests on a galley, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
+• One captain (bandit captain)
+• Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook (scout)
+• Forty-two sailors (commoner)
+• Twelve siege engineers (guard)
+• Twenty guard
+Main Deck
+The main deck of the galley has the following features:
+• Ballistas. Four ballistas (DMG, ch. 8) are attached to the fore of the deck. Ten ballista arrows are stacked and secured near each.
+• Mangonels. Two mangonels (DMG, ch. 8) are attached to the aft of the deck. Ten mangonel stones are stacked and secured near each catapult.
+• Naval Ram. The galley's stern features an iron naval ram used for attacking other ships.
+• Opening. A 10-foot-wide, 80-foot-long open space in the middle of the deck stretches fore to aft and leads down to the lower deck.
+• Railing. A 3-foot-high rail is built around the deck's perimeter, providing half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+• Rowboats. Eight rowboats are stacked in two groups of four on this deck. Ropes and pulleys can hoist these boats in and out of the water.
+• Timpani. A timpani with two attached mallets sits on the aft of the main deck just before the opening to the lower deck. A crew member plays this instrument while the sailors on the lower deck row, the beat helping to synchronize the rowers' strokes.
+• Wheel. The ship's wheel stands at the aft of the deck.
+Lower Deck
+The cramped lower deck of the galley ship reeks of body odor and has the following features:
+• Cargo Holds. Cargo holds at the fore and aft of the lower deck hold crates, barrels, and ammunition secured with rope.
+• Oars. Thirty-two benches are built into the deck, each with a 20-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Ten spare oars hang on the walls.
+Source: Ghosts of Saltmarsh p. 187</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Keelboat</name>
+    <size>G</size>
+    <type>vehicle (60 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>100</hp>
+    <speed>3 miles per hour (72 miles per day)</speed>
+    <str>16</str>
+    <dex>7</dex>
+    <con>13</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>100</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the keelboat can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 20 damage taken </text>
+      </trait>
+    <action>
+        <text>On its turn, the keelboat can take 2 actions, choosing from the options below. It can take only 1 action if it has only one crew. It can't take these actions if it has no crew.</text>
+      <text>• Fire Ballista. The keelboat can fire its ballista (DMG, ch. 8).</text>
+      <text>• Move. The keelboat can use its helm to move with its oars or sails.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballista</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      <text>Keelboats typically include a ballista only when they are equipped for combat.</text>
+      </action>
+    <description>Example Keelboat Crew
+A keelboat requires a single crew member to operate smoothly. If the characters are guests on a keelboat, the crew consists of a single captain who has the statistics of a bandit captain with proficiency with water vehicles.
+Keelboat Deck
+The deck of the keelboat has the following features:
+• Ballista. A ballista (DMG, ch. 8) is mounted on the fore of the deck. Ten ballista arrows are stacked and secured nearby.
+• Oars. The deck of the ship holds twelve benches and four 15-foot-long oars. When the ship is rowed, crew members sit on these benches to work the oars.
+• Railing. The deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+Keelboat Cabin
+The keelboat cabin has the following features:
+• Footlockers. Beneath each bed is a footlocker. The footlockers are iron and have AC 19, 18 hit points, and immunity to poison and psychic damage.
+• Furnishings. Two beds and a desk with a chair stand at the aft of the cabin.
+Source: Ghosts of Saltmarsh p. 188</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Longship</name>
+    <size>G</size>
+    <type>vehicle (70 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>300</hp>
+    <speed>5 miles per hour (120 miles per day)</speed>
+    <str>20</str>
+    <dex>6</dex>
+    <con>17</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>300</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 300 (damage threshold 15)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the longship can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn, the longship can take the move action below. It can't take this action if it has no crew.</text>
+      <text>• Move. The longship can use its helm to move with its oars or sails.</text>
+      </action>
+    <description>Example Longship Crew
+A longship requires a crew of forty to properly sail or row the vessel and often carries extra passengers or soldiers. If the characters are guests on a longship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
+• One captain (berserker)
+• Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook (berserker)
+• Thirty-four sailors (commoner)
+Longship Deck
+The deck of the longship has the following features:
+• Oars. Sixteen benches are built into the deck, each with a 15-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Five spare oars hang on the walls.
+• Railing. The deck has a 3-foot-high rail covered in wooden shields around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+Source: Ghosts of Saltmarsh p. 190</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Rowboat</name>
+    <size>L</size>
+    <type>vehicle (10 ft. x 5 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>11</ac>
+    <hp>50</hp>
+    <speed>3 miles per hour (72 miles per day)</speed>
+    <str>11</str>
+    <dex>8</dex>
+    <con>11</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>50</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 11</text>
+      <text>Hit Points: 50</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 25</text>
+      </trait>
+    <action>
+        <text>On its turn, the rowboat can take the move action below. It can't take this action if it has no crew.</text>
+      <text>• Move. The rowboat can move using its oars.</text>
+      </action>
+    <description>The humble rowboat serves to ferry passengers back and forth from larger ships or to navigate lakes and rivers. Due to its simple, versatile design, a rowboat has no decks or typical crew. Weighing 100 pounds, a rowboat is easy to transport and might be carried by larger ships.
+Source: Ghosts of Saltmarsh p. 190</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Sailing Ship</name>
+    <size>G</size>
+    <type>vehicle (100 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>300</hp>
+    <speed>5 miles per hour (120 miles per day)</speed>
+    <str>20</str>
+    <dex>7</dex>
+    <con>17</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>300</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 300 (damage threshold 15)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of its sails, with one 90-degree turn. If the helm is destroyed, the ship can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn, the ship can take 3 actions, choosing from the options below. It can take only 2 actions if it has fewer than twenty crew and only 1 action if it has fewer than ten. It can't take these actions if it has fewer than three crew.</text>
+      <text>• Fire Ballista. The ship can fire its ballista (DMG, ch. 8).</text>
+      <text>• Fire Mangonel. The ship can fire its mangonel (DMG, ch. 8).</text>
+      <text>• Move. The ship can use its helm to move with its sails.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballista</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonel</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <description>Example Crew
+A sailing ship requires a large crew to properly sail the vessel. If the characters are guests on a sailing ship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
+• One captain (bandit captain)
+• Four other officers: a first mate, a bosun, a quartermaster, and a cook (noble)
+• Twenty-five sailors (commoner)
+1. Main Deck
+The main deck of the ship has the following features:
+• Mangonel. Sailing ships have one mangonel (DMG, ch. 8) attached to the deck.  Each weapon has 10 mangonel stones stacked and secured near it.
+• Hatch. A covered, 10-foot-square opening leads to the lower deck (area W8).
+• Railing. The main deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+• Rowboats. Four rowboat are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.
+2. Officers' Quarters
+Four beds stand in the officer's quarters. Beneath each is an iron footlocker that holds the officers' belongings. The officers sleep in shifts so someone remains on duty to command the crew and carry out the captain's orders.
+3. Captain's Quarters
+The captain's quarters hold a bed and a desk. Beneath the bed is an iron footlocker that holds the captain's belongings.
+4. Siege Weapon Ammunition
+Shelves and rope on the walls of this cabin secure mangonel stones and ballista arrows.
+5. Supplies
+This area holds tools, barrels of tar, rope, extra material to repair sails, and other supplies needed to maintain the ship.
+6. Forecastle
+The forecastle has the following features:
+• Ballista. A ballista (DMG, ch. 8) is attached to the deck. Ten ballista arrows are stacked and secured nearby.
+• Railing. The forecastle has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+7. Quarterdeck
+The quarterdeck has the following features:
+• Railing. The quarterdeck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+• Wheel. The ship's wheel stands at the aft of the quarterdeck.
+8. Oar Deck
+Twenty-two benches are built into the deck of the lower deck, each with a 20-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Ten spare oars hang on the walls of the ship.
+9. Privy
+Benches line the walls of this room. Four holes carved in them house chamber pots.
+10. Medical Cabin
+Hooks and shelves on the walls hold medical instruments, bandages, balms, tonics, jars of leeches, and more, ready to treat injuries from combat or sailing mishaps.
+11. Guest Cabin
+This cabin is meant for guests and visiting high-ranking officials along for the journey.
+12. Hold
+This area houses both passengers and cargo. The ship's off-duty crew sleep on bedrolls among the crates and barrels of food, water, and other supplies.
+13. Armory
+The ship's supply of weapons and armor is held in this cabin. Its walls are fitted with built-in weapon and armor racks. The door to this cabin is usually locked, the key kept by one of the ship's officers.
+Source: Ghosts of Saltmarsh p. 192</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Warship</name>
+    <size>G</size>
+    <type>vehicle (100 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>500</hp>
+    <speed>4 miles per hour (96 miles per day)</speed>
+    <str>20</str>
+    <dex>4</dex>
+    <con>20</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>500</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 500 (damage threshold 20)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of one of its movement components, with one 90-degree turn. If the helm is destroyed, the warship can't turn.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Oars</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Sails</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -10 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn, the warship can take 3 actions, choosing from the options below. It can take only 2 actions if it has fewer than twenty crew and only 1 action if it has fewer than ten. It can't take these actions if it has fewer than three crew.</text>
+      <text>• Fire Ballistas. The warship can fire its ballista (DMG, ch. 8).</text>
+      <text>• Fire Mangonels. The warship can fire its mangonel (DMG, ch. 8).</text>
+      <text>• Move. The warship can use its helm to move with its oars or sails. As part of this move, it can use its naval ram.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Ballistas (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. 16 (3d10) piercing damage.</text>
+      <attack>Weapons:|+6|3d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Mangonels (2)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 100 each</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. 27 (5d10) bludgeoning damage.</text>
+      <attack>Weapons:|+5|5d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Naval Ram</text>
+      <text>Armor Class: 20</text>
+      <text>Hit Points: 100 (damage threshold 10)</text>
+      <text>The warship has advantage on all saving throws relating to crashing when it crashes into a creature or object. Any damage it takes from the crash is applied to the naval ram rather than to the ship. These benefits don't apply if another vessel crashes into the warship.</text>
+      </action>
+    <description>Example Crew
+A warship requires a large crew to properly sail the vessel. Warships carry extra soldiers to fight battles and fire the siege weapons. If the characters are guests on a warship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
+• One captain (bandit captain)
+• Four other officers: a first mate, a bosun, a quartermaster, and a cook (noble)
+• Twenty-five sailors (commoner)
+A warship typically includes the following additional crew to augment its fighting ability:
+• Forty soldiers (guard)
+• Eight siege engineers (guard)
+• One priest (the ship's surgeon)
+1. Main Deck
+The main deck of the ship has the following features:
+• Mangonel. Sailing ships have one mangonel (DMG, ch. 8) attached to the deck. Warships have two mangonels (DMG, ch. 8). Each weapon has 10 mangonel stones stacked and secured near it.
+• Hatch. A covered, 10-foot-square opening leads to the lower deck (area W8).
+• Railing. The main deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+• Rowboats. Four rowboat are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.
+2. Officers' Quarters
+Four beds stand in the officer's quarters. Beneath each is an iron footlocker that holds the officers' belongings. The officers sleep in shifts so someone remains on duty to command the crew and carry out the captain's orders.
+3. Captain's Quarters
+The captain's quarters hold a bed and a desk. Beneath the bed is an iron footlocker that holds the captain's belongings.
+4. Siege Weapon Ammunition
+Shelves and rope on the walls of this cabin secure mangonel stones and ballista arrows.
+5. Supplies
+This area holds tools, barrels of tar, rope, extra material to repair sails, and other supplies needed to maintain the ship.
+6. Forecastle
+The forecastle has the following features:
+• Ballista. A ballista (DMG, ch. 8) is attached to the deck. Ten ballista arrows are stacked and secured nearby.
+• Figurehead. Warships have an iron figurehead at the front of their forecastle, often shaped to look like a fearsome sea predator. This figurehead serves as the ship's naval ram.
+• Railing. The forecastle has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+7. Quarterdeck
+The quarterdeck has the following features:
+• Ballista. On a warship, a ballista (DMG, ch. 8) is attached to the deck. Ten ballista arrows are stacked and secured nearby.
+• Railing. The quarterdeck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
+• Wheel. The ship's wheel stands at the aft of the quarterdeck.
+8. Oar Deck
+Twenty-two benches are built into the deck of the lower deck, each with a 20-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Ten spare oars hang on the walls of the ship.
+9. Privy
+Benches line the walls of this room. Four holes carved in them house chamber pots.
+10. Medical Cabin
+Hooks and shelves on the walls hold medical instruments, bandages, balms, tonics, jars of leeches, and more, ready to treat injuries from combat or sailing mishaps.
+11. Brig
+This cabin is meant for guests and visiting high-ranking officials along for the journey. Since warships often have a greater need to house prisoners rather than guests, each bed aboard such a vessel also has a set of manacles (see chapter 5 in the Player's Handbook) attached to its frame.
+12. Hold
+This area houses both passengers and cargo. The ship's off-duty crew sleep on bedrolls among the crates and barrels of food, water, and other supplies.
+13. Armory
+The ship's supply of weapons and armor is held in this cabin. Its walls are fitted with built-in weapon and armor racks. The door to this cabin is usually locked, the key kept by one of the ship's officers.
+Source: Ghosts of Saltmarsh p. 194</description>
+    <environment></environment>
+    </monster>
+  </compendium>

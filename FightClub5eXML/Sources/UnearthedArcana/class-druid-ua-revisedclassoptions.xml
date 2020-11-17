@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Druid</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Circle of the Shepherd v2</name>
+        <text>Druids of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid. These druids recognize that all living things play a role in the natural world, yet they focus on protecting animals and fey creatures that have difficulty defending themselves. Shepherds, as they are known, see such creatures as their charges. They ward off monsters that threaten them, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on rare animal habitats and on sites sacred to the fey. Many of these druids are happiest far from cities and towns, content to spend their days in the company of animals and the fey creatures of the wilds.</text>
+        <text>Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Speech of the Woods</name>
+        <text>At 2nd level, you gain the ability to converse with beasts and many fey.</text>
+        <text>You learn to speak, read, and write Sylvan. In addition, beasts can understand your speech, and you gain the ability to decipher their noises and motions. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past. This ability doesn't grant you any special friendship with beasts, though you can combine this ability with gifts to curry favor with them as you would with any nonplayer character.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Spirit Totem</name>
+        <text>Starting at 2nd level, you gain the ability to call forth nature spirits and use them to influence the world around you. As a bonus action, you can magically summon an incorporeal spirit to a point you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around that point. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents.</text>
+        <text>As a bonus action, you can move the spirit up to 60 feet to a point you can see.</text>
+        <text>The spirit persists for 1 minute. Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text>The effect of the spirit's aura depends on the type of spirit you summon from the options below.</text>
+        <text></text>
+        <text>Bear Spirit</text>
+        <text>   The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.</text>
+        <text></text>
+        <text>Hawk Spirit</text>
+        <text>   The hawk spirit is a consummate hunter, marking your enemies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll.</text>
+        <text></text>
+        <text>Unicorn Spirit</text>
+        <text>   The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Mighty Summoner</name>
+        <text>At 6th level, you gain the ability to conjure forth powerful beasts and fey. Any beast or fey summoned or created by your spells gains two benefits:</text>
+        <text>• The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.</text>
+        <text>• The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Guardian Spirit</name>
+        <text>At 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of the Shepherd v2 (UA): Faithful Summons</name>
+        <text>Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it were cast with a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Revised Class Options p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

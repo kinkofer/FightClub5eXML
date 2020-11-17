@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <background>
+      <name>Black Fist Double Agent</name>
+    <proficiency>Deception, Insight</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you've been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.
+In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other Phlan insurgents. Since the evacuation of Phlan, you are even busier today than you ever were previously, as the number of dissenters among the refugees grows daily, while you are afforded many opportunities to spy on the peoples of Mulmaster and Elventree, to the pleasure of your contact(s) within the Tears of Virulence.
+• Skill Proficiencies: Deception, Insight
+• Tool Proficiencies: Disguise kit, and one type of artisan's tools or gaming set
+• Equipment: Disguise kit, common clothes, a Tears of Virulence emblem, a writ of free agency signed by the Lord Regent, a set of artisan's tools or gaming set you are proficient with, and a pouch with 15 gp (payment for services rendered).
+Source: Adventurers League: Curse Of Strahd p. 2</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Moderate
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you've been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.
+In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other Phlan insurgents.
+Since the evacuation of Phlan, you are even busier today than you ever were previously, as the number of dissenters among the refugees grows daily, while you are afforded many opportunities to spy on the peoples of Mulmaster and Elventree, to the pleasure of your contact(s) within the Tears of Virulence.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Double Agent</name>
+      <text>You have a reliable and trusty contact within the Tears of Virulence garrison in Phlan to whom you pass information and secrets. In exchange, you can get away with minor criminal offenses within the town of Phlan. In addition, your Black Fists contacts can help you secure an audience with the Lord Regent, the Lord Sage, members of the Black Fists, or deposed nobles and authority figures who are sympathetic to the Phlan refugees and insurgents. Note: This feature is a variant of the Noble feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | People are only as trustworthy as you are valuable to them. Always strive to be the most valuable person around.
+2 | My eloquence and sophistication are tools I use to avoid arousing suspicion myself.
+3 | I am a thrill-seeker, excited by covert and dangerous missions.
+4 | I live by my wits and always check every lock twice, just to be certain.
+5 | I never admit to my mistakes lest they be used against me.
+6 | I take every effort to be unnoticeable and blend into the crowd. Passersby rarely give me a second look.
+7 | I am prepared for any eventuality; including the day my usefulness as a spy comes to an end.
+8 | I always make certain to know my enemy before acting, lest I bite off more than I can chew.
+
+d6 | Ideal
+1 | Suspicious. In my experience, everybody has something to hide, and what they hide can usually hurt me. (Any)
+2 | Secretive. I trade in secrets, and am not about to let any of mine slip. (Any)
+3 | Hedonist. Life is short. I live my life to the fullest, as I know any day could be my last. (Chaotic)
+4 | Selfless. I use my position to help the downtrodden avoid persecution from the authorities. (Good)
+5 | Patriotic. I am a loyal supporter of Phlan and its leaders, and see my role as a solemn duty and necessary evil to prevent anarchy. (Lawful)
+6 | Manipulative. I use my knowledge to blackmail and manipulate others to my own benefit. (Evil)
+
+d6 | Bond
+1 | I was framed for a crime I did not commit, and seek to bring the true culprit to justice.
+2 | I am a part of an underground network that smuggles innocent civilians out of the city prior to being raided by the authorities.
+3 | I miss the glory days of Phlan, before the coming of the dragon.
+4 | I seek to prove myself worthy of joining the Black Fist as a member of their order.
+5 | My sister was killed by a Tear of Virulence, and now I feed them false information whenever possible.
+6 | My family was wrongly imprisoned, and I act as an informant in order to secure their release.
+
+d6 | Flaw
+1 | I think too highly of myself, and have an exaggerated sense of self-importance.
+2 | I have difficulty trusting strangers. I see spies and informants everywhere.
+3 | Years of getting away with minor crimes has left me believing that I am above the law, and have diplomatic immunity above my station.
+4 | Years of seeing innocent people suffer have left me despondent and pessimistic for the future.
+5 | My desire for vengeance often gets me into trouble.
+6 | I am spendthrift, and share my wealth with the patrons of my favorite tavern.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Dragon Casualty</name>
+    <proficiency>Intimidation, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>When the Maimed Virulence descended upon Phlan, you were one of the unfortunate casualties of war. Captured during the initial assault, you have spent the last year of your life as a plaything of a capricious and malevolent overlord. While many of your fellow prisoners fell to the dragon's insatiable fury over the coming months, you and your fellow "survivors" were spared only for a worse fate as one of the dragon's magical experiments, leaving you and those who survived the torture scarred and disfigured.
+What reasons the dragon had for releasing you few survivors, nobody knows. You only fear that those who died under his terrible claw were the lucky ones, and you and your fellow Dragonscarred are doomed for a fate worse than death.
+• Skill Proficiencies: Intimidation, Survival
+• Tool Proficiencies: Special (see origin below)
+• Language: Draconic
+• Equipment: A dagger, tattered rags, a loaf of moldy bread, a small cast-off scale belonging to Vorgansharax—the Maimed Virulence, and a pouch with 5 gp of various coins (salvaged during your escape from Phlan).
+Source: Adventurers League: Curse Of Strahd p. 3</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Wretched
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>When the Maimed Virulence descended upon Phlan, you were one of the unfortunate casualties of war. Captured during the initial assault, you have spent the last year of your life as a plaything of a capricious and malevolent overlord.
+While many of your fellow prisoners fell to the dragon's insatiable fury over the coming months, you and your fellow "survivors" were spared only for a worse fate as one of the dragon's magical experiments, leaving you and those who survived the torture scarred and disfigured.
+What reasons the dragon had for releasing you few survivors, nobody knows. You only fear that those who died under his terrible claw were the lucky ones, and you and your fellow Dragonscarred are doomed for a fate worse than death.
+</text>
+      </trait>
+    <trait>
+        <name>Origin</name>
+      <text>Prior to the coordinated attack by the Maimed Virulence and her rebel Black Fist supporters, you were once a citizen or visitor to Phlan. While the trauma of your recent ordeal has greatly altered your motivations and perception of the world, your former life still clings to you and colors your mannerisms, behaviors, and outlook on life. Choose one entry on the following table (or roll randomly) to determine your former occupation prior to your incarceration and torture. Your choice determines your tool proficiency from this background.
+d8 | Origin (Occupation) | Tool Proficiency
+1 | Dockworker/Fisherman | Vehicles (water)
+2 | Tradesperson/Merchant | Artisan's tools
+3 | Black Fist Soldier | Gaming set or Vehicles (land)
+4 | Adventurer/Visitor | Vehicles (land)
+5 | Entertainer | Musical Instrument
+6 | Scholar/Healer | Alchemist's Supplies or Herbalism kit
+7 | Criminal | thieves' tools, forgery kit, or Disguise kit
+8 | Unskilled Laborer | Gaming set
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Dragonscarred</name>
+      <text>Over a period of several months you were subject to magical and mundane torture at the claws of Vorgansharaxse and his minions. These experiments have left you horribly disfigured but mark you as a survivor of the Maimed Virulence. This affords you a measure of fame and notoriety, for those who know of your harrowing ordeal are keen to hear the tale personally but makes it difficult to disguise your appearance and hide from prying eyes.
+You can parlay this attention into access to people and places you might not otherwise have, for you and your companions. Nobles, scholars, mages, and those who seek to ferret out the secrets of the Maimed Virulence would all be keen to hear your tale of survival, and learn what secrets (if any) you might possess, and/or study your affliction with great interest. However, you fear that your afflictions are not completely mundane and that the Maimed Virulence may as yet have some nefarious reason for allowing your escape, as your scars burn with acidic fury and seem to writhe beneath your skin at times. Note: This feature is a variant of the Far Traveler feature.
+</text>
+      </trait>
+    <trait>
+        <name>Disfigurement (Optional)</name>
+      <text>In addition to extensive scarring, you may choose one of the following options to represent your disfigurement. This disfigurement is purely cosmetic, misshapen, and horrific to look upon.
+d8 | Disfigurement
+1 | Small non-functional wing(s).
+2 | Misshapen, wing-like membranes along one or both arms.
+3 | Elongated, claw-like hand(s).
+4 | Elongated, claw-like feet.
+5 | Painful green scales randomly embedded in skin.
+6 | Bulbous, reptilian eye(s).
+7 | Enlarged dorsal spines.
+8 | Hair replaced with small irregular spines.
+
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | I am driven to escape my past, and rarely stay in one place long.
+2 | I know secrets of the Maimed Virulence, but fear the harm that may befall me should others learn them.
+3 | Speaking of my ordeal helps sooth the still open wounds in my soul.
+4 | My former life is meaningless, and was ripped to shreds by the claws of Vorgansharax. All that matters now is what I do with the future.
+5 | I have faced the worst a dragon can deliver and survived. I am fearless, and my resolve unshakable.
+6 | I am haunted my tortured past, and wake at night screaming at half-remembered horrors.
+7 | I sleep with my back to a wall or tree, and a weapon within arm's reach.
+8 | I am slow to trust, but incredibly loyal to those who have earned it.
+
+d6 | Ideal
+1 | Survivor. No matter the cost, I will take any action necessary to survive. (Any)
+2 | Independence. When in trouble, the only person I can rely on is myself. (Chaotic)
+3 | Compassionate. I have suffered long at the hands of a Dragon, and take pity and compassion on the suffering of others. (Good)
+4 | Secretive. I am withdrawn, and hide my monstrous appearance for fear of drawing unwanted attention. (Chaotic)
+5 | Justice. I have been wronged, and will not allow the same fate to befall others. (Lawful)
+6 | Sycophant. During my ordeal, I became a willing servant of the Maimed Virulence, and spy on his behalf. (Evil)
+
+d6 | Bond
+1 | I have sworn vengeance on the Maimed Virulence and those that follow him.
+2 | I long to reunite with friends and family who may dwell among the Phlan Refugees, and protect them.
+3 | While a prisoner of the Maimed Virulence, I overheard rumors of an item or treasure the Dragon seeks. I will have that treasure for myself!
+4 | I seek to reclaim and rebuild my former life to the best of my ability.
+5 | I have been reborn as a child of Vorgansharax. I will claim my birthright as his chosen heir and successor.
+6 | I attribute my survival to the work of the divine, and seek to prove myself worthy of the honor.
+
+d6 | Flaw
+1 | I have been touched with dragon-greed, and have a lust for wealth which can never be satisfied.
+2 | I secretly believe others are plotting to harm me.
+3 | I no longer enjoy the simple pleasures in life. Food is but ashes and bile in my throat.
+4 | Anyone who refuses to celebrate my celebrity does not deserve my company.
+5 | I am paranoid and overly suspicious of others. Anyone may be an agent of the Maimed Virulence.
+6 | Once I make up my mind, I follow my chosen course of action regardless of the consequences.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Iron Route Bandit</name>
+    <proficiency>Animal Handling, Stealth</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan's recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people's mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.
+• Skill Proficiencies: Animal Handling, Stealth
+• Tool Proficiencies: One type of gaming set, vehicles (land)
+• Equipment: A set of dark common clothes, pack saddle, burglar's pack, and a belt pouch containing 5 gp
+Source: Adventurers League: Curse Of Strahd p. 5</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan's recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people's mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Black-Market Breeder</name>
+      <text>You know how to find people who are always looking for stolen animals &amp; vehicles, whether to provide for animal pit fights, or to supply some desperate rogues the means to get away faster on mounts during an illegal job. This contact not only provides you with information of what such animals &amp; vehicles are in high demand in the area, but also offer to give you favors and information (DM choice) if you bring such animals &amp; vehicles to them. Note: This is a variant of the Criminal Contact feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | If people leave their gear unsecured, they must not want it very much.
+2 | I feel more comfortable sleeping under the open sky.
+3 | I always pre-plan my escape should things go bad; I always like to have an exit strategy.
+4 | I tend to give animal owners breeding and care advice whether or not they want it.
+5 | I lost a pet as a child and sadly reflect on it to this day.
+6 | I always form a powerful, emotional bond with my mount.
+7 | I recoil at the thought of killing someone else's pet or mount.
+8 | I prefer to hang to the back of a scuffle or discussion. Better to have my enemies in front of me.
+
+d6 | Ideal
+1 | Loyalty. Never bite the hand that feeds. (Good)
+2 | Unpredictability. Keep your enemy guessing and off-balance like a confused deer. (Chaotic)
+3 | Power. I strive to become leader of the pack at all costs. (Lawful)
+4 | Freedom. I bow to no one I don't respect. (Chaotic)
+5 | Resourcefulness. Our wits are our most valuable resource in troubled times. (Any)
+6 | Unity. Lone wolves fail where the pack succeeds. (Any)
+
+d6 | Bond
+1 | I cannot leave a harmed animal behind; I must save it or put it out of its misery.
+2 | I leave behind my own personal calling cards when I do a job.
+3 | I do not trust people who do not have a pet, mount, or furry companion.
+4 | The pelt I wear on my back was from an animal that died saving my life, I will always cherish it.
+5 | If my pet does not like you, I do not like you!
+6 | Once you've ridden with me and fought by my side, I'll be there for you odds be damned.
+
+d6 | Flaw
+1 | I talk to animals; I believe they understand me, even if they do not.
+2 | I growl at and bite anyone who gets too close to my food while I am eating.
+3 | I strongly dislike enclosed spaces and require intoxication or firm encouragement to enter them.
+4 | I robbed the wrong caravan once. The owner is a powerful merchant who holds a grudge.
+5 | I'm an inveterate gambler.
+6 | I judge people based on how well they stand their ground in a fight. I got not time for cowards...
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Phlan Insurgent</name>
+    <proficiency>Stealth, Survival</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>The taking of Phlan by Vorgansharax is a clear memory in your mind. You were going about your everyday business when the green dragon's forces spilled out of the sewers and assailed your home. Many of Phlan's citizens, young and old alike, were captured, killed, or offered as tribute to the Maimed Virulence. You, yourself were one of those captured. But, either with the help of adventurers or through your own wits and sheer determination, you escaped.
+Rather than flee the region, you've chosen to stay and fight. Finding refuge outside the town and the deadly thicket surrounding it, you strike out against the Tears of the Virulence and their monstrous allies. You've learned to survive in dire and desperate circumstances, with supplies running low and the arrival of reinforcements uncertain. You've grown accustomed to acting under the cover of night, dealing what blows you can to avenge the friends and family you lost within the currently occupied Phlan. You will drive Vorgansharax out, or you die trying.
+• Skill Proficiencies: Stealth, Survival
+• Tool Proficiencies: One type of artisan's tools, vehicles (land)
+• Equipment: A bag of caltrops (bag of 20), a small trinket that connects you to the life you once had before the occupation of Phlan, a healer's kit, a set of dark common clothes that includes a cloak and hood, and a belt pouch containing 5 gp
+Source: Adventurers League: Curse Of Strahd p. 6</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>The taking of Phlan by Vorgansharax is a clear memory in your mind. You were going about your everyday business when the green dragon's forces spilled out of the sewers and assailed your home. Many of Phlan's citizens, young and old alike, were captured, killed, or offered as tribute to the Maimed Virulence. You, yourself were one of those captured. But, either with the help of adventurers or through your own wits and sheer determination, you escaped.
+Rather than flee the region, you've chosen to stay and fight. Finding refuge outside the town and the deadly thicket surrounding it, you strike out against the Tears of the Virulence and their monstrous allies. You've learned to survive in dire and desperate circumstances, with supplies running low and the arrival of reinforcements uncertain. You've grown accustomed to acting under the cover of night, dealing what blows you can to avenge the friends and family you lost within the currently occupied Phlan. You will drive Vorgansharax out, or you die trying.
+</text>
+      </trait>
+    <trait>
+        <name>Origin</name>
+      <text>Removed from your life as a townsperson, you've adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both).
+d8 | Origin (General) | Origin (Specific)
+1 | Fisher | Stojanow River Worker
+2 | Hunter | Twilight Marsh Worker
+3 | Craftsperson | Mantor's Library Scribe
+4 | Priest/Priestess | Clergy of Ilmater
+5 | Cook | Laughing Goblin Server
+6 | City Watch | Black Fist Guard
+7 | Servant | House Sokol Retainer
+8 | Unskilled Laborer | Bay of Phlan Dockworker
+
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Guerrilla</name>
+      <text>You've come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge--or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use. Note: This feature is a variant of the Outlander feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>You have given up the life you knew as a citizen of Phlan. However, the Maimed Virulence's invasion resonates deep inside you. Perhaps you have a few friends or family members who were able to escape with you. Or, perhaps, everyone you held dear either perished or went missing during the fall. You may know of someone who is, against all odds, surviving within the thicket and you long to liberate them from a life of peril within the town.
+d8 | Personality Trait
+1 | My patience knows no bounds, so long as my goal is in sight.
+2 | In life and in struggle, the ends justify my actions.
+3 | If you aren't helping me, you'd best at least stay out of my way.
+4 | I long for the life that was taken away from me.
+5 | Friends and family perished, tragically, before my eyes. I hope never to undergo that again.
+6 | Making the right choices in life are important to me. The choices I make might save not just my life, but the lives of others as well.
+7 | I can never allow my foes to get the drop on me.
+8 | Time is a precious resource that I must spend wisely.
+
+d6 | Ideal
+1 | Leadership. The oppressed need someone to inspire them to courageous acts. (Good)
+2 | Unpredictability. Keeping the enemy guessing and off-balance is my tactical strength. (Chaos)
+3 | Determination. Threats to my home must be eliminated at all costs. (Any)
+4 | Freedom. Those who are enslaved and unjustly imprisoned deserve my aid. (Good)
+5 | Resourcefulness. Our wits are our most valuable resource in troubled times. (Any)
+6 | Unity. Working together, we can overcome all obstacles, even the most seemingly insurmountable ones. (Any)
+
+d6 | Bond
+1 | I'll never let my fellow insurgents down. They are my only remaining friends.
+2 | I was separated from a loved one during my escape from town. I will find them.
+3 | One of the Tears of the Virulence was a trusted friend, until the day they betrayed the city. They will pay harshly for their transgressions.
+4 | An item I hold close is my last remaining connection to the family I lost during the fall.
+5 | The dragon who took my past life away from me will feel the full extent of my vengeance.
+6 | The knowledge in Mantor's Library is an irreplaceable treasure that must be protected.
+
+d6 | Flaw
+1 | I have no respect for those who flee. I harbor a deep grudge against the citizens who abandoned Phlan.
+2 | Ale is the only way I can escape the desperation of my circumstances.
+3 | It doesn't take much to get me into a fight.
+4 | Being an insurgent means doing things that aren't always ethical. I'm still learning to live with that.
+5 | My desire to liberate Phlan oftentimes clouds my judgment, despite my best efforts.
+6 | I relentlessly despise the Maimed Virulence and his allies. I'd abandon other goals in order to strike out at them.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Stojanow Prisoner</name>
+    <proficiency>Deception, Perception</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>Those words still haunt your dreams at night. When everyone was fleeing Phlan, you choose to stay. Whether out of an emotional attachment, or pursuit of riches, you made the decision that would affect the rest of your life.
+Food became scarcer for those without connections. You became a beggar and to stay alive you bartered information to any interested party with food or gold to spare. You were good at what you did, and thought you were invincible. That changed when you were captured by the Tears of Virulence, the soldiers of Vorgansharax, the Maimed Virulence, for selling secrets to those bent on overthrowing the dragon. They locked you in the cells of Stojanow Gate. The first weeks you hoped to stay alive. As the weeks turned into months, and the interrogations continued you began to pray for death.
+• Skill Proficiencies: Deception, Perception
+• Tool Proficiencies: One type of gaming set, thieves' tools
+• Equipment: A small knife, a set of common clothes, a trinket from the life you stayed behind to defend, a belt pouch with 10 gp
+Source: Adventurers League: Curse Of Strahd p. 8</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>"We need to leave, now!" Those words still haunt your dreams at night. When everyone was fleeing Phlan, you choose to stay. Whether out of an emotional attachment, or pursuit of riches, you made the decision that would affect the rest of your life.
+Food became scarcer for those without connections. You became a beggar and to stay alive you bartered information to any interested party with food or gold to spare. You were good at what you did, and thought you were invincible. That changed when you were captured by the Tears of Virulence, the soldiers of Vorgansharax, the Maimed Virulence, for selling secrets to those bent on overthrowing the dragon. They locked you in the cells of Stojanow Gate. The first weeks you hoped to stay alive. As the weeks turned into months, and the interrogations continued you began to pray for death.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: Ex-Convict</name>
+      <text>The knowledge gained during your incarceration lets you gain insight into local guards and jailors. You know which will accept bribes, or look the other way for you. You can also seek shelter for yourself from authorities with other criminals in the area. Note: This feature is a variant of the Courtier feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>d8 | Personality Trait
+1 | I am a bully; others will suffer as I have.
+2 | I always say yes even when I mean no; it's just easier.
+3 | I aim to misbehave.
+4 | I go out of my way to frustrate or anger those in power.
+5 | I strive to obey the law. I will never again make the mistake of going against authority.
+6 | I always plan everything out. The one time I let others plan things it did not end well for me.
+7 | I take blame to protect others from pain.
+8 | I hoard information, you never know what may come in handy.
+
+d6 | Ideal
+1 | Loss. I freely give those who offend me what was so brutally denied me, death. (Chaos)
+2 | Dedication. I never betray those who trust me. (Law)
+3 | Vengeance. I use any means to get information I need; I have been well taught. (Evil)
+4 | Redemption. Everyone deserves a second chance. (Good)
+5 | Resilience. I can survive any challenge (Any)
+6 | Leadership. The best teams are made up of those that society has discarded.
+
+d6 | Bond
+1 | I take up arms to help establish a free Phlan.
+2 | The horrors of my time in Stojanow haunt my dreams, only after a day of hard work can I find sleep.
+3 | I am indebted to those who freed me from prison, I will repay this debt.
+4 | My torturer survived the attack that set me free, I will find him/her.
+5 | I will not rest while others suffer fates similar to mine.
+6 | I am searching for a way to heal the scars of Stojanow, both physical and emotional.
+
+d6 | Flaw
+1 | During stressful times, I find myself crying for no reason.
+2 | My nerve endings are shot from the interrogations; I am numb to all but the harshest touch.
+3 | I am incapable of standing up for myself.
+4 | I folded under the torture, and gave information that I promised would be kept secret. My life would be in jeopardy if others found out.
+5 | Survival is worth more than friendship.
+6 | The ghosts from my past hinder my actions.
+
+</text>
+      </trait>
+    </background>
+  <background>
+      <name>Ticklebelly Nomad</name>
+    <proficiency>Animal Handling, Nature</proficiency>
+    <trait>
+        <name>Description</name>
+      <text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant's Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.
+In your migrations, your people have come to know the stone giant tribes that populate the Giant's Cairn. The dragon cultists came to the hills one day—magic-users wearing purple and riding horrid beasts, black-clad warriors wearing wicked masks, and even soldiers from the nearby town of Phlan. Then the dragon called Vorgansharax arrived and laired in the hills, causing horrid thickets to grow and animals to act unusually. The cultists began raiding nomad camps for victims to offer to the wyrm. Eventually, the dragon moved on to attack Phlan, but life was never again the same for the nomads of the Ticklebelly Hills.
+• Skill Proficiencies: Animal Handling, Nature
+• Tool Proficiencies: Herbalism kit
+• Languages: Giant
+• Equipment: Herbalism kit, a small article of jewelry that is distinct to your tribe, a hunting trap, a set of common clothes, and a belt pouch containing 5 gp
+Source: Adventurers League: Curse Of Strahd p. 9</text>
+      </trait>
+    <trait>
+        <name>Lifestyle</name>
+      <text>Poor
+</text>
+      </trait>
+    <trait>
+        <name>Overview</name>
+      <text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant's Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.
+In your migrations, your people have come to know the stone giant tribes that populate the Giant's Cairn. The dragon cultists came to the hills one day—magic-users wearing purple and riding horrid beasts, black-clad warriors wearing wicked masks, and even soldiers from the nearby town of Phlan. Then the dragon called Vorgansharax arrived and laired in the hills, causing horrid thickets to grow and animals to act unusually. The cultists began raiding nomad camps for victims to offer to the wyrm. Eventually, the dragon moved on to attack Phlan, but life was never again the same for the nomads of the Ticklebelly Hills.
+</text>
+      </trait>
+    <trait>
+        <name>Feature: At Home in the Wild</name>
+      <text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn't shield or conceal you from scrying, mental probing, nor from threats that don't necessarily require the five senses to find you. Note: This feature is a variant of the Folk Hero feature.
+</text>
+      </trait>
+    <trait>
+        <name>Suggested Characteristics</name>
+      <text>Ticklebelly nomads only venture into civilization when necessary. You are social within your tribe, with tribes of other nomads, and even with the stone giant tribes that populate the Giant's Cairn. However, other communities tend to either put you on your guard or put you in a state of wonder. Was it this wonder that enticed you into a life of adventuring? On the other hand, you are fiercely protective of and dedicated to your tribe. Perhaps it was this dedication that led you to venture out; either of your own will or at the behest of your tribe's leaders.
+d8 | Personality Trait
+1 | I eagerly inject myself into the unknown.
+2 | Villages, towns, and cities do not suit me. I'd rather be out in the wilderness any day.
+3 | I accomplish my tasks efficiently, using as few resources as possible.
+4 | It's difficult for me to remain in one place for long.
+5 | I loudly brag about my tribe every chance I get.
+6 | Having walked among giants, I am fearless in the face of bigger creatures.
+7 | I am quiet and reserved, but observant. Nothing escapes my attention.
+8 | My word is my bond. I see a promise to completion, even if it conflicts with my beliefs.
+
+d6 | Ideal
+1 | Kinship. Family is most important in life. Though I may be far from my own, the bonds of family must be protected in others' lives as well. (Good)
+2 | Preservation. Nature must not be despoiled by encroaching civilization. (Any)
+3 | Wanderlust. One must expand their horizons by seeing the world and exploring. (Chaos)
+4 | Isolation. My tribe and its ways must be protected and shielded from outside influence. (Neutral)
+5 | Protection. Threats to the land and to the people must be dealt with at any and all costs. (Law)
+6 | Belonging: All creatures have a place in the world, so I strive to help others find theirs. (Good)
+
+d6 | Bond
+1 | I ache to return to my tribe and the family I left, but cannot until my obligations are fulfilled.
+2 | The dragon cultists that invaded my homeland stole away one of my tribe's people. I will not know rest until I've found them.
+3 | The dragon's presence in the hills destroyed valuable territory and resulted in deaths within my tribe. The creature must pay for what it has done.
+4 | I carry a trinket that spiritually and emotionally ties me to my people and my home.
+5 | I discovered a strange relic in the hills during my tribe's wanderings. I must discover what it is.
+6 | One of the stone giant clans from the Giant's Cairn has graced me with a mark of kinship.
+
+d6 | Flaw
+1 | I throw myself and my friends into situations rarely ever thinking about consequences.
+2 | Unfamiliar people and surroundings put me on edge.
+3 | I have absolutely no patience for slowpokes and those who prove indecisive.
+4 | My desire to experience new things causes me to make unsafe choices.
+5 | I am overly protective of nature, sometimes to the detriment of my companions and myself.
+6 | My lack of worldliness often proves my undoing in social, commercial, and hostile situations.
+
+</text>
+      </trait>
+    </background>
+  </compendium>

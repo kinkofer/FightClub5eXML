@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Arcane Propulsion Arm</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property>T</property>
+    <dmg1>1d8</dmg1>
+    <dmgType>FC</dmgType>
+    <range>20/60</range>
+    <text>This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.
+While attached, the prosthetic provides these benefits:
+• The prosthetic is a fully capable part of your body.
+• You can take an action to remove the prosthetic, and it removes itself if your attunement to it ends. It can't be removed against your will.
+• The prosthetic is a magic melee weapon with which you're proficient. It deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the prosthetic detaches and flies at the target of the attack, then immediately returns to you and reattaches.
+Source: Eberron: Rising from the Last War p. 276</text>
+    <roll>1d8</roll>
+    </item>
+  <item>
+      <name>Belashyrra's Beholder Crown</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This symbiotic crown is carved from dark purple and mauve stone, with ten points like stalks set with gemstones resembling the eyestalks of a beholder. To attune to this item, you must wear it on your head for the entire attunement period, during which the crown's hidden tendrils burrow into your scalp to bond with your skull.
+While wearing the crown, you can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+Spells: The crown has 10 charges. While wearing it, you can use an action to expend some of its charges to cast one of the following spells from it (spell save DC 16): charm person (1 charge), disintegrate (6 charges), fear (3 charges), finger of death (7 charges), flesh to stone (6 charges), hold person (2 charges), ray of enfeeblement (2 charges), sleep (1 charge), slow (3 charges), telekinesis (5 charges).
+The crown regains 1d6 + 3 expended charges daily at dawn.
+Symbiotic Nature: The crown can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the crown ends, and it detaches from you.
+The daelkyr Belashyrra made these crowns. While on the same plane of existence as the crown, Belashyrra can see through its eyestalks.
+Source: Eberron: Rising from the Last War p. 276</text>
+    <roll>1d6+3</roll>
+    </item>
+  <item>
+      <name>Cleansing Stone</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>A cleansing stone is a sphere 1 foot in diameter, engraved with mystic sigils. When touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person.
+Such stones are often embedded in pedestals in public squares in Aundair or in high-end Ghallanda inns.
+Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Common Glamerweave</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Glamerweave is clothing imbued with harmless illusory magic. While wearing the common version of these clothes, you can use a bonus action to create a moving illusory pattern within the cloth.
+Source: Eberron: Rising from the Last War p. 277, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Docent</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>A docent is a small metal sphere, about 2 inches across, studded with dragonshards. To attune to a docent, you must embed the item somewhere on your body, such as your chest or your eye socket.
+Sentience: A docent is a sentient item of any alignment with an Intelligence of 16, a Wisdom of 14, and a Charisma of 14. It perceives the world through your senses. It communicates telepathically with you and can speak, read, and understand any language it knows (see "Random Properties" below).
+Life Support: Whenever you end your turn with 0 hit points, the docent can make a Wisdom (Medicine) check with a +6 bonus. If this check succeeds, the docent stabilizes you.
+Random Properties: A docent has the following properties:
+Languages. The docent knows Common, Giant, and 1d4 additional languages chosen by the DM. If a docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.
+Skills. The docent has a +7 bonus to one of the following skills (roll a d4): (1) Arcana, (2) History, (3) Investigation, or (4) Nature.
+Spells. The docent knows one of the following spells and can cast it at will, requiring no components (roll a d6): (1–2) detect evil and good or (3–6) detect magic. The docent decides when to cast the spell.
+Personality: A docent is designed to advise and assist the warforged it's attached to. One of the simple functions of a docent is to serve as a translator. The docent's properties are under its control, and if you have a bad relationship with your docent, it might refuse to assist you.
+Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p. 120</text>
+    <roll>1d4</roll>
+    </item>
+  <item>
+      <name>Dragon's Blood</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast sorcerer spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a fireball in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the PHB.
+Source: Eberron: Rising from the Last War p. 244</text>
+    </item>
+  <item>
+      <name>Dreamlily</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>A psychoactive liquid that smells and tastes like your favorite beverage, essence of dreamlily is a Sarlonan opiate. First imported to help manage pain during the Last War, it's now the most commonly abused substance in Sharn. Though dreamlily isn't illegal if used for medicinal purposes, it's heavily taxed, and thus most dreamlily is smuggled in and sold on the black market. Dreamlily dens can be found across the lower wards. Consuming dreamlily causes disorienting euphoria and brings about remarkable resistance to pain. A creature under the effects of dreamlily is poisoned for 1 hour. While poisoned in this way, the creature is immune to fear, and the first time it drops to 0 hit points without being killed outright, it drops to 1 hit point instead. A dose of dreamlily costs around 1 gp, or up to ten times that if purchased through legal channels. There are many varieties of the drug, however, and the duration or the price might vary accordingly.
+Source: Eberron: Rising from the Last War p. 244</text>
+    </item>
+  <item>
+      <name>Dyrrn's Tentacle Whip</name>
+    <detail>martial Weapon, Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>F,R</property>
+    <dmg1>1d4</dmg1>
+    <dmgType>S</dmgType>
+    <text>This long, whip-like strand of tough muscle bears a sharp stinger at one end. To attune to this symbiotic weapon, you wrap the whip around your wrist for the entire attunement period, during which time the whip painfully embeds its tendrils into your arm.
+You gain a +2 bonus to attack and damage rolls made with this magic whip, but attack rolls made against aberrations with this weapon have disadvantage. A creature hit by this weapon takes an extra 1d6 psychic damage. When you roll a 20 on the d20 for an attack roll with this weapon, the target is stunned until the end of its next turn.
+As a bonus action, you can sheathe the whip by causing it to retract into your arm, or draw the whip out of your arm again.
+Symbiotic Nature: The whip can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the whip ends, and it detaches from you.
+Source: Eberron: Rising from the Last War p. 276</text>
+    <roll>1d6</roll>
+    </item>
+  <item>
+      <name>Earworm</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>To attune to this symbiont, you must hold it against the skin behind your ear for the entire attunement period, whereupon it burrows into your head and bonds to your skull. While the earworm is inside you, you can speak, read, and write Deep Speech.
+Spells: The earworm has 4 charges. You can cast the following spells from it, expending the necessary number of charges (spell save DC 15): detect thoughts (2 charges) or dissonant whispers (1 charge). Each time you use the earworm to cast the detect thoughts spell, it sends the information gleaned to the nearest daelkyr, or to the next nearest earworm until it reaches a daelkyr.
+The earworm regains 1d4 expended charges daily at dawn.
+Symbiotic Nature: The earworm can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the earworm ends, and it exits your body.
+Source: Eberron: Rising from the Last War p. 277</text>
+    <roll>1d4</roll>
+    </item>
+  <item>
+      <name>Everbright Lantern</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This bullseye lantern contains an Eberron dragonshard that sheds light comparable to that produced by a continual flame spell. An everbright lantern sheds light in a 120-foot cone; the closest 60 feet is bright light, and the farthest 60 feet is dim light.
+Source: Eberron: Rising from the Last War p. 277, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Feather Token</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This small metal disk is inscribed with the image of a feather. When you fall at least 20 feet while the token is on your person, you descend 60 feet per round and take no damage from falling. The token's magic is expended after you land, whereupon the disk becomes nonmagical.
+Source: Eberron: Rising from the Last War p. 277, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Finder's Goggles</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>The lenses of these garish goggles are carved from Siberys dragonshards. While wearing these lenses, you gain the following benefits:
+• When you make a Wisdom (Insight) check, you can roll a d4 and add the number rolled to the check.
+• As an action, you can use the goggles to examine an object to identify the aura of the last creature that touched it. Make a Wisdom (Insight) check against a DC of 13 + the number of days since the last contact occurred. On a success, you learn the creature's type and can immediately use the goggles to cast locate creature to find that creature. This property can't be used again until the next dawn.
+Source: Eberron: Rising from the Last War p. 277, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Keycharm</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This small stylized key plays a vital role in the work of House Kundarak. If you cast the alarm, arcane lock, or glyph of warding spell, you can tie the effect to the keycharm so that whoever holds it receives the notification from the alarm spell, bypasses the lock of the arcane lock spell, or avoids triggering the glyph placed by the glyph of warding spell. In addition, the holder (who needn't be attuned to the item) can take an action to end any one spell tied to it, provided the holder knows the command word you set for ending the tied spells. The keycharm can have up to three tied spells at one time.
+Source: Eberron: Rising from the Last War p. 277, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Kyrzin's Ooze</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This opalescent, symbiotic goo comes sealed in a jar and slowly shifts and moves, as if endlessly exploring the jar's interior. To attune to this item, you must first drink the contents of the jar, unlocking the following properties.
+Resistant: While attuned to Kyrzin's ooze, you have resistance to poison and acid damage, and you're immune to the poisoned condition.
+Amorphous: As an action, you can speak a command word and cause your body to assume the amorphous qualities of an ooze. For the next minute, you (along with any equipment you're wearing or carrying) can move through a space as narrow as 1 inch wide without squeezing. Once you use this property, it can't be used again until the next dawn.
+Acid Breath: As an action, you can exhale acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 36 (8d8) acid damage on a failed save, or half as much damage on a successful one. Once you use this property, it can't be used again until the next dawn.
+Symbiotic Nature: The ooze can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the ooze ends, as it seeps out of you.
+If you die while the ooze is inside you, it bursts out and engulfs you, turning your corpse into a black pudding allied with the daelkyr.
+Source: Eberron: Rising from the Last War p. 278</text>
+    <roll>8d8</roll>
+    </item>
+  <item>
+      <name>Living Gloves</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>These symbiotic gloves—made of thin chitin and sinew—pulse with a life of their own. To attune to them, you must wear them for the entire attunement period, during which the gloves bond with your skin.
+While attuned to these gloves, you gain one of the following proficiencies (your choice when you attune to the gloves):
+• Sleight of Hand
+• Thieves' tools
+• One kind of artisan's tools of your choice
+• One kind of musical instrument of your choice
+When you make an ability check using the chosen proficiency, you add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Symbiotic Nature: The gloves can't be removed from you while you're attuned to them, and you can't voluntarily end your attunement to them. If you're targeted by a spell that ends a curse, your attunement to the gloves ends, and they can be removed.
+Source: Eberron: Rising from the Last War p. 278</text>
+    </item>
+  <item>
+      <name>Prosthetic Limb</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This artificial limb replaces a hand, arm, foot, leg, or similar appendage that was lost or removed. While the prosthetic is attached and attuned to you, it functions identically to the body part it is replacing. You can detach or reattach it as an action, and it can't be removed by anyone else.
+If you have multiple prosthetic limbs, they count as a single magic item with regard to the number of magic items you can attune to.
+Source: Eberron: Rising from the Last War p. 278, Explorer's Guide to Wildemount</text>
+    </item>
+  <item>
+      <name>Scribe's Pen</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>You can use this pen to write on any surface. You decide whether the writing is visible or invisible, but the writing is always visible to a person with the Mark of Scribing.
+Any creature with the Mark of Scribing can use an action to touch the invisible writing, making it visible to all.
+If you use the pen to write on a creature that isn't a construct, the writing fades after 7 days.
+Source: Eberron: Rising from the Last War p. 278, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Shiftweave</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>When a suit of shiftweave is created, up to five different outfits can be embedded into the cloth. While wearing the clothing, you can speak its command word as a bonus action to transform your outfit into your choice of one of the other designs contained within it. Regardless of its appearance, the outfit can't be anything but clothing. Although it can duplicate the look of other magical clothing, it doesn't gain their magical properties.
+Source: Eberron: Rising from the Last War p. 279, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Speaking Stone</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>The key to long-distance, virtually instantaneous communication across Khorvaire is House Sivis's network of message stations. Each station contains at least one speaking stone, which is carved from a Siberys dragonshard and inscribed with arcane symbols that uniquely identify it. If you're a gnome with the Mark of Scribing, you can touch the stone and use an action to cast the sending spell from it. The target is any other speaking stone whose location or unique sequence of symbols you know. A creature within 5 feet of the stone hears the message as if they were the target.
+In a Sivis message station, a gnome is always on duty by the speaking stone, listening for messages that might come in and transcribing them for delivery to their intended recipients.
+Source: Eberron: Rising from the Last War p. 279</text>
+    </item>
+  <item>
+      <name>Spellshard</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This polished Eberron dragonshard fits in the hand and stores information similar to a book. The shard can hold the equivalent of one book that's no more than 320 pages long. A shard can be created blank or already filled with information. When the shard is created, the creator can set a passphrase that must be spoken to access the information stored within.
+While holding the shard, you can use an action to open your mind to the shard, seeing its content in your mind. On subsequent rounds, reading the text or scribing new text on blank "pages" in the shard requires concentration (as if concentrating on a spell) and takes the same amount of time it takes you to read and write normally. Thinking of a particular phrase or topic draws you to the first section in the shard that addresses it.
+A wizard can use a spellshard as a spellbook, with the usual cost in gold and time to "scribe" a spell into the shard.
+Source: Eberron: Rising from the Last War p. 279, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Uncommon Glamerweave</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Glamerweave is clothing imbued with harmless illusory magic. While wearing these clothes, you can use a bonus action to create a moving illusory pattern within the cloth. Alternatively, you can have the pattern rise from the cloth. For example, a glamerweave gown might be wreathed in harmless, illusory flames, while a glamerweave hat might have illusory butterflies fluttering around it.
+When you make a Charisma (Performance) or Charisma (Persuasion) check while wearing the glamerweave, you can roll a d4 and add the number rolled to the check. Once you use this property, it can't be used again until the next dawn.
+Source: Eberron: Rising from the Last War p. 277</text>
+    </item>
+  <item>
+      <name>Ventilating Lungs</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>These metallic nodules were created in response to the poisonous gases used on the battlefields of the Last War. When you attune to these lungs, they replace the lungs in your chest, which disappear. The lungs allow you to breathe normally, even in an antimagic field, and their breathing function can't be suppressed by magic.
+Outside an antimagic field or any other effect that suppresses magic, these lungs allow you to breathe normally in any environment (including a vacuum), and you have advantage on saving throws against harmful gases such as those created by a cloudkill spell, a stinking cloud spell, inhaled poisons, and gaseous breath weapons.
+As an action, you can use these lungs to exhale a gust of wind, as if you had cast the gust of wind spell (spell save DC 15) with no components. This property of the lungs can't be used again until the next dawn.
+If your attunement to the lungs ends, your original lungs reappear.
+Source: Eberron: Rising from the Last War p. 279</text>
+    </item>
+  <item>
+      <name>Wand Sheath</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>A wand sheath clamps onto your arm and imparts the following benefits:
+• The wand sheath can't be removed from you while you're attuned to it.
+• You can insert a wand into the sheath as an action. The sheath can hold only one wand at a time.
+• You can retract or extend a wand from the sheath as a bonus action. While the wand is extended, you can use it as if you were holding it, but your hand remains free.
+If a sheathed wand requires attunement, you must attune to the wand before you can use it. However, the wand sheath and the attached wand count as a single magic item with regard to the number of magic items you can attune to. If you remove the wand from the sheath, your attunement to the wand ends.
+Source: Eberron: Rising from the Last War p. 279, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Wheel of Wind and Water</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>When mounted at the helm of an elemental galleon or airship, this wheel allows a creature that possesses the Mark of Storm to telepathically control the elemental bound inside the vessel.
+If a wheel of wind and water is mounted on a mundane sailing ship, a creature with the Mark of Storm who is using the wheel can create an area of ideal conditions around the vessel, increasing its speed by 5 miles per hour.
+Source: Eberron: Rising from the Last War p. 280, Wayfinder's Guide to Eberron p. 115</text>
+    </item>
+  <item>
+      <name>Glamerweave</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>Common Glamerweave
+Uncommon Glamerweave
+Source: Eberron: Rising from the Last War p. 277</text>
+    </item>
+  <item>
+      <name>Imbued Wood Focus</name>
+    <detail>Wondrous item, Spellcasting Focus</detail>
+    <type>G</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>An arcane focus is a special item–an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item–designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+Imbued Wood (Fernian Ash)
+Imbued Wood (Irian Rosewood)
+Imbued Wood (Kythrian Manchineel)
+Imbued Wood (Lamannian Oak)
+Imbued Wood (Mabaran Ebony)
+Imbued Wood (Risian Pine)
+Imbued Wood (Shavarran Birch)
+Imbued Wood (Xorian Wenge)
+Source: Eberron: Rising from the Last War p. 277</text>
+    </item>
+  <item>
+      <name>Orb of Shielding</name>
+    <detail>Wondrous item, Spellcasting Focus</detail>
+    <type>G</type>
+    <magic>1</magic>
+    <weight>3</weight>
+    <property></property>
+    <text>An arcane focus is a special item–an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item–designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+Orb of Shielding (Fernian Basalt)
+Orb of Shielding (Irian Quartz)
+Orb of Shielding (Kythrian Skarn)
+Orb of Shielding (Lamannian Flint)
+Orb of Shielding (Mabaran Obsidian)
+Orb of Shielding (Risian Shale)
+Orb of Shielding (Shavarran Chert)
+Orb of Shielding (Xorian Marble)
+Source: Eberron: Rising from the Last War p. 278</text>
+    </item>
+  </compendium>

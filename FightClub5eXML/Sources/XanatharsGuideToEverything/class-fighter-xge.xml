@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Arcane Archer</name>
+        <text>An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer: Arcane Archer Lore</name>
+        <text>At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the prestidigitation or the druidcraft cantrip.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer: Arcane Shot</name>
+        <text>At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).</text>
+        <text>Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.</text>
+        <text>You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Arcane Archer: Arcane Shot Options</name>
+        <text>The Arcane Shot feature lets you choose options for it at certain levels. The options are presented here in alphabetical order. They are all magical effects, and each one is associated with one of the schools of magic.</text>
+        <text>If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Cavalier</name>
+        <text>The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier: Bonus Proficiency</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier: Born to the Saddle</name>
+        <text>Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.</text>
+        <text>Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Cavalier: Unwavering Mark</name>
+        <text>Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.</text>
+        <text>While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.</text>
+        <text>In addition, if a creature marked by you deals damage to anyone other than you, you can make a special melee weapon attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack's weapon deals extra damage to the target equal to half your fighter level.</text>
+        <text>Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Martial Archetype: Samurai</name>
+        <text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's resolve is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Samurai: Bonus Proficiency</name>
+        <text>When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Samurai: Fighting Spirit</name>
+        <text>Starting at 3rd level, your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points. The number of temporary hit points increases when you reach certain levels in this class, increasing to 10 at 10th level and 15 at 15th level.</text>
+        <text>You can use this feature three times, and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Arcane Archer: Additional Arcane Shot Option</name>
+        <text>You gain an additional Arcane Shot option of your choice when you reach 7th level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Arcane Archer: Curving Shot</name>
+        <text>At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Arcane Archer: Magic Arrow</name>
+        <text>At 7th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the arrow immediately after it hits or misses its target.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Cavalier: Warding Maneuver</name>
+        <text>At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can roll 1d8 as a reaction if you're wielding a melee weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.</text>
+        <text>You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Samurai: Elegant Courtier</name>
+        <text>Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma (Persuasion) check, you gain a bonus to the check equal to your Wisdom modifier.</text>
+        <text>Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Arcane Archer: Additional Arcane Shot Option</name>
+        <text>You gain an additional Arcane Shot option of your choice when you reach 10th level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Cavalier: Hold the Line</name>
+        <text>At 10th level, you become a master of locking down your enemies. Creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Samurai: Tireless Spirit</name>
+        <text>Starting at 10th level, when you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Arcane Archer: Additional Arcane Shot Option</name>
+        <text>You gain an additional Arcane Shot option of your choice when you reach 15th level.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Arcane Archer: Ever-Ready Shot</name>
+        <text>Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Cavalier: Ferocious Charger</name>
+        <text>Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this feature only once on each of your turns.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Samurai: Rapid Strike</name>
+        <text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Arcane Archer: Additional Arcane Shot Option</name>
+        <text>You gain an additional Arcane Shot option of your choice when you reach 18th level. Each option also improves when you become an 18th-level fighter.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 28</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Cavalier: Vigilant Defender</name>
+        <text>Starting at 18th level, you respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 30</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Samurai: Strength before Death</name>
+        <text>Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling unconscious, and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 31</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

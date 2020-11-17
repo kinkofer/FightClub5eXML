@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Artificer (UA)</name>
+    <hd>8</hd>
+    <proficiency>Constitution, Intelligence, Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight Of Hand</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Intelligence</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Artificer (UA)</name>
+        <text>As a 1st-level Artificer (UA), you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium</text>
+        <text>• Weapons: simple</text>
+        <text>• Tools: Thieves' tools, tinker's tools, one type of artisan's tools of your choice</text>
+        <text>• Skills: Choose 2 from Arcana, Deception, History, Investigation, Medicine, Nature, Religion, Sleight Of Hand</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• (a) a handaxe and a light hammer or (b) any two simple weapons</text>
+        <text>• a light crossbow and crossbow bolts (20)</text>
+        <text>• (a) scale mail or (b) studded leather armor</text>
+        <text>• thieves' tools and a dungeoneer's pack</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <armor>light, medium</armor>
+    <weapons>simple</weapons>
+    <tools>Thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
+    <autolevel level="1">
+        <feature>
+          <name>Artificer (UA) Specialist</name>
+        <text>At 1st level, you choose the type of Artificer (UA) Specialist you are from the list of available specialisations. Your choice grants you features at 1st level and again at 3rd, 9th, 14th, and 17th level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Artificer (UA) Specialist: Alchemist</name>
+        <text>An alchemist is an expert at combining exotic reagents to produce a variety of materials, from healing draughts that can mend a wound in moments to clinging goo that slows creatures down.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Alchemist: Alchemical Formula</name>
+        <text>At 1st level, you learn three Alchemical Formula options: Alchemical Fire, Alchemical Acid, and one other option of your choice. You learn an additional formula of your choice at 3rd, 9th, 14th, and 17th levels.</text>
+        <text>To use any of these options, your Alchemist's Satchel must be within reach.</text>
+        <text>If an Alchemical Formula option requires a saving throw, the DC is 8 + your proficiency bonus + your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Alchemist: Alchemist's Satchel</name>
+        <text>At 1st level, you craft an Alchemist's Satchel, a bag of reagents that you use to create a variety of concoctions. The bag and its contents are both magical, and this magic allows you to pull out exactly the right materials you need for your Alchemical Formula options, described below. After you use one of those options, the bag reclaims the materials.</text>
+        <text>If you lose this satchel, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of leather, glass, and other raw materials.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Artificer (UA) Specialist: Gunsmith</name>
+        <text>A master of engineering, you forge a firearm powered by a combination of science and magic.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Gunsmith: Arcane Magazine</name>
+        <text>At 1st level, you craft a leather bag used to carry your tools and ammunition for your Thunder Cannon. Your Arcane Magazine includes the powders, lead shot, and other materials needed to keep that weapon functioning.</text>
+        <text>You can use the Arcane Magazine to produce ammunition for your gun. At the end of each long rest, you can magically produce 40 rounds of ammunition with this magazine. After each short rest, you can produce 10 rounds.</text>
+        <text>If you lose your Arcane Magazine, you can create a new one as part of a long rest, using 25 gp of leather and other raw materials.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Gunsmith: Master Smith</name>
+        <text>When you choose this specialization at 1st level, you gain proficiency with smith's tools, and you learn the mending cantrip.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Gunsmith: Thunder Cannon</name>
+        <text>At 1st level, you forge a deadly firearm using a combination of arcane magic and your knowledge of engineering and metallurgy. This firearm is called a Thunder Cannon. It is a ferocious weapon that fires leaden bullets that can punch through armor with ease.</text>
+        <text>You are proficient with the Thunder Cannon. The firearm is a two-handed ranged weapon that deals 2d6 piercing damage. Its normal range is 150 feet, and its maximum range if 500 feet. Once fired, it must be reloaded as a bonus action.</text>
+        <text>If you lose your Thunder Cannon, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of metal and other raw materials.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Magic Item Analysis</name>
+        <text>Starting at 1st level, your understanding of magic items allows you to analyze and understand their secrets. You know the Artificer (UA) spells detect magic and identify, and you can cast them as rituals. You don't need to provide a material component when casting identify with this class feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Tool Expertise</name>
+        <text>Starting at 2nd level, your proficiency bonus is doubled for any ability check you make that uses any of the tool proficiencies you gain from this class.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Wondrous Invention</name>
+        <text>At 2nd level, you gain the use of a magic item that you have crafted. Choose the item from the list of 2nd-level items below. Crafting an item is a difficult task. When you gain a magic item from this feature, it reflects long hours of study, tinkering, and experimentation that allowed you to finally complete the item. You are assumed to work on this item in your leisure time and to finish it when you level up. You complete another item of your choice when you reach certain levels in this class: 5th, 10th, 15th, and 20th level. The item you choose must be on the list for your current Artificer (UA) level or a lower level. These magic items are detailed in the Dungeon Master's Guide.</text>
+        <text></text>
+        <text>2nd Level:</text>
+        <text>   Bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones</text>
+        <text></text>
+        <text>5th Level:</text>
+        <text>   Alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets</text>
+        <text></text>
+        <text>10th Level:</text>
+        <text>   Bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward's handy haversack</text>
+        <text></text>
+        <text>15th Level:</text>
+        <text>   Boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing</text>
+        <text></text>
+        <text>20th Level:</text>
+        <text>   Eyes of the eagle, gem of brightness, gloves of missile snaring, gloves of swimming and climbing, ring of jumping, ring of mind shielding, wings of flying</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>0, 2</slots>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Masterwork Feature</name>
+        <text>At 3rd level, you gain a feature from your Artificer (UA) Specialist.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer (UA) Specialist: Alchemist</name>
+        <text>An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of Artificer (UA) traditions, and its versatility has long been valued during times of war and peace.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer (UA) spells for you, but they don't count against the number of Artificer (UA) spells you prepare.</text>
+        <text></text>
+        <text>Alchemist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | healing word, ray of sickness</text>
+        <text>5th | flaming sphere, Melf's acid arrow</text>
+        <text>9th | gaseous form, mass healing word</text>
+        <text>13th | blight, death ward</text>
+        <text>17th | cloudkill, raise dead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Experimental Elixir</name>
+        <text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</text>
+        <text>Creating an experimental elixir requires you to have alchemist's supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</text>
+        <text>When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir's effect separately. Each elixir requires its own flask.</text>
+        <text>You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir's effect from the Experimental Elixir table.</text>
+        <text></text>
+        <text>Experimental Elixir</text>
+        <text>d6 | Effect</text>
+        <text>1 | Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.</text>
+        <text>2 | Swiftness. The drinker's walking speed increases by 10 feet for 1 hour.</text>
+        <text>3 | Resilience. The drinker gains a +1 bonus to AC for 10 minutes.</text>
+        <text>4 | Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</text>
+        <text>5 | Flight. The drinker gains a flying speed of 10 feet for 10 minutes.</text>
+        <text>6 | Transformation. The drinker's body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Tool Proficiency</name>
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 3rd level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Artificer (UA) Specialist: Alchemist</name>
+        <text>An Alchemist is an expert at combining exotic reagents to produce mystical effects. Among Artificer (UA)s, members of this subclass are the greatest healers, as well as the ones most adept at wielding dangerous chemicals.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemical Homunculus</name>
+        <text>At 3rd level, you learn ancient methods for magically creating a special homunculus that is formed by alchemical substances.</text>
+        <text>Whenever you finish a long rest and your alchemist's supplies are with you, you can form this homunculus in an unoccupied space within 5 feet of you. If you already have a homunculus from this feature, the first one immediately dies.</text>
+        <text>The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Alchemical Homunculus stat block. You determine the homunculus's appearance, which includes wings and bits of alchemical equipment. Some alchemists prefer mechanical-looking birds, whereas others like winged vials or miniature cauldrons.</text>
+        <text>In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or to take the Dash, Disengage, or Help action.</text>
+        <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your alchemist's supplies as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The homunculus returns to life with all its hit points restored.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Alchemist Spells</name>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer (UA) spells for you, but they don't count against the number of Artificer (UA) spells you prepare.</text>
+        <text></text>
+        <text>Alchemist Spells</text>
+        <text>Artificer Level | Spell</text>
+        <text>3rd | purify food and drink, ray of sickness</text>
+        <text>5th | Melf's acid arrow, web</text>
+        <text>9th | create food and water, stinking cloud</text>
+        <text>13th | blight, death ward</text>
+        <text>17th | cloudkill, raise dead</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Alchemist: Tools of the Trade</name>
+        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.</text>
+        <name>Alchemist: Proficiencies</name>
+        <text>   You gain proficiency with alchemist's supplies and the herbalism kit, assuming you don't already have them. You also gain alchemist's supplies and an herbalism kit for free—the result of tinkering you've done as you've prepared for this specialization.</text>
+        <name>Alchemist: Crafting</name>
+        <text>   If you craft a magic item in the potion category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gunsmith: Thunder Monger</name>
+        <text>At 3rd level, you learn to channel thunder energy into your Thunder Cannon. As an action, you can make a special attack with your Thunder Cannon that deals an extra 1d6 thunder damage on a hit.</text>
+        <text>This extra damage increases by 1d6 when you reach certain levels in this class: 5th level (2d6), 7th level (3d6), 9th level (4d6), 11th level (5d6), 13th level (6d6), 15th level (7d6), 17th level (8d6), and 19th level (9d6).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Spellcasting</name>
+        <text>As part of your study of magic, you gain the ability to cast spells at 3rd level. The spells you learn are limited in scope, primarily concerned with modifying creatures and objects or creating items.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Artificer (UA) table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text></text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>   You know three 1st-level spells of your choice from the Artificer (UA) spell list (which appears at the end of this document). The Spells Known column of the Artificer (UA) table shows when you learn more Artificer (UA) spells of your choice from this feature. Each of these spells must be of a level for which you have spell slots on the Artificer (UA) table. Additionally, when you gain a level in this class, you can choose one of the Artificer (UA) spells you know from this feature and replace it with another spell from the Artificer (UA) spell list. The new spell must also be of a level for which you have spell slots on the Artificer (UA) table.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Intelligence is your spellcasting ability for your Artificer (UA) spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an Artificer (UA) spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an Artificer (UA) spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use an arcane focus as a spellcasting focus for your Artificer (UA) spells. See chapter 5, "Equipment," in the Player's Handbook for various arcane focus options.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Infuse Magic</name>
+        <text>Starting at 4th level, you gain the ability to channel your Artificer (UA) spells into objects for later use. When you cast an Artificer (UA) spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature.</text>
+        <text>Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item.</text>
+        <text>When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Superior Attunement</name>
+        <text>At 5th level, your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. At 15th level, this limit increases to five magic items.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Wondrous Invention</name>
+        <text>At 5th level, you craft another item from your Wondrous Invention feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <slots>0, 3</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Mechanical Servant</name>
+        <text>At 6th level, your research and mastery of your craft allow you to produce a mechanical servant. The servant is a construct that obeys your commands without hesitation and functions in combat to protect you. Though magic fuels its creation, the servant is not magical itself. You are assumed to have been working on the servant for quite some time, finally finishing it during a short or long rest after you reach 6th level.</text>
+        <text>Select a Large beast with a challenge rating of 2 or less. The servant uses that beast's game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications:</text>
+        <text>• It is a construct instead of a beast.</text>
+        <text>• It can't be charmed.</text>
+        <text>• It is immune to poison damage and the poisoned condition.</text>
+        <text>• It gains darkvision with a range of 60 feet if it doesn't have it already.</text>
+        <text>• It understands the languages you can speak when you create it, but it can't speak.</text>
+        <text>• If you are the target of a melee attack and the servant is within 5 feet of the attacker, you can use your reaction to command the servant to respond, using its reaction to make a melee attack against the attacker.</text>
+        <text>The servant obeys your orders to the best of its ability. In combat, it rolls its own initiative and acts on its own.</text>
+        <text>If the servant is killed, it can be returned to life via normal means, such as with the revivify spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body. It returns to life with 1 hit point at the end of the rest. If the servant is beyond recovery, you can build a new one with one week of work (eight hours each day) and 1,000 gp of raw materials.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>At 8th level, you gain another Ability Score Improvement.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>0, 4, 2</slots>
+      </autolevel>
+    <autolevel level="9">
+        <feature>
+          <name>Masterwork Feature</name>
+        <text>At 9th level, you gain a feature from your Artificer (UA) Specialist.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Alchemist: Restorative Reagents</name>
+        <text>Starting at 9th level, you can incorporate restorative reagents into some of your works:</text>
+        <text>• Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).</text>
+        <text>• You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 9th level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <feature optional="YES">
+          <name>Gunsmith: Blast Wave</name>
+        <text>Starting at 9th level, you can channel force energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you unleash force energy in a 15-foot cone from the gun. Each creature in that area must make a Strength saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 2d6 force damage and is pushed 10 feet away from you.</text>
+        <text>This damage increases by 1d6 when you reach certain levels in this class: 13th level (3d6) and 17th level (4d6).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Wondrous Invention</name>
+        <text>At 10th level, you craft another item from your Wondrous Invention feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="12">
+        <slots>0, 4, 3</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>At 12th level, you gain another Ability Score Improvement.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="14">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Masterwork Feature</name>
+        <text>At 14th level, you gain a feature from your Artificer (UA) Specialist.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 14th level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Alchemist: Chemical Savant</name>
+        <text>By 14th level, you have been exposed to so many chemicals and unlocked their secrets that they pose little risk to you, and you can use them to quickly end certain ailments. You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.</text>
+        <text>In addition, you can cast greater restoration once without expending a spell slot and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. You regain the ability to do so when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Gunsmith: Piercing Round</name>
+        <text>Starting at 14th level, you can shoot lightning energy through your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you cause the gun to unleash a bolt of lightning, 5-feet wide and 30-feet long. Each creature in that area must make Dexterity saving throws with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d6 lightning damage. This damage increases to 6d6 when you reach 19th level in this class.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>0, 4, 3, 2</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Superior Attunement</name>
+        <text>Starting at 15th level, you can attune to up to five magic items.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Wondrous Invention</name>
+        <text>At 15th level, you craft another item from your Wondrous Invention feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>At 16th level, you gain another Ability Score Improvement.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Masterwork Feature</name>
+        <text>At 17th level, you gain a feature from your Artificer (UA) Specialist.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Alchemist: Extra Alchemical Formula</name>
+        <text>At 17th level, you learn an additional Alchemical Formula.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 5</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Gunsmith: Explosive Round</name>
+        <text>Starting at 17th level, you can channel fiery energy into your Thunder Cannon. As an action, you can make a special attack with it. Rather than making an attack roll, you launch an explosive round from the gun. The round detonates in a 30-foot radius sphere at a point within range. Each creature in that area must make a Dexterity saving throw with a DC of 8 + your proficiency bonus + your Intelligence modifier. On a failed saving throw, a target takes 4d8 fire damage.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 6</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <slots>0, 4, 3, 3</slots>
+      </autolevel>
+    <autolevel level="18" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>At 18th level, you gain another Ability Score Improvement.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="20">
+        <slots>0, 4, 3, 3, 1</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Soul of Artifice</name>
+        <text>At 20th level, your understanding of magic items is unmatched, allowing you to mingle your soul with items linked to you. You can attune to up to six magic items at once. In addition, you gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Artificer p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Flensing Claws (Huge)</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <dmg1>2d8</dmg1>
+    <dmgType>S</dmgType>
+    <text>Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws.
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  <item>
+      <name>Flensing Claws (Large)</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <dmg1>1d12</dmg1>
+    <dmgType>S</dmgType>
+    <text>Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws.
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  <item>
+      <name>Flensing Claws (Medium)</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <dmg1>1d10</dmg1>
+    <dmgType>S</dmgType>
+    <text>Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws.
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  <item>
+      <name>Flensing Claws (Small)</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <dmg1>1d8</dmg1>
+    <dmgType>S</dmgType>
+    <text>Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws.
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  <item>
+      <name>Mind Lash</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>F,R</property>
+    <dmg1>1d4</dmg1>
+    <dmgType>S</dmgType>
+    <text>In the hands of any creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra 2d4 psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Source: Volo's Guide to Monsters p. 81</text>
+    <roll>2d4</roll>
+    </item>
+  <item>
+      <name>Shield of Far Sight</name>
+    <detail>Shield</detail>
+    <type>S</type>
+    <weight>6</weight>
+    <property></property>
+    <ac>2</ac>
+    <text>A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eyes is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield.
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for 2d12 hours.
+Source: Volo's Guide to Monsters p. 81</text>
+    <roll>2d12</roll>
+    </item>
+  <item>
+      <name>Survival Mantle</name>
+    <detail>Medium Armor</detail>
+    <type>MA</type>
+    <weight>40</weight>
+    <property></property>
+    <ac>15</ac>
+    <stealth>1</stealth>
+    <text>This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a cloudkill spell, a stinking cloud spell, inhaled poisons, and the breath weapons of some dragons).
+The wearer has disadvantage on Stealth (Dexterity) checks.
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  <item>
+      <name>Flensing Claws</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <dmgType>S</dmgType>
+    <text>mind flayer don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+Flensing Claws (Small)
+Flensing Claws (Medium)
+Flensing Claws (Large)
+Flensing Claws (Huge)
+Source: Volo's Guide to Monsters p. 81</text>
+    </item>
+  </compendium>

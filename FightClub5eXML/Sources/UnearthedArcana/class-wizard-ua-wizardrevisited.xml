@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Theurgy (UA): Theurgy</name>
+        <text>A number of deities claim arcane magic as their domain, for magic is as much a part of the fabric of the cosmos as wind, fire, lightning, and all other primal forces. Just as there are deities of the sea and gods of warfare, the arcane arts feature their own divine patrons.</text>
+        <text>Such deities often have clerics, but many gods of magic bid their followers to take up the study of wizardry. These religious magic-users follow the arcane tradition of Theurgy, and are commonly known as theurgists. Such spellcasters are as dedicated and scholarly as any other wizard, but they blend their arcane study with religious devotion.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Theurgy (UA): Arcane Initiate</name>
+        <text>Beginning when you select this tradition at 2nd level, whenever you gain a wizard level, you can replace one of the wizard spells you add to your spellbook with a cleric domain spell for your chosen domain. The spell must be of a level for which you have spell slots.</text>
+        <text>If you add all of your domain spells to your spellbook, you can subsequently add any spell from the cleric spell list instead. The spell must still be of a level for which you have spell slots.</text>
+        <text>Any cleric spell you gain from this feature is considered a wizard spell for you, but other wizards can't copy cleric spells from your spellbook into their own spellbooks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Theurgy (UA): Channel Arcana</name>
+        <text>At 2nd level, you gain the ability to channel arcane energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Divine Arcana and the Channel Divinity option granted at 2nd level by your chosen domain. You employ that Channel Divinity option by using your Channel Arcana ability.</text>
+        <text>When you use your Channel Arcana, you choose which effect to create. You must then finish a short or long rest to use your Channel Arcana again.</text>
+        <text>Some Channel Arcana effects require saving throws. When you use such an effect, the save DC equals your wizard spell save DC.</text>
+        <text>Beginning at 6th level, you can use your Channel Arcana twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</text>
+        <text>If you gain additional Channel Divinity options from your domain, you can employ them by using your Channel Arcana feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Theurgy (UA): Channel Arcana: Divine Arcana</name>
+        <text>As a bonus action, you speak a prayer to control the flow of magic around you. The next spell you cast gains a +2 bonus to any attack roll you make for it or to its saving throw DC, as appropriate.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Theurgy (UA): Divine Inspiration</name>
+        <text>When you choose this tradition at 2nd level, choose a domain from your chosen deity's list of eligible domains (see appendix B, "Gods of the Multiverse," in the Player's Handbook for examples). The Knowledge and Light domains are especially appropriate choices for a theurgist.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>War Magic (UA): War Magic</name>
+        <text>A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration. It teaches techniques that empower a caster's spells, while also providing methods for a wizard to bolster their own defenses.</text>
+        <text>Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any flimsy piece of steel. War mages strike fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>War Magic (UA): Arcane Deflection</name>
+        <text>At 2nd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or fail a Constitution saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.</text>
+        <text>When you use this feature, you can't cast spells other than cantrips until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>War Magic (UA): Tactical Wit</name>
+        <text>Starting at 2nd level, your ability to quickly assess tactical situations allows you to act quickly in battle. You gain a bonus to your initiative rolls equal to your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Theurgy (UA): Arcane Acolyte</name>
+        <text>At 6th level, you gain your chosen domain's 1st-level benefits. However, you do not gain any weapon or armor proficiencies from the domain.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>War Magic (UA): Power Surge</name>
+        <text>Starting at 6th level, you can empower your spells that unleash harm on groups of foes. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell's damage by rolling two more of its damage dice. This increase occurs only on the turn you cast the spell.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Theurgy (UA): Arcane Priest</name>
+        <text>At 10th level, you gain your chosen domain's 6th-level benefits. Your faith and your understanding of magic allow you to delve into your god's secrets.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>War Magic (UA): Durable Magic</name>
+        <text>Beginning at 10th level, the magic you channel helps ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Theurgy (UA): Arcane High Priest</name>
+        <text>At 14th level, you gain your chosen domain's 17th-level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>War Magic (UA): Durable Magic</name>
+        <text>At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, magical energy arcs from you; each creature of your choice within 10 feet of you takes force damage equal to half your wizard level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Wizard Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

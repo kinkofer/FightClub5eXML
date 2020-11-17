@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Aid</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Animate Objects</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Antilife Shell</name>
+    <classes>Cleric (Protection (UA)), Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Bane</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Blight</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Compelled Duel</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Creation</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Death Ward</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Elemental Weapon</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Fabricate</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>False Life</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Gentle Repose</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Guardian of Faith</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Heat Metal</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Magic Weapon</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Otiluke's Resilient Sphere</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Protection from Energy</name>
+    <classes>Cleric (Forge (UA)), Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Protection from Evil and Good</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Protection from Poison</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Raise Dead</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Ray of Enfeeblement</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Revivify</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Searing Smite</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Shield</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Slow</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  <spell>
+      <name>Vampiric Touch</name>
+    <classes>Cleric (Grave (UA))</classes>
+    </spell>
+  <spell>
+      <name>Wall of Fire</name>
+    <classes>Cleric (Forge (UA))</classes>
+    </spell>
+  <spell>
+      <name>Wall of Force</name>
+    <classes>Cleric (Protection (UA))</classes>
+    </spell>
+  </compendium>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Revenant (UA)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con 1</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Unearthed Arcana: Gothic Heroes p. 1</text>
+      </trait>
+    <trait>
+        <name>Revenant Subrace</name>
+      <text>Having met a cruel and undeserved end, you have returned to the realm of the living. As a Revenant (UA), you thirst for revenge against those who wronged you in life, or seek to complete a final, critical task you left unfinished.
+The Revenant (UA) subrace can be applied to any race that has a subrace, and replaces that race's existing subrace options. Alternatively, you can apply this new subrace to a race without subrace options using the modification options provided below.
+Your DM might also allow you to take this subrace for a slain character. In that case, your character rises from the dead with its original subrace replaced (or with the necessary modifications made to its base traits), filled with a determination to seek vengeance or complete its mission.
+</text>
+      </trait>
+    <trait>
+        <name>Racial Adjustments</name>
+      <text>For races that don't have subrace options, taking on the Revenant (UA) subrace means making changes to your character's base traits, as follows. (This playtest article provides options only for human and dragonborn characters. Any other races which do not have subrace options should not be used with these Revenant (UA) subrace rules.)
+</text>
+      </trait>
+    <trait>
+        <name>Relentless Nature</name>
+      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
+• If you die, you return to life 24 hours after death. If your body is destroyed, you reform within 1 mile of the place of your death at a spot determined by the DM. If your equipment was also destroyed, you do not regain it.
+• You know the distance and direction between you and any creature involved in your goal, such as a person you seek vengeance against or someone you pledged to defend. This awareness fails if the creature is on another plane of existence.
+When your goal is complete, you finally find rest. You die and cannot be restored to life.
+</text>
+      </trait>
+    </race>
+  </compendium>

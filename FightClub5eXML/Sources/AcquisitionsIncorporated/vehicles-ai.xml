@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+      <name>Battle Balloon</name>
+    <size>G</size>
+    <type>vehicle (80 ft. x 20 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>15</ac>
+    <hp>500</hp>
+    <speed>9 miles per hour (216 miles per day)</speed>
+    <str>18</str>
+    <dex>17</dex>
+    <con>20</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>500</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 500 (damage threshold 15)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 50</text>
+      <text>Move up to the speed of the ship's propeller, with one 90-degree turn. If the helm is destroyed, the ship can't turn.</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Balloon</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 75</text>
+      <text>If its balloon is destroyed, a battle balloon cannot maintain altitude.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Propeller</text>
+      <text>Armor Class: 12</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn the battle balloon can take 3 actions if it has twenty or more crew, 2 actions if it has ten or more crew, or 1 action if it has fewer than ten crew, choosing from the options below. It cannot take any actions if it has no remaining crew.</text>
+      <text>• Fire Ballista. The battle balloon can fire its harpoon guns.</text>
+      <text>• Fire Green Flame Arbalester. The battle balloon can fire its green flame arbalester.</text>
+      <text>• Move. The battle balloon can use its helm to move using its propeller. If the battle balloon enters a Large or smaller creature's space, that creature is automatically pushed to the edge of the battle balloon's space. The creature must also succeed on a DC 15 Dexterity saving throw or take 5 (1d10) bludgeoning damage.</text>
+      <attack>||1d10</attack>
+      <text>• Harpoon Haul. The battle balloon can pull each target grappled by it up to 30 feet toward the battle balloon.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Green Flame Arbalester</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 75</text>
+      <text>Ranged Weapon Attack: +8 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it) one target. 16 (3d10) piercing damage and 22 (4d10) fire damage. If the attack misses, the DM determines where the arbalester bolt hits. Each creature within 10 feet of that spot must make a DC 15 Dexterity saving throw to avoid the bolt as it shatters, taking 5 (1d10) piercing damage and 5 (1d10) fire damage on a failed save.</text>
+      <attack>Weapons:|+8|3d10</attack>
+      <attack>Weapons:||1d10</attack>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Harpoon Gun (3)</text>
+      <text>Armor Class: 15</text>
+      <text>Hit Points: 50 each</text>
+      <text>Ranged Weapon Attack: +8 to hit, range 120/480 ft., one target. 11 (2d10) piercing damage, and the target is grappled (escape DC 16). Until the grapple ends, the target's speed is halved, and it can't move farther away from the battle balloon. Each of the battle balloon's harpoon guns can grapple one target. While it has one or more targets grappled with its harpoon gun attack, the battle balloon's speed is not halved.</text>
+      <attack>Weapons:|+8|2d10</attack>
+      </action>
+    <description>Through the winter clouds that surround the castle on this desolate hill, you see a shape emerge. Something so gigantic, you can't believe it can actually fly.
+Airships are relatively rare in Acquisitions Incorporated, which is thought to hold no more than five in its fleet. But the unparalleled usefulness of these craft in commerce—and in combat—makes the company-standard battle balloon a much-coveted upgrade for any franchise.
+Origins and Operations. Professional secrecy and aggressive marketing make it unclear where the airship originated. Some say battle balloons were an original design created by the Heuristic Arcane Research and Development department of Acquisitions Incorporated. But the wizards of Halruaa developed similar skyships in ages past, and the Cult of the Dragon has been seen with flying ships of its own. Still, among the small number of factions and organizations known to possess or build airships, Acquisitions Incorporated might be the best known for its high-profile aerial escapades. It's certain that neither the mages of Halruaa nor the members of the Cult of the Dragon ever crewed a battle balloon with keg robots, or used one to squash a tyrannosaurus flat.
+The Hard Cloud. 
+------
+The Hard Cloud is Acquisitions Incorporated's company flagship, and as such, bears special note. The great battle balloon bristles with armaments, including a vicious dragon-slaying spear at the fore that has seen use more than once. The Hard Cloud is a veteran of numerous combat operations, and it has so far come out in one piece. Beyond the tales told of the vessel's exploits, rumors abound regarding the wondrous vehicle. Is it powered by a bound efreeti, as some have said? Does the hold contain clones of every high-ranking member of Acquisitions Incorporated, including Omin Dran himself? Does the mess, in fact, employ a terrifying ghostly chef? The answers lie below decks, where few have had the opportunity to learn the truth.
+------
+Flying Battle Vehicle. The standard design of an Acquisitions Incorporated-grade airship features an enormous balloon covered in a rope net. Trailing lines connect the balloon to the vessel of metal and wood suspended below. In the center of the deck, directly below the balloon, sits a large magic furnace, whose formidable lifting power is rumored to involve trapped elementals. The airship's captain controls the arcane furnace and directs forward thrust by way of a propeller located at the back of the ship, helming the craft with a wheel positioned in the bow. Metal runners below the ship allow a battle balloon to land on the ground.
+Options and Armaments. Each franchise or organization customizes the offensive capability of its airships, but most battle balloons feature multiple harpoon guns, perfect for fighting and snaring aerial threats. Battle balloons that see a lot of combat are typically well stocked with other ranged weapons and polearms for ship-to-ship and crew-to-crew fighting.
+Whether privately financed or loaned out by Head Office under extraordinarily cautious terms, battle balloons can be customized with unique equipment—different siege weapons, lifting and cargo gear, and so forth—to make each airship unique. However, the most potent weapon featured on most Acquisitions Incorporated battle balloons is the green flame arbalester, a massive ballista whose bolts pulse with arcane power and detonate with formidable explosive force wherever they hit.
+Vehicle Rules. 
+------
+Battle balloons and mechanical beholders are vehicles, and as such, they have special rules associated with them. Most pertinently, a vehicle has the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and the corresponding modifiers. The Strength of a vehicle expresses its size and weight. Dexterity represents its ease of handling. A vehicle's Constitution covers its durability and the quality of its construction. Vehicles usually have a score of 0 in Intelligence, Wisdom, and Charisma. If a vehicle has a 0 in a score, it automatically fails any ability check or saving throw that uses that score. How a vehicle is crewed and what actions it can take on its turn are described in the stat block for the vehicle.
+------
+Mobile Franchise Headquarters. A battle balloon is perhaps the most sought-after of the mobile headquarters options available to Acquisitions Incorporated franchises. The versatility of an airship allows for the rapid shipping of goods, mercenaries, and loot. Such a vessel also allows a quick escape from sticky developments and deals gone bad.
+Source: Acquisitions Incorporated p. 218</description>
+    <environment></environment>
+    </monster>
+  <monster>
+      <name>Mechanical Beholder</name>
+    <size>H</size>
+    <type>vehicle (15 ft. x 15 ft.)</type>
+    <alignment>Unaligned</alignment>
+    <ac>18</ac>
+    <hp>200</hp>
+    <speed>3 miles per hour (72 miles per day)</speed>
+    <str>18</str>
+    <dex>12</dex>
+    <con>18</con>
+    <int>0</int>
+    <wis>0</wis>
+    <cha>0</cha>
+    <save></save>
+    <skill></skill>
+    <languages></languages>
+    <cr></cr>
+    <resist></resist>
+    <immune>poison, psychic</immune>
+    <vulnerable></vulnerable>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious</conditionImmune>
+    <senses></senses>
+    <trait>
+        <name>Hit Points</name>
+      <text>200</text>
+      </trait>
+    <trait>
+        <name>Hull:</name>
+      <text>Armor Class: 18</text>
+      <text>Hit Points: 200 (damage threshold 10)</text>
+      </trait>
+    <trait>
+        <name>Control:</name>
+      <text>Helm</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 25</text>
+      <text>Move up to the speed of the ship's magical propulsion unit, with one 90-degree turn. The helm can be attacked only if the hull has taken 100 or more damage. If the helm is destroyed, the mechanical beholder can't move.</text>
+      </trait>
+    <trait>
+        <name>Movement:</name>
+      <text>Magical Propulsion Unit</text>
+      <text>Armor Class: 16</text>
+      <text>Hit Points: 100; -5 ft. speed per 25 damage taken</text>
+      </trait>
+    <action>
+        <text>On its turn the mechanical beholder can take 1 action. It cannot take any actions if it has no crew.</text>
+      <text>• Eye Rays. The mechanical beholder can use its eye ray tentacles.</text>
+      <text>• Move. The mechanical beholder can use its helm to move using its magical propulsion unit.</text>
+      </action>
+    <action>
+        <name>Weapons:</name>
+      <text>Eye Ray Tentacles (6)</text>
+      <text>Armor Class: 14</text>
+      <text>Hit Points: 50 each</text>
+      <text>g The mechanical beholder shoots the following magical eye rays at up to three targets that would be visible to the crew and are within 120 feet of it.</text>
+      <text>• Disintegration Ray. If the target is a creature, it must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust. If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.</text>
+      <attack>Weapons:||4d8</attack>
+      <text>• Enervation Ray. The targeted creature must make a DC 15 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+      <attack>Weapons:||4d8</attack>
+      <text>• Paralyzing Ray. The targeted creature must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      </action>
+    <description>When you hear the mechanical beholder click to life, it sounds like death itself snapping its fingers.
+A mechanical beholder takes the form of an oversized eye tyrant whose central eye is a viewport window. Part conveyance, part laboratory, and part siege engine, the vehicle can transport up to six humanoids through any terrain or medium, including underwater and through solid stone. A complex and often dangerous manipulation of gears, levers, and buttons controlled the original mechanical beholders, but more recent models feature magical controls that respond to voice commands—though not always accurately.
+Equipment and Options. The mechanical beholder can be outfitted with a variety of sensors, probes, and gauges, allowing for functions as varied as determining alchemical composition, picking up on magical auras, or making masterfully dry martinis. Its range of armaments includes a disintegration ray modeled after that of its monstrous namesake (which for reasons of liability is advertised as being designed exclusively for waste removal). Portholes and hatches allow characters inside the beholder to make ranged and magical attacks from within it.
+Source: Acquisitions Incorporated p. 219</description>
+    <environment></environment>
+    </monster>
+  </compendium>

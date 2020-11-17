@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Artificer (UA): Artificer</name>
+        <text>Artificers are a key part of the world of Eberron. They illustrate the evolution of magic from a wild, unpredictable force to one that is becoming available to the masses. Magic items are part of everyday life in the Five Nations of Khorvaire; with an artificer in your party, they become part of every adventuring expedition.</text>
+        <text>The artificer was a separate class in prior editions of the Eberron setting, a melee combatant who specialized in mystically enhanced arms and armor. The fifth edition rules treat the artificer as a new wizard tradition that focuses on mystical invention, which you can choose starting at 2nd level.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Artificer (UA): Infuse Potions</name>
+        <text>Starting at 2nd level, you can produce magic potions. You spend 10 minutes focusing your magic on a vial of mundane water and expend a spell slot to transform it into a potion. Once you have expended a spell slot to create a potion, you cannot regain that slot until the potion is consumed or after 1 week, at which time the potion loses its effectiveness. You can create up to three potions at a time; creating a fourth potion causes the oldest currently active one to immediately lose its potency. If that potion has been consumed, its effects immediately end.</text>
+        <text>The spell slot you expend determines the type of potion you can create.</text>
+        <text></text>
+        <text>Infuse Potions</text>
+        <text>Spell Slot | Potion Created</text>
+        <text>1st | Climbing, growth, or healing</text>
+        <text>2nd | Mind reading or greater healing</text>
+        <text>3rd | Invisibility, superior healing, or water breathing</text>
+        <text>4th | Resistance</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Artificer (UA): Infuse Scrolls</name>
+        <text>At 2nd level, you can also tap into your reserves of magical energy to create spell scrolls. You can use your Arcane Recovery ability to create a scroll instead of regaining expended spell slots.</text>
+        <text>You must finish a short rest, then spend 10 minutes with parchment, quill, and ink to create a spell scroll containing one spell chosen from those you know. Subtract the spell's level from the total levels worth of slots you regain using Arcane Recovery. This reduction to your Arcane Recovery applies until you use the scroll and then finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Artificer (UA): Infuse Weapons and Armor</name>
+        <text>Beginning at 6th level, you can produce magic weapons and armor. You spend 10 minutes focusing your magic on a mundane weapon, suit of armor, shield, or bundle of twenty pieces of ammunition, and expend a spell slot to infuse it with magical energy. The magic item retains its enhancement for 8 hours or until used (in the case of magic ammunition). You can infuse only one item at a time; if you infuse a second one, the first immediately loses its potency. Once you have expended a spell slot to create such an item, you cannot regain that slot until the item becomes nonmagical.</text>
+        <text>The spell slot you expend determines the type of weapon, armor, or shield you can create.</text>
+        <text></text>
+        <text>Infuse Weapons and Armor</text>
+        <text>Spell Level | Item Created</text>
+        <text>2nd | +1 ammunition (20 pieces)</text>
+        <text>3rd | +1 weapon or +1 shield</text>
+        <text>4th | +1 armor</text>
+        <text>5th | +2 weapon or +2 ammunition (20 pieces)</text>
+        <text>6th | +2 armor</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Artificer (UA): Superior Artificer</name>
+        <text>Starting at 10th level, you can create a second magic weapon, suit of armor, shield, or bundle of ammunition using your Infuse Weapons and Armor ability. Attempting to infuse a third item causes the oldest one to immediately lose its potency.</text>
+        <text>You can also create one additional potion or scroll using Infuse Potions or Infuse Scrolls.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Artificer (UA): Master Artificer</name>
+        <text>On reaching 14th level, your mastery of arcane magic allows you to produce a variety of magic items. You can create a single item chosen from Magic Item Tables A and B in chapter 7 of the Dungeon Master's Guide (shown below). It takes you 1 week to produce such an item, and you must rest for 1 month before using this ability to craft another item.</text>
+        <text></text>
+        <text>Magic Item Table A</text>
+        <text>d100 | Magic Item</text>
+        <text>01-50 | Potion of healing</text>
+        <text>51-60 | Spell scroll (cantrip)</text>
+        <text>61-70 | Potion of climbing</text>
+        <text>71-90 | Spell scroll (1st level)</text>
+        <text>91-94 | Spell scroll (2nd level)</text>
+        <text>95-98 | Potion of greater healing</text>
+        <text>99 | Bag of holding</text>
+        <text>00 | Driftglobe</text>
+        <text></text>
+        <text>Magic Item Table B</text>
+        <text>d100 | Magic Item</text>
+        <text>01-15 | Potion of greater healing</text>
+        <text>16-22 | Potion of fire breath</text>
+        <text>23-29 | Potion of resistance</text>
+        <text>30-34 | Ammunition +1</text>
+        <text>35-39 | Potion of animal friendship</text>
+        <text>40-44 | Potion of hill giant strength</text>
+        <text>45-49 | Potion of growth</text>
+        <text>50-54 | Potion of water breathing</text>
+        <text>55-59 | Spell scroll (2nd level)</text>
+        <text>60-64 | Spell scroll (3rd level)</text>
+        <text>65-67 | Bag of holding</text>
+        <text>68-70 | Keoghtom's ointment</text>
+        <text>71-73 | Oil of slipperiness</text>
+        <text>74-75 | Dust of disappearance</text>
+        <text>76-77 | Dust of dryness</text>
+        <text>78-79 | Dust of sneezing and choking</text>
+        <text>80-81 | Elemental gem</text>
+        <text>82-83 | Philter of love</text>
+        <text>84 | Alchemy jug</text>
+        <text>85 | Cap of water breathing</text>
+        <text>86 | Cloak of the manta ray</text>
+        <text>87 | Driftglobe</text>
+        <text>88 | Goggles of night</text>
+        <text>89 | Helm of comprehending languages</text>
+        <text>90 | Immovable rod</text>
+        <text>91 | Lantern of revealing</text>
+        <text>92 | Mariner's armor</text>
+        <text>93 | Mithral armor</text>
+        <text>94 | Potion of poison</text>
+        <text>95 | Ring of swimming</text>
+        <text>96 | Robe of useful items</text>
+        <text>97 | Rope of climbing</text>
+        <text>98 | Saddle of the cavalier</text>
+        <text>99 | Wand of magic detection</text>
+        <text>00 | Wand of secret</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Eberron p. 3</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

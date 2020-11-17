@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Aarakocra (DMG)</name>
+    <size>M</size>
+    <speed>20</speed>
+    <ability>Dex 2, Wis 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Dive Attack</name>
+      <text>If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra 1d6 damage to the target.
+</text>
+      </trait>
+    <trait>
+        <name>Talons</name>
+      <text>You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit.
+</text>
+      </trait>
+    <trait>
+        <name>Language</name>
+      <text>You can speak, read, and write Auran.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Aasimar (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Wis 1, Cha 2</ability>
+    <proficiency></proficiency>
+    <spellAbility>Charisma</spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 286, Explorer's Guide to Wildemount p. 166</text>
+      </trait>
+    <trait>
+        <name>Age</name>
+      <text>Aasimar (DMG) mature at the same rate as humans but live a few years longer.
+</text>
+      </trait>
+    <trait>
+        <name>Alignment</name>
+      <text>Due to their celestial heritage, Aasimar (DMG) are often good. However, some Aasimar (DMG) fall into evil, rejecting their heritage.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>Aasimar (DMG) are built like well-proportioned humans. Your size is Medium.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.
+</text>
+      </trait>
+    <trait>
+        <name>Celestial Resistance</name>
+      <text>You have resistance to necrotic and radiant damage.
+</text>
+      </trait>
+    <trait>
+        <name>Celestial Legacy</name>
+      <text>You know the light cantrip. Once you reach 3rd level, you can cast the lesser restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+</text>
+      </trait>
+    <trait>
+        <name>Language</name>
+      <text>You can speak, read, and write Common and Celestial.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Bullywug (DMG)</name>
+    <size>M</size>
+    <speed>20</speed>
+    <ability>Int -2, Cha -2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>You can breathe air and water.
+</text>
+      </trait>
+    <trait>
+        <name>Speak with Frogs and Toads</name>
+      <text>You can communicate simple concepts to frogs and toads when you speak in Bullywug (DMG).
+</text>
+      </trait>
+    <trait>
+        <name>Swamp Camouflage</name>
+      <text>You have advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+</text>
+      </trait>
+    <trait>
+        <name>Standing Leap</name>
+      <text>Your long jump is up to 20 feet and your high jump is up to 10 feet, with or without a running start.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Bullywug (DMG).
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Gnoll (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Int -2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Bite</name>
+      <text>Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Rampage</name>
+      <text>When you reduce a creature to 0 hit points with a melee attack on your turn, you can take a bonus action to move up to half your speed and make a bite attack.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Gnome (Deep) (DMG)</name>
+    <size>M</size>
+    <speed>20</speed>
+    <ability>Str 1, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility>Intelligence</spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Innate Spellcasting</name>
+      <text>You have an innate ability to cast the following spells, requiring no material components:
+• At will: nondetection (self only)
+• 1/day each: blindness/deafness, blur, disguise self
+Intelligence is your spellcasting ability for these spells.
+</text>
+      </trait>
+    <trait>
+        <name>Gnome Cunning</name>
+      <text>You have advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+</text>
+      </trait>
+    <trait>
+        <name>Superior Darkvision</name>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Gnomish, Terran, and Undercommon.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Goblin (DMG)</name>
+    <size>S</size>
+    <speed>30</speed>
+    <ability>Str -2, Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Nimble Escape</name>
+      <text>You can take the Disengage or Hide action as a bonus action on each of your turns.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin (DMG).
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Grimlock (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Cha -2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Blindsight</name>
+      <text>You have no eyes, and cannot be blinded. You can perceive your surroundings within 30 ft., or 10 ft. while deafened. You are considered blind beyond this radius.
+</text>
+      </trait>
+    <trait>
+        <name>Keen Hearing and Smell</name>
+      <text>You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
+</text>
+      </trait>
+    <trait>
+        <name>Stone Camouflage</name>
+      <text>You have advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Undercommon.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Hobgoblin (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability></ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Martial Advantage</name>
+      <text>Once per turn, you can deal an extra 2d6 damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't incapacitated.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Goblin.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Kenku (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Ambusher</name>
+      <text>In the first round of a combat, you have advantage on attack rolls against any creature who is surprised.
+</text>
+      </trait>
+    <trait>
+        <name>Mimicry</name>
+      <text>You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can read and write Common and Auran, but you can only speak using your Mimicry trait.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Kobold (DMG)</name>
+    <size>S</size>
+    <speed>30</speed>
+    <ability>Dex 2, Str -4</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Pack Tactics</name>
+      <text>You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
+</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Draconic.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Kuo-Toa (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability></ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>You can breathe air and water.
+</text>
+      </trait>
+    <trait>
+        <name>Otherworldly Perception</name>
+      <text>You can sense the presence of any creature within 30 feet of you that is invisible or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+</text>
+      </trait>
+    <trait>
+        <name>Slippery</name>
+      <text>You have advantage on ability checks and saving throws made to escape a grapple.
+</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+</text>
+      </trait>
+    <trait>
+        <name>Superior Darkvision</name>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Undercommon.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Lizardfolk (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Int -2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Hold Breath</name>
+      <text>You can hold your breath for up to 15 minutes at a time.
+</text>
+      </trait>
+    <trait>
+        <name>Natural Armor</name>
+      <text>Your scales function as natural armor, granting you a +3 bonus to Armor Class.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Draconic.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Merfolk (DMG)</name>
+    <size>M</size>
+    <speed>10</speed>
+    <ability></ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Amphibious</name>
+      <text>You can breathe air and water.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Aquan.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Orc (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Int -2</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Aggressive</name>
+      <text>As a bonus action, you can move up to your speed toward a hostile creature that you can see.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and Orc (DMG).
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Skeleton (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Dex 2, Int -4, Cha -4</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Brittle Bones</name>
+      <text>You are vulnerable to bludgeoning damage.
+</text>
+      </trait>
+    <trait>
+        <name>Undead Nature</name>
+      <text>You are immune to poison damage and exhaustion, and you can't be poisoned. You don't require air, food, drink, or sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can't speak, but you can understand the languages you knew in life.
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Troglodyte (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 2, Con 2, Int -4, Cha -4</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Chameleon Skin</name>
+      <text>You have advantage on Dexterity (Stealth) checks made to hide.
+</text>
+      </trait>
+    <trait>
+        <name>Stench</name>
+      <text>Any creature other than a Troglodyte (DMG) that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all Troglodyte (DMG)s for 1 hour.
+</text>
+      </trait>
+    <trait>
+        <name>Sunlight Sensitivity</name>
+      <text>While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+</text>
+      </trait>
+    <trait>
+        <name>Natural Armor</name>
+      <text>Your thick hide grants you a +1 bonus to Armor Class.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Troglodyte (DMG).
+</text>
+      </trait>
+    </race>
+  <race>
+      <name>Zombie (DMG)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str 1, Con 2, Int -6, Wis -4, Cha -4</ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Source: Dungeon Master's Guide p. 282</text>
+      </trait>
+    <trait>
+        <name>Undead Fortitude</name>
+      <text>If damage reduces you to 0 hit points, you must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, you drop to 1 hit point instead.
+</text>
+      </trait>
+    <trait>
+        <name>Undead Nature</name>
+      <text>You are immune to poison damage and exhaustion, and you can't be poisoned. You don't require air, food, drink, or sleep.
+</text>
+      </trait>
+    <trait>
+        <name>Darkvision</name>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can't speak, but you can understand the languages you knew in life.
+</text>
+      </trait>
+    </race>
+  </compendium>

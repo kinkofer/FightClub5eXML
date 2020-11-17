@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Fighter</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Rune Knight</name>
+        <text>You discovered how to enhance your martial prowess using the supernatural power of runes. The ancient practice of rune magic originated with giants. Skiltgravr ("rune cutters") can be found among any type of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a traveling sage, or met the giant in person, you studied the giant's craft. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Bonus Proficiencies</name>
+        <text>3rd-level Rune Knight feature</text>
+        <text>You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Giant Might</name>
+        <text>3rd-level Rune Knight feature</text>
+        <text>You can imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:</text>
+        <text>• If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.</text>
+        <text>• You have advantage on Strength checks and Strength saving throws.</text>
+        <text>• Your weapon attacks deal an extra 1d6 damage.</text>
+        <text>You can use this feature twice, and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Rune Magic</name>
+        <text>3rd-level Rune Knight feature</text>
+        <text>You learn how to use runes to enhance your gear. When you gain this feature, you learn how to inscribe two runes of your choice on weapons, armor, or shields (see "Rune Options").</text>
+        <text>Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, or a shield.</text>
+        <text>Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes.</text>
+        <text>Each time you gain a level in this class, you can replace one rune you know with a different one.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Rune Options</name>
+        <text>Here are rune options for the Rune Magic feature. They are all magical effects. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Intelligence modifier.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Defensive Runes</name>
+        <text>7th-level Rune Knight feature</text>
+        <text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the creature's AC against that attack. The bonus equals 1 + your Intelligence modifier (minimum of +2).</text>
+        <text>In addition, you learn one new rune of your choice from the Rune Magic feature (for a total of three).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Great Stature</name>
+        <text>10th-level Rune Knight feature</text>
+        <text>The magic of your runes permanently alters you. When you gain this feature, roll  3d4. You grow a number of inches in height equal to the roll. Moreover, the extra damage you deal with your Giant Might feature increases to  1d8.</text>
+        <text>In addition, you learn one new rune of your choice from your Rune Magic feature (for a total of four).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Rune Magic Mastery</name>
+        <text>15th-level Rune Knight feature</text>
+        <text>You can invoke each rune you know from your Rune Magic feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.</text>
+        <text>In addition, you learn one new rune of your choice from the Rune Magic feature (for a total of five).</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Rune Knight (UA): Blessing of the All Father</name>
+        <text>18th-level Rune Knight feature</text>
+        <text>You learn how to share your rune magic with your allies. When you use your Giant Might feature, you can choose one willing creature you can see within 60 feet of you. The chosen creature also gains the benefits of your Giant Might feature.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Ranger</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Gloom Stalker</name>
+        <text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Dread Ambusher</name>
+        <text>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.</text>
+        <text>At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Gloom Stalker Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Gloom Stalker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | disguise self</text>
+        <text>5th | rope trick</text>
+        <text>9th | fear</text>
+        <text>13th | greater invisibility</text>
+        <text>17th | seeming</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Umbral Sight</name>
+        <text>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.</text>
+        <text>You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Gloom Stalker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Dread Ambusher</name>
+        <text>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.</text>
+        <text>At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Umbral Sight</name>
+        <text>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.</text>
+        <text>You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Gloom Stalker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Dread Ambusher</name>
+        <text>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.</text>
+        <text>At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Gloom Stalker Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Gloom Stalker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | disguise self</text>
+        <text>5th | rope trick</text>
+        <text>9th | fear</text>
+        <text>13th | greater invisibility</text>
+        <text>17th | seeming</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Gloom Stalker: Umbral Sight</name>
+        <text>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.</text>
+        <text>You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Horizon Walker</name>
+        <text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Detect Portal</name>
+        <text>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Horizon Walker Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Horizon Walker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | misty step</text>
+        <text>9th | haste</text>
+        <text>13th | banishment</text>
+        <text>17th | teleportation circle</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Horizon Walker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Detect Portal</name>
+        <text>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Horizon Walker</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Detect Portal</name>
+        <text>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text>See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Horizon Walker Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Horizon Walker Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | misty step</text>
+        <text>9th | haste</text>
+        <text>13th | banishment</text>
+        <text>17th | teleportation circle</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Horizon Walker: Planar Warrior</name>
+        <text>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</text>
+        <text>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Monster Slayer</name>
+        <text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Hunter's Sense</name>
+        <text>At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Monster Slayer Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Monster Slayer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | zone of truth</text>
+        <text>9th | magic circle</text>
+        <text>13th | banishment</text>
+        <text>17th | hold monster</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Prey</name>
+        <text>Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Monster Slayer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Hunter's Sense</name>
+        <text>At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Prey</name>
+        <text>Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Monster Slayer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Revised Ranger subclass.</text>
+        <text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Hunter's Sense</name>
+        <text>At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Monster Slayer Magic</name>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Monster Slayer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | protection from evil and good</text>
+        <text>5th | zone of truth</text>
+        <text>9th | magic circle</text>
+        <text>13th | banishment</text>
+        <text>17th | hold monster</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Prey</name>
+        <text>Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.</text>
+        <text>This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Gloom Stalker: Iron Mind</name>
+        <text>By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Gloom Stalker: Iron Mind</name>
+        <text>By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Gloom Stalker: Iron Mind</name>
+        <text>By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker: Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker: Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Horizon Walker: Ethereal Step</name>
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer: Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer: Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Monster Slayer: Supernatural Defense</name>
+        <text>At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add 1d6 to your roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Gloom Stalker: Stalker's Flurry</name>
+        <text>At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Gloom Stalker: Stalker's Flurry</name>
+        <text>At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Gloom Stalker: Stalker's Flurry</name>
+        <text>At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker: Distant Strike</name>
+        <text>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker: Distant Strike</name>
+        <text>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Horizon Walker: Distant Strike</name>
+        <text>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.</text>
+        <text>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer: Magic-User's Nemesis</name>
+        <text>At 11th level, you gain the ability to thwart someone else's magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer: Magic-User's Nemesis</name>
+        <text>At 11th level, you gain the ability to thwart someone else's magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Monster Slayer: Magic-User's Nemesis</name>
+        <text>At 11th level, you gain the ability to thwart someone else's magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.</text>
+        <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Gloom Stalker: Shadowy Dodge</name>
+        <text>Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Gloom Stalker: Shadowy Dodge</name>
+        <text>Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Gloom Stalker: Shadowy Dodge</name>
+        <text>Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 41</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker: Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker: Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Horizon Walker: Spectral Defense</name>
+        <text>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Monster Slayer: Slayer's Counter</name>
+        <text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 43</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

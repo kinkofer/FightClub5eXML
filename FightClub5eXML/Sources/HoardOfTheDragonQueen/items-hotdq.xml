@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+      <name>Black Dragon Mask</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>This horned mask of glossy ebony has horns and a skull-like mien. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.
+Damage Absorption: You have damage resistance to acid. If you already have damage resistance to acid from another source, you gain immunity to acid damage. If you already have immunity to acid damage from another source, you regain hit points equal to half of any acid damage you are dealt.
+Draconic Majesty: While you are wearing no armor, you can add your Charisma bonus to your Armor Class.
+Dragon Breath: If you have a breath weapon that requires rest to recharge, it gains a recharge of 6.
+Dragon Sight: You gain darkvision with a radius of 60 feet, or an additional 60 feet of darkvision if you already have that sense. Once per day, you can gain blindsight out to a range of 30 feet for 5 minutes.
+Dragon Tongue: You can speak and understand Draconic. You also have advantage on any Charisma check you make against Black dragons.
+Legendary Resistance: (1/Day) If you fail a saving throw, you can choose to succeed instead.
+Water Breathing: You can breathe underwater.
+Source: Hoard of the Dragon Queen p. 94</text>
+    </item>
+  <item>
+      <name>Dragongleam</name>
+    <detail>simple Weapon, Melee Weapon</detail>
+    <type>M</type>
+    <weight>3</weight>
+    <property>T,V</property>
+    <dmg1>1d6</dmg1>
+    <dmg2>1d8</dmg2>
+    <dmgType>P</dmgType>
+    <range>20/60</range>
+    <text>This spear is enchanted with 10 charges of a daylight spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
+Source: Hoard of the Dragon Queen p. 69</text>
+    </item>
+  <item>
+      <name>Hazirawn</name>
+    <detail>Melee Weapon</detail>
+    <type>M</type>
+    <weight>6</weight>
+    <property>H,2H</property>
+    <dmg1>2d6</dmg1>
+    <dmgType>S</dmgType>
+    <text>A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.
+Increased Potency: While you are attuned to this weapon, its bonus on attack and damage rolls increases to +2, and a hit deals an extra 2d6 necrotic damage (instead of 1d6).
+Spells: Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast detect magic (1 charge), detect evil and good (1 charge), or detect thoughts (2 charges). Each night at midnight, Hazirawn regains 1d4 expended charges.
+Wounding: While you are attuned to the weapon, any creature that you hit with Hazirawn can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
+Source: Hoard of the Dragon Queen p. 94</text>
+    <roll>1d6</roll>
+    <roll>2d6</roll>
+    <roll>1d4</roll>
+    </item>
+  <item>
+      <name>Insignia of Claws</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <weight></weight>
+    <property></property>
+    <text>The jewels in the insignia of the Cult of the Dragon flare with purple light when you enter combat, empowering your natural fists or natural weapons.
+While wearing the insignia you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical.
+Source: Hoard of the Dragon Queen p. 94</text>
+    </item>
+  <item>
+      <name>Tankard of Plenty</name>
+    <detail>Other</detail>
+    <type>G</type>
+    <weight></weight>
+    <property></property>
+    <text>This golden stein is decorated with dancing dwarves and grain patterns. Speaking the command word ("Illefarn") while grasping the handle fills the tankard with three pints of rich dwarven ale. This power can be used up to three times per day.
+Source: Hoard of the Dragon Queen p. 74</text>
+    </item>
+  <item>
+      <name>Wand of Winter</name>
+    <detail></detail>
+    <type>WD</type>
+    <weight>1</weight>
+    <property></property>
+    <text>This wand looks and feels like an icicle. You must be attuned to the wand to use it.
+The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand, even if you are incapable of casting spells: ray of frost (no charges, or 1 charge to cast at 5th level; +5 to hit with ranged spell attack), sleet storm (3 charges; spell save DC 15), or ice storm (4 charges; spell save DC 15). No components are required. The wand regains 1d6 + 1 expended charges each day at dawn. If you expend the wand's last charge, roll a d20. On a 20, the wand melts away, forever destroyed.
+Source: Hoard of the Dragon Queen p. 94</text>
+    <roll>1d6+1</roll>
+    </item>
+  </compendium>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Warlock</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Genie (UA): The Genie</name>
+        <text>You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities are rulers of vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations but are all arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals who so love to bind genies into servitude, readily entering into pacts that expand their reach across the multiverse.</text>
+        <text>You choose your patron's kind or determine it randomly, using the Genie Kind table. Each kind of genie is associated with a particular element, as shown in the table.</text>
+        <text></text>
+        <text>Genie Kind</text>
+        <text>d4 | Kind | Element</text>
+        <text>1 | Dao | Earth</text>
+        <text>2 | Djinni | Air</text>
+        <text>3 | Efreeti | Fire</text>
+        <text>4 | Marid | Water</text>
+        <text></text>
+        <text>Expanded Spell List</text>
+        <text>   1st-level Genie feature</text>
+        <text>   The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.</text>
+        <text></text>
+        <text>Genie Expanded Spells</text>
+        <text>Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells</text>
+        <text>1st | detect evil and good | sanctuary | thunderwave | burning hands | fog cloud</text>
+        <text>2nd | phantasmal force | spike growth | gust of wind | scorching ray | blur</text>
+        <text>3rd | create food and water | meld into stone | wind wall | fireball | sleet storm</text>
+        <text>4th | phantasmal killer | stone shape | greater invisibility | fire shield | control water</text>
+        <text>5th | creation | wall of stone | seeming | flame strike | cone of cold</text>
+        <text>9th | wish | — | — | — | —</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Genie (UA): Genie's Vessel</name>
+        <text>1st-level Genie feature</text>
+        <text>Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.</text>
+        <text></text>
+        <text>Genie's Vessel</text>
+        <text>d6 | Vessel</text>
+        <text>1 | Oil lamp</text>
+        <text>2 | Urn</text>
+        <text>3 | Ring with a compartment</text>
+        <text>4 | Stoppered bottle</text>
+        <text>5 | Hollow statuette</text>
+        <text>6 | Ornate lantern</text>
+        <text>While you are touching the vessel, you can use it in the following ways:</text>
+        <text></text>
+        <text>   Bottled Respite.</text>
+        <text>• As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is comfortably appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.</text>
+        <text>   Genie's Wrath.</text>
+        <text>• Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
+        <text></text>
+        <text>The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.</text>
+        <text>If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Genie (UA): Elemental Gift</name>
+        <text>6th-level Genie feature</text>
+        <text>You begin to take on characteristics of your patron's kind. You now have resistance to a damage type determined by your patron's kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
+        <text>In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Genie (UA): Sanctuary Vessel</name>
+        <text>10th-level Genie feature</text>
+        <text>When you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.</text>
+        <text>As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or the vessel is destroyed.</text>
+        <text>In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Genie (UA): Limited Wish</name>
+        <text>14th-level Genie feature</text>
+        <text>You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.</text>
+        <text>Once you use this feature, you can't use it again until you finish 1d4 long rests.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: 2020 Subclasses Revisited p. 2</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

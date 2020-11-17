@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Wizard</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Arcane Tradition: Bladesinging</name>
+        <text>Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Bladesinging: Bladesinger Styles</name>
+        <text>From its inception as a martial and magical art, Bladesinging has been tied to the sword, more specifically the longsword. Yet many generations of study gave rise to various styles of Bladesinging based on the melee weapon employed. The techniques of these styles are passed from master to students in small schools, some of which have a building dedicated to instruction. Even the newest styles are hundreds of years old, but are still taught by their original creators due to the long lives of elves. Most schools of Bladesinging are in Evermeet or Evereska. One was started in Myth Drannor, but the city's destruction has scattered those students who survived.</text>
+        <text>Styles of Bladesinging are broadly categorized based on the type of weapon employed, and each is associated with a category of animal. Within that style are specializations named after specific animal types, based on the types of spells employed, the techniques of the master, and the particular weapon used. Bladesingers who apprentice to a master typically get a tattoo of their chosen style's animal. Some bladesingers learn multiple styles and bear many tattoos, wearing a warning on their skin of their deadly skills.</text>
+        <text></text>
+        <text>Cat</text>
+        <text>   Styles that employ a sword belong to this family. The lion style, the eldest, trains practitioners in the use of the longsword and doesn't favor any particular type of spells. Leopard style focuses on the shortsword and spells of illusion and stealth. Red tiger, a style just three centuries old, has its bladesingers using the scimitar in a whirling dance of defense from which they launch into sudden leaps and attacks.</text>
+        <text></text>
+        <text>Bird</text>
+        <text>   Styles that focus on the use of a hafted weapon, such as an axe or hammer, have been grouped together as bird styles, yet they vary wildly. All relatively new styles, they use weapons not typically favored by elves. Eagle-style bladesingers use small handaxes, and many maneuvers in the style focus on fluid ways to throw the weapon and draw a new one. Raven style uses a war pick, and spells associated with it grant the bladesinger more agility in combat.</text>
+        <text></text>
+        <text>Snake</text>
+        <text>   Practitioners of these styles use a flail, chain, or whip. Viper style uses a whip, despite its inelegance as a weapon, and has almost as long a history as the lion style. Its masters punctuate their bladesong with a stunningly rapid rhythm of whip cracks, which can keep many foes at bay and allow the bladesinger space to cast the cruel spells of poison and disease favored by the style.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Bladesinging: Bladesong</name>
+        <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</text>
+        <text>You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</text>
+        <text>While your bladesong is active, you gain the following benefits:</text>
+        <text>• You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).</text>
+        <text>• Your walking speed increases by 10 feet.</text>
+        <text>• You have advantage on Dexterity (Acrobatics) checks.</text>
+        <text>• You gain a bonus to any Constitution saving throws you make to maintain concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Bladesinging: Restriction: Elves Only</name>
+        <text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faerûn, elves closely guard the secrets of bladesinging.</text>
+        <text>Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM's setting or your DM's version of the Realms.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Bladesinging: Training in War and Song (Bladesinging)</name>
+        <text>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</text>
+        <text>You also gain proficiency in the Performance skill if you don't already have it.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Bladesinging: Extra Attack</name>
+        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Bladesinging: Song of Defense</name>
+        <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell's slot level.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Bladesinging: Song of Victory</name>
+        <text>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</text>
+        <text></text>
+        <text>Source: Sword Coast Adventurer's Guide p. 141</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Cleric</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Forge Domain</name>
+        <text>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.</text>
+        <text>At each indicated cleric level, add the listed spells to your spells prepared.</text>
+        <text></text>
+        <text>Forge Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | identify, searing smite</text>
+        <text>3rd | heat metal, magic weapon</text>
+        <text>5th | elemental weapon, protection from energy</text>
+        <text>7th | fabricate, wall of fire</text>
+        <text>9th | animate objects, creation</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Forge Domain: Blessing of the Forge</name>
+        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Forge Domain: Bonus Proficiency</name>
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Grave Domain</name>
+        <text>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.</text>
+        <text></text>
+        <text>Grave Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | bane, false life</text>
+        <text>3rd | gentle repose, ray of enfeeblement</text>
+        <text>5th | revivify, vampiric touch</text>
+        <text>7th | blight, death ward</text>
+        <text>9th | antilife shell, raise dead</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Grave Domain: Circle of Mortality</name>
+        <text>At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.</text>
+        <text>In addition, you learn the spare the dying cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Grave Domain: Eyes of the Grave</name>
+        <text>At 1st level, you gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Forge Domain: Channel Divinity: Artisan's Blessing</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to create simple items.</text>
+        <text>You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object (see chapter 5, "Equipment," in the Player's Handbook for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.</text>
+        <text>The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual's end, magically forming even nonmetal parts of the creation. The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Grave Domain: Channel Divinity: Path to the Grave</name>
+        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</text>
+        <text>As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Forge Domain: Soul of the Forge</name>
+        <text>Starting at 6th level, your mastery of the forge grants you special abilities:</text>
+        <text>• You gain resistance to fire damage.</text>
+        <text>• While wearing heavy armor, you gain a +1 bonus to AC.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Grave Domain: Sentinel at Death's Door</name>
+        <text>At 6th level, you gain the ability to impede death's progress. As a reaction when you or a creature you can see within 30 feet of you suffers a critical hit, you can turn that hit into a normal hit. Any effects triggered by a critical hit are canceled.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Forge Domain: Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Forge Domain: Divine Strike</name>
+        <text>At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Grave Domain: Blessed Strikes</name>
+        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
+        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Grave Domain: Potent Spellcasting</name>
+        <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Forge Domain: Saint of Forge and Fire</name>
+        <text>At 17th level, your blessed affinity with fire and metal becomes more powerful:</text>
+        <text>• You gain immunity to fire damage</text>
+        <text>• While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 18</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Grave Domain: Keeper of Souls</name>
+        <text>Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Xanathar's Guide to Everything p. 19</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>
