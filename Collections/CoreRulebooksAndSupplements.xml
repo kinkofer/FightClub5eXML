@@ -1,20 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
     <!-- Core Rulebooks -->
-    <doc href="../FightClub5eXML/Sources/CoreRulebooks.xml" />
-    
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/backgrounds-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/bestiary-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-barbarian-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-bard-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-cleric-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-druid-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-fighter-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-monk-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-paladin-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-ranger-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-rogue-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-sorcerer-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-warlock-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-wizard-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/feats-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/races-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/spells-phb.xml" />
+
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/bestiary-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-cleric-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-paladin-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/items-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/races-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/spells-phb+dmg.xml" />
+
+    <doc href="../FightClub5eXML/Sources/MonsterManual/bestiary-mm.xml" />
+    <doc href="../FightClub5eXML/Sources/MonsterManual/items-mm.xml" />
+
+
     <!-- Supplements -->
-    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/XanatharsGuideToEverything.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/MordenkainensTomeOfFoes.xml" />
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/VolosGuideToMonsters.xml" />
-    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/SwordCoastAdventurersGuide.xml" />
-    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/GuildmastersGuideToRavnica.xml" />
-    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron/WayfindersGuideToEberron.xml" />
-    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/EberronRisingFromTheLastWar.xml" />
-    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/AcquisitionsIncorporated.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/ExplorersGuideToWildemount.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio/MordenkainensFiendishFolio.xml" />
-    <doc href="../FightClub5eXML/Sources/TheTortlePackage/TheTortlePackage.xml" />
-    <doc href="../FightClub5eXML/Sources/OneGrungAbove/OneGrungAbove.xml" />
-    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/MythicOdysseysOfTheros.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/bestiary-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-barbarian-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-bard-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-cleric-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-druid-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-fighter-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-monk-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-paladin-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-ranger-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-rogue-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-sorcerer-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-warlock-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-wizard-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/feats-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/items-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-phb+xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-xge.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/bestiary-mtf.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/feats-mtf.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/items-mtf.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/races-mtf.xml" />
+    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/vehicles-mtf.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/bestiary-vgm.xml" />
+    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/items-vgm.xml" />
+    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/races-vgm.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/backgrounds-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-barbarian-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-cleric-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-fighter-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-monk-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-paladin-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-rogue-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-sorcerer-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-warlock-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/class-wizard-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/items-scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/spells-phb+scag.xml" />
+    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide/spells-scag.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/backgrounds-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/bestiary-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/class-cleric-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/class-druid-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/items-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/races-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/spells-ggr.xml" />
+    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/spells-phb+ggr.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron/items-wge.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/backgrounds-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/bestiary-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/class-artificer-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/feats-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/items-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/races-erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/spells-phb+erlw.xml" />
+    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/spells-xge+erlw.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/backgrounds-ai.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/bestiary-ai.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/items-ai.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/races-ai.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/spells-ai.xml" />
+    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated/vehicles-ai.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/backgrounds-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/bestiary-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/class-fighter-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/class-wizard-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/items-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/races-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/spells-egw.xml" />
+    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/vehicles-dd.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio/bestiary-mff.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/TheTortlePackage/bestiary-ttp.xml" />
+    <doc href="../FightClub5eXML/Sources/TheTortlePackage/items-ttp.xml" />
+    <doc href="../FightClub5eXML/Sources/TheTortlePackage/races-ttp.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/OneGrungAbove/races-oga.xml" />
+
+
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/backgrounds-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/bestiary-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/class-bard-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/class-paladin-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/items-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/races-mot.xml" />
+    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/spells-phb+mot.xml" />
+
 </collection>

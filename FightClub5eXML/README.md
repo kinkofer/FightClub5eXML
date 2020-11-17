@@ -3,9 +3,7 @@
 
 ## About
 
-We have been a dedicated group of D&D fans who manually added XML for Lion's Den Fight Club 5e and Game Master 5e apps. We've now found a reliable source to auto-generate the XML, and we'll be transitioning to that completely by 2021.
-
-If you'd like to try out the new format, you can import the "Everything" collection. If you have feedback, follow the instructions in [Issues](#Issues).
+We have been a dedicated group of D&D fans who manually added XML for Lion's Den Fight Club 5e and Game Master 5e apps. We've now found a reliable source to auto-generate the XML, and have transitioned to that as of November 2020. If you have feedback, follow the instructions in [Issues](#Issues).
 
 We are unaffiliated with Lion's Den and Wizards of the Coast.
 
@@ -14,7 +12,7 @@ We are unaffiliated with Lion's Den and Wizards of the Coast.
 
 Import only one of the Collection files into the Fight Club app.
 
-**Everything**: Newly formatted XML that includes all rulebooks, supplements, adventures, Unearthed Arcana, and some unofficial content.
+**Everything**: Newly formatted XML that includes all rulebooks, supplements, adventures, Unearthed Arcana, and some miscellaneous and unofficial content, like Plane Shift and Adventurers League.
 
 **CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
 
@@ -46,9 +44,11 @@ Import only one of the Collection files into the Fight Club app.
 
 ## Contribute
 
-Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.
+Visit the [FightClub5eXML GitHub](https://github.com/kinkofer/FightClub5eXML) to contribute. Although we are not accepting manual changes to the XML data, we are open to your feedback.
+
+The GitHub repository has instructions for creating your own compendium, allowing you to choose only the sources you'd like to import into your app.
 
 
 ## Issues
 
-Find a mistake in the compendium? Report it on our [Github Issues](https://github.com/kinkofer/FightClub5eXML/issues).
+Find a mistake in the compendium? Report it on our [GitHub Issues](https://github.com/kinkofer/FightClub5eXML/issues). We'll try out best to report issues back to our source to fix.

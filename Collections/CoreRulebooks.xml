@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
-    <doc href="../FightClub5eXML/Sources/CoreRulebooks.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/backgrounds-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/bestiary-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-barbarian-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-bard-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-cleric-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-druid-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-fighter-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-monk-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-paladin-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-ranger-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-rogue-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-sorcerer-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-warlock-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-wizard-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/feats-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/races-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/spells-phb.xml" />
+
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/bestiary-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-cleric-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-paladin-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/items-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/races-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/spells-phb+dmg.xml" />
+
+    <doc href="../FightClub5eXML/Sources/MonsterManual/bestiary-mm.xml" />
+    <doc href="../FightClub5eXML/Sources/MonsterManual/items-mm.xml" />
 </collection>

@@ -1,5 +1,13 @@
 ## CHANGE LOG
 
+### 2020-11-16
+
+Replaced old sources with new sources.
+
+In anticipation of Tasha's Cauldron of Everything, "unpublished" Unearthed Arcana does not include content expected to be released in that source.
+
+Removed "Everything" collection.
+
 ### 2020-11-02
 
 Added "Everything" collection, a preview for the new format.

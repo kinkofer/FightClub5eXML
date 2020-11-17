@@ -12,7 +12,7 @@ This repository is not an application in itself. But you can use it to build you
 
 ## Contributing
 
-If you'd like to contribute, feel free to fork the repository and submit pull requests with your changes.
+If you'd like to contribute, feel free to fork the repository and submit pull requests with your changes. We are no longer accepting manual changes to the XML source files because these files are now generated from an external source.
 
 
 ## Development
