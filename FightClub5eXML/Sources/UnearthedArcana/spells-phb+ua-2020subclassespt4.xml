@@ -21,6 +21,10 @@
     <classes>Warlock (Undead (UA))</classes>
     </spell>
   <spell>
+      <name>Contagion</name>
+    <classes>Warlock (Undead (UA))</classes>
+    </spell>
+  <spell>
       <name>Death Ward</name>
     <classes>Warlock (Undead (UA))</classes>
     </spell>
@@ -29,7 +33,15 @@
     <classes>Warlock (Undead (UA))</classes>
     </spell>
   <spell>
+      <name>Feign Death</name>
+    <classes>Warlock (Undead (UA))</classes>
+    </spell>
+  <spell>
       <name>Greater Invisibility</name>
+    <classes>Warlock (Undead (UA))</classes>
+    </spell>
+  <spell>
+      <name>Legend Lore</name>
     <classes>Warlock (Undead (UA))</classes>
     </spell>
   <spell>
@@ -38,6 +50,14 @@
     </spell>
   <spell>
       <name>Phantom Steed</name>
+    <classes>Warlock (Undead (UA))</classes>
+    </spell>
+  <spell>
+      <name>Ray of Sickness</name>
+    <classes>Warlock (Undead (UA))</classes>
+    </spell>
+  <spell>
+      <name>Silence</name>
     <classes>Warlock (Undead (UA))</classes>
     </spell>
   <spell>

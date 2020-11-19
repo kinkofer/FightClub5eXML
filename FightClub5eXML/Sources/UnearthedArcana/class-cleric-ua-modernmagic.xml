@@ -64,15 +64,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>City Domain (UA): Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Modern Magic p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>City Domain (UA): Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with psychic energy borrowed from the citizens of your city. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra psychic damage increases to 2d8.</text>
         <text></text>

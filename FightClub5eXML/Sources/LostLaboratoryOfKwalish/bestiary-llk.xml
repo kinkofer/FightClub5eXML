@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <monster>
-      <name>Brain in a Jar</name>
+      <name>Brain in a Jar (Noncore)</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -26,20 +26,20 @@
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Detect Sentience</name>
-      <text>The brain in a jar can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.</text>
+      <text>The Brain in a Jar (Noncore) can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.</text>
       </trait>
     <trait>
         <name>Magic Resistance</name>
-      <text>The brain in a jar has advantage on saving throws against spells and other magical effects.</text>
+      <text>The Brain in a Jar (Noncore) has advantage on saving throws against spells and other magical effects.</text>
       </trait>
     <action>
         <name>Mind Blast (Recharge 5-6)</name>
-      <text>The brain in a jar magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 13 (2d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>The Brain in a Jar (Noncore) magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 13 (2d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Mind Blast (Recharge 5-6)||2d8+4</attack>
       </action>
     <trait>
         <name>Innate Spellcasting (Psionics)</name>
-      <text>The brain in a jar's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
+      <text>The Brain in a Jar (Noncore)'s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
       <text>At will: detect thoughts, mage hand, zone of truth</text>
       <text>3/day each: charm person, command, hold person</text>
       <text>1/day each: compulsion, hold monster, sleep (cast at 3rd level), Tasha's hideous laughter</text>

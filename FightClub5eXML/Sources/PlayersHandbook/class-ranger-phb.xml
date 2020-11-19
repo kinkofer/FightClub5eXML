@@ -88,25 +88,25 @@
           <name>Fighting Style: Archery</name>
         <text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 89</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 89</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Dueling</name>
         <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 89</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 89</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -150,18 +150,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Beast Master: Ranger Companion Options</name>
-        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
-        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
-        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
-        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
-        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Beast Master: Ranger's Companion</name>
         <text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</text>
         <text>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
@@ -176,18 +164,6 @@
         <feature optional="YES">
           <name>Ranger Archetype: Beast Master</name>
         <text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Beast Master: Ranger Companion Options</name>
-        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
-        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
-        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
-        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
-        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
         <text></text>
         <text>Source: Player's Handbook p. 93</text>
         </feature>

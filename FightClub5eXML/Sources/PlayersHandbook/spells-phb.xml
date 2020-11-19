@@ -50,7 +50,7 @@ Source: Player's Handbook p. 211</text>
     </spell>
   <spell>
       <name>Alter Self</name>
-    <classes>Sorcerer, Wizard</classes>
+    <classes>Sorcerer, Wizard, Druid (Moon)</classes>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -444,7 +444,7 @@ Source: Player's Handbook p. 217</text>
     </spell>
   <spell>
       <name>Barkskin</name>
-    <classes>Druid, Ranger, Cleric (Nature), Druid (Land)</classes>
+    <classes>Druid, Ranger, Cleric (Nature), Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -579,7 +579,7 @@ Source: Player's Handbook p. 219</text>
     </spell>
   <spell>
       <name>Blight</name>
-    <classes>Druid, Sorcerer, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Druid, Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -646,7 +646,7 @@ Source: Player's Handbook p. 219</text>
     </spell>
   <spell>
       <name>Blur</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -707,7 +707,7 @@ Source: Player's Handbook p. 220</text>
     </spell>
   <spell>
       <name>Call Lightning</name>
-    <classes>Druid, Cleric (Tempest), Druid (Land)</classes>
+    <classes>Druid, Cleric (Tempest), Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -906,7 +906,7 @@ Source: Player's Handbook p. 222</text>
     </spell>
   <spell>
       <name>Cloudkill</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -989,7 +989,7 @@ Source: Player's Handbook p. 223</text>
     </spell>
   <spell>
       <name>Commune with Nature</name>
-    <classes>Druid, Ranger, Druid (Land), Druid (Land), Paladin (Ancients), Barbarian (Totem Warrior)</classes>
+    <classes>Druid, Ranger, Druid (Land), Druid (Land), Paladin (Ancients), Barbarian (Totem Warrior), Druid (Land)</classes>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1051,7 +1051,7 @@ Source: Player's Handbook p. 224</text>
     </spell>
   <spell>
       <name>Cone of Cold</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -1148,7 +1148,7 @@ Source: Player's Handbook p. 225</text>
     </spell>
   <spell>
       <name>Conjure Elemental</name>
-    <classes>Druid, Wizard, Druid (Land)</classes>
+    <classes>Druid, Wizard, Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -1306,7 +1306,7 @@ Source: Player's Handbook p. 227</text>
     </spell>
   <spell>
       <name>Control Water</name>
-    <classes>Cleric, Druid, Wizard, Cleric (Tempest), Druid (Land)</classes>
+    <classes>Cleric, Druid, Wizard, Cleric (Tempest), Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -1398,7 +1398,7 @@ Source: Player's Handbook p. 228</text>
     </spell>
   <spell>
       <name>Create Food and Water</name>
-    <classes>Cleric, Paladin, Druid (Land)</classes>
+    <classes>Cleric, Paladin, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -1536,7 +1536,7 @@ Source: Player's Handbook p. 230</text>
     </spell>
   <spell>
       <name>Darkness</name>
-    <classes>Sorcerer, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -1564,7 +1564,7 @@ Source: Player's Handbook p. 230</text>
     </spell>
   <spell>
       <name>Daylight</name>
-    <classes>Cleric, Druid, Paladin, Ranger, Sorcerer, Cleric (Light), Druid (Land)</classes>
+    <classes>Cleric, Druid, Paladin, Ranger, Sorcerer, Cleric (Light), Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -1811,7 +1811,7 @@ Source: Player's Handbook p. 234</text>
     </spell>
   <spell>
       <name>Divination</name>
-    <classes>Cleric, Druid (Land), Druid (Land)</classes>
+    <classes>Cleric, Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1928,7 +1928,7 @@ Source: Player's Handbook p. 235</text>
     </spell>
   <spell>
       <name>Dream</name>
-    <classes>Bard, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Bard, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -2587,7 +2587,7 @@ Source: Player's Handbook p. 244</text>
     </spell>
   <spell>
       <name>Freedom of Movement</name>
-    <classes>Bard, Cleric, Druid, Ranger, Cleric (War), Druid (Land), Druid (Land), Druid (Land), Druid (Land), Druid (Land), Paladin (Devotion)</classes>
+    <classes>Bard, Cleric, Druid, Ranger, Cleric (War), Druid (Land), Druid (Land), Druid (Land), Druid (Land), Druid (Land), Paladin (Devotion), Druid (Land)</classes>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -2614,7 +2614,7 @@ Source: Player's Handbook p. 244</text>
     </spell>
   <spell>
       <name>Gaseous Form</name>
-    <classes>Sorcerer, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -2792,7 +2792,7 @@ Source: Player's Handbook p. 246</text>
     </spell>
   <spell>
       <name>Greater Invisibility</name>
-    <classes>Bard, Sorcerer, Wizard, Druid (Land), Warlock (Archfey)</classes>
+    <classes>Bard, Sorcerer, Wizard, Druid (Land), Warlock (Archfey), Druid (Land)</classes>
     <level>4</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -2956,7 +2956,7 @@ Source: Player's Handbook p. 249</text>
     </spell>
   <spell>
       <name>Hallucinatory Terrain</name>
-    <classes>Bard, Druid, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Bard, Druid, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -2984,7 +2984,7 @@ Source: Player's Handbook p. 249</text>
     </spell>
   <spell>
       <name>Haste</name>
-    <classes>Sorcerer, Wizard, Druid (Land), Paladin (Vengeance)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Paladin (Vengeance), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -3148,7 +3148,7 @@ Source: Player's Handbook p. 251</text>
     </spell>
   <spell>
       <name>Hold Person</name>
-    <classes>Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Druid (Land), Paladin (Vengeance)</classes>
+    <classes>Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Druid (Land), Paladin (Vengeance), Druid (Land)</classes>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -3221,7 +3221,7 @@ Source: Player's Handbook p. 252</text>
     </spell>
   <spell>
       <name>Ice Storm</name>
-    <classes>Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Land), Paladin (Ancients)</classes>
+    <classes>Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Land), Paladin (Ancients), Druid (Land)</classes>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -3341,7 +3341,7 @@ Source: Player's Handbook p. 253</text>
     </spell>
   <spell>
       <name>Insect Plague</name>
-    <classes>Cleric, Druid, Sorcerer, Cleric (Nature), Cleric (Tempest), Druid (Land), Druid (Land), Druid (Land), Druid (Land)</classes>
+    <classes>Cleric, Druid, Sorcerer, Cleric (Nature), Cleric (Tempest), Druid (Land), Druid (Land), Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -3362,7 +3362,7 @@ Source: Player's Handbook p. 254</text>
     </spell>
   <spell>
       <name>Invisibility</name>
-    <classes>Bard, Sorcerer, Warlock, Wizard, Druid (Land)</classes>
+    <classes>Bard, Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -3478,7 +3478,7 @@ Source: Player's Handbook p. 255</text>
     </spell>
   <spell>
       <name>Light</name>
-    <classes>Bard, Cleric, Sorcerer, Wizard</classes>
+    <classes>Bard, Cleric, Sorcerer, Wizard, Cleric (Light)</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -3518,7 +3518,7 @@ Source: Player's Handbook p. 255</text>
     </spell>
   <spell>
       <name>Lightning Bolt</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -3554,7 +3554,7 @@ Source: Player's Handbook p. 256</text>
     </spell>
   <spell>
       <name>Locate Creature</name>
-    <classes>Bard, Cleric, Druid, Paladin, Ranger, Wizard, Druid (Land)</classes>
+    <classes>Bard, Cleric, Druid, Paladin, Ranger, Wizard, Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -3612,7 +3612,7 @@ Source: Player's Handbook p. 256</text>
     </spell>
   <spell>
       <name>Mage Hand</name>
-    <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+    <classes>Bard, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster)</classes>
     <level>0</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -3817,7 +3817,7 @@ Source: Player's Handbook p. 258</text>
     </spell>
   <spell>
       <name>Meld into Stone</name>
-    <classes>Cleric, Druid, Druid (Land)</classes>
+    <classes>Cleric, Druid, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -3833,7 +3833,7 @@ Source: Player's Handbook p. 259</text>
     </spell>
   <spell>
       <name>Melf's Acid Arrow</name>
-    <classes>Wizard, Druid (Land)</classes>
+    <classes>Wizard, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -3914,7 +3914,7 @@ Source: Player's Handbook p. 259</text>
     </spell>
   <spell>
       <name>Minor Illusion</name>
-    <classes>Bard, Sorcerer, Warlock, Wizard</classes>
+    <classes>Bard, Sorcerer, Warlock, Wizard, Wizard (Illusion)</classes>
     <level>0</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -3946,7 +3946,7 @@ Source: Player's Handbook p. 260</text>
     </spell>
   <spell>
       <name>Mirror Image</name>
-    <classes>Sorcerer, Warlock, Wizard, Cleric (Trickery), Druid (Land)</classes>
+    <classes>Sorcerer, Warlock, Wizard, Cleric (Trickery), Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -3978,7 +3978,7 @@ Source: Player's Handbook p. 260</text>
     </spell>
   <spell>
       <name>Misty Step</name>
-    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Paladin (Ancients), Paladin (Vengeance)</classes>
+    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Paladin (Ancients), Paladin (Vengeance), Druid (Land)</classes>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -4202,7 +4202,7 @@ Source: Player's Handbook p. 264</text>
     </spell>
   <spell>
       <name>Pass without Trace</name>
-    <classes>Druid, Ranger, Cleric (Trickery), Druid (Land)</classes>
+    <classes>Druid, Ranger, Cleric (Trickery), Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -4215,7 +4215,7 @@ Source: Player's Handbook p. 264</text>
     </spell>
   <spell>
       <name>Passwall</name>
-    <classes>Wizard, Druid (Land)</classes>
+    <classes>Wizard, Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -4331,7 +4331,7 @@ Source: Player's Handbook p. 266</text>
     </spell>
   <spell>
       <name>Plant Growth</name>
-    <classes>Bard, Druid, Ranger, Cleric (Nature), Druid (Land), Paladin (Ancients), Warlock (Archfey)</classes>
+    <classes>Bard, Druid, Ranger, Cleric (Nature), Druid (Land), Paladin (Ancients), Warlock (Archfey), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -4563,7 +4563,7 @@ Source: Player's Handbook p. 270</text>
     </spell>
   <spell>
       <name>Protection from Energy</name>
-    <classes>Cleric, Druid, Ranger, Sorcerer, Wizard, Druid (Land), Paladin (Ancients), Paladin (Vengeance)</classes>
+    <classes>Cleric, Druid, Ranger, Sorcerer, Wizard, Druid (Land), Paladin (Ancients), Paladin (Vengeance), Druid (Land)</classes>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -4885,7 +4885,7 @@ Source: Player's Handbook p. 273</text>
     </spell>
   <spell>
       <name>Scrying</name>
-    <classes>Bard, Cleric, Druid, Warlock, Wizard, Cleric (Knowledge), Cleric (Light), Druid (Land), Druid (Land), Paladin (Vengeance)</classes>
+    <classes>Bard, Cleric, Druid, Warlock, Wizard, Cleric (Knowledge), Cleric (Light), Druid (Land), Druid (Land), Paladin (Vengeance), Druid (Land)</classes>
     <level>5</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -5092,7 +5092,7 @@ Source: Player's Handbook p. 275</text>
     </spell>
   <spell>
       <name>Silence</name>
-    <classes>Bard, Cleric, Ranger, Druid (Land)</classes>
+    <classes>Bard, Cleric, Ranger, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -5162,7 +5162,7 @@ Source: Player's Handbook p. 276</text>
     </spell>
   <spell>
       <name>Sleet Storm</name>
-    <classes>Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Land)</classes>
+    <classes>Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -5177,7 +5177,7 @@ Source: Player's Handbook p. 276</text>
     </spell>
   <spell>
       <name>Slow</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -5250,7 +5250,7 @@ Source: Player's Handbook p. 277</text>
     </spell>
   <spell>
       <name>Spider Climb</name>
-    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land), Druid (Land)</classes>
+    <classes>Sorcerer, Warlock, Wizard, Druid (Land), Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -5263,7 +5263,7 @@ Source: Player's Handbook p. 277</text>
     </spell>
   <spell>
       <name>Spike Growth</name>
-    <classes>Druid, Ranger, Cleric (Nature), Druid (Land), Druid (Land)</classes>
+    <classes>Druid, Ranger, Cleric (Nature), Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -5334,7 +5334,7 @@ Source: Player's Handbook p. 278</text>
     </spell>
   <spell>
       <name>Stinking Cloud</name>
-    <classes>Bard, Sorcerer, Wizard, Druid (Land), Druid (Land), Warlock (Fiend)</classes>
+    <classes>Bard, Sorcerer, Wizard, Druid (Land), Druid (Land), Warlock (Fiend), Druid (Land)</classes>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -5349,7 +5349,7 @@ Source: Player's Handbook p. 278</text>
     </spell>
   <spell>
       <name>Stone Shape</name>
-    <classes>Cleric, Druid, Wizard, Druid (Land), Druid (Land)</classes>
+    <classes>Cleric, Druid, Wizard, Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>4</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -5918,7 +5918,7 @@ Source: Player's Handbook p. 285</text>
     </spell>
   <spell>
       <name>Wall of Stone</name>
-    <classes>Druid, Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
+    <classes>Druid, Sorcerer, Wizard, Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -5971,7 +5971,7 @@ Source: Player's Handbook p. 287</text>
     </spell>
   <spell>
       <name>Water Breathing</name>
-    <classes>Druid, Ranger, Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Druid, Ranger, Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -5984,7 +5984,7 @@ Source: Player's Handbook p. 287</text>
     </spell>
   <spell>
       <name>Water Walk</name>
-    <classes>Cleric, Druid, Ranger, Sorcerer, Druid (Land), Druid (Land)</classes>
+    <classes>Cleric, Druid, Ranger, Sorcerer, Druid (Land), Druid (Land), Druid (Land)</classes>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -5998,7 +5998,7 @@ Source: Player's Handbook p. 287</text>
     </spell>
   <spell>
       <name>Web</name>
-    <classes>Sorcerer, Wizard, Druid (Land)</classes>
+    <classes>Sorcerer, Wizard, Druid (Land), Druid (Land)</classes>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>

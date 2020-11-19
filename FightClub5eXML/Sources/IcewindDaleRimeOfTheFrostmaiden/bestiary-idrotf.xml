@@ -1030,7 +1030,7 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 246</description>
       </trait>
     <spells>druidcraft, guidance, pass without trace, resistance</spells>
     <description>
-Source: Icewind Dale: Rime of the Frostmaiden</description>
+Source: Icewind Dale: Rime of the Frostmaiden p. 282</description>
     <environment></environment>
     </monster>
   <monster>
@@ -1314,7 +1314,7 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 270</description>
       </trait>
     <spells>detect thoughts, levitate, dominate monster, plane shift</spells>
     <description>
-Source: Icewind Dale: Rime of the Frostmaiden</description>
+Source: Icewind Dale: Rime of the Frostmaiden p. 183</description>
     <environment>underdark</environment>
     </monster>
   <monster>
@@ -1610,22 +1610,10 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 312</description>
     <trait>
         <name>Vampire Weaknesses</name>
       <text>The vampire has the following flaws:</text>
-      </trait>
-    <trait>
-        <name>Enraged by Celestial</name>
-      <text>If it hears words of Celestial spoken, the vampire must try to attack the source of those spoken words on its next turn. If these words come from multiple sources and from opposite directions, the vampire is restrained. Otherwise, it moves to attack what it perceives to be the closest source.</text>
-      </trait>
-    <trait>
-        <name>Repulsed by Perfume</name>
-      <text>The vampire has disadvantage on melee attack rolls made against any creature wearing perfume or carrying an open container of it.</text>
-      </trait>
-    <trait>
-        <name>Stake to the Heart</name>
-      <text>If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.</text>
-      </trait>
-    <trait>
-        <name>Sunlight Hypersensitivity</name>
-      <text>The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</text>
+      <text>Enraged by Celestial. If it hears words of Celestial spoken, the vampire must try to attack the source of those spoken words on its next turn. If these words come from multiple sources and from opposite directions, the vampire is restrained. Otherwise, it moves to attack what it perceives to be the closest source.</text>
+      <text>Repulsed by Perfume. The vampire has disadvantage on melee attack rolls made against any creature wearing perfume or carrying an open container of it.</text>
+      <text>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.</text>
+      <text>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</text>
       </trait>
     <action>
         <name>Multiattack (Vampire Form Only)</name>
@@ -2730,22 +2718,10 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 295</description>
     <trait>
         <name>Vampire Weaknesses</name>
       <text>The vampire has the following flaws:</text>
-      </trait>
-    <trait>
-        <name>Forbiddance</name>
-      <text>The vampire can't enter a residence without an invitation from one of the occupants.</text>
-      </trait>
-    <trait>
-        <name>Harmed by Running Water</name>
-      <text>The vampire takes 20 acid damage when it starts its turn in running water.</text>
-      </trait>
-    <trait>
-        <name>Stake to the Heart</name>
-      <text>The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.</text>
-      </trait>
-    <trait>
-        <name>Sunlight Hypersensitivity</name>
-      <text>The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</text>
+      <text>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.</text>
+      <text>Harmed by Running Water. The vampire takes 20 acid damage when it starts its turn in running water.</text>
+      <text>Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.</text>
+      <text>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</text>
       </trait>
     <action>
         <name>Bite</name>
@@ -3390,7 +3366,7 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 152</description>
       <attack>Hooves|+5|2d4+3</attack>
       </action>
     <description>
-Source: Icewind Dale: Rime of the Frostmaiden</description>
+Source: Icewind Dale: Rime of the Frostmaiden p. 107</description>
     <environment>grassland, forest, hill</environment>
     </monster>
   <monster>
@@ -3478,8 +3454,9 @@ Source: Icewind Dale: Rime of the Frostmaiden p. 308</description>
     <trait>
         <name>Innate Spellcasting</name>
       <text>Sephek can innately cast misty step up to three times per day, requiring no components. His innate spellcasting ability is Charisma.</text>
+      <text>At will: misty step</text>
       </trait>
-    <spells></spells>
+    <spells>misty step</spells>
     <description>Sephek Kaltro is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn't appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
 Source: Icewind Dale: Rime of the Frostmaiden p. 23</description>
     <environment></environment>

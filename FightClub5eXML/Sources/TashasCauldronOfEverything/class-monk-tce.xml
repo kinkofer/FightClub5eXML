@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Monk</name>
+    <autolevel level="2">
+        <feature>
+          <name>Dedicated Weapon</name>
+        <text>2nd-level monk optional class features</text>
+        <text>You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.</text>
+        <text>The chosen weapon must meet these criteria:</text>
+        <text>• The weapon must be a simple or martial weapon.</text>
+        <text>• You must be proficient with it.</text>
+        <text>• It must lack the heavy and special properties.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of Mercy</name>
+        <text>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.</text>
+        <text>Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies.</text>
+        <text>The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy: Hand of Harm</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die + your Wisdom modifier. You can use this feature only once per turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy: Hand of Healing</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.</text>
+        <text>When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending a ki point for the healing.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of Mercy: Implements of Mercy</name>
+        <text>3rd-level Way of Mercy feature</text>
+        <text>You gain proficiency in the Insight and Medicine skills, and you gain proficiency with the herbalism kit.</text>
+        <text>You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.</text>
+        <text></text>
+        <text>Merciful Mask</text>
+        <text>d6 | Mask Appearance</text>
+        <text>1 | Raven</text>
+        <text>2 | Blank and white</text>
+        <text>3 | Crying visage</text>
+        <text>4 | Laughing visage</text>
+        <text>5 | Skull</text>
+        <text>6 | Butterfly</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Monastic Tradition: Way of the Astral Self</name>
+        <text>A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their rue selves in service to the mighty.</text>
+        <name>Way of the Astral Self: Forms of Your Astral Self</name>
+        <text>   The astral self is a translucent embodiment of the monk's soul. As a result, an astral self can reflect aspects of a monk's background, ideals, flaws, and bonds, and an astral self doesn't necessarily look anything like the monk. For example, the astral self of a lanky human might be reminiscent of a minotaur-the strength of which the monk feels within. Similarly, an orc monk might manifest gossamer arms and a delicate visage, representing the gentle beauty of the orc's soul. Each astral self is unique, and some of the monks of this monastic tradition are known more for the appearance of their astral self than for their physical appearance.</text>
+        <text>   When choosing this path, consider the quirks that define your monk. Are you obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Astral Self: Arms of the Astral Self</name>
+        <text>3rd-level Way of the Astral Self feature</text>
+        <text>Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.</text>
+        <text>For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are incapacitated or die.</text>
+        <text>While the spectral arms are present, you gain the following benefits:</text>
+        <text>• You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.</text>
+        <text>• You can use the spectral arms to make unarmed strikes.</text>
+        <text>• When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.</text>
+        <text>• The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Ki-Fueled Attack</name>
+        <text>3rd-level monk optional class features</text>
+        <text>If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Quickened Healing</name>
+        <text>4th-level monk optional class features</text>
+        <text>As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Focused Aim</name>
+        <text>5th-level monk optional class features</text>
+        <text>When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of Mercy: Physician's Touch</name>
+        <text>6th-level Way of Mercy feature</text>
+        <text>You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.</text>
+        <text>When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned, or stunned.</text>
+        <text>When you use Hand of Harm on a creature, you can subject that creature to the poisoned condition until the end of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Way of the Astral Self: Visage of the Astral Self</name>
+        <text>6th-level Way of the Astral Self feature</text>
+        <text>You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die.</text>
+        <text>The spectral visage covers your face like a helmet or mask. You determine its appearance.</text>
+        <text>While the spectral visage is present, you gain the following benefits.</text>
+        <name>Way of the Astral Self: Astral Sight</name>
+        <text>   You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</text>
+        <name>Way of the Astral Self: Wisdom of the Spirit</name>
+        <text>   You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.</text>
+        <name>Way of the Astral Self: Word of the Spirit</name>
+        <text>   When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of Mercy: Flurry of Healing and Harm</name>
+        <text>11th-level Way of Mercy feature</text>
+        <text>You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can now replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing.</text>
+        <text>In addition, when you make an unarmed strike with Flurry of Blows, you can use Hand of Harm with that strike without spending the ki point for Hand of Harm. You can still use Hand of Harm only once per turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Way of the Astral Self: Body of the Astral Self</name>
+        <text>11th-level Way of the Astral Self feature</text>
+        <text>When you have both your astral arms and visage summoned, you can cause the body of your astral self to appear (no action required). This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance.</text>
+        <text>While the spectral body is present, you gain the following benefits.</text>
+        <name>Way of the Astral Self: Deflect Energy</name>
+        <text>   When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier (minimum reduction of 1).</text>
+        <name>Way of the Astral Self: Empowered Arms</name>
+        <text>   Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of Mercy: Hand of Ultimate Mercy</name>
+        <text>17th-level Way of Mercy feature</text>
+        <text>Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Way of the Astral Self: Awakened Astral Self</name>
+        <text>17th-level Way of the Astral Self feature</text>
+        <text>Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.</text>
+        <text>While your astral self is awakened, you gain the following benefits.</text>
+        <name>Way of the Astral Self: Armor of the Spirit</name>
+        <text>   You gain a +2 bonus to Armor Class.</text>
+        <name>Way of the Astral Self: Astral Barrage</name>
+        <text>   Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

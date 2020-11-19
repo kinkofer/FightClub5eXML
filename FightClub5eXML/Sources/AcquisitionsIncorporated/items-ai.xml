@@ -9,6 +9,16 @@
     <property></property>
     <text>Map of Shortcuts: At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your cartographer's map case can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom (Perception) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut . Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
 Map of the Moment: Starting at rank 3, you can use an action to make a DC 15 Wisdom (Perception) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
+Possible Map Mission Landmarks
+d8 | Landmark
+1 | The Ancient Sarcophagus of Gerald Smith
+2 | A tree labeled "This tree"
+3 | "The Last Resting Place of My Rich Brother that is Also a Bear Cave"
+4 | A range of peaks known as the Slightly Wobbly Spires
+5 | An ever-flowing, nonmagical spigot of pure, clear water in the middle of nowhere
+6 | A cave filled with screaming bioluminescent worms
+7 | The most haunted forest for ten miles in any direction
+8 | A huge pile of rocks with no other rocks within sight
 Source: Acquisitions Incorporated p. 20</text>
     </item>
   <item>
@@ -151,6 +161,13 @@ Source: Acquisitions Incorporated p. 30</text>
     <property></property>
     <text>Head office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
 Read the Kill: Also at rank 1, your occultant abacus not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a d10. Once within the next hour, that character can add the d10 to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
+d6 | Reading
+1 | Using a tiny bellows to pump one last breath into a corpse.
+2 | Reading the entrails with special reading-the-entrails glasses.
+3 | Burning a small piece of the body and looking for shapes in the smoke.
+4 | A cautious, reasoned, professional guesstimate.
+5 | Careful measurements. The distance between nostrils. The difference between the index finger and the middle finger. The elasticity of the ear lobe.
+6 | You take a long, careful look, and then decide based on which fellow franchisee has been nice to you lately.
 Eldritch Occultant: Starting at rank 2, your occultant abacus becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the augury spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the occultant abacus can't be used again until the next dawn.
 Bring Out Your Dead: Also at rank 2, you regain the use of your Read the Kill feature after you finish a short or long rest.
 Bead of Instant Karma: At rank 3, one of the beads on your occultant abacus channels the power of instant karma, turning the occultant abacus into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your occultant abacus at the next dawn.

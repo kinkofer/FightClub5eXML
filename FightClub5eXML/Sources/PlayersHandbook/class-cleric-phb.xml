@@ -528,15 +528,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Knowledge Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 59</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Knowledge Domain: Potent Spellcasting</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text></text>
@@ -545,26 +536,8 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Life Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 60</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Life Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 60</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
-          <name>Light Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
         <text></text>
         <text>Source: Player's Handbook p. 60</text>
         </feature>
@@ -579,28 +552,10 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Nature Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 61</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Nature Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
         <text>Source: Player's Handbook p. 61</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
-          <name>Tempest Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -613,28 +568,10 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Trickery Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 62</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Trickery Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
         <text>Source: Player's Handbook p. 62</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
-          <name>War Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="8">

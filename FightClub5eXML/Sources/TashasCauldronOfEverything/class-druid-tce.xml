@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Druid</name>
+    <autolevel level="2">
+        <feature>
+          <name>Wild Companion</name>
+        <text>2nd-level druid optional class features</text>
+        <text>You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components.</text>
+        <text>When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Druid Circle: Circle of Spores</name>
+        <text>Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.</text>
+        <text>These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.</text>
+        <text>Druids of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Spores: Circle Spells</name>
+        <text>Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the chill touch cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.</text>
+        <text>Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</text>
+        <text></text>
+        <text>Circle of Spores Spells</text>
+        <text>Druid Level | Circle Spells</text>
+        <text>3rd | blindness/deafness, gentle repose</text>
+        <text>5th | animate dead, gaseous form</text>
+        <text>7th | blight, confusion</text>
+        <text>9th | cloudkill, contagion</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Spores: Halo of Spores</name>
+        <text>Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Spores: Symbiotic Entity</name>
+        <text>At 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</text>
+        <text>• When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</text>
+        <text>• Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.</text>
+        <text>These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Druid Circle: Circle of Stars</name>
+        <text>The Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.</text>
+        <text>Many druids of this circle keep records of the constellations and the stars' effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples-any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Stars: Star Map</name>
+        <text>2nd-level Circle of the Stars feature</text>
+        <text>You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.</text>
+        <text></text>
+        <text>Star Map</text>
+        <text>d6 | Map Form</text>
+        <text>1 | A scroll covered with depictions of constellations</text>
+        <text>2 | A stone tablet with fine holes drilled through it</text>
+        <text>3 | A speckled owlbear hide, tooled with raised marks</text>
+        <text>4 | A collection of maps bound in an ebony cover</text>
+        <text>5 | A crystal that projects starry patterns when placed before a light</text>
+        <text>6 | Glass disks that depict constellations</text>
+        <text>While holding this map, you have these benefits:</text>
+        <text>• You know the guidance cantrip.</text>
+        <text>• You have the guiding bolt spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.</text>
+        <text>• You can cast guiding bolt without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text>If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Stars: Starry Form</name>
+        <text>2nd-level Circle of the Stars feature</text>
+        <text>As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast.</text>
+        <text>While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), are incapacitated, die, or use this feature again.</text>
+        <text>Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
+        <name>Circle of Stars: Archer</name>
+        <text>   A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier.</text>
+        <name>Circle of Stars: Chalice</name>
+        <text>   A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier.</text>
+        <name>Circle of Stars: Dragon</name>
+        <text>   A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Druid Circle: Circle of Wildfire</name>
+        <text>Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Wildfire: Circle Spells</name>
+        <text>2nd-level Circle of Wildfire feature</text>
+        <text>You have formed a bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to some spells when you reach certain levels in this class, as shown on the Circle of Wildfire Spells table.</text>
+        <text>Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</text>
+        <text></text>
+        <text>Circle of Wildfire Spells</text>
+        <text>Druid Level | Circle Spells</text>
+        <text>2nd | burning hands, cure wounds</text>
+        <text>3rd | flaming sphere, scorching ray</text>
+        <text>5th | plant growth, revivify</text>
+        <text>7th | aura of life, fire shield</text>
+        <text>9th | flame strike, mass cure wounds</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Circle of Wildfire: Summon Wildfire Spirit</name>
+        <text>2nd-level Circle of Wildfire feature</text>
+        <text>You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your wildfire spirit, rather than assuming a beast form.</text>
+        <text>The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d6 fire damage.</text>
+        <text>The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the Wildfire Spirit stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.</text>
+        <text>In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the spirit can take any action of its choice, not just Dodge.</text>
+        <text>The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Cantrip Versatility</name>
+        <text>4th-level druid optional class features</text>
+        <text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of Spores: Fungal Infestation</name>
+        <text>At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.</text>
+        <text>In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of Stars: Cosmic Omen</name>
+        <text>6th-level Circle of the Stars feature</text>
+        <text>Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:</text>
+        <text></text>
+        <text>   Weal (even).</text>
+        <text>• Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.</text>
+        <text>   Woe (odd).</text>
+        <text>• Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.</text>
+        <text></text>
+        <text>You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Circle of Wildfire: Enhanced Bond</name>
+        <text>6th-level Circle of Wildfire feature</text>
+        <text>The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.</text>
+        <text>In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of Spores: Spreading Spores</name>
+        <text>At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.</text>
+        <text>Whenever a creature moves into the cube or starts its turn there, that creature takes your Halo of Spores damage, unless the creature succeeds on a Constitution saving throw against your spell save DC. A creature can take this damage no more than once per turn.</text>
+        <text>While the cube of spores persists, you can't use your Halo of Spores reaction.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of Stars: Twinkling Constellations</name>
+        <text>10th-level Circle of the Stars feature</text>
+        <text>The constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a flying speed of 20 feet and can hover.</text>
+        <text>Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Circle of Wildfire: Cauterizing Flames</name>
+        <text>10th-level Circle of Wildfire feature</text>
+        <text>You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals 2d10 + your Wisdom modifier.</text>
+        <text>You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of Spores: Fungal Body</name>
+        <text>At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of Stars: Full of Stars</name>
+        <text>14th-level Circle of the Stars feature</text>
+        <text>While in your Starry Form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Circle of Wildfire: Blazing Revival</name>
+        <text>14th-level Circle of Wildfire feature</text>
+        <text>The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

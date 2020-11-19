@@ -66,7 +66,7 @@
     </spell>
   <spell>
       <name>Command</name>
-    <classes>Paladin (Conquest)</classes>
+    <classes>Paladin (Conquest), Bard (Glamour)</classes>
     </spell>
   <spell>
       <name>Cone of Cold</name>
@@ -83,6 +83,10 @@
   <spell>
       <name>Cure Wounds</name>
     <classes>Warlock (Celestial), Sorcerer (Divine Soul)</classes>
+    </spell>
+  <spell>
+      <name>Darkness</name>
+    <classes>Sorcerer (Shadow)</classes>
     </spell>
   <spell>
       <name>Daylight</name>
@@ -162,7 +166,7 @@
     </spell>
   <spell>
       <name>Hold Monster</name>
-    <classes>Paladin (Redemption)</classes>
+    <classes>Paladin (Redemption), Ranger (Monster Slayer)</classes>
     </spell>
   <spell>
       <name>Hold Person</name>
@@ -263,6 +267,10 @@
   <spell>
       <name>Sleep</name>
     <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Spare the Dying</name>
+    <classes>Cleric (Grave)</classes>
     </spell>
   <spell>
       <name>Spiritual Weapon</name>

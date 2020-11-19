@@ -56,6 +56,19 @@
       </autolevel>
     <autolevel level="1">
         <feature>
+          <name>Favored Foe</name>
+        <text>1st-level ranger optional class features, which replaces the Favored Enemy feature and works with the Foe Slayer feature</text>
+        <text>Note that this feature is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger feature.</text>
+        <text>When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).</text>
+        <text>The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.</text>
+        <text>You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text>This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
           <name>Natural Explorer</name>
         <text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</text>
         <text>While traveling for an hour or more in your favored terrain, you gain the following benefits:</text>
@@ -100,6 +113,36 @@
         <text>Source: Unearthed Arcana: Class Feature Variants p. 7</text>
         </feature>
       </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Deft Explorer</name>
+        <text>1st-level ranger optional class features, which replaces the Natural Explorer feature</text>
+        <text>Note that this feature is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger feature.</text>
+        <text>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      <feature optional="YES">
+          <name>Deft Explorer: Canny</name>
+        <text>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      <feature optional="YES">
+          <name>Deft Explorer: Roving</name>
+        <text>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.</text>
+        <text>You can also speak, read, and write two additional languages of your choice.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      <feature optional="YES">
+          <name>Deft Explorer: Tireless</name>
+        <text>As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
     <autolevel level="2">
         <feature>
           <name>Fighting Style</name>
@@ -111,75 +154,94 @@
           <name>Fighting Style: Archery</name>
         <text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Close Quarters Shooter</name>
         <text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Dueling</name>
         <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Mariner</name>
         <text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Waterborne Adventures p. 3</text>
+        <text>Source: Unearthed Arcana: Waterborne Adventures p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Tunnel Fighter</name>
         <text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 72</text>
+        <text>Source: Player's Handbook p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Blind Fighting</name>
         <text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Interception</name>
         <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Thrown Weapon Fighting</name>
         <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
         <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Class Feature Variants p. 13</text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Unarmed Fighting</name>
         <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
         <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Class Feature Variants p. 13</text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 5</text>
         </feature>
       <feature optional="YES">
           <name>Fighting Style: Druidic Warrior</name>
         <text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
         <text></text>
-        <text>Source: Unearthed Arcana: Class Feature Variants p. 7</text>
+        <text>Source: Unearthed Arcana: Class Feature Variants p. 5</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Blind Fighting</name>
+        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 5</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Druidic Warrior</name>
+        <text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 5</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Thrown Weapon Fighting</name>
+        <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
+        <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 5</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -229,18 +291,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Beast Master: Ranger Companion Options</name>
-        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
-        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
-        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
-        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
-        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Beast Master: Ranger's Companion</name>
         <text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</text>
         <text>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
@@ -255,18 +305,6 @@
         <feature optional="YES">
           <name>Ranger Archetype: Beast Master</name>
         <text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 93</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Beast Master: Ranger Companion Options</name>
-        <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
-        <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
-        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
-        <text>The primal beast is a special creature that a Beast Master can choose for the Ranger's Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
-        <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
         <text></text>
         <text>Source: Player's Handbook p. 93</text>
         </feature>
@@ -1449,6 +1487,320 @@
         </feature>
       </autolevel>
     <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Fey Wanderer</name>
+        <text>A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.</text>
+        <text>The extra damage increases to 1d6 when you reach 11th level in this class.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Wanderer Magic</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Fey Wanderer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | charm person</text>
+        <text>5th | misty step</text>
+        <text>9th | dispel magic</text>
+        <text>13th | dimension door</text>
+        <text>17th | mislead</text>
+        <text>You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Otherworldly Glamour</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Fey Wanderer</name>
+        <text>A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.</text>
+        <text>The extra damage increases to 1d6 when you reach 11th level in this class.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Wanderer Magic</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Fey Wanderer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | charm person</text>
+        <text>5th | misty step</text>
+        <text>9th | dispel magic</text>
+        <text>13th | dimension door</text>
+        <text>17th | mislead</text>
+        <text>You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Otherworldly Glamour</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Fey Wanderer</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Dreadful Strikes</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.</text>
+        <text>The extra damage increases to 1d6 when you reach 11th level in this class.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Wanderer Magic</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Fey Wanderer Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | charm person</text>
+        <text>5th | misty step</text>
+        <text>9th | dispel magic</text>
+        <text>13th | dimension door</text>
+        <text>17th | mislead</text>
+        <text>You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
+        <text></text>
+        <text>Feywild Gifts</text>
+        <text>d6 | Gift</text>
+        <text>1 | Illusory butterflies flutter around you while you take a short or long rest.</text>
+        <text>2 | Fresh, seasonal flowers sprout from your hair each dawn.</text>
+        <text>3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.</text>
+        <text>4 | Your shadow dances while no one is looking directly at it.</text>
+        <text>5 | Horns or antlers sprout from your head.</text>
+        <text>6 | Your skin and hair change color to match the season at each dawn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Fey Wanderer: Otherworldly Glamour</name>
+        <text>3rd-level Fey Wanderer feature</text>
+        <text>Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).</text>
+        <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Swarmkeeper</name>
+        <text>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Gathered Swarm</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. Until you die, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.</text>
+        <text></text>
+        <text>Swarm Appearance</text>
+        <text>d4 | Appearance</text>
+        <text>1 | Swarming insects</text>
+        <text>2 | Miniature twig blights</text>
+        <text>3 | Fluttering birds</text>
+        <text>4 | Playful pixies</text>
+        <text>Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:</text>
+        <text>• The attack's target takes 1d6 piercing damage from the swarm.</text>
+        <text>• The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.</text>
+        <text>• You are moved by the swarm 5 feet horizontally in a direction of your choice.</text>
+        <name>Swarmkeeper: It's Your Swarm</name>
+        <text>   A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the arcane eye spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.</text>
+        <text>   Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarmkeeper Magic</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>You learn the mage hand cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.</text>
+        <text>You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Swarmkeeper Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | faerie fire</text>
+        <text>5th | web</text>
+        <text>9th | gaseous form</text>
+        <text>13th | arcane eye</text>
+        <text>17th | insect plague</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Swarmkeeper</name>
+        <text>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Gathered Swarm</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. Until you die, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.</text>
+        <text></text>
+        <text>Swarm Appearance</text>
+        <text>d4 | Appearance</text>
+        <text>1 | Swarming insects</text>
+        <text>2 | Miniature twig blights</text>
+        <text>3 | Fluttering birds</text>
+        <text>4 | Playful pixies</text>
+        <text>Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:</text>
+        <text>• The attack's target takes 1d6 piercing damage from the swarm.</text>
+        <text>• The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.</text>
+        <text>• You are moved by the swarm 5 feet horizontally in a direction of your choice.</text>
+        <name>Swarmkeeper: It's Your Swarm</name>
+        <text>   A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the arcane eye spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.</text>
+        <text>   Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarmkeeper Magic</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>You learn the mage hand cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.</text>
+        <text>You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Swarmkeeper Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | faerie fire</text>
+        <text>5th | web</text>
+        <text>9th | gaseous form</text>
+        <text>13th | arcane eye</text>
+        <text>17th | insect plague</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Ranger Archetype: Swarmkeeper</name>
+        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
+        <text>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Gathered Swarm</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. Until you die, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.</text>
+        <text></text>
+        <text>Swarm Appearance</text>
+        <text>d4 | Appearance</text>
+        <text>1 | Swarming insects</text>
+        <text>2 | Miniature twig blights</text>
+        <text>3 | Fluttering birds</text>
+        <text>4 | Playful pixies</text>
+        <text>Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:</text>
+        <text>• The attack's target takes 1d6 piercing damage from the swarm.</text>
+        <text>• The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.</text>
+        <text>• You are moved by the swarm 5 feet horizontally in a direction of your choice.</text>
+        <name>Swarmkeeper: It's Your Swarm</name>
+        <text>   A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the arcane eye spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.</text>
+        <text>   Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarmkeeper Magic</name>
+        <text>3rd-level Swarmkeeper feature</text>
+        <text>You learn the mage hand cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.</text>
+        <text>You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Swarmkeeper Spells</text>
+        <text>Ranger Level | Spells</text>
+        <text>3rd | faerie fire</text>
+        <text>5th | web</text>
+        <text>9th | gaseous form</text>
+        <text>13th | arcane eye</text>
+        <text>17th | insect plague</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
         <feature>
           <name>Primeval Awareness</name>
         <text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For the next minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</text>
@@ -1478,6 +1830,25 @@
       </autolevel>
     <autolevel level="3">
         <feature>
+          <name>Primal Awareness</name>
+        <text>3rd-level ranger optional class features, which replaces the Primeval Awareness feature</text>
+        <text>Note that this feature is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger feature.</text>
+        <text>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</text>
+        <text></text>
+        <text>Primal Awareness Spells</text>
+        <text>Ranger Level | Spell</text>
+        <text>3rd | speak with animals</text>
+        <text>5th | beast sense</text>
+        <text>9th | speak with plants</text>
+        <text>13th | locate creature</text>
+        <text>17th | commune with nature</text>
+        <text>You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
           <name>Poultices</name>
         <text>At 3rd level, you can create special herbal poultices that have healing power comparable to some potions. You can spend 1 hour gathering herbs and preparing herbal poultices using treated bandages to create a number of such poultices equal to your Wisdom modifier (minimum 1). You can carry a number of poultices at one time equal to your Wisdom modifier (minimum 1). The poultices you create cannot be applied by anyone but you. After 24 hours, any poultices that you have not used lose their potency.</text>
         <text>If you spend 1 minute applying one of your poultices to a wounded humanoid creature, thereby expending its use, that creature regains 1d6 hit points for every two ranger levels you have (rounded up).</text>
@@ -1503,6 +1874,16 @@
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text></text>
         <text>Source: Unearthed Arcana: Class Feature Variants p. 1</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Martial Versatility</name>
+        <text>4th-level ranger optional class features</text>
+        <text>Note that this feature is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger feature.</text>
+        <text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
         </feature>
       </autolevel>
     <autolevel level="5">
@@ -1883,6 +2264,66 @@
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
         </feature>
       </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer: Beguiling Twist</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>The magic of the Feywild guards your mind. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is charmed or frightened by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer: Beguiling Twist</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>The magic of the Feywild guards your mind. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is charmed or frightened by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Fey Wanderer: Beguiling Twist</name>
+        <text>7th-level Fey Wanderer feature</text>
+        <text>The magic of the Feywild guards your mind. You have advantage on saving throws against being charmed or frightened.</text>
+        <text>In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is charmed or frightened by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Swarmkeeper: Writhing Tide</name>
+        <text>7th-level Swarmkeeper feature</text>
+        <text>You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are incapacitated.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Swarmkeeper: Writhing Tide</name>
+        <text>7th-level Swarmkeeper feature</text>
+        <text>You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are incapacitated.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Swarmkeeper: Writhing Tide</name>
+        <text>7th-level Swarmkeeper feature</text>
+        <text>You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are incapacitated.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
     <autolevel level="8" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -1946,6 +2387,17 @@
         <text>Once you use this feature, you can't use it again until you finish a short or long rest.</text>
         <text></text>
         <text>Source: Unearthed Arcana: Class Feature Variants p. 8</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Nature's Veil</name>
+        <text>10th-level ranger optional class features, which replaces the Hide in Plain Sight feature</text>
+        <text>Note that this feature is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger feature.</text>
+        <text>You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -2321,6 +2773,72 @@
         <text>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.</text>
         <text></text>
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Reinforcements</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>The royal courts of the Feywild have blessed you with the assistance of fey beings: you know summon fey. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.</text>
+        <text>Whenever you start casting the spell, you can modify it so that it doesn't require concentration. If you do so, the spell's duration becomes 1 minute for that casting.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Reinforcements</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>The royal courts of the Feywild have blessed you with the assistance of fey beings: you know summon fey. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.</text>
+        <text>Whenever you start casting the spell, you can modify it so that it doesn't require concentration. If you do so, the spell's duration becomes 1 minute for that casting.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Fey Wanderer: Fey Reinforcements</name>
+        <text>11th-level Fey Wanderer feature</text>
+        <text>The royal courts of the Feywild have blessed you with the assistance of fey beings: you know summon fey. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.</text>
+        <text>Whenever you start casting the spell, you can modify it so that it doesn't require concentration. If you do so, the spell's duration becomes 1 minute for that casting.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Swarmkeeper: Mighty Swarm</name>
+        <text>11th-level Swarmkeeper feature</text>
+        <text>Your Gathered Swarm grows mightier in the following ways:</text>
+        <text>• The damage of Gathered Swarm increases to 1d8.</text>
+        <text>• If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature prone.</text>
+        <text>• When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Swarmkeeper: Mighty Swarm</name>
+        <text>11th-level Swarmkeeper feature</text>
+        <text>Your Gathered Swarm grows mightier in the following ways:</text>
+        <text>• The damage of Gathered Swarm increases to 1d8.</text>
+        <text>• If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature prone.</text>
+        <text>• When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <feature optional="YES">
+          <name>Swarmkeeper: Mighty Swarm</name>
+        <text>11th-level Swarmkeeper feature</text>
+        <text>Your Gathered Swarm grows mightier in the following ways:</text>
+        <text>• The damage of Gathered Swarm increases to 1d8.</text>
+        <text>• If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature prone.</text>
+        <text>• When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
         </feature>
       </autolevel>
     <autolevel level="12" scoreImprovement="YES">
@@ -2726,6 +3244,66 @@
         <text>• When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.</text>
         <text></text>
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer: Misty Wanderer</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text>In addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer: Misty Wanderer</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text>In addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Fey Wanderer: Misty Wanderer</name>
+        <text>15th-level Fey Wanderer feature</text>
+        <text>You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text>In addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarming Dispersal</name>
+        <text>15th-level Swarmkeeper feature</text>
+        <text>You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarming Dispersal</name>
+        <text>15th-level Swarmkeeper feature</text>
+        <text>You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Swarmkeeper: Swarming Dispersal</name>
+        <text>15th-level Swarmkeeper feature</text>
+        <text>You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
         </feature>
       </autolevel>
     <autolevel level="16" scoreImprovement="YES">

@@ -57,15 +57,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Arcana Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 125</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Arcana Domain: Potent Spellcasting</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text></text>

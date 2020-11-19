@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <monster>
-      <name>Alchemical Homunculus (Unearthed Arcana)</name>
+      <name>Alchemical Homunculus (UA)</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -48,7 +48,7 @@ Source: Unearthed Arcana: Artificer Revisited p. 6</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Iron Defender (Unearthed Arcana)</name>
+      <name>Iron Defender (UA)</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -73,15 +73,15 @@ Source: Unearthed Arcana: Artificer Revisited p. 6</description>
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Hit Points</name>
-      <text>equal to five times your level in this class + your Intelligence modifier + the Iron Defender (Unearthed Arcana)'s Constitution modifier</text>
+      <text>equal to five times your level in this class + your Intelligence modifier + the Iron Defender (UA)'s Constitution modifier</text>
       </trait>
     <trait>
         <name>Might of the Master</name>
-      <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the Iron Defender (Unearthed Arcana)'s skill bonuses, the bonuses to hit and damage of its bite, and the number of hit points restored by its Repair action.</text>
+      <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the Iron Defender (UA)'s skill bonuses, the bonuses to hit and damage of its bite, and the number of hit points restored by its Repair action.</text>
       </trait>
     <trait>
         <name>Vigilant</name>
-      <text>The Iron Defender (Unearthed Arcana) can't be surprised.</text>
+      <text>The Iron Defender (UA) can't be surprised.</text>
       </trait>
     <action>
         <name>Bite</name>
@@ -89,11 +89,11 @@ Source: Unearthed Arcana: Artificer Revisited p. 6</description>
       </action>
     <action>
         <name>Repair (3/Day)</name>
-      <text>The magical mechanisms inside the Iron Defender (Unearthed Arcana) restore 2d8 + 2 hit points to itself or to one construct or object within 5 feet of it.</text>
+      <text>The magical mechanisms inside the Iron Defender (UA) restore 2d8 + 2 hit points to itself or to one construct or object within 5 feet of it.</text>
       </action>
     <reaction>
         <name>Defensive Pounce</name>
-      <text>The Iron Defender (Unearthed Arcana) imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the Iron Defender (Unearthed Arcana).</text>
+      <text>The Iron Defender (UA) imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the Iron Defender (UA).</text>
       </reaction>
     <description>
 Source: Unearthed Arcana: Artificer Revisited p. 11</description>
