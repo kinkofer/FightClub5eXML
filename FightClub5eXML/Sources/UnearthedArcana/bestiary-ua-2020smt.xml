@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <monster>
-      <name>Aberrant Spirit</name>
+      <name>Aberrant Spirit (UA)</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -57,7 +57,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 3</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Bestial Spirit</name>
+      <name>Bestial Spirit (UA)</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -109,7 +109,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Celestial Spirit</name>
+      <name>Celestial Spirit (UA)</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Neutral Good</alignment>
@@ -157,7 +157,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Elemental Spirit</name>
+      <name>Elemental Spirit (UA)</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -201,7 +201,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 5</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Fey Spirit</name>
+      <name>Fey Spirit (UA)</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Good</alignment>
@@ -257,7 +257,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 5</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Fiendish Spirit</name>
+      <name>Fiendish Spirit (UA)</name>
     <size>L</size>
     <type>fiend</type>
     <alignment></alignment>
@@ -317,7 +317,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 6</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Shadow Spirit</name>
+      <name>Shadow Spirit (UA)</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -373,7 +373,7 @@ Source: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 7</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Undead Spirit</name>
+      <name>Undead Spirit (UA)</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>

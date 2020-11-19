@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <race>
+      <name>Custom Lineage</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability></ability>
+    <proficiency></proficiency>
+    <spellAbility></spellAbility>
+    <trait>
+        <name>Description</name>
+      <text>Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
+Source: Tasha's Cauldron of Everything</text>
+      </trait>
+    <trait>
+        <name>Creature Type</name>
+      <text>You are a humanoid. You determine your appearance and whether you resemble any of your kin.
+</text>
+      </trait>
+    <trait>
+        <name>Size</name>
+      <text>You are Small or Medium (your choice).
+</text>
+      </trait>
+    <trait>
+        <name>Feat</name>
+      <text>You gain one feat of your choice for which you qualify.
+</text>
+      </trait>
+    <trait>
+        <name>Variable Trait</name>
+      <text>You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
+</text>
+      </trait>
+    <trait>
+        <name>Languages</name>
+      <text>You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+</text>
+      </trait>
+    </race>
+  </compendium>

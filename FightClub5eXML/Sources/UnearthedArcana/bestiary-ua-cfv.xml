@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <monster>
-      <name>Beast of the Air</name>
+      <name>Beast of the Air (UA)</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -49,7 +49,7 @@ Source: Unearthed Arcana: Class Feature Variants p. 8</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Beast of the Earth</name>
+      <name>Beast of the Earth (UA)</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Neutral</alignment>

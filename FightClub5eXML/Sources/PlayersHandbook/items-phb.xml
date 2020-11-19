@@ -42,7 +42,7 @@ Source: Player's Handbook p. 148</text>
     </item>
   <item>
       <name>Ale (Gallon)</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.2</value>
@@ -51,7 +51,7 @@ Source: Player's Handbook p. 148</text>
     </item>
   <item>
       <name>Ale (Mug)</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.04</value>
@@ -400,7 +400,7 @@ Source: Player's Handbook p. 153</text>
     </item>
   <item>
       <name>Chunk of Meat</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.3</value>
@@ -455,7 +455,7 @@ Source: Player's Handbook p. 151</text>
     </item>
   <item>
       <name>Common Wine (Pitcher)</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.2</value>
@@ -756,7 +756,7 @@ Source: Player's Handbook p. 151</text>
     </item>
   <item>
       <name>Fine Wine (Bottle)</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>10.0</value>
@@ -962,7 +962,7 @@ Source: Player's Handbook p. 152</text>
     </item>
   <item>
       <name>Hunk of Cheese</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.1</value>
@@ -1095,7 +1095,7 @@ Source: Player's Handbook p. 152</text>
     </item>
   <item>
       <name>Loaf of Bread</name>
-    <detail></detail>
+    <detail>Food and Drink</detail>
     <type>G</type>
     <weight></weight>
     <value>0.02</value>
@@ -1786,7 +1786,7 @@ Source: Player's Handbook p. 154</text>
     <weight>1</weight>
     <value>0.5</value>
     <property></property>
-    <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.
+    <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
 Source: Player's Handbook p. 153</text>
     </item>
   <item>

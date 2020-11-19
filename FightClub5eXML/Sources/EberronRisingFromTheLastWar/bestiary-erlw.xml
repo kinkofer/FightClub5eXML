@@ -827,7 +827,7 @@ Source: Eberron: Rising from the Last War p. 305</description>
       <name>Homunculus Servant</name>
     <size>T</size>
     <type>construct</type>
-    <alignment>Neutral</alignment>
+    <alignment>Any alignment</alignment>
     <ac>13 (natural armor)</ac>
     <hp>1</hp>
     <speed>walk 20 ft., fly 30 ft.</speed>
@@ -837,9 +837,9 @@ Source: Eberron: Rising from the Last War p. 305</description>
     <int>10</int>
     <wis>10</wis>
     <cha>7</cha>
-    <save>Dex +4</save>
-    <skill>Perception +4, Stealth +4</skill>
-    <passive>14</passive>
+    <save></save>
+    <skill>Perception +0, Stealth +2</skill>
+    <passive>10</passive>
     <languages>understands the languages you speak</languages>
     <cr></cr>
     <resist></resist>
@@ -849,7 +849,7 @@ Source: Eberron: Rising from the Last War p. 305</description>
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Hit Points</name>
-      <text>equal the homunculus's Constitution modifier + your Intelligence modifier + your level in this class</text>
+      <text>1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)</text>
       </trait>
     <trait>
         <name>Evasion</name>
@@ -861,7 +861,7 @@ Source: Eberron: Rising from the Last War p. 305</description>
       </trait>
     <action>
         <name>Force Strike</name>
-      <text>Ranged Weapon Attack: +4 to hit, range 30 ft., one target you can see. 1d4 + 2 force damage.</text>
+      <text>Ranged Weapon Attack: {@hitYourSpellAttack} to hit, range 30 ft., one target you can see. 1d4 + PB force damage.</text>
       </action>
     <reaction>
         <name>Channel Magic</name>
@@ -1333,7 +1333,7 @@ Source: Eberron: Rising from the Last War p. 298</description>
     <speed>walk 25 ft., fly 25 ft.</speed>
     <str>10</str>
     <dex>15</dex>
-    <con>14</con>
+    <con>20</con>
     <int>3</int>
     <wis>11</wis>
     <cha>6</cha>
@@ -1722,39 +1722,6 @@ Source: Eberron: Rising from the Last War p. 303</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Sergeant</name>
-    <size>M</size>
-    <type>humanoid (any race)</type>
-    <alignment>Any alignment</alignment>
-    <ac>16 (chain shirt, shield)</ac>
-    <hp>11 (2d8+2)</hp>
-    <speed>walk 30 ft.</speed>
-    <str>13</str>
-    <dex>12</dex>
-    <con>12</con>
-    <int>10</int>
-    <wis>11</wis>
-    <cha>10</cha>
-    <save></save>
-    <skill>Perception +2</skill>
-    <passive>12</passive>
-    <languages>any one language (usually Common)</languages>
-    <cr>1/8</cr>
-    <resist></resist>
-    <immune></immune>
-    <vulnerable></vulnerable>
-    <conditionImmune></conditionImmune>
-    <senses></senses>
-    <action>
-        <name>Spear</name>
-      <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
-      <attack>Spear|+3|1d6+1</attack>
-      </action>
-    <description>
-Source: Waterdeep: Dragon Heist p. 197</description>
-    <environment></environment>
-    </monster>
-  <monster>
       <name>Shifter</name>
     <size>M</size>
     <type>humanoid (shifter)</type>
@@ -1800,7 +1767,7 @@ Source: Eberron: Rising from the Last War p. 319</description>
       <name>Steel Defender</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>Neutral</alignment>
+    <alignment>Any alignment</alignment>
     <ac>15 (natural armor)</ac>
     <hp>2</hp>
     <speed>walk 40 ft.</speed>
@@ -1810,9 +1777,9 @@ Source: Eberron: Rising from the Last War p. 319</description>
     <int>4</int>
     <wis>10</wis>
     <cha>6</cha>
-    <save>Dex +3, Con +4</save>
-    <skill>Athletics +4, Perception +4</skill>
-    <passive>14</passive>
+    <save></save>
+    <skill>Athletics +2, Perception +0</skill>
+    <passive>10</passive>
     <languages>understands the languages you speak</languages>
     <cr></cr>
     <resist></resist>
@@ -1822,11 +1789,7 @@ Source: Eberron: Rising from the Last War p. 319</description>
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Hit Points</name>
-      <text>equal the steel defender's Constitution modifier + your Intelligence modifier + five times your level in this class</text>
-      </trait>
-    <trait>
-        <name>Might of the Master</name>
-      <text>The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).</text>
+      <text>2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [ d8s] equal to your artificer level)</text>
       </trait>
     <trait>
         <name>Vigilant</name>
@@ -1834,11 +1797,11 @@ Source: Eberron: Rising from the Last War p. 319</description>
       </trait>
     <action>
         <name>Force-Empowered Rend</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target you can see. 1d8 + 2 force damage.</text>
+      <text>Melee Weapon Attack: {@hitYourSpellAttack} to hit, reach 5 ft., one target you can see. 1d8 + PB force damage.</text>
       </action>
     <action>
         <name>Repair (3/Day)</name>
-      <text>The magical mechanisms inside the defender restore 2d8 + 2 hit points to itself or to one construct or object within 5 feet of it.</text>
+      <text>The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.</text>
       </action>
     <reaction>
         <name>Deflect Attack</name>
@@ -2143,7 +2106,7 @@ Source: Eberron: Rising from the Last War p. 300</description>
       </action>
     <action>
         <name>Stinger</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. 8 (1d10 + 3) piercing damage plus 10 (3d10) psychic damage, and the target must succeed on a DC 14 Wisdom saving throw or be frightened of the quori for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. 8 (1d10 + 3) piercing damage plus 10 (3d6) psychic damage, and the target must succeed on a DC 14 Wisdom saving throw or be frightened of the quori for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Stinger|+6|1d10+3</attack>
       </action>
     <action>

@@ -54,15 +54,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Death Domain: Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Dungeon Master's Guide p. 96</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Death Domain: Divine Strike</name>
         <text>At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to 2d8.</text>
         <text></text>

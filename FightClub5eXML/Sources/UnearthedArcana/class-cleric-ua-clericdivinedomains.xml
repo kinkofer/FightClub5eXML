@@ -170,15 +170,6 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Forge Domain (UA): Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Forge Domain (UA): Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
@@ -187,28 +178,10 @@
       </autolevel>
     <autolevel level="8">
         <feature optional="YES">
-          <name>Grave Domain (UA): Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
           <name>Grave Domain (UA): Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
         <text>Source: Unearthed Arcana: Cleric Divine Domains p. 2</text>
-        </feature>
-      </autolevel>
-    <autolevel level="8">
-        <feature optional="YES">
-          <name>Protection Domain (UA): Blessed Strikes</name>
-        <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
-        <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Cleric Divine Domains p. 3</text>
         </feature>
       </autolevel>
     <autolevel level="8">

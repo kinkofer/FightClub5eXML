@@ -146,15 +146,6 @@
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-          <name>Battle Master: Maneuver Options</name>
-        <text>1st-level feature (enhances Maneuvers)</text>
-        <text>If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters and to characters who have the Superior Technique fighting style or the Martial Adept feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 73</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
           <name>Battle Master: Maneuvers</name>
         <text>The maneuvers are presented in alphabetical order.</text>
         <text></text>

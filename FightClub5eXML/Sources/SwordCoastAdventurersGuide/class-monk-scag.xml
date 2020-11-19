@@ -18,67 +18,12 @@
         <text>Source: Sword Coast Adventurer's Guide p. 130</text>
         </feature>
       </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Monastic Tradition: Way of the Sun Soul</name>
-        <text>Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Radiant Sun Bolt</name>
-        <text>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.</text>
-        <text>You gain a ranged spell attack that you can use with the Attack action. The attack has a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels—to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</text>
-        <text>When you use the Attack action on your turn to use this special attack, you can spend 1 ki point to make two additional attacks with it as a bonus action.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Monastic Tradition: Way of the Sun Soul</name>
-        <text>Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Radiant Sun Bolt</name>
-        <text>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.</text>
-        <text>You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</text>
-        <text>When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action.</text>
-        <text>When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
     <autolevel level="6">
         <feature optional="YES">
           <name>Way of the Long Death: Hour of Reaping</name>
         <text>At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</text>
         <text></text>
         <text>Source: Sword Coast Adventurer's Guide p. 130</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Searing Arc Strike</name>
-        <text>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the 1st-level spell burning hands as a bonus action.</text>
-        <text>You can spend additional ki points to cast burning hands as a higher level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level (round down).</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Searing Arc Strike</name>
-        <text>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the burning hands spell as a bonus action.</text>
-        <text>You can spend additional ki points to cast burning hands as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
         </feature>
       </autolevel>
     <autolevel level="11">
@@ -89,50 +34,12 @@
         <text>Source: Sword Coast Adventurer's Guide p. 130</text>
         </feature>
       </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Searing Sunburst</name>
-        <text>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.</text>
-        <text>Each creature in that 20-foot radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.</text>
-        <text>You can increase the sphere's damage by spending ki points. Each point you spend, up to a maximum of 3, increases the damage by 2d6.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Searing Sunburst</name>
-        <text>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.</text>
-        <text>Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.</text>
-        <text>You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
     <autolevel level="17">
         <feature optional="YES">
           <name>Way of the Long Death: Touch of the Long Death</name>
         <text>Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.</text>
         <text></text>
         <text>Source: Sword Coast Adventurer's Guide p. 130</text>
-        </feature>
-      </autolevel>
-    <autolevel level="17">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Sun Shield</name>
-        <text>At 17th level, you become wreathed in a magical, luminous aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.</text>
-        <text>If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
-        </feature>
-      </autolevel>
-    <autolevel level="17">
-        <feature optional="YES">
-          <name>Way of the Sun Soul: Sun Shield</name>
-        <text>At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.</text>
-        <text>If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.</text>
-        <text></text>
-        <text>Source: Sword Coast Adventurer's Guide p. 131</text>
         </feature>
       </autolevel>
     </class>

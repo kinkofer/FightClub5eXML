@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Sorcerer</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Aberrant Mind</name>
+        <text>An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?</text>
+        <text>As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you born with them? Or did an event later in life leave you shining with psionic awareness? Consult the Aberrant Origins table for a possible origin of your power.</text>
+        <text></text>
+        <text>Aberrant Origins</text>
+        <text>d6 | Origin</text>
+        <text>1 | You were exposed to the Far Realm's warping in- fluence. You are convinced that a tentacle is now growing on you, but no one else can see it.</text>
+        <text>2 | A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you.</text>
+        <text>3 | You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind.</text>
+        <text>4 | You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus.</text>
+        <text>5 | As a child, you had an imaginary friend that looked like a flumph or a strange platypus-like creature. One day, it gifted you with psionic powers, which have ended up being not so imaginary.</text>
+        <text>6 | Your nightmares whisper the truth to you: your psionic powers are not your own. You draw them from your parasitic twin!</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Aberrant Mind: Psionic Spells</name>
+        <text>1st-level Aberrant Mind feature</text>
+        <text>You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.</text>
+        <text>Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a divination or an enchantment spell from the sorcerer, warlock, or wizard spell list.</text>
+        <text></text>
+        <text>Psionic Spells</text>
+        <text>Sorcerer Level | Spells</text>
+        <text>1st | arms of Hadar, dissonant whispers</text>
+        <text>3rd | calm emotions, detect thoughts</text>
+        <text>5th | hunger of Hadar, sending</text>
+        <text>7th | Evard's black tentacles, summon aberration</text>
+        <text>9th | Rary's telepathic bond, telekinesis</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Aberrant Mind: Telepathic Speech</name>
+        <text>1st-level Aberrant Mind feature</text>
+        <text>You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.</text>
+        <text>The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Sorcerous Origin: Clockwork Soul</name>
+        <text>The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Clockwork Soul: Clockwork Magic</name>
+        <text>1st-level Clockwork Soul feature</text>
+        <text>You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.</text>
+        <text>Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an abjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list.</text>
+        <text></text>
+        <text>Clockwork Spells</text>
+        <text>Sorcerer Level | Spells</text>
+        <text>1st | alarm, protection from evil and good</text>
+        <text>3rd | aid, lesser restoration</text>
+        <text>5th | dispel magic, protection from energy</text>
+        <text>7th | freedom of movement, summon construct</text>
+        <text>9th | greater restoration, wall of force</text>
+        <text>In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.</text>
+        <text></text>
+        <text>Manifestations of Order</text>
+        <text>d6 | Manifestation</text>
+        <text>1 | Spectral cogwheels hover behind you.</text>
+        <text>2 | The hands of a clock spin in your eyes.</text>
+        <text>3 | Your skin glows with a brassy sheen.</text>
+        <text>4 | Floating equations and geometric objects overlay your body.</text>
+        <text>5 | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism.</text>
+        <text>6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Clockwork Soul: Restore Balance</name>
+        <text>1st-level Clockwork Soul feature</text>
+        <text>Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Metamagic Options</name>
+        <text>3rd-level sorcerer optional class features</text>
+        <text>When you choose Metamagic options, you have access to the following additional options.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      <feature optional="YES">
+          <name>Metamagic Options: Seeking Spell</name>
+        <text>If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the d20, and you must use the new roll.</text>
+        <text>You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      <feature optional="YES">
+          <name>Metamagic Options: Transmuted Spell</name>
+        <text>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Sorcerous Versatility</name>
+        <text>4th-level sorcerer optional class features</text>
+        <text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:</text>
+        <text>• Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.</text>
+        <text>• Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <feature>
+          <name>Magical Guidance</name>
+        <text>5th-level sorcerer feature</text>
+        <text>You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Aberrant Mind: Psionic Sorcery</name>
+        <text>6th-level Aberrant Mind feature</text>
+        <text>When you cast any spell of 1st level or higher from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level.</text>
+        <text>If you cast the spell using sorcery points, it requires no verbal or somatic components, and it requires no material components, unless they are consumed by the spell.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Aberrant Mind: Psychic Defenses</name>
+        <text>6th-level Aberrant Mind feature</text>
+        <text>You gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Clockwork Soul: Bastion of Law</name>
+        <text>6th-level Clockwork Soul feature</text>
+        <text>You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.</text>
+        <text>The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Aberrant Mind: Revelation in Flesh</name>
+        <text>14th-level Aberrant Mind feature</text>
+        <text>You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend 1 or more sorcery points to magically transform your body for 10 minutes. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:</text>
+        <text>• You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.</text>
+        <text>• You gain a flying speed equal to your walking speed, and you can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.</text>
+        <text>• You gain a swimming speed equal to twice your walking speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.</text>
+        <text>• Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Clockwork Soul: Trance of Order</name>
+        <text>14th-level Clockwork Soul feature</text>
+        <text>You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.</text>
+        <text>Once you use this bonus action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Aberrant Mind: Warping Implosion</name>
+        <text>18th-level Aberrant Mind feature</text>
+        <text>You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.</text>
+        <text>Once you use this feature, you can't do so again until you finish a long rest, unless you spend 5 sorcery points to use it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <feature optional="YES">
+          <name>Clockwork Soul: Clockwork Cavalcade</name>
+        <text>18th-level Clockwork Soul feature</text>
+        <text>You summon spirits of order to expunge disorder around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, and they create the following effects within the cube before vanishing:</text>
+        <text>• The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.</text>
+        <text>• Any damaged objects entirely in the cube are repaired instantly.</text>
+        <text>• Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.</text>
+        <text>Once you use this action, you can't use it again until you finish a long rest, unless you spend 7 sorcery points to use it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

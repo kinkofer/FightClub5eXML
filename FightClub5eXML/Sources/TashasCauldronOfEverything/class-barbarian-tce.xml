@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Barbarian</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primal Path: Path of the Beast</name>
+        <text>Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.</text>
+        <text>Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.</text>
+        <text></text>
+        <text>Origin of the Beast</text>
+        <text>d4 | Origin</text>
+        <text>1 | One of your parents is a lycanthrope, and you've inherited some of their curse.</text>
+        <text>2 | You are descended from an archdruid and inherited the ability to partially change shape.</text>
+        <text>3 | A fey spirit gifted you with the ability to adopt different bestial aspects.</text>
+        <text>4 | An ancient animal spirit dwells within you, allowing you to walk this path.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of the Beast: Form of the Beast</name>
+        <text>3rd-level Path of the Beast feature</text>
+        <text>When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. It counts as a simple melee weapon for you, and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.</text>
+        <text>You choose the weapon's form each time you rage:</text>
+        <text></text>
+        <text>   Bite.</text>
+        <text>• Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.</text>
+        <text>   Claws.</text>
+        <text>• Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the Attack action, you can make one additional claw attack as part of the same action.</text>
+        <text>   Tail.</text>
+        <text>• You grow a lashing, spiny tail, which deals 1d8 piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.</text>
+        <text></text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Primal Path: Path of Wild Magic</name>
+        <text>Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of Wild Magic: Magic Awareness</name>
+        <text>3rd-level Path of Wild Magic feature</text>
+        <text>As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Path of Wild Magic: Wild Surge</name>
+        <text>3rd-level Path of Wild Magic feature</text>
+        <text>The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.</text>
+        <text>If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.</text>
+        <text></text>
+        <text>Wild Magic</text>
+        <text>d8 | Magical Effect</text>
+        <text>1 | Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d12 necrotic damage. You also gain 1d12 temporary hit points.</text>
+        <text>2 | You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action.</text>
+        <text>3 | An intangible spirit, which looks like a flumph or a pixie (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 1d6 force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action.</text>
+        <text>4 | Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn.</text>
+        <text>5 | Whenever a creature hits you with an attack roll before your rage ends, that creature takes 1d6 force damage, as magic lashes out in retribution.</text>
+        <text>6 | Until your rage ends, you are surrounded by multi colored, protective lights. You gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus.</text>
+        <text>7 | Flowers and vines temporarily grow around you. Until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies.</text>
+        <text>8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature>
+          <name>Primal Knowledge</name>
+        <text>3rd-level barbarian optional class features</text>
+        <text>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of the Beast: Bestial Soul</name>
+        <text>6th-level Path of the Beast feature</text>
+        <text>The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
+        <text>You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:</text>
+        <text>• You gain a swimming speed equal to your walking speed, and you can breathe underwater.</text>
+        <text>• You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+        <text>• When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Path of Wild Magic: Bolstering Magic</name>
+        <text>6th-level Path of Wild Magic feature</text>
+        <text>You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:</text>
+        <text>• For 10 minutes, the creature can roll a d3 whenever making an attack roll or an ability check and add the number rolled to the d20 roll.</text>
+        <text>• Roll a d3. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.</text>
+        <text>You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature>
+          <name>Instinctive Pounce</name>
+        <text>7th-level barbarian optional class features</text>
+        <text>As part of the bonus action you take to enter your rage, you can move up to half your speed.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of the Beast: Infectious Fury</name>
+        <text>10th-level Path of the Beast feature</text>
+        <text>When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</text>
+        <text>• The target must use its reaction to make a melee attack against another creature of your choice that you can see.</text>
+        <text>• The target takes 2d12 psychic damage.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>Path of Wild Magic: Unstable Backlash</name>
+        <text>10th-level Path of Wild Magic feature</text>
+        <text>When you are imperiled during your rage, the magic within you can lash out; immediately after you take damage or fail a saving throw while raging, you can use your reaction to roll on the Wild Magic table and immediately produce the effect rolled. This effect replaces your current Wild Magic effect.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of the Beast: Call the Hunt</name>
+        <text>14th-level Path of the Beast feature</text>
+        <text>The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).</text>
+        <text>You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>Path of Wild Magic: Controlled Surge</name>
+        <text>14th-level Path of Wild Magic feature</text>
+        <text>Whenever you roll on the Wild Magic table, you can roll the die twice and choose which of the two effects to unleash. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

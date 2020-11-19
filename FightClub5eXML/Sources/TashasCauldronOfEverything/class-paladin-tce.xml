@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Paladin</name>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of Glory</name>
+        <text>Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Channel Divinity</name>
+        <text>3rd-level Oath of Glory feature</text>
+        <text>You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Oath Spells</name>
+        <text>3rd-level Oath of Glory feature</text>
+        <text>You gain oath spells at the paladin levels listed in the Oath of Glory Spells table. See the Sacred Oath class feature for how oath spells work.</text>
+        <text></text>
+        <text>Oath of Glory Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | guiding bolt, heroism</text>
+        <text>5th | enhance ability, magic weapon</text>
+        <text>9th | haste, protection from energy</text>
+        <text>13th | compulsion, freedom of movement</text>
+        <text>17th | commune, flame strike</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Tenets of Glory</name>
+        <text>The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.</text>
+        <text></text>
+        <text>Actions over Words</text>
+        <text>   Strive to be known by glorious deeds, not words.</text>
+        <text></text>
+        <text>Challenges Are but Tests</text>
+        <text>   Face hardships with courage, and encourage your allies to face them with you.</text>
+        <text></text>
+        <text>Hone the Body</text>
+        <text>   Like raw stone, your body must be worked so its potential can be realized.</text>
+        <text></text>
+        <text>Discipline the Soul</text>
+        <text>   You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Inspiring Smite</name>
+        <text>Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals 2d8 + your level in this class, divided among the chosen creatures however you like.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of Glory: Peerless Athlete</name>
+        <text>As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Sacred Oath: Oath of the Watchers</name>
+        <text>The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.</text>
+        <text>Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Channel Divinity</name>
+        <text>3rd-level Oath of the Watchers feature</text>
+        <text>You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.</text>
+        <name>Oath of the Watchers: Watcher's Will</name>
+        <text>   You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
+        <name>Oath of the Watchers: Abjure the Extraplanar</name>
+        <text>   You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each aberration, celestial, elemental, fey, or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
+        <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the Dodge action.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Oath Spells</name>
+        <text>3rd-level Oath of the Watchers feature</text>
+        <text>You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.</text>
+        <text></text>
+        <text>Oath of the Watchers Spells  Spells</text>
+        <text>Paladin Level | Spells</text>
+        <text>3rd | alarm, detect magic</text>
+        <text>5th | moonbeam, see invisibility</text>
+        <text>9th | counterspell, nondetection</text>
+        <text>13th | aura of purity, banishment</text>
+        <text>17th | hold monster, scrying</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Tenets of the Watchers</name>
+        <text>A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.</text>
+        <name>Oath of the Watchers: Vigilance</name>
+        <text>   The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.</text>
+        <name>Oath of the Watchers: Loyalty</name>
+        <text>   Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.</text>
+        <name>Oath of the Watchers: Discipline</name>
+        <text>   You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <feature>
+          <name>Martial Versatility</name>
+        <text>4th-level paladin optional class features</text>
+        <text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of Glory: Aura of Alacrity</name>
+        <text>7th-level Oath of Glory feature</text>
+        <text>You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.</text>
+        <text>When you reach 18th level in this class, the range of the aura increases to 10 feet.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Aura of the Sentinel</name>
+        <text>7th-level Oath of the Watchers feature</text>
+        <text>You emit an aura of alertness while you aren't incapacitated. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.</text>
+        <text>At 18th level, the range of this aura increases to 30 feet.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of Glory: Glorious Defense</name>
+        <text>15th-level Oath of Glory feature</text>
+        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon's range.</text>
+        <text>You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Vigilant Rebuke</name>
+        <text>15th-level Oath of the Watchers feature</text>
+        <text>You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the creature that forced the saving throw.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of Glory: Living Legend</name>
+        <text>20th-level Oath of Glory feature</text>
+        <text>You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a bonus action, you gain the following benefits for 1 minute:</text>
+        <text>• You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.</text>
+        <text>• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
+        <text>• If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.</text>
+        <text>Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <feature optional="YES">
+          <name>Oath of the Watchers: Mortal Bulwark</name>
+        <text>20th-level Oath of the Watchers feature</text>
+        <text>You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:</text>
+        <text>• You gain truesight with a range of 120 feet.</text>
+        <text>• You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.</text>
+        <text>• When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.</text>
+        <text>Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>

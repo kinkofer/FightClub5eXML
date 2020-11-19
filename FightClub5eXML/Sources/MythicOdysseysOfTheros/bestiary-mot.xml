@@ -1575,7 +1575,7 @@ Source: Mythic Odysseys of Theros p. 232</description>
     <environment></environment>
     </monster>
   <monster>
-      <name>Medusa</name>
+      <name>Medusa (Theran Variant)</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -1600,13 +1600,13 @@ Source: Mythic Odysseys of Theros p. 232</description>
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Petrifying Gaze</name>
-      <text>When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  greater restoration spell or other magic.</text>
-      <text>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.</text>
-      <text>If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.</text>
+      <text>When a creature that can see the Medusa (Theran Variant)'s eyes starts its turn within 30 feet of the Medusa (Theran Variant), the Medusa (Theran Variant) can force it to make a DC 14 Constitution saving throw if the Medusa (Theran Variant) isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  greater restoration spell or other magic.</text>
+      <text>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the Medusa (Theran Variant) until the start of its next turn, when it can avert its eyes again. If the creature looks at the Medusa (Theran Variant) in the meantime, it must immediately make the save.</text>
+      <text>If the Medusa (Theran Variant) sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the Medusa (Theran Variant) is, due to its curse, affected by its own gaze.</text>
       </trait>
     <action>
         <name>Multiattack</name>
-      <text>The medusa makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.</text>
+      <text>The Medusa (Theran Variant) makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.</text>
       </action>
     <action>
         <name>Snake Hair</name>
@@ -1625,7 +1625,7 @@ Source: Mythic Odysseys of Theros p. 232</description>
       </action>
     <action>
         <name>Constrict</name>
-      <text>Melee Weapon Attack: +3 to hit, reach 10 ft., one target. 7 (2d6) bludgeoning damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the medusa can't constrict another target.</text>
+      <text>Melee Weapon Attack: +3 to hit, reach 10 ft., one target. 7 (2d6) bludgeoning damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the Medusa (Theran Variant) can't constrict another target.</text>
       <attack>Constrict|+3|2d6</attack>
       </action>
     <description>

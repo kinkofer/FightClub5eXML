@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <monster>
-      <name>Dancing Item</name>
+      <name>Dancing Item (UA)</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -26,7 +26,7 @@
     <senses>darkvision 60 ft.</senses>
     <trait>
         <name>Hit Points</name>
-      <text>equal the dancing item's Constitution modifier + your Charisma modifier + five times your level in this class</text>
+      <text>equal the Dancing Item (UA)'s Constitution modifier + your Charisma modifier + five times your level in this class</text>
       </trait>
     <trait>
         <name>Endless Waltz</name>

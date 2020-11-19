@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <item>
-      <name>Bag of Bounty</name>
+      <name>Bag of Bounty (UA)</name>
     <detail>Wondrous item</detail>
     <type>W</type>
     <magic>1</magic>
@@ -14,20 +14,20 @@ Modest | 10
 Comfortable | 13
 Wealthy | 15
 Aristocratic | 18
-A bag of bounty can be used up to three times over the course of a day. After that, the bag can't be used again until the next dawn.
+A Bag of Bounty (UA) can be used up to three times over the course of a day. After that, the bag can't be used again until the next dawn.
 Source: Wayfinder's Guide to Eberron p. 116</text>
     </item>
   <item>
-      <name>Band of Loyalty</name>
+      <name>Band of Loyalty (UA)</name>
     <detail></detail>
     <type>RG</type>
     <weight></weight>
     <property></property>
-    <text>If you are reduced to zero hit points while attuned to a band of loyalty, you instantly die. These rings are favored by spies who can't afford to fall into enemy hands.
+    <text>If you are reduced to zero hit points while attuned to a Band of Loyalty (UA), you instantly die. These rings are favored by spies who can't afford to fall into enemy hands.
 Source: Wayfinder's Guide to Eberron p. 115</text>
     </item>
   <item>
-      <name>Rings of Shared Suffering</name>
+      <name>Rings of Shared Suffering (UA)</name>
     <detail></detail>
     <type>RG</type>
     <weight></weight>

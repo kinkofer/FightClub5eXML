@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Acid Splash</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Aid</name>
+    <classes>Artificer, Cleric (Peace), Sorcerer (Clockwork Soul), Bard, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Alarm</name>
+    <classes>Artificer, Paladin (Watchers), Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Alter Self</name>
+    <classes>Artificer, Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Animate Dead</name>
+    <classes>Druid (Spores)</classes>
+    </spell>
+  <spell>
+      <name>Animate Objects</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Arcane Eye</name>
+    <classes>Artificer, Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>Arcane Lock</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Arms of Hadar</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Aura of Life</name>
+    <classes>Cleric (Twilight), Druid (Wildfire), Cleric</classes>
+    </spell>
+  <spell>
+      <name>Aura of Purity</name>
+    <classes>Artificer (Battle Smith), Cleric (Peace), Paladin (Watchers), Cleric</classes>
+    </spell>
+  <spell>
+      <name>Aura of Vitality</name>
+    <classes>Artificer (Battle Smith), Cleric (Twilight), Cleric, Druid</classes>
+    </spell>
+  <spell>
+      <name>Banishing Smite</name>
+    <classes>Artificer (Battle Smith)</classes>
+    </spell>
+  <spell>
+      <name>Banishment</name>
+    <classes>Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Beacon of Hope</name>
+    <classes>Cleric (Peace)</classes>
+    </spell>
+  <spell>
+      <name>Bigby's Hand</name>
+    <classes>Artificer, Warlock (Fathomless), Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Blight</name>
+    <classes>Druid (Spores), Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Blindness/Deafness</name>
+    <classes>Druid (Spores)</classes>
+    </spell>
+  <spell>
+      <name>Blink</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Blur</name>
+    <classes>Artificer, Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Branding Smite</name>
+    <classes>Artificer (Battle Smith)</classes>
+    </spell>
+  <spell>
+      <name>Burning Hands</name>
+    <classes>Warlock (Genie), Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Calm Emotions</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Charm Person</name>
+    <classes>Ranger (Fey Wanderer)</classes>
+    </spell>
+  <spell>
+      <name>Circle of Power</name>
+    <classes>Cleric (Twilight)</classes>
+    </spell>
+  <spell>
+      <name>Cloudkill</name>
+    <classes>Druid (Spores), Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Command</name>
+    <classes>Cleric (Order), Bard</classes>
+    </spell>
+  <spell>
+      <name>Commune</name>
+    <classes>Cleric (Order), Paladin (Glory)</classes>
+    </spell>
+  <spell>
+      <name>Compulsion</name>
+    <classes>Cleric (Order), Paladin (Glory)</classes>
+    </spell>
+  <spell>
+      <name>Cone of Cold</name>
+    <classes>Artificer (Artillerist), Warlock (Fathomless), Warlock (Genie), Druid</classes>
+    </spell>
+  <spell>
+      <name>Confusion</name>
+    <classes>Druid (Spores)</classes>
+    </spell>
+  <spell>
+      <name>Conjure Barrage</name>
+    <classes>Artificer (Battle Smith)</classes>
+    </spell>
+  <spell>
+      <name>Contagion</name>
+    <classes>Druid (Spores)</classes>
+    </spell>
+  <spell>
+      <name>Continual Flame</name>
+    <classes>Artificer, Druid</classes>
+    </spell>
+  <spell>
+      <name>Control Water</name>
+    <classes>Warlock (Fathomless), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Counterspell</name>
+    <classes>Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Create Food and Water</name>
+    <classes>Artificer, Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Create or Destroy Water</name>
+    <classes>Warlock (Fathomless)</classes>
+    </spell>
+  <spell>
+      <name>Creation</name>
+    <classes>Artificer, Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Cure Wounds</name>
+    <classes>Artificer, Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Dancing Lights</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Darkvision</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Death Ward</name>
+    <classes>Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Detect Evil and Good</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Detect Magic</name>
+    <classes>Artificer, Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Detect Thoughts</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Dimension Door</name>
+    <classes>Ranger (Fey Wanderer)</classes>
+    </spell>
+  <spell>
+      <name>Disguise Self</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Dispel Magic</name>
+    <classes>Artificer, Ranger (Fey Wanderer), Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Dissonant Whispers</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Dominate Person</name>
+    <classes>Cleric (Order)</classes>
+    </spell>
+  <spell>
+      <name>Elemental Weapon</name>
+    <classes>Artificer, Druid, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Enhance Ability</name>
+    <classes>Artificer, Paladin (Glory), Ranger, Wizard</classes>
+    </spell>
+  <spell>
+      <name>Enlarge/Reduce</name>
+    <classes>Artificer, Bard, Druid</classes>
+    </spell>
+  <spell>
+      <name>Evard's Black Tentacles</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Expeditious Retreat</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Fabricate</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Faerie Fire</name>
+    <classes>Artificer, Cleric (Twilight), Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>False Life</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Feather Fall</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Fire Bolt</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Fire Shield</name>
+    <classes>Artificer (Battle Smith), Artificer (Armorer), Warlock (Genie), Druid (Wildfire), Druid, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Fireball</name>
+    <classes>Artificer (Artillerist), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Flame Strike</name>
+    <classes>Paladin (Glory), Warlock (Genie), Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Flaming Sphere</name>
+    <classes>Artificer (Alchemist), Druid (Wildfire), Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Fly</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Fog Cloud</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Freedom of Movement</name>
+    <classes>Artificer, Paladin (Glory), Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Gaseous Form</name>
+    <classes>Druid (Spores), Artificer (Alchemist), Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>Gentle Repose</name>
+    <classes>Druid (Spores), Paladin</classes>
+    </spell>
+  <spell>
+      <name>Glyph of Warding</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Grease</name>
+    <classes>Artificer, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Greater Invisibility</name>
+    <classes>Artificer (Armorer), Cleric (Twilight), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Greater Restoration</name>
+    <classes>Artificer, Cleric (Peace), Sorcerer (Clockwork Soul), Ranger</classes>
+    </spell>
+  <spell>
+      <name>Guidance</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Guiding Bolt</name>
+    <classes>Paladin (Glory)</classes>
+    </spell>
+  <spell>
+      <name>Gust of Wind</name>
+    <classes>Warlock (Fathomless), Warlock (Genie), Ranger</classes>
+    </spell>
+  <spell>
+      <name>Haste</name>
+    <classes>Artificer, Paladin (Glory)</classes>
+    </spell>
+  <spell>
+      <name>Healing Word</name>
+    <classes>Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Heat Metal</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Heroism</name>
+    <classes>Cleric (Order), Artificer (Battle Smith), Paladin (Glory), Cleric (Peace)</classes>
+    </spell>
+  <spell>
+      <name>Hold Monster</name>
+    <classes>Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Hold Person</name>
+    <classes>Cleric (Order)</classes>
+    </spell>
+  <spell>
+      <name>Hunger of Hadar</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Hypnotic Pattern</name>
+    <classes>Artificer (Armorer)</classes>
+    </spell>
+  <spell>
+      <name>Ice Storm</name>
+    <classes>Artificer (Artillerist)</classes>
+    </spell>
+  <spell>
+      <name>Identify</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Insect Plague</name>
+    <classes>Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>Invisibility</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Jump</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Leomund's Secret Chest</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Leomund's Tiny Hut</name>
+    <classes>Cleric (Twilight)</classes>
+    </spell>
+  <spell>
+      <name>Lesser Restoration</name>
+    <classes>Artificer, Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Levitate</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Light</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Lightning Bolt</name>
+    <classes>Artificer (Armorer), Warlock (Fathomless)</classes>
+    </spell>
+  <spell>
+      <name>Locate Creature</name>
+    <classes>Cleric (Order)</classes>
+    </spell>
+  <spell>
+      <name>Longstrider</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Mage Hand</name>
+    <classes>Artificer, Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>Magic Missile</name>
+    <classes>Artificer (Armorer)</classes>
+    </spell>
+  <spell>
+      <name>Magic Mouth</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Magic Weapon</name>
+    <classes>Artificer, Paladin (Glory), Ranger, Sorcerer</classes>
+    </spell>
+  <spell>
+      <name>Mass Cure Wounds</name>
+    <classes>Artificer (Battle Smith), Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Mass Healing Word</name>
+    <classes>Cleric (Order), Artificer (Alchemist), Bard</classes>
+    </spell>
+  <spell>
+      <name>Meld into Stone</name>
+    <classes>Warlock (Genie), Ranger</classes>
+    </spell>
+  <spell>
+      <name>Melf's Acid Arrow</name>
+    <classes>Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Mending</name>
+    <classes>Artificer, Artificer (Artillerist), Artificer (Battle Smith)</classes>
+    </spell>
+  <spell>
+      <name>Message</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Mirror Image</name>
+    <classes>Artificer (Armorer), Bard</classes>
+    </spell>
+  <spell>
+      <name>Mislead</name>
+    <classes>Cleric (Twilight), Ranger (Fey Wanderer), Warlock</classes>
+    </spell>
+  <spell>
+      <name>Misty Step</name>
+    <classes>Ranger (Fey Wanderer)</classes>
+    </spell>
+  <spell>
+      <name>Moonbeam</name>
+    <classes>Cleric (Twilight), Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Mordenkainen's Faithful Hound</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Mordenkainen's Private Sanctum</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Nondetection</name>
+    <classes>Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Otiluke's Resilient Sphere</name>
+    <classes>Artificer, Cleric (Peace)</classes>
+    </spell>
+  <spell>
+      <name>Passwall</name>
+    <classes>Artificer (Armorer)</classes>
+    </spell>
+  <spell>
+      <name>Phantasmal Force</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Phantasmal Killer</name>
+    <classes>Warlock (Genie), Bard</classes>
+    </spell>
+  <spell>
+      <name>Plant Growth</name>
+    <classes>Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Poison Spray</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Prestidigitation</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Protection from Energy</name>
+    <classes>Artificer, Paladin (Glory), Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Protection from Evil and Good</name>
+    <classes>Sorcerer (Clockwork Soul), Druid</classes>
+    </spell>
+  <spell>
+      <name>Protection from Poison</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Purify Food and Drink</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Raise Dead</name>
+    <classes>Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Rary's Telepathic Bond</name>
+    <classes>Cleric (Peace), Sorcerer (Aberrant Mind), Bard</classes>
+    </spell>
+  <spell>
+      <name>Ray of Frost</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Ray of Sickness</name>
+    <classes>Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Resistance</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Revivify</name>
+    <classes>Artificer, Druid (Wildfire), Druid, Ranger</classes>
+    </spell>
+  <spell>
+      <name>Rope Trick</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Sanctuary</name>
+    <classes>Artificer, Cleric (Peace), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Scorching Ray</name>
+    <classes>Artificer (Artillerist), Warlock (Genie), Druid (Wildfire)</classes>
+    </spell>
+  <spell>
+      <name>Scrying</name>
+    <classes>Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>See Invisibility</name>
+    <classes>Artificer, Cleric (Twilight), Paladin (Watchers)</classes>
+    </spell>
+  <spell>
+      <name>Seeming</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Sending</name>
+    <classes>Cleric (Peace), Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Shatter</name>
+    <classes>Artificer (Artillerist), Artificer (Armorer)</classes>
+    </spell>
+  <spell>
+      <name>Shield</name>
+    <classes>Artificer (Artillerist), Artificer (Battle Smith)</classes>
+    </spell>
+  <spell>
+      <name>Shocking Grasp</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Silence</name>
+    <classes>Warlock (Fathomless)</classes>
+    </spell>
+  <spell>
+      <name>Sleep</name>
+    <classes>Cleric (Twilight)</classes>
+    </spell>
+  <spell>
+      <name>Sleet Storm</name>
+    <classes>Warlock (Fathomless), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Slow</name>
+    <classes>Cleric (Order), Bard</classes>
+    </spell>
+  <spell>
+      <name>Spare the Dying</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Spider Climb</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Spike Growth</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Stone Shape</name>
+    <classes>Artificer, Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Stoneskin</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Telekinesis</name>
+    <classes>Sorcerer (Aberrant Mind)</classes>
+    </spell>
+  <spell>
+      <name>Thorn Whip</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Thunderwave</name>
+    <classes>Artificer (Artillerist), Artificer (Armorer), Warlock (Fathomless), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Wall of Fire</name>
+    <classes>Artificer (Artillerist)</classes>
+    </spell>
+  <spell>
+      <name>Wall of Force</name>
+    <classes>Artificer (Artillerist), Artificer (Armorer), Sorcerer (Clockwork Soul)</classes>
+    </spell>
+  <spell>
+      <name>Wall of Stone</name>
+    <classes>Artificer, Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Warding Bond</name>
+    <classes>Artificer (Battle Smith), Cleric (Peace), Paladin</classes>
+    </spell>
+  <spell>
+      <name>Water Breathing</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Water Walk</name>
+    <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Web</name>
+    <classes>Artificer, Ranger (Swarmkeeper)</classes>
+    </spell>
+  <spell>
+      <name>Wind Wall</name>
+    <classes>Artificer (Artillerist), Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Wish</name>
+    <classes>Warlock (Genie)</classes>
+    </spell>
+  <spell>
+      <name>Zone of Truth</name>
+    <classes>Cleric (Order)</classes>
+    </spell>
+  </compendium>

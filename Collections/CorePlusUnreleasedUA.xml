@@ -16,6 +16,7 @@
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-warlock-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-wizard-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/feats-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-base-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/races-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/spells-phb.xml" />
@@ -32,6 +33,8 @@
 
 
     <!-- Supplements -->
+    <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/races-eepc.xml" />
+
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/bestiary-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-barbarian-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-bard-xge.xml" />
@@ -88,12 +91,8 @@
     <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica/spells-phb+ggr.xml" />
 
 
-    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron/items-wge.xml" />
-
-
     <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/backgrounds-erlw.xml" />
     <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/bestiary-erlw.xml" />
-    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/class-artificer-erlw.xml" />
     <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/feats-erlw.xml" />
     <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/items-erlw.xml" />
     <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar/races-erlw.xml" />
@@ -139,6 +138,24 @@
     <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros/spells-phb+mot.xml" />
 
 
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/bestiary-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-artificer-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-barbarian-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-bard-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-cleric-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-druid-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-fighter-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-monk-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-paladin-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-rogue-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-sorcerer-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-warlock-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-wizard-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/feats-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/items-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-phb+tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/races-tce.xml" />
 
 
     <!-- Adventures -->
@@ -156,9 +173,8 @@
 
 
     <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/bestiary-pota.xml" />
-    <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/items-ee.xml" />
+    <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/items-eet.xml" />
     <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/items-pota.xml" />
-    <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/races-ee.xml" />
 
 
     <doc href="../FightClub5eXML/Sources/OutOfTheAbyss/bestiary-oota.xml" />
@@ -213,6 +229,7 @@
 
 
     <doc href="../FightClub5eXML/Sources/DragonOfIcespirePeak/bestiary-dip.xml" />
+    <doc href="../FightClub5eXML/Sources/DragonOfIcespirePeak/bestiary-esk.xml" />
 
 
     <doc href="../FightClub5eXML/Sources/StormLordsWrath/bestiary-slw.xml" />
@@ -268,14 +285,15 @@
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/class-warlock-ua-modernmagic.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/class-warlock-ua-thefaithful.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/class-wizard-ua-modernmagic.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-2020f.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-2020por.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-f.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-ffr.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-ffs.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-frw.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/items-ua-2020smt.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-2020feats.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-2020psionicoptionsrevisited.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-feats.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-featsforraces.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-featsforskills.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-fighterroguewizard.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/items-ua-2020spellsandmagictattoos.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-2020subclassespt4.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-bardandpaladin.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-classfeaturevariants.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-giantsoulsorcerer.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-modernmagic.xml" />
