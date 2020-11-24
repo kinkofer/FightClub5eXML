@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Infusion: Boots of the Winding Path (UA)</name>
+    <prerequisite>4th level, A pair of boots (requires attunement)</prerequisite>
+    <text>While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+Source: Unearthed Arcana: Artificer Revisited p. 12</text>
+    </feat>
+  <feat>
+      <name>Infusion: Enhanced Defense (UA)</name>
+    <prerequisite>A suit of armor or a shield</prerequisite>
+    <text>A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+The bonus increases to +2 when you reach 12th level in this class.
+Source: Unearthed Arcana: Artificer Revisited p. 12</text>
+    </feat>
+  <feat>
+      <name>Infusion: Enhanced Wand (UA)</name>
+    <prerequisite>A wand (requires attunement)</prerequisite>
+    <text>While holding this wand, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
+The bonus increases to +2 when you reach 12th level in this class.
+Source: Unearthed Arcana: Artificer Revisited p. 12</text>
+    </feat>
+  <feat>
+      <name>Infusion: Enhanced Weapon (UA)</name>
+    <prerequisite>A simple or martial weapon</prerequisite>
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it.
+The bonus increases to +2 when you reach 12th level in this class.
+Source: Unearthed Arcana: Artificer Revisited p. 12</text>
+    </feat>
+  <feat>
+      <name>Infusion: Many-Handed Pouch (UA)</name>
+    <prerequisite>4th level, 2–5 pouches</prerequisite>
+    <text>The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won't accept any contents.
+If this infusion ends, the items stored in the shared space move into one of the pouches, determined at random. The rest of the pouches become empty.
+Source: Unearthed Arcana: Artificer Revisited p. 13</text>
+    </feat>
+  <feat>
+      <name>Infusion: Radiant Weapon (UA)</name>
+    <prerequisite>8th level, A simple or martial weapon (requires attunement)</prerequisite>
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
+As a reaction immediately after being hit by a melee attack, the wielder can cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. Once used, this reaction can't be used again until the wielder finishes a short or long rest.
+Source: Unearthed Arcana: Artificer Revisited p. 13</text>
+    </feat>
+  <feat>
+      <name>Infusion: Repeating Shot (UA)</name>
+    <prerequisite>A simple or martial weapon with the ammunition property (requires attunement)</prerequisite>
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
+The weapon requires no ammunition; it magically produces one piece of ammunition each time you make a ranged attack with it, unless you manually load it. The ammunition produced by the weapon vanishes the instant after the it hits or misses a target.
+Source: Unearthed Arcana: Artificer Revisited p. 13</text>
+    </feat>
+  <feat>
+      <name>Infusion: Replicate Magic Item (UA)</name>
+    <prerequisite>See text</prerequisite>
+    <text>Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a different magic item that you can make with it, picking from the Replicable Magic Items tables below. If a table has a level in its title, you must be of at least that level in this class to choose an item from the table.
+In the tables, an item's entry tells you whether the item requires attunement. See the item's description in the Dungeon Master's Guide for more information about it, including the type of object required for its making.
+Replicable Magic Items
+Magic Item | Attunement
+Alchemy jug | No
+Bag of holding | No
+Cap of water breathing | No
+Cloak of the manta ray | No
+Goggles of night | No
+Lantern of revealing | No
+Rope of climbing | No
+Sending stones | No
+Wand of magic detection | No
+Wand of secrets | No
+Replicable Magic Items (12th-Level Artificer)
+Magic Item | Attunement
+Boots of elvenkind | No
+Boots of striding and springing | Yes
+Boots of the winterlands | Yes
+Bracers of archery | Yes
+Brooch of shielding | Yes
+Cloak of elvenkind | Yes
+Cloak of protection | Yes
+Eyes of charming | Yes
+Eyes of the eagle | Yes
+Gauntlets of ogre power | Yes
+Gloves of missile snaring | Yes
+Gloves of swimming and climbing | Yes
+Gloves of thievery | No
+Hat of disguise | Yes
+Headband of intellect | Yes
+Helm of telepathy | Yes
+Medallion of thoughts | Yes
+Periapt of wound closure | Yes
+Pipes of haunting | No
+Pipes of the sewers | Yes
+Quiver of Ehlonna | No
+Ring of jumping | Yes
+Ring of mind shielding | Yes
+Ring of water walking | No
+Slippers of spider climbing | Yes
+Winged boots | Yes
+Replicable Magic Items (16th-Level Artificer)
+Magic Item | Attunement
+Amulet of health | Yes
+Belt of hill giant strength | Yes
+Boots of levitation | Yes
+Boots of speed | Yes
+Bracers of defense | Yes
+Cloak of the bat | Yes
+Dimensional shackles | No
+Gem of seeing | Yes
+Horn of blasting | No
+Ring of free action | Yes
+Ring of protection | Yes
+Ring of the ram | Yes
+Source: Unearthed Arcana: Artificer Revisited p. 9</text>
+    </feat>
+  <feat>
+      <name>Infusion: Repulsion Shield (UA)</name>
+    <prerequisite>8th level, A shield (requires attunement)</prerequisite>
+    <text>A creature gains a +1 bonus to Armor Class while wielding this shield. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to push the attacker up to 15 feet away. Once used, this reaction can't be used again until the wielder finishes a short or long rest.
+Source: Unearthed Arcana: Artificer Revisited p. 14</text>
+    </feat>
+  <feat>
+      <name>Infusion: Resistant Armor (UA)</name>
+    <prerequisite>8th level, A suit of armor (requires attunement)</prerequisite>
+    <text>While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+Source: Unearthed Arcana: Artificer Revisited p. 14</text>
+    </feat>
+  <feat>
+      <name>Infusion: Returning Weapon (UA)</name>
+    <prerequisite>A simple or martial weapon with the thrown property</prerequisite>
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
+Source: Unearthed Arcana: Artificer Revisited p. 10</text>
+    </feat>
+  </compendium>
