@@ -20,7 +20,7 @@
                 <name>Firearm Proficiency (Gunslinger)</name>
                 <text>Starting from when you choose this archetype at 3rd level, you gain proficiency in firearms, allowing you to add your proficiency bonus to attacks made with firearms.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -29,7 +29,7 @@
                 <name>Gunsmith (Gunslinger)</name>
                 <text>Upon choosing this archetype at 3rd level, you gain proficiency in Tinker’s Tools.  You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM’s discretion). Some extremely intricate and experimental firearms are only available through crafting.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -42,7 +42,7 @@
                 <text>SCATTER.  An attack is made against each creature within a 30 ft. cone.  These attacks are simultaneous.  If an affected creature is adjacent to you, they suffer double damage on a hit.  This attack cannot be affected by any of your shot features.</text>
                 <text>EXPLOSIVE.  Upon a hit, everything within 5 ft. of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage.  If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -58,7 +58,7 @@
                 <text>Saving Throws: Some of your trick shots require your targets to make a saving throw to resist the trick shot’s effect.  The saving throw DC is calculated as follows:
                     Trick Shot save DC = 8 + your proficiency bonus + Dexterity Modifier</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -67,7 +67,7 @@
                 <name>Quickdraw (Gunslinger)</name>
                 <text>When you reach 7th level, you add your proficiency to your initiative.  You can also stow a firearm, then draw another firearm as a single object interaction on your turn</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -76,7 +76,7 @@
                 <name>Rapid Repair (Gunslinger)</name>
                 <text>Upon reaching 10th level, you learn how to quickly attempt to fix a jammed gun.  You can spend a grit point to attempt to repair a misfired (but not broken) firearm as a bonus action.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -85,7 +85,7 @@
                 <name>Lightning Reload (Gunslinger)</name>
                 <text>Starting at 15th level, you can reload any firearm as a bonus action.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -94,7 +94,7 @@
                 <name>Vicious Intent (Gunslinger)</name>
                 <text>At 18th level, your firearm attacks score a critical hit on a roll of 19-20, and you regain a grit point on a roll of 19 or 20 on a d20 attack roll with a firearm.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
 
@@ -103,7 +103,7 @@
                 <name>Hemorrrhaging Critical (Gunslinger)</name>
                 <text>Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.</text>
                 <text/>
-         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
+                <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
             </feature>
         </autolevel>
     </class>
