@@ -18,7 +18,7 @@
         <text>7th | compulsion, locate creature</text>
         <text>9th | commune, dominate person</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -26,7 +26,7 @@
           <name>Order Domain: Bonus Proficiencies</name>
         <text>When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill (your choice).</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -35,7 +35,116 @@
         <text>Starting at 1st level, you can invoke the power of law to drive an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.</text>
         <text>If the spell targets more than one ally, you choose the ally who can make the attack.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Peace Domain</name>
+        <text>The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing. See the Peace Deities table for a list of some of the gods associated with this domain.</text>
+        <text>Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.</text>
+        <text></text>
+        <text>Peace Deities</text>
+        <text>Example Deity | Pantheon</text>
+        <text>Angharradh | Elven</text>
+        <text>Berronar Truesilver | Dwarven</text>
+        <text>Boldrei | Eberron</text>
+        <text>Cyrrollalee | Halfling</text>
+        <text>Eldath | Forgotten Realms</text>
+        <text>Gaerdal | Ironhand Gnomish</text>
+        <text>Paladine | Dragonlance</text>
+        <text>Rao | Greyhawk</text>
+        <name>Peace Domain: Domain Spells</name>
+        <text>   1st-level Peace Domain feature</text>
+        <text>   You gain domain spells at the cleric levels listed in the Peace Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
+        <text></text>
+        <text>Peace Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | heroism, sanctuary</text>
+        <text>3rd | aid, warding bond</text>
+        <text>5th | beacon of hope, sending</text>
+        <text>7th | aura of purity, Otiluke's resilient sphere</text>
+        <text>9th | greater restoration, Rary's telepathic bond</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Peace Domain: Emboldening Bond</name>
+        <text>1st-level Peace Domain feature</text>
+        <text>You can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Peace Domain: Implement of Peace</name>
+        <text>1st-level Peace Domain feature</text>
+        <text>You gain proficiency in the Insight, Performance, or Persuasion skill (your choice).</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Divine Domain: Twilight Domain</name>
+        <text>The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.</text>
+        <text>Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</text>
+        <text></text>
+        <text>Twilight Deities</text>
+        <text>Example Deity | Pantheon</text>
+        <text>Boldrei | Eberron</text>
+        <text>Celestian | Greyhawk</text>
+        <text>Dol Arrah | Eberron</text>
+        <text>Helm | Forgotten Realms</text>
+        <text>Ilmater | Forgotten Realms</text>
+        <text>Mishakal | Dragonlance</text>
+        <text>Selûne | Forgotten Realms</text>
+        <text>Yondalla | Halfling</text>
+        <name>Twilight Domain: Domain Spells</name>
+        <text>   1st-level Twilight Domain feature</text>
+        <text>   You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
+        <text></text>
+        <text>Twilight Domain Spells</text>
+        <text>Cleric Level | Spells</text>
+        <text>1st | faerie fire, sleep</text>
+        <text>3rd | moonbeam, see invisibility</text>
+        <text>5th | aura of vitality, Leomund's tiny hut</text>
+        <text>7th | aura of life, greater invisibility</text>
+        <text>9th | circle of power, mislead</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain: Bonus Proficiencies</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>You gain proficiency with martial weapons and heavy armor.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain: Eyes of Night</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>You can see through the deepest gloom. You have darkvision out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.</text>
+        <text>As an action, you can magically share the darkvision of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared darkvision lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain: Vigilant Blessing</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>The night has taught you to be vigilant. As an action, you give one creature you touch (including possibly yourself) advantage on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -44,7 +153,7 @@
         <text>2nd-level cleric optional class features</text>
         <text>You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 30</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -53,7 +162,28 @@
         <text>Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.</text>
         <text>As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Peace Domain: Channel Divinity: Balm of Peace</name>
+        <text>2nd-level Peace Domain feature</text>
+        <text>You can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Twilight Domain: Channel Divinity: Twilight Sanctuary</name>
+        <text>2nd-level Twilight Domain feature</text>
+        <text>You can use your Channel Divinity to refresh your allies with soothing twilight.</text>
+        <text>As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</text>
+        <text>• You grant it temporary hit points equal to 1d6 plus your cleric level.</text>
+        <text>• You end one effect on it causing it to be charmed or frightened.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
         </feature>
       </autolevel>
     <autolevel level="4">
@@ -62,7 +192,7 @@
         <text>4th-level cleric optional class features</text>
         <text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 30</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -72,7 +202,25 @@
         <text>If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.</text>
         <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Peace Domain: Protective Bond</name>
+        <text>6th-level Peace Domain feature</text>
+        <text>The bond you forge between people helps them protect each other. When a creature affected by your Emboldening Bond feature is about to take damage, a second bonded creature within 30 feet of the first can use its reaction to teleport to an unoccupied space within 5 feet of the first creature. The second creature then takes all the damage instead.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>Twilight Domain: Steps of Night</name>
+        <text>6th-level Twilight Domain feature</text>
+        <text>You can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -81,7 +229,7 @@
         <text>8th-level cleric optional class features, which replaces the Divine Strike feature</text>
         <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -89,7 +237,43 @@
           <name>Order Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Peace Domain: Blessed Strikes</name>
+        <text>8th-level cleric optional class features, which replaces the Potent Spellcasting feature</text>
+        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Peace Domain: Potent Spellcasting</name>
+        <text>8th-level Peace Domain feature</text>
+        <text>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Twilight Domain: Blessed Strikes</name>
+        <text>8th-level cleric optional class features, which replaces the Divine Strike feature</text>
+        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
+        </feature>
+      </autolevel>
+    <autolevel level="8">
+        <feature optional="YES">
+          <name>Twilight Domain: Divine Strike</name>
+        <text>8th-level Twilight Domain feature</text>
+        <text>You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage. When you reach 14th level, the extra damage increases to 2d8.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -97,7 +281,25 @@
           <name>Order Domain: Order's Wrath</name>
         <text>Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Peace Domain: Expansive Bond</name>
+        <text>17th-level Peace Domain feature</text>
+        <text>The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else's damage, the creature has resistance to that damage.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <feature optional="YES">
+          <name>Twilight Domain: Twilight Shroud</name>
+        <text>17th-level Twilight Domain feature</text>
+        <text>The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
         </feature>
       </autolevel>
     </class>

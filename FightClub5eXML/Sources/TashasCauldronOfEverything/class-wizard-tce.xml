@@ -7,7 +7,7 @@
           <name>Arcane Tradition: Bladesinging</name>
         <text>Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -25,7 +25,7 @@
         <text>Snake</text>
         <text>   Practitioners of these styles use a flail, chain, or whip. Viper style uses a whip, despite its inelegance as a weapon, and has almost as long a history as the lion style. Its masters punctuate their bladesong with a stunningly rapid rhythm of whip cracks, which can keep many foes at bay and allow the bladesinger space to cast the cruel spells of poison and disease favored by the style.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -40,16 +40,7 @@
         <text>• You gain a bonus to any Constitution saving throws you make to maintain concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).</text>
         <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <feature optional="YES">
-          <name>Bladesinging: Restriction: Elves Only</name>
-        <text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faerûn, elves closely guard the secrets of bladesinging.</text>
-        <text>Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM's setting or your DM's version of the Realms.</text>
-        <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -58,7 +49,7 @@
         <text>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</text>
         <text>You also gain proficiency in the Performance skill if you don't already have it.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -67,7 +58,7 @@
         <text>Magic of the book-that's what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It's rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.</text>
         <text>Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -81,7 +72,7 @@
         <text>• When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.</text>
         <text>If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you're attuned. At the end of the rest, your spellbook's consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -94,7 +85,7 @@
         <text>• You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.</text>
         <text>This quill disappears if you create another one or if you die.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -103,7 +94,7 @@
         <text>3rd-level wizard optional class features</text>
         <text>You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 75</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -111,7 +102,7 @@
           <name>Bladesinging: Extra Attack</name>
         <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -125,7 +116,7 @@
         <text>The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts dispel magic on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.</text>
         <text>Once you conjure the mind, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -133,7 +124,7 @@
           <name>Bladesinging: Song of Defense</name>
         <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell's slot level.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -144,7 +135,7 @@
         <text>The chosen spell must be of 1st or 2nd level and must have a casting time of 1 action. Once in the scroll, the spell's power is enhanced, counting as one level higher than normal. You can cast the spell from the scroll by reading it as an action. The scroll is unintelligible to anyone else, and the spell vanishes from the scroll when you cast it or when you finish your next long rest.</text>
         <text>You are also adept at crafting spell scrolls, which are described in the treasure chapter of the Dungeon Master's Guide. The gold and time you must spend to make such a scroll are halved if you use your Wizardly Quill.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     <autolevel level="14">
@@ -152,7 +143,7 @@
           <name>Bladesinging: Song of Victory</name>
         <text>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 76</text>
         </feature>
       </autolevel>
     <autolevel level="14">
@@ -164,7 +155,7 @@
         <text>Until you finish 1d6 long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spellbook.</text>
         <text>Once you use this reaction, you can't do so again until you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 77</text>
         </feature>
       </autolevel>
     </class>

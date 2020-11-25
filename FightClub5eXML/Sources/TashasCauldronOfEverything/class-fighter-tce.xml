@@ -2,13 +2,48 @@
 <compendium version="5" auto_indent="NO">
     <class>
       <name>Fighter</name>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Fighting Style: Blind Fighting</name>
+        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Interception</name>
+        <text>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Superior Technique</name>
+        <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</text>
+        <text>You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Thrown Weapon Fighting</name>
+        <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
+        <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 72</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Unarmed Fighting</name>
+        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.</text>
+        <text>At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 72</text>
+        </feature>
+      </autolevel>
     <autolevel level="3">
         <feature optional="YES">
           <name>Martial Archetype: Psi Warrior</name>
         <text>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.</text>
         <text>As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -20,15 +55,31 @@
         <text>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12).</text>
         <text>The powers below use your Psionic Energy dice.</text>
         <text></text>
-        <text>   Protective Field.</text>
-        <text>• When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</text>
-        <text>   Psionic Strike.</text>
-        <text>• You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</text>
-        <text>   Telekinetic Movement.</text>
-        <text>• You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psi Warrior: Protective Field</name>
+        <text>When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</text>
         <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psi Warrior: Psionic Strike</name>
+        <text>You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Psi Warrior: Telekinetic Movement</name>
+        <text>You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -36,7 +87,7 @@
           <name>Martial Archetype: Rune Knight</name>
         <text>Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -45,7 +96,7 @@
         <text>3rd-level Rune Knight feature</text>
         <text>You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -58,7 +109,7 @@
         <text>• Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.</text>
         <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -94,7 +145,7 @@
         <text>   Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have advantage on Intelligence (Arcana) checks, and you can't be surprised as long as you aren't incapacitated.</text>
         <text>   In addition, you can invoke the rune as a bonus action to enter a prophetic state for 1 minute or until you're incapacitated. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage. Once you invoke this rune, you can't do so again until you finish a short or long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="4">
@@ -105,7 +156,7 @@
         <text>• Replace a fighting style you know with another fighting style available to fighters.</text>
         <text>• If you know any maneuvers from the fighter archetype, you can replace one maneuver you know with a different maneuver.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 41</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -114,13 +165,23 @@
         <text>7th-level Psi Warrior feature</text>
         <text>You have mastered new ways to use your telekinetic abilities, detailed below.</text>
         <text></text>
-        <text>   Psi-Powered Leap.</text>
-        <text>• As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</text>
-        <text>   Telekinetic Thrust.</text>
-        <text>• When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Psi Warrior: Psi-Powered Leap.</name>
+        <text>As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</text>
         <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <feature optional="YES">
+          <name>Psi Warrior: Telekinetic Thrust.</name>
+        <text>When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="7">
@@ -130,7 +191,7 @@
         <text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the d20 and use the new roll.</text>
         <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -139,7 +200,7 @@
         <text>10th-level Psi Warrior feature</text>
         <text>The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="10">
@@ -149,7 +210,7 @@
         <text>The magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.</text>
         <text>Moreover, the extra damage you deal with your Giant's Might feature increases to 1d8.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="15">
@@ -159,7 +220,7 @@
         <text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.</text>
         <text>Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="15">
@@ -168,7 +229,7 @@
         <text>15th-level Rune Knight feature</text>
         <text>You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     <autolevel level="18">
@@ -178,7 +239,7 @@
         <text>Your ability to move creatures and objects with your mind is matched by few. You can cast the telekinesis spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.</text>
         <text>Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 42</text>
         </feature>
       </autolevel>
     <autolevel level="18">
@@ -187,7 +248,7 @@
         <text>18th-level Rune Knight feature</text>
         <text>You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 44</text>
         </feature>
       </autolevel>
     </class>
