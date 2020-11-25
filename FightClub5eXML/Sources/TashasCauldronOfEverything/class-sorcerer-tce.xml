@@ -10,14 +10,14 @@
         <text></text>
         <text>Aberrant Origins</text>
         <text>d6 | Origin</text>
-        <text>1 | You were exposed to the Far Realm's warping in- fluence. You are convinced that a tentacle is now growing on you, but no one else can see it.</text>
+        <text>1 | You were exposed to the Far Realm's warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it.</text>
         <text>2 | A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you.</text>
         <text>3 | You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind.</text>
         <text>4 | You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus.</text>
         <text>5 | As a child, you had an imaginary friend that looked like a flumph or a strange platypus-like creature. One day, it gifted you with psionic powers, which have ended up being not so imaginary.</text>
         <text>6 | Your nightmares whisper the truth to you: your psionic powers are not your own. You draw them from your parasitic twin!</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -35,7 +35,7 @@
         <text>7th | Evard's black tentacles, summon aberration</text>
         <text>9th | Rary's telepathic bond, telekinesis</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -45,7 +45,7 @@
         <text>You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.</text>
         <text>The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -53,7 +53,7 @@
           <name>Sorcerous Origin: Clockwork Soul</name>
         <text>The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -81,7 +81,7 @@
         <text>5 | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism.</text>
         <text>6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -91,7 +91,7 @@
         <text>Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.</text>
         <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -100,20 +100,20 @@
         <text>3rd-level sorcerer optional class features</text>
         <text>When you choose Metamagic options, you have access to the following additional options.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 65</text>
         </feature>
       <feature optional="YES">
           <name>Metamagic Options: Seeking Spell</name>
         <text>If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the d20, and you must use the new roll.</text>
         <text>You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 65</text>
         </feature>
       <feature optional="YES">
           <name>Metamagic Options: Transmuted Spell</name>
         <text>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 65</text>
         </feature>
       </autolevel>
     <autolevel level="4">
@@ -124,7 +124,7 @@
         <text>• Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.</text>
         <text>• Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 65</text>
         </feature>
       </autolevel>
     <autolevel level="5">
@@ -133,7 +133,7 @@
         <text>5th-level sorcerer feature</text>
         <text>You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 65</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -143,7 +143,7 @@
         <text>When you cast any spell of 1st level or higher from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level.</text>
         <text>If you cast the spell using sorcery points, it requires no verbal or somatic components, and it requires no material components, unless they are consumed by the spell.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -152,7 +152,7 @@
         <text>6th-level Aberrant Mind feature</text>
         <text>You gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -162,7 +162,7 @@
         <text>You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.</text>
         <text>The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     <autolevel level="14">
@@ -175,7 +175,7 @@
         <text>• You gain a swimming speed equal to twice your walking speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.</text>
         <text>• Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="14">
@@ -185,7 +185,7 @@
         <text>You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.</text>
         <text>Once you use this bonus action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     <autolevel level="18">
@@ -195,7 +195,7 @@
         <text>You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.</text>
         <text>Once you use this feature, you can't do so again until you finish a long rest, unless you spend 5 sorcery points to use it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 66</text>
         </feature>
       </autolevel>
     <autolevel level="18">
@@ -208,7 +208,7 @@
         <text>• Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.</text>
         <text>Once you use this action, you can't use it again until you finish a long rest, unless you spend 7 sorcery points to use it again.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 68</text>
         </feature>
       </autolevel>
     </class>

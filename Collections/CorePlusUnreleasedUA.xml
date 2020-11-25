@@ -18,6 +18,7 @@
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/feats-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-base-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/items-phb.xml" />
+    <doc href="../FightClub5eXML/Sources/PlayersHandbook/optionalfeatures-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/races-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/spells-phb.xml" />
 
@@ -50,6 +51,7 @@
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-wizard-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/feats-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/items-xge.xml" />
+    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/optionalfeatures-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-phb+xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-xge.xml" />
 
@@ -154,6 +156,7 @@
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-wizard-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/feats-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/items-tce.xml" />
+    <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/optionalfeatures-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-phb+tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/races-tce.xml" />
@@ -293,15 +296,14 @@
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-featsforskills.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/feats-ua-fighterroguewizard.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/items-ua-2020spellsandmagictattoos.xml" />
+    <doc href="../FightClub5eXML/Sources/UnearthedArcana/optionalfeatures-ua-modernmagic.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-2020subclassespt4.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-bardandpaladin.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-classfeaturevariants.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-giantsoulsorcerer.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-modernmagic.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-phb+ua-thefaithful.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-ua-2020smt.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-ua-mm.xml" />
     <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-ua-tobm.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/spells-xge+ua-classfeaturevariants.xml" />
 
 </collection>

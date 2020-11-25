@@ -12,7 +12,7 @@
         <text>• You must be proficient with it.</text>
         <text>• It must lack the heavy and special properties.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 48</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -22,7 +22,7 @@
         <text>Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies.</text>
         <text>The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -31,7 +31,7 @@
         <text>3rd-level Way of Mercy feature</text>
         <text>You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die + your Wisdom modifier. You can use this feature only once per turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -41,7 +41,7 @@
         <text>Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.</text>
         <text>When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending a ki point for the healing.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -60,18 +60,15 @@
         <text>5 | Skull</text>
         <text>6 | Butterfly</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="3">
         <feature optional="YES">
           <name>Monastic Tradition: Way of the Astral Self</name>
         <text>A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their rue selves in service to the mighty.</text>
-        <name>Way of the Astral Self: Forms of Your Astral Self</name>
-        <text>   The astral self is a translucent embodiment of the monk's soul. As a result, an astral self can reflect aspects of a monk's background, ideals, flaws, and bonds, and an astral self doesn't necessarily look anything like the monk. For example, the astral self of a lanky human might be reminiscent of a minotaur-the strength of which the monk feels within. Similarly, an orc monk might manifest gossamer arms and a delicate visage, representing the gentle beauty of the orc's soul. Each astral self is unique, and some of the monks of this monastic tradition are known more for the appearance of their astral self than for their physical appearance.</text>
-        <text>   When choosing this path, consider the quirks that define your monk. Are you obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -86,7 +83,16 @@
         <text>• When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.</text>
         <text>• The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <feature optional="YES">
+          <name>Way of the Astral Self: Forms of Your Astral Self</name>
+        <text>The astral self is a translucent embodiment of the monk's soul. As a result, an astral self can reflect aspects of a monk's background, ideals, flaws, and bonds, and an astral self doesn't necessarily look anything like the monk. For example, the astral self of a lanky human might be reminiscent of a minotaur-the strength of which the monk feels within. Similarly, an orc monk might manifest gossamer arms and a delicate visage, representing the gentle beauty of the orc's soul. Each astral self is unique, and some of the monks of this monastic tradition are known more for the appearance of their astral self than for their physical appearance.</text>
+        <text>When choosing this path, consider the quirks that define your monk. Are you obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
         </feature>
       </autolevel>
     <autolevel level="3">
@@ -95,7 +101,7 @@
         <text>3rd-level monk optional class features</text>
         <text>If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 48</text>
         </feature>
       </autolevel>
     <autolevel level="4">
@@ -104,7 +110,7 @@
         <text>4th-level monk optional class features</text>
         <text>As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 48</text>
         </feature>
       </autolevel>
     <autolevel level="5">
@@ -113,7 +119,7 @@
         <text>5th-level monk optional class features</text>
         <text>When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 48</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -124,7 +130,7 @@
         <text>When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned, or stunned.</text>
         <text>When you use Hand of Harm on a creature, you can subject that creature to the poisoned condition until the end of your next turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -141,7 +147,7 @@
         <name>Way of the Astral Self: Word of the Spirit</name>
         <text>   When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
         </feature>
       </autolevel>
     <autolevel level="11">
@@ -151,7 +157,7 @@
         <text>You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can now replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing.</text>
         <text>In addition, when you make an unarmed strike with Flurry of Blows, you can use Hand of Harm with that strike without spending the ki point for Hand of Harm. You can still use Hand of Harm only once per turn.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="11">
@@ -165,7 +171,7 @@
         <name>Way of the Astral Self: Empowered Arms</name>
         <text>   Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -175,7 +181,7 @@
         <text>Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned.</text>
         <text>Once you use this feature, you can't use it again until you finish a long rest.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 49</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -189,7 +195,7 @@
         <name>Way of the Astral Self: Astral Barrage</name>
         <text>   Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.</text>
         <text></text>
-        <text>Source: Tasha's Cauldron of Everything</text>
+        <text>Source: Tasha's Cauldron of Everything p. 50</text>
         </feature>
       </autolevel>
     </class>

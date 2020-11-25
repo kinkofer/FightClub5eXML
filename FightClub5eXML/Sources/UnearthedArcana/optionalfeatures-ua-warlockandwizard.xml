@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Invocation: Aspect of the Moon (UA)</name>
+    <prerequisite>The Archfey patron</prerequisite>
+    <text>You have gained the Maiden of the Moon's favor. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading and keeping watch.
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Burning Hex (UA)</name>
+    <prerequisite>The Hexblade patron</prerequisite>
+    <text>As a bonus action, you cause a target cursed by your Hexblade's Curse to take fire damage equal to your Charisma modifier (minimum of 1).
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Caiphon's Beacon (UA)</name>
+    <prerequisite>The Great Old One patron</prerequisite>
+    <text>The purple star Caiphon is the doom of inexperienced mariners. Those who use its deceptive light to guide their travels invariably come to ruin. You gain proficiency in the Deception and Stealth skills, and you have advantage on attack rolls against charmed creatures.
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    <proficiency>, Stealth</proficiency>
+    </feat>
+  <feat>
+      <name>Invocation: Chilling Hex (UA)</name>
+    <prerequisite>The Hexblade patron</prerequisite>
+    <text>As a bonus action, you cause frost to swirl around a target cursed by your Hexblade's Curse, dealing cold damage to each of your enemies within 5 feet of the target. The cold damage equals your Charisma modifier (minimum of 1).
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Chronicle of the Raven Queen (UA)</name>
+    <prerequisite>The Raven Queen patron, Pact of the Tome</prerequisite>
+    <text>You can place a corpse's hand or similar appendage on your Book of Shadows and ask one question aloud. After 1 minute, the answer appears written in blood in your book. The answer is provided by the dead creature's spirit to the best of its knowledge and is translated into a language of your choice. You must use this ability within 1 minute of a creature's death, and a given creature can only be asked one question in this manner.
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Claw of Acamar (UA)</name>
+    <prerequisite>The Great Old One patron, Pact of the Blade</prerequisite>
+    <text>You can create a black, lead flail using your Pact of the Blade feature. The flail's head is sculpted to resemble a pair of grasping tentacles. The weapon has the reach property. When you hit a creature with it, you can expend a spell slot to deal an additional 2d8 necrotic damage to the target per spell level, and you can reduce the creature's speed to 0 feet until the end of your next turn.
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Cloak of Baalzebul (UA)</name>
+    <prerequisite>The Fiend patron</prerequisite>
+    <text>As a bonus action, you can conjure a swarm of buzzing flies around you. The swarm grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. In addition, a creature that starts its turn within 5 feet of you takes poison damage equal to your Charisma modifier. You can dismiss the swarm with another bonus action.
+Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
+    </feat>
+  <feat>
+      <name>Invocation: Curse Bringer (UA)</name>
+    <prerequisite>The Hexblade patron, Pact of the Blade</prerequisite>
+    <text>You can create a greatsword forged from silver, with black runes etched into its blade, using your Pact of the Blade feature. If you reduce a target cursed by your Hexblade's Curse to 0 hit points with this sword, you can immediately change the target of the curse to a different creature. This change doesn't extend the curse's duration.
+When you hit a creature with this weapon, you can expend a spell slot to deal an additional 2d8 slashing damage to the target per spell level, and you can reduce the creature's speed to 0 feet until the end of your next turn.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Frost Lance (UA)</name>
+    <prerequisite>Eldritch Blast cantrip, The Archfey patron</prerequisite>
+    <text>You draw on the gifts of the Prince of Frost to trap your enemies in ice. When you hit a creature with your eldritch blast cantrip one or more times on your turn, you can reduce that creature's speed by 10 feet until the end of your next turn.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Gaze of Khirad (UA)</name>
+    <prerequisite>7th level, The Great Old One patron</prerequisite>
+    <text>You gain the piercing gaze of the blue star Khirad. As an action, you can see through solid objects to a range of 30 feet until the end of the current turn. During that time, you perceive objects as ghostly, transparent images.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Grasp of Hadar (UA)</name>
+    <prerequisite>Eldritch Blast cantrip, The Great Old One patron</prerequisite>
+    <text>Once during your turn when you hit a creature with your eldritch blast cantrip, you can move that creature in a straight line 10 feet closer to yourself.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Green Lord's Gift (UA)</name>
+    <prerequisite>The Archfey patron</prerequisite>
+    <text>The Green Lord oversees a verdant realm of everlasting summer. Your soul is linked to his power. Whenever you regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Improved Pact Weapon (UA)</name>
+    <prerequisite>5th level, Pact of the Blade</prerequisite>
+    <text>Any weapon you create using your Pact of the Blade feature is a +1 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Kiss of Mephistopheles (UA)</name>
+    <prerequisite>Eldritch Blast cantrip, 5th level, The Fiend patron</prerequisite>
+    <text>You can channel the fires of Mephistopheles through your eldritch blast. When you hit a creature with that cantrip, you can cast fireball as a bonus action using a warlock spell slot. However, the spell must be centered on a creature you hit with eldritch blast.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Mace of Dispater (UA)</name>
+    <prerequisite>The Fiend patron, Pact of the Blade</prerequisite>
+    <text>When you create your pact weapon as a mace, it manifests as an iron mace forged in Dis, the second of the Nine Hells. When you hit a creature with it, you can expend a spell slot to deal an additional 2d8 force damage to the target per spell level, and you can knock the target prone if it is Huge or smaller.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Moon Bow (UA)</name>
+    <prerequisite>The Archfey patron, Pact of the Blade</prerequisite>
+    <text>You can create a longbow using your Pact of the Blade feature. When you draw back its string and fire, it creates an arrow of white wood, which vanishes after 1 minute. You have advantage on attack rolls against lycanthropes with the bow. When you hit a creature with it, you can expend a spell slot to deal an additional 2d8 radiant damage to the target per spell level.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Path of the Seeker (UA)</name>
+    <prerequisite>The Seeker patron</prerequisite>
+    <text>The Seeker bids you to travel in search of knowledge, and little can prevent you from walking this path. You ignore difficult terrain, have advantage on all checks to escape a grapple, manacles, or rope bindings, and advantage on saving throws against being paralyzed.
+Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
+    </feat>
+  <feat>
+      <name>Invocation: Raven Queen's Blessing (UA)</name>
+    <prerequisite>Eldritch Blast cantrip, The Raven Queen patron</prerequisite>
+    <text>When you score a critical hit with your eldritch blast cantrip, pick yourself or an ally you can see within 30 feet of you. The chosen creature can immediately expend a Hit Die to regain hit points equal to the roll + the creature's Constitution modifier (minimum of 1 hit point).
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Relentless Hex (UA)</name>
+    <prerequisite>5th level, The Hexblade patron</prerequisite>
+    <text>Your Hexblade's Curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport to a space you can see within 5 feet of the target cursed by your Hexblade's Curse. To do so, you must be able to see the target and must be within 30 feet of it.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Sea Twins' Gift (UA)</name>
+    <prerequisite>The Archfey patron</prerequisite>
+    <text>The Sea Twins rule seas in the Feywild. Their gift allows you to travel through water with ease. You can breathe underwater, and you gain a swimming speed equal to your walking speed.
+You can also cast water breathing using a warlock spell slot. Once you cast it using this invocation, you can't do so again until you finish a long rest.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Seeker's Speech (UA)</name>
+    <prerequisite>The Seeker patron</prerequisite>
+    <text>Your quest for knowledge allows you to master any spoken language. When you complete a long rest, you can pick two languages. You gain the ability to speak, read, and write the chosen languages until you finish your next long rest.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Shroud of Ulban (UA)</name>
+    <prerequisite>18th level, The Great Old One patron</prerequisite>
+    <text>The blue-white star Ulban maintains a fickle presence among the stars, fluttering into view only to herald a dire omen. As an action, you can turn invisible for 1 minute. If you attack, deal damage, or force a creature to make a saving throw, you become visible at the end of the current turn.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Superior Pact Weapon (UA)</name>
+    <prerequisite>9th level, Pact of the Blade</prerequisite>
+    <text>Any weapon you create using your Pact of the Blade feature is a +2 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Tomb of Levistus (UA)</name>
+    <prerequisite>The Fiend patron</prerequisite>
+    <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed drops to 0, and you are incapacitated. All of these effects end when the ice melts.
+Once you use this invocation, you can't use it again until you finish a short or long rest.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  <feat>
+      <name>Invocation: Ultimate Pact Weapon (UA)</name>
+    <prerequisite>15th level, Pact of the Blade</prerequisite>
+    <text>Any weapon you create using your Pact of the Blade feature is a +3 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
+Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
+    </feat>
+  </compendium>
