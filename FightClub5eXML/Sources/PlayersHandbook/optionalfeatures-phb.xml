@@ -7,12 +7,6 @@
 Source: Player's Handbook p. 110</text>
     </feat>
   <feat>
-      <name>Invocation: Archery</name>
-    <prerequisite></prerequisite>
-    <text>You gain a +2 bonus to attack rolls you make with ranged weapons.
-Source: Player's Handbook p. 72, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
-    </feat>
-  <feat>
       <name>Invocation: Armor of Shadows</name>
     <prerequisite></prerequisite>
     <text>You can cast mage armor on yourself at will, without expending a spell slot or material components.
@@ -57,10 +51,10 @@ Source: Player's Handbook p. 110</text>
 Source: Player's Handbook p. 110</text>
     </feat>
   <feat>
-      <name>Invocation: Defense</name>
+      <name>Maneuver: Commander's Strike</name>
     <prerequisite></prerequisite>
-    <text>While you are wearing armor, you gain a +1 bonus to AC.
-Source: Player's Handbook p. 72, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
+    <text>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Devil's Sight</name>
@@ -69,16 +63,22 @@ Source: Player's Handbook p. 72, Player's Handbook p. 84, Player's Handbook p. 9
 Source: Player's Handbook p. 110</text>
     </feat>
   <feat>
+      <name>Maneuver: Disarming Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Distracting Strike</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
       <name>Invocation: Dreadful Word</name>
     <prerequisite>7th level</prerequisite>
     <text>You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.
 Source: Player's Handbook p. 110</text>
-    </feat>
-  <feat>
-      <name>Invocation: Dueling</name>
-    <prerequisite></prerequisite>
-    <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
     </feat>
   <feat>
       <name>Invocation: Eldritch Sight</name>
@@ -93,10 +93,23 @@ Source: Player's Handbook p. 110</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Maneuver: Evasive Footwork</name>
+    <prerequisite></prerequisite>
+    <text>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
       <name>Invocation: Eyes of the Rune Keeper</name>
     <prerequisite></prerequisite>
     <text>You can read all writing.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Feinting Attack</name>
+    <prerequisite></prerequisite>
+    <text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll this turn against that creature. If that attack hits, add the superiority die to the attack's damage roll.
+The advantage is lost if not used on the turn you gain it.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Fiendish Vigor</name>
@@ -111,16 +124,28 @@ Source: Player's Handbook p. 111</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
-      <name>Invocation: Great Weapon Fighting</name>
+      <name>Maneuver: Goading Attack</name>
     <prerequisite></prerequisite>
-    <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-Source: Player's Handbook p. 72, Player's Handbook p. 84</text>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Lifedrinker</name>
     <prerequisite>12th level, Pact of the Blade</prerequisite>
     <text>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1).
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Lunging Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Maneuvering Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Mask of Many Faces</name>
@@ -133,6 +158,12 @@ Source: Player's Handbook p. 111</text>
     <prerequisite>15th level</prerequisite>
     <text>You can cast alter self at will, without expending a spell slot.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Menacing Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Minions of Chaos</name>
@@ -165,16 +196,40 @@ Source: Player's Handbook p. 111</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
-      <name>Invocation: Protection</name>
+      <name>Maneuver: Parry</name>
     <prerequisite></prerequisite>
-    <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-Source: Player's Handbook p. 72, Player's Handbook p. 84</text>
+    <text>When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Precision Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Pushing Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Rally</name>
+    <prerequisite></prerequisite>
+    <text>On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Repelling Blast</name>
     <prerequisite>Eldritch Blast cantrip</prerequisite>
     <text>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Riposte</name>
+    <prerequisite></prerequisite>
+    <text>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Sculptor of Flesh</name>
@@ -189,6 +244,12 @@ Source: Player's Handbook p. 111</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Maneuver: Sweeping Attack</name>
+    <prerequisite></prerequisite>
+    <text>When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
+Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
       <name>Invocation: Thief of Five Fates</name>
     <prerequisite></prerequisite>
     <text>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.
@@ -201,10 +262,10 @@ Source: Player's Handbook p. 111</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
-      <name>Invocation: Two-Weapon Fighting</name>
+      <name>Maneuver: Trip Attack</name>
     <prerequisite></prerequisite>
-    <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Invocation: Visions of Distant Realms</name>
@@ -229,144 +290,5 @@ Source: Player's Handbook p. 111</text>
     <prerequisite>15th level</prerequisite>
     <text>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 Source: Player's Handbook p. 111</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Archery</name>
-    <prerequisite></prerequisite>
-    <text>You gain a +2 bonus to attack rolls you make with ranged weapons.
-Source: Player's Handbook p. 72, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3
-Source: Player's Handbook p. 72, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Commander's Strike</name>
-    <prerequisite></prerequisite>
-    <text>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Defense</name>
-    <prerequisite></prerequisite>
-    <text>While you are wearing armor, you gain a +1 bonus to AC.
-Source: Player's Handbook p. 72, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3
-Source: Player's Handbook p. 72, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Disarming Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Distracting Strike</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Dueling</name>
-    <prerequisite></prerequisite>
-    <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 84, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Evasive Footwork</name>
-    <prerequisite></prerequisite>
-    <text>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Feinting Attack</name>
-    <prerequisite></prerequisite>
-    <text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll this turn against that creature. If that attack hits, add the superiority die to the attack's damage roll.
-The advantage is lost if not used on the turn you gain it.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Goading Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Great Weapon Fighting</name>
-    <prerequisite></prerequisite>
-    <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-Source: Player's Handbook p. 72, Player's Handbook p. 84
-Source: Player's Handbook p. 72, Player's Handbook p. 84</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Lunging Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Maneuvering Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Menacing Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Parry</name>
-    <prerequisite></prerequisite>
-    <text>When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Precision Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Protection</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-Source: Player's Handbook p. 72, Player's Handbook p. 84
-Source: Player's Handbook p. 72, Player's Handbook p. 84</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Pushing Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Rally</name>
-    <prerequisite></prerequisite>
-    <text>On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Riposte</name>
-    <prerequisite></prerequisite>
-    <text>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Sweeping Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Trip Attack</name>
-    <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
-Source: Player's Handbook p. 74</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Two-Weapon Fighting</name>
-    <prerequisite></prerequisite>
-    <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3
-Source: Player's Handbook p. 72, Xanathar's Guide to Everything p. 15, Unearthed Arcana: Revised Subclasses p. 2, Player's Handbook p. 91, Unearthed Arcana: The Ranger Revised p. 3</text>
     </feat>
   </compendium>

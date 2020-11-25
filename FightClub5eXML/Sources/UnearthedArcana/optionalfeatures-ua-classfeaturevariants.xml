@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <feat>
-      <name>Invocation: Blessed Warrior (UA)</name>
+      <name>Maneuver: Ambush (UA)</name>
     <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-Source: Unearthed Arcana: Class Feature Variants p. 6</text>
+    <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.
+Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
-      <name>Invocation: Blind Fighting (UA)</name>
+      <name>Maneuver: Bait and Switch (UA)</name>
     <prerequisite></prerequisite>
-    <text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.
-Source: Unearthed Arcana: Class Feature Variants p. 12</text>
+    <text>When you're within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn't provoke opportunity attacks.
+Roll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.
+Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
       <name>Invocation: Bond of the Talisman (UA)</name>
@@ -19,16 +20,16 @@ Source: Unearthed Arcana: Class Feature Variants p. 12</text>
 Source: Unearthed Arcana: Class Feature Variants p. 11</text>
     </feat>
   <feat>
+      <name>Maneuver: Brace (UA)</name>
+    <prerequisite></prerequisite>
+    <text>When an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack's damage roll.
+Source: Unearthed Arcana: Class Feature Variants p. 5</text>
+    </feat>
+  <feat>
       <name>Invocation: Chain Master's Fury (UA)</name>
     <prerequisite>9th level, Pact of the Chain</prerequisite>
     <text>As a bonus action, you can command your familiar to make one attack.
 Source: Unearthed Arcana: Class Feature Variants p. 11</text>
-    </feat>
-  <feat>
-      <name>Invocation: Druidic Warrior (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-Source: Unearthed Arcana: Class Feature Variants p. 7</text>
     </feat>
   <feat>
       <name>Invocation: Eldritch Armor (UA)</name>
@@ -59,12 +60,6 @@ As an action, you can magically erase a name on the page by touching the name on
 Source: Unearthed Arcana: Class Feature Variants p. 11</text>
     </feat>
   <feat>
-      <name>Invocation: Interception (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-Source: Unearthed Arcana: Class Feature Variants p. 12</text>
-    </feat>
-  <feat>
       <name>Invocation: Investment of the Chain Master (UA)</name>
     <prerequisite>Pact of the Chain</prerequisite>
     <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
@@ -84,74 +79,6 @@ Source: Unearthed Arcana: Class Feature Variants p. 12</text>
       <name>Invocation: Rebuke of the Talisman (UA)</name>
     <prerequisite>Pact of the Talisman</prerequisite>
     <text>When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman's wearer.
-Source: Unearthed Arcana: Class Feature Variants p. 12</text>
-    </feat>
-  <feat>
-      <name>Invocation: Superior Technique (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Invocation: Thrown Weapon Fighting (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.
-Source: Unearthed Arcana: Class Feature Variants p. 13</text>
-    </feat>
-  <feat>
-      <name>Invocation: Unarmed Fighting (UA)</name>
-    <prerequisite></prerequisite>
-    <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.
-When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
-Source: Unearthed Arcana: Class Feature Variants p. 13</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Ambush (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.
-Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Bait and Switch (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When you're within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn't provoke opportunity attacks.
-Roll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.
-Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Blessed Warrior (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-Source: Unearthed Arcana: Class Feature Variants p. 6
-Source: Unearthed Arcana: Class Feature Variants p. 6</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Blind Fighting (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.
-Source: Unearthed Arcana: Class Feature Variants p. 12
-Source: Unearthed Arcana: Class Feature Variants p. 12</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Brace (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack's damage roll.
-Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Druidic Warrior (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-Source: Unearthed Arcana: Class Feature Variants p. 7
-Source: Unearthed Arcana: Class Feature Variants p. 7</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Interception (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-Source: Unearthed Arcana: Class Feature Variants p. 12
 Source: Unearthed Arcana: Class Feature Variants p. 12</text>
     </feat>
   <feat>
@@ -177,29 +104,5 @@ Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     <prerequisite></prerequisite>
     <text>When you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Superior Technique (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-Source: Unearthed Arcana: Class Feature Variants p. 5
-Source: Unearthed Arcana: Class Feature Variants p. 5</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Thrown Weapon Fighting (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.
-Source: Unearthed Arcana: Class Feature Variants p. 13
-Source: Unearthed Arcana: Class Feature Variants p. 13</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Unarmed Fighting (UA) (UA)</name>
-    <prerequisite></prerequisite>
-    <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.
-When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
-Source: Unearthed Arcana: Class Feature Variants p. 13
-Source: Unearthed Arcana: Class Feature Variants p. 13</text>
     </feat>
   </compendium>
