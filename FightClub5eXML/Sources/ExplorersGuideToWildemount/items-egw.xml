@@ -112,7 +112,7 @@ Source: Explorer's Guide to Wildemount p. 152</text>
     <type>M</type>
     <weight>7</weight>
     <value>30.0</value>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra 1d6 necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
@@ -197,7 +197,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <type>M</type>
     <weight>2</weight>
     <value>15.0</value>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -261,7 +261,7 @@ Source: Explorer's Guide to Wildemount p. 271</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -348,7 +348,7 @@ Source: Explorer's Guide to Wildemount p. 272</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>This snakeskin whip is touched by the power of Zehir and ends in five animated serpent heads.
@@ -609,7 +609,7 @@ Source: Explorer's Guide to Wildemount p. 277</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth.
@@ -727,7 +727,7 @@ Source: Explorer's Guide to Wildemount p. 273</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Carrying the power of Bane, this adamantine morningstar sports foot-long spikes and has a jagged blade on its pommel.
@@ -801,7 +801,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Black, blue, green, red, and white gems carved in the form of dragon heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of Tiamat.
