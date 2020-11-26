@@ -15,6 +15,12 @@ Once you use this invocation, you can't use it again until you finish a short or
 Source: Unearthed Arcana: Revised Class Options p. 5</text>
     </feat>
   <feat>
+      <name>Maneuver: Control Mount (UA)</name>
+    <prerequisite></prerequisite>
+    <text>When you make a Wisdom (Animal Handling) check to influence a creature that you or an ally is riding, you can expend one superiority die, roll it, and add the number rolled to the check. You can do this before or after rolling the d20, but before applying the results of the check.
+Source: Unearthed Arcana: Revised Class Options p. 3</text>
+    </feat>
+  <feat>
       <name>Invocation: Eldritch Smite (UA)</name>
     <prerequisite>5th level, Pact of the Blade</prerequisite>
     <text>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot. If the target takes any of this damage, you can knock the target prone if it is Huge or smaller.
@@ -69,6 +75,12 @@ Source: Unearthed Arcana: Revised Class Options p. 6</text>
 Source: Unearthed Arcana: Revised Class Options p. 6</text>
     </feat>
   <feat>
+      <name>Maneuver: Precision Attack (UA)</name>
+    <prerequisite></prerequisite>
+    <text>When you make a weapon attack against a creature, you can expend one superiority die, roll it, and add it to the attack roll. You can use this ability before or after rolling the d20, but before any of the effects of the attack are applied.
+Source: Unearthed Arcana: Revised Class Options p. 3</text>
+    </feat>
+  <feat>
       <name>Invocation: Relentless Hex (UA)</name>
     <prerequisite>7th level</prerequisite>
     <text>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
@@ -92,18 +104,6 @@ Source: Unearthed Arcana: Revised Class Options p. 6</text>
     <prerequisite>7th level</prerequisite>
     <text>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
 Source: Unearthed Arcana: Revised Class Options p. 7</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Control Mount (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When you make a Wisdom (Animal Handling) check to influence a creature that you or an ally is riding, you can expend one superiority die, roll it, and add the number rolled to the check. You can do this before or after rolling the d20, but before applying the results of the check.
-Source: Unearthed Arcana: Revised Class Options p. 3</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Precision Attack (UA)</name>
-    <prerequisite></prerequisite>
-    <text>When you make a weapon attack against a creature, you can expend one superiority die, roll it, and add it to the attack roll. You can use this ability before or after rolling the d20, but before any of the effects of the attack are applied.
-Source: Unearthed Arcana: Revised Class Options p. 3</text>
     </feat>
   <feat>
       <name>Maneuver: Trip Attack (UA)</name>

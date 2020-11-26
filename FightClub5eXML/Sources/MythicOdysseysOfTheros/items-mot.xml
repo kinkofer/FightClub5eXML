@@ -5,7 +5,7 @@
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -28,7 +28,7 @@ Source: Mythic Odysseys of Theros p. 198</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -149,7 +149,7 @@ Source: Mythic Odysseys of Theros p. 200</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod.

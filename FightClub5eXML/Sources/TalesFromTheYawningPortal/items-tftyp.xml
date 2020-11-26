@@ -47,7 +47,7 @@ Source: Tales from the Yawning Portal p. 228</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
@@ -109,7 +109,7 @@ Source: Tales from the Yawning Portal p. 228</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>

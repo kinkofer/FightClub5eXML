@@ -102,7 +102,7 @@ Source: Tomb of Annihilation p. 141</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>

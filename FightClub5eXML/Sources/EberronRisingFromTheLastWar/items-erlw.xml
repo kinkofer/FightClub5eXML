@@ -96,7 +96,7 @@ Source: Eberron: Rising from the Last War p. 244</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>This long, whip-like strand of tough muscle bears a sharp stinger at one end. To attune to this symbiotic weapon, you wrap the whip around your wrist for the entire attunement period, during which time the whip painfully embeds its tendrils into your arm.

@@ -24,7 +24,7 @@
     <type>M</type>
     <weight>4</weight>
     <value>10.0</value>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -36,7 +36,7 @@
     <type>R</type>
     <weight>1</weight>
     <value>10.0</value>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -166,7 +166,7 @@ Source: Player's Handbook p. 151</text>
     <type>M</type>
     <weight>6</weight>
     <value>100.0</value>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -180,7 +180,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
     <type>M</type>
     <weight>2</weight>
     <value>10.0</value>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -191,7 +191,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
     <type>M</type>
     <weight>6</weight>
     <value>20.0</value>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -202,7 +202,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
     <type>M</type>
     <weight>7</weight>
     <value>30.0</value>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -224,7 +224,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
     <type>M</type>
     <weight>6</weight>
     <value>50.0</value>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -235,7 +235,7 @@ Source: Eberron: Rising from the Last War p. 21, Wayfinder's Guide to Eberron p.
     <type>M</type>
     <weight>6</weight>
     <value>20.0</value>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -259,7 +259,7 @@ Source: Player's Handbook p. 145</text>
     <type>R</type>
     <weight>3</weight>
     <value>75.0</value>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -283,7 +283,7 @@ Source: Player's Handbook p. 145</text>
     <type>R</type>
     <weight>18</weight>
     <value>50.0</value>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -305,7 +305,7 @@ Source: Player's Handbook p. 144</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -329,7 +329,7 @@ Source: Out of the Abyss p. 224</text>
     <type>M</type>
     <weight>6</weight>
     <value>10.0</value>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -388,7 +388,7 @@ Source: Out of the Abyss p. 224</text>
     <type>R</type>
     <weight>2</weight>
     <value>50.0</value>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -400,7 +400,7 @@ Source: Out of the Abyss p. 224</text>
     <type>M</type>
     <weight>3</weight>
     <value>15.0</value>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -423,7 +423,7 @@ Source: Out of the Abyss p. 224</text>
     <type>M</type>
     <weight>10</weight>
     <value>10.0</value>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -434,7 +434,7 @@ Source: Out of the Abyss p. 224</text>
     <type>M</type>
     <weight>4</weight>
     <value>15.0</value>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -445,7 +445,7 @@ Source: Out of the Abyss p. 224</text>
     <type>R</type>
     <weight>3</weight>
     <value>1.0</value>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 Source: Player's Handbook p. 149</text>
@@ -479,7 +479,7 @@ Source: Player's Handbook p. 144</text>
     <type>M</type>
     <weight>18</weight>
     <value>5.0</value>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -517,7 +517,7 @@ Source: Player's Handbook p. 145</text>
     <type>M</type>
     <weight>2</weight>
     <value>25.0</value>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -564,7 +564,7 @@ Source: Player's Handbook p. 144</text>
     <type>M</type>
     <weight>3</weight>
     <value>25.0</value>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -598,7 +598,7 @@ Source: Player's Handbook p. 144</text>
     <type>M</type>
     <weight>2</weight>
     <value>10.0</value>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -712,7 +712,7 @@ Source: Player's Handbook p. 144</text>
     <type>M</type>
     <weight>4</weight>
     <value>5.0</value>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -735,7 +735,7 @@ Source: Player's Handbook p. 151</text>
     <type>M</type>
     <weight>2</weight>
     <value>5.0</value>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -746,7 +746,7 @@ Source: Player's Handbook p. 151</text>
     <type>M</type>
     <weight>2</weight>
     <value>15.0</value>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -758,7 +758,7 @@ Source: Player's Handbook p. 151</text>
     <type>M</type>
     <weight>3</weight>
     <value>2.0</value>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 149</text>
@@ -1037,7 +1037,7 @@ Source: Dungeon Master's Guide p. 200</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -1050,7 +1050,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -1101,7 +1101,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -1116,7 +1116,7 @@ Source: Dungeon Master's Guide p. 213, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1128,7 +1128,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1140,7 +1140,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1164,7 +1164,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1176,7 +1176,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1188,7 +1188,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -1214,7 +1214,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -1227,7 +1227,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -1253,7 +1253,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -1306,7 +1306,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -1319,7 +1319,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -1344,7 +1344,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1356,7 +1356,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1368,7 +1368,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1393,7 +1393,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1405,7 +1405,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1430,7 +1430,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1481,7 +1481,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -1495,7 +1495,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1507,7 +1507,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -1520,7 +1520,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1546,7 +1546,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 You have a +1 bonus to attack rolls made with this weapon.
@@ -1813,7 +1813,7 @@ Source: Dungeon Master's Guide p. 200</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -1826,7 +1826,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -1877,7 +1877,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -1892,7 +1892,7 @@ Source: Dungeon Master's Guide p. 213, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -1904,7 +1904,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -1916,7 +1916,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -1940,7 +1940,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -1952,7 +1952,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -1964,7 +1964,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -1990,7 +1990,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -2003,7 +2003,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -2029,7 +2029,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -2082,7 +2082,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -2095,7 +2095,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -2120,7 +2120,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2132,7 +2132,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2144,7 +2144,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2169,7 +2169,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2181,7 +2181,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2206,7 +2206,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2257,7 +2257,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -2271,7 +2271,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2283,7 +2283,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -2296,7 +2296,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -2322,7 +2322,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 You have a +2 bonus to attack rolls made with this weapon.
@@ -2589,7 +2589,7 @@ Source: Dungeon Master's Guide p. 200</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -2602,7 +2602,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -2653,7 +2653,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -2668,7 +2668,7 @@ Source: Dungeon Master's Guide p. 213, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2680,7 +2680,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2692,7 +2692,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2716,7 +2716,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2728,7 +2728,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2740,7 +2740,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -2766,7 +2766,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -2779,7 +2779,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -2805,7 +2805,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -2858,7 +2858,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -2871,7 +2871,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -2896,7 +2896,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2908,7 +2908,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2920,7 +2920,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2945,7 +2945,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2957,7 +2957,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -2982,7 +2982,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -3033,7 +3033,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -3047,7 +3047,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -3059,7 +3059,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -3072,7 +3072,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -3098,7 +3098,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 You have a +3 bonus to attack rolls made with this weapon.
@@ -3109,7 +3109,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -3126,7 +3126,7 @@ Source: Explorer's Guide to Wildemount p. 265, Wayfinder's Guide to Eberron p. 7
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
@@ -3140,7 +3140,7 @@ Source: Explorer's Guide to Wildemount p. 265</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -3155,7 +3155,7 @@ Source: Explorer's Guide to Wildemount p. 265</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
@@ -3169,7 +3169,7 @@ Source: Explorer's Guide to Wildemount p. 265</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
@@ -3183,7 +3183,7 @@ Source: Explorer's Guide to Wildemount p. 265</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
@@ -3395,7 +3395,7 @@ Source: Dungeon Master's Guide p. 150</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -3407,7 +3407,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -3454,7 +3454,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -3468,7 +3468,7 @@ Source: Xanathar's Guide to Everything p. 78, Wayfinder's Guide to Eberron p. 74
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3479,7 +3479,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3490,7 +3490,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3512,7 +3512,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3523,7 +3523,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3534,7 +3534,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -3558,7 +3558,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -3570,7 +3570,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -3594,7 +3594,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -3643,7 +3643,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -3655,7 +3655,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -3678,7 +3678,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3689,7 +3689,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3700,7 +3700,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3723,7 +3723,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3734,7 +3734,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3757,7 +3757,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3804,7 +3804,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -3817,7 +3817,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3828,7 +3828,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -3840,7 +3840,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>Whenever you hit an object with this weapon, the hit is a critical hit.
@@ -3864,7 +3864,7 @@ Source: Xanathar's Guide to Everything p. 78</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -3902,7 +3902,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -3927,7 +3927,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -3953,7 +3953,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -3979,7 +3979,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -4004,7 +4004,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -4029,7 +4029,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -4041,7 +4041,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -4053,7 +4053,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -4091,7 +4091,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -4105,7 +4105,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -4117,7 +4117,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -4130,7 +4130,7 @@ Source: Eberron: Rising from the Last War p. 276, Wayfinder's Guide to Eberron p
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -6312,7 +6312,7 @@ Source: Player's Handbook p. 157</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -6327,7 +6327,7 @@ Source: Dungeon Master's Guide p. 155</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
@@ -6356,7 +6356,7 @@ Source: Dungeon Master's Guide p. 155</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -6372,7 +6372,7 @@ Source: Lost Laboratory of Kwalish p. 53, Wayfinder's Guide to Eberron p. 74</te
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Constitution saving throw in addition to suffering the attack's normal effects. On a failed save, the creature is restrained and must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for 1 hour.
@@ -6385,7 +6385,7 @@ Source: Lost Laboratory of Kwalish p. 53</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -6399,7 +6399,7 @@ Source: Lost Laboratory of Kwalish p. 53</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Constitution saving throw in addition to suffering the attack's normal effects. On a failed save, the creature is restrained and must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for 1 hour.
@@ -6412,7 +6412,7 @@ Source: Lost Laboratory of Kwalish p. 53</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Constitution saving throw in addition to suffering the attack's normal effects. On a failed save, the creature is restrained and must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for 1 hour.
@@ -6425,7 +6425,7 @@ Source: Lost Laboratory of Kwalish p. 53</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Constitution saving throw in addition to suffering the attack's normal effects. On a failed save, the creature is restrained and must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for 1 hour.
@@ -6603,7 +6603,7 @@ Source: Xanathar's Guide to Everything p. 136</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -6617,7 +6617,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -6672,7 +6672,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -6688,7 +6688,7 @@ Source: Explorer's Guide to Wildemount p. 266, Wayfinder's Guide to Eberron p. 7
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6701,7 +6701,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6714,7 +6714,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6740,7 +6740,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6753,7 +6753,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6766,7 +6766,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -6794,7 +6794,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -6808,7 +6808,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -6836,7 +6836,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -6893,7 +6893,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -6907,7 +6907,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -6934,7 +6934,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6947,7 +6947,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6960,7 +6960,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -6973,7 +6973,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7000,7 +7000,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7013,7 +7013,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7040,7 +7040,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7095,7 +7095,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -7110,7 +7110,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7123,7 +7123,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -7137,7 +7137,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7165,7 +7165,7 @@ Source: Explorer's Guide to Wildemount p. 266</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -7182,7 +7182,7 @@ Source: Dungeon Master's Guide p. 161, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
@@ -7196,7 +7196,7 @@ Source: Dungeon Master's Guide p. 161</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -7211,7 +7211,7 @@ Source: Dungeon Master's Guide p. 161</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
@@ -7225,7 +7225,7 @@ Source: Dungeon Master's Guide p. 161</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
@@ -7239,7 +7239,7 @@ Source: Dungeon Master's Guide p. 161</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
@@ -7253,7 +7253,7 @@ Source: Dungeon Master's Guide p. 161</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -7269,7 +7269,7 @@ Source: Dungeon Master's Guide p. 164, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -7282,7 +7282,7 @@ Source: Dungeon Master's Guide p. 164</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -7296,7 +7296,7 @@ Source: Dungeon Master's Guide p. 164</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -7309,7 +7309,7 @@ Source: Dungeon Master's Guide p. 164</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -7322,7 +7322,7 @@ Source: Dungeon Master's Guide p. 164</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -7335,7 +7335,7 @@ Source: Dungeon Master's Guide p. 164</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -7352,7 +7352,7 @@ Source: Dungeon Master's Guide p. 166, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7366,7 +7366,7 @@ Source: Dungeon Master's Guide p. 166</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -7381,7 +7381,7 @@ Source: Dungeon Master's Guide p. 166</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7395,7 +7395,7 @@ Source: Dungeon Master's Guide p. 166</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7409,7 +7409,7 @@ Source: Dungeon Master's Guide p. 166</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -7588,7 +7588,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -7600,7 +7600,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -7647,7 +7647,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -7661,7 +7661,7 @@ Source: Monster Manual p. 126, Wayfinder's Guide to Eberron p. 74</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7672,7 +7672,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7683,7 +7683,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7705,7 +7705,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7716,7 +7716,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7727,7 +7727,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -7751,7 +7751,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -7763,7 +7763,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -7787,7 +7787,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -7836,7 +7836,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -7848,7 +7848,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -7871,7 +7871,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7882,7 +7882,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7893,7 +7893,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7916,7 +7916,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7927,7 +7927,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7950,7 +7950,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -7997,7 +7997,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -8010,7 +8010,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -8021,7 +8021,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -8033,7 +8033,7 @@ Source: Monster Manual p. 126</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
@@ -8057,7 +8057,7 @@ Source: Monster Manual p. 126</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8073,7 +8073,7 @@ Source: Dungeon Master's Guide p. 170, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
@@ -8086,7 +8086,7 @@ Source: Dungeon Master's Guide p. 170</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8100,7 +8100,7 @@ Source: Dungeon Master's Guide p. 170</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
@@ -8113,7 +8113,7 @@ Source: Dungeon Master's Guide p. 170</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
@@ -8126,7 +8126,7 @@ Source: Dungeon Master's Guide p. 170</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
@@ -8139,7 +8139,7 @@ Source: Dungeon Master's Guide p. 170</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8157,7 +8157,7 @@ Source: Dungeon Master's Guide p. 171, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
@@ -8172,7 +8172,7 @@ Source: Dungeon Master's Guide p. 171</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8188,7 +8188,7 @@ Source: Dungeon Master's Guide p. 171</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
@@ -8203,7 +8203,7 @@ Source: Dungeon Master's Guide p. 171</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
@@ -8218,7 +8218,7 @@ Source: Dungeon Master's Guide p. 171</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
@@ -8233,7 +8233,7 @@ Source: Dungeon Master's Guide p. 171</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8248,7 +8248,7 @@ Source: Lost Laboratory of Kwalish p. 55, Wayfinder's Guide to Eberron p. 74</te
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Choose a magical bonus of +1 to +3. This sword gains that bonus to its attack and damage rolls. For each point of bonus you choose for the sword, you take a corresponding penalty (−1 to −3) to your death saving throws. You can change this magical bonus each day at dawn.
@@ -8260,7 +8260,7 @@ Source: Lost Laboratory of Kwalish p. 55</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8273,7 +8273,7 @@ Source: Lost Laboratory of Kwalish p. 55</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Choose a magical bonus of +1 to +3. This sword gains that bonus to its attack and damage rolls. For each point of bonus you choose for the sword, you take a corresponding penalty (−1 to −3) to your death saving throws. You can change this magical bonus each day at dawn.
@@ -8285,7 +8285,7 @@ Source: Lost Laboratory of Kwalish p. 55</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Choose a magical bonus of +1 to +3. This sword gains that bonus to its attack and damage rolls. For each point of bonus you choose for the sword, you take a corresponding penalty (−1 to −3) to your death saving throws. You can change this magical bonus each day at dawn.
@@ -8297,7 +8297,7 @@ Source: Lost Laboratory of Kwalish p. 55</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Choose a magical bonus of +1 to +3. This sword gains that bonus to its attack and damage rolls. For each point of bonus you choose for the sword, you take a corresponding penalty (−1 to −3) to your death saving throws. You can change this magical bonus each day at dawn.
@@ -8309,7 +8309,7 @@ Source: Lost Laboratory of Kwalish p. 55</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8324,7 +8324,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -8353,7 +8353,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8370,7 +8370,7 @@ Source: Dungeon Master's Guide p. 172, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -8384,7 +8384,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8399,7 +8399,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -8413,7 +8413,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -8427,7 +8427,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -8441,7 +8441,7 @@ Source: Dungeon Master's Guide p. 172</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8454,7 +8454,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -8505,7 +8505,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8520,7 +8520,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223, Wayfinder's Guide to Eberron
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8532,7 +8532,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8544,7 +8544,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8568,7 +8568,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8580,7 +8580,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8592,7 +8592,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -8618,7 +8618,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -8631,7 +8631,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -8657,7 +8657,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -8710,7 +8710,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -8723,7 +8723,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -8748,7 +8748,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8760,7 +8760,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8772,7 +8772,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8784,7 +8784,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8809,7 +8809,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8821,7 +8821,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8846,7 +8846,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8897,7 +8897,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -8911,7 +8911,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8923,7 +8923,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -8936,7 +8936,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
@@ -8962,7 +8962,7 @@ Source: Baldur's Gate: Descent Into Avernus p. 223</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -8979,7 +8979,7 @@ Source: Dungeon Master's Guide p. 174, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
@@ -8993,7 +8993,7 @@ Source: Dungeon Master's Guide p. 174</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -9008,7 +9008,7 @@ Source: Dungeon Master's Guide p. 174</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
@@ -9022,7 +9022,7 @@ Source: Dungeon Master's Guide p. 174</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
@@ -9036,7 +9036,7 @@ Source: Dungeon Master's Guide p. 174</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
@@ -9720,7 +9720,7 @@ Source: Eberron: Rising from the Last War p. 278</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -9738,7 +9738,7 @@ Source: Dungeon Master's Guide p. 179, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
@@ -9753,7 +9753,7 @@ Source: Dungeon Master's Guide p. 179</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -9769,7 +9769,7 @@ Source: Dungeon Master's Guide p. 179</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
@@ -9784,7 +9784,7 @@ Source: Dungeon Master's Guide p. 179</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
@@ -9799,7 +9799,7 @@ Source: Dungeon Master's Guide p. 179</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
@@ -9992,7 +9992,7 @@ Source: Dungeon Master's Guide p. 181</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -10007,7 +10007,7 @@ Source: Volo's Guide to Monsters p. 81, Wayfinder's Guide to Eberron p. 74</text
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
@@ -10019,7 +10019,7 @@ Source: Volo's Guide to Monsters p. 81</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -10032,7 +10032,7 @@ Source: Volo's Guide to Monsters p. 81</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
@@ -10044,7 +10044,7 @@ Source: Volo's Guide to Monsters p. 81</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
@@ -10056,7 +10056,7 @@ Source: Volo's Guide to Monsters p. 81</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
@@ -10487,7 +10487,7 @@ Source: Guildmasters' Guide to Ravnica p. 179</text>
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -10501,7 +10501,7 @@ Source: Xanathar's Guide to Everything p. 138, Wayfinder's Guide to Eberron p. 7
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet.
@@ -10512,7 +10512,7 @@ Source: Xanathar's Guide to Everything p. 138</text>
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -10524,7 +10524,7 @@ Source: Xanathar's Guide to Everything p. 138</text>
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet.
@@ -10535,7 +10535,7 @@ Source: Xanathar's Guide to Everything p. 138</text>
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet.
@@ -10546,7 +10546,7 @@ Source: Xanathar's Guide to Everything p. 138</text>
     <detail>minor, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet.
@@ -10557,7 +10557,7 @@ Source: Xanathar's Guide to Everything p. 138</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -10574,7 +10574,7 @@ Source: Dungeon Master's Guide p. 183, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -10588,7 +10588,7 @@ Source: Dungeon Master's Guide p. 183</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -10603,7 +10603,7 @@ Source: Dungeon Master's Guide p. 183</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -10617,7 +10617,7 @@ Source: Dungeon Master's Guide p. 183</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -10631,7 +10631,7 @@ Source: Dungeon Master's Guide p. 183</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -10853,7 +10853,7 @@ Source: Eberron: Rising from the Last War p. 278, Wayfinder's Guide to Eberron p
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -10891,7 +10891,7 @@ Source: Lost Laboratory of Kwalish p. 56, Wayfinder's Guide to Eberron p. 74</te
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Wisdom saving throw in addition to suffering the attack's normal effects. On a failed save, the creature also suffers the effects of a polymorph spell. Roll a d20 and consult the following table to determine the form the target creature is transformed into.
@@ -10926,7 +10926,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -10962,7 +10962,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Wisdom saving throw in addition to suffering the attack's normal effects. On a failed save, the creature also suffers the effects of a polymorph spell. Roll a d20 and consult the following table to determine the form the target creature is transformed into.
@@ -10997,7 +10997,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Wisdom saving throw in addition to suffering the attack's normal effects. On a failed save, the creature also suffers the effects of a polymorph spell. Roll a d20 and consult the following table to determine the form the target creature is transformed into.
@@ -11032,7 +11032,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Wisdom saving throw in addition to suffering the attack's normal effects. On a failed save, the creature also suffers the effects of a polymorph spell. Roll a d20 and consult the following table to determine the form the target creature is transformed into.
@@ -11131,7 +11131,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -11142,7 +11142,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -11185,7 +11185,7 @@ Source: Lost Laboratory of Kwalish p. 56</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -11198,7 +11198,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11208,7 +11208,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11218,7 +11218,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11238,7 +11238,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11248,7 +11248,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11258,7 +11258,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -11280,7 +11280,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -11291,7 +11291,7 @@ Source: Player's Handbook p. 148, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -11313,7 +11313,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -11358,7 +11358,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -11369,7 +11369,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -11390,7 +11390,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11400,7 +11400,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11410,7 +11410,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11431,7 +11431,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11441,7 +11441,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11462,7 +11462,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11505,7 +11505,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -11517,7 +11517,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11527,7 +11527,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -11538,7 +11538,7 @@ Source: Player's Handbook p. 148</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>Source: Player's Handbook p. 148</text>
@@ -11725,7 +11725,7 @@ Source: Xanathar's Guide to Everything p. 139</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -11742,7 +11742,7 @@ Source: Dungeon Master's Guide p. 206, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
@@ -11756,7 +11756,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -11771,7 +11771,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
@@ -11785,7 +11785,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
@@ -11799,7 +11799,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
@@ -11813,7 +11813,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -11832,7 +11832,7 @@ Source: Dungeon Master's Guide p. 206, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
@@ -11848,7 +11848,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -11865,7 +11865,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
@@ -11881,7 +11881,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -11899,7 +11899,7 @@ Source: Dungeon Master's Guide p. 206, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -11914,7 +11914,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -11930,7 +11930,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -11945,7 +11945,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -11960,7 +11960,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, Cursed item, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -11975,7 +11975,7 @@ Source: Dungeon Master's Guide p. 206</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -11991,7 +11991,7 @@ Source: Dungeon Master's Guide p. 207, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
@@ -12005,7 +12005,7 @@ Source: Dungeon Master's Guide p. 207</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -12020,7 +12020,7 @@ Source: Dungeon Master's Guide p. 207</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
@@ -12034,7 +12034,7 @@ Source: Dungeon Master's Guide p. 207</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
@@ -12048,7 +12048,7 @@ Source: Dungeon Master's Guide p. 207</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
@@ -12062,7 +12062,7 @@ Source: Dungeon Master's Guide p. 207</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -12077,7 +12077,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -12136,7 +12136,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -12153,7 +12153,7 @@ Source: Acquisitions Incorporated p. 149, Wayfinder's Guide to Eberron p. 74</te
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12167,7 +12167,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12181,7 +12181,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12209,7 +12209,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12223,7 +12223,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12237,7 +12237,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -12267,7 +12267,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -12282,7 +12282,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -12312,7 +12312,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -12373,7 +12373,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -12388,7 +12388,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -12417,7 +12417,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12431,7 +12431,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12445,7 +12445,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12474,7 +12474,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12488,7 +12488,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12517,7 +12517,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12576,7 +12576,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -12592,7 +12592,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12606,7 +12606,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -12621,7 +12621,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>You have a +1 bonus to attack and damage rolls made with this weapon.
@@ -12651,7 +12651,7 @@ Source: Acquisitions Incorporated p. 149</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -12666,7 +12666,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -12725,7 +12725,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -12742,7 +12742,7 @@ Source: Dungeon Master's Guide p. 209, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.
@@ -12756,7 +12756,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -12770,7 +12770,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -12798,7 +12798,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -12812,7 +12812,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -12826,7 +12826,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -12856,7 +12856,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -12871,7 +12871,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -12901,7 +12901,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -12962,7 +12962,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -12977,7 +12977,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -13006,7 +13006,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.
@@ -13020,7 +13020,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.
@@ -13034,7 +13034,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.
@@ -13063,7 +13063,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.
@@ -13077,7 +13077,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -13106,7 +13106,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.
@@ -13165,7 +13165,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -13181,7 +13181,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.
@@ -13195,7 +13195,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -13210,7 +13210,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
@@ -13240,7 +13240,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -13257,7 +13257,7 @@ Source: Dungeon Master's Guide p. 209, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
@@ -13271,7 +13271,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -13286,7 +13286,7 @@ Source: Dungeon Master's Guide p. 209</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
@@ -13372,7 +13372,7 @@ Source: Xanathar's Guide to Everything p. 139</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -13384,7 +13384,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -13431,7 +13431,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -13445,7 +13445,7 @@ Source: Explorer's Guide to Wildemount p. 270, Wayfinder's Guide to Eberron p. 7
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13456,7 +13456,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13467,7 +13467,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13489,7 +13489,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13500,7 +13500,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13511,7 +13511,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -13535,7 +13535,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -13547,7 +13547,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -13571,7 +13571,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -13620,7 +13620,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -13632,7 +13632,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -13655,7 +13655,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13666,7 +13666,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13677,7 +13677,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13700,7 +13700,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13711,7 +13711,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13734,7 +13734,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13781,7 +13781,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -13794,7 +13794,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13805,7 +13805,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -13817,7 +13817,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -13841,7 +13841,7 @@ Source: Explorer's Guide to Wildemount p. 270</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -13854,7 +13854,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>1</weight>
-    <property>A,LD</property>
+    <property>A,LD,M</property>
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
@@ -13905,7 +13905,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>S,2H</property>
+    <property>S,2H,M</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
     <text>Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
@@ -13920,7 +13920,7 @@ Source: Dungeon Master's Guide p. 213, Wayfinder's Guide to Eberron p. 74</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -13932,7 +13932,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -13944,7 +13944,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>7</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -13968,7 +13968,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -13980,7 +13980,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -13992,7 +13992,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>A,L,LD</property>
+    <property>A,L,LD,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
@@ -14018,7 +14018,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>18</weight>
-    <property>A,H,LD,2H</property>
+    <property>A,H,LD,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
@@ -14031,7 +14031,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>L</property>
+    <property>L,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <text>On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
@@ -14057,7 +14057,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>6</weight>
-    <property>R,S</property>
+    <property>R,S,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
     <text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
@@ -14110,7 +14110,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>2</weight>
-    <property>A,H,2H</property>
+    <property>A,H,2H,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>150/600</range>
@@ -14123,7 +14123,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
@@ -14148,7 +14148,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>10</weight>
-    <property>H,2H</property>
+    <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14160,7 +14160,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14172,7 +14172,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Ranged Weapon</detail>
     <type>R</type>
     <weight>3</weight>
-    <property>S,T</property>
+    <property>S,T,M</property>
     <range>5/15</range>
     <text>Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14184,7 +14184,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>18</weight>
-    <property>H,R,2H</property>
+    <property>H,R,2H,M</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14209,7 +14209,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F</property>
+    <property>F,M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14221,7 +14221,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14246,7 +14246,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>F,L</property>
+    <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14297,7 +14297,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>4</weight>
-    <property>T,V</property>
+    <property>T,V,M</property>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
@@ -14311,7 +14311,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property></property>
+    <property>M</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
@@ -14323,7 +14323,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>2</weight>
-    <property>V</property>
+    <property>V,M</property>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
@@ -14336,7 +14336,7 @@ Source: Dungeon Master's Guide p. 213</text>
     <detail>major, martial Weapon, Melee Weapon</detail>
     <type>M</type>
     <weight>3</weight>
-    <property>F,R</property>
+    <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
     <text>This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.

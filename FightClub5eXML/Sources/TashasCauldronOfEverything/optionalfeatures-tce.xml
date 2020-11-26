@@ -1,149 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <feat>
-      <name>Invocation: Ambush</name>
+      <name>Maneuver: Ambush</name>
     <prerequisite></prerequisite>
     <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.
 Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Bait and Switch</name>
-    <prerequisite></prerequisite>
-    <text>When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
-Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Blessed Warrior</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-Source: Tasha's Cauldron of Everything p. 52</text>
-    </feat>
-  <feat>
-      <name>Invocation: Blind Fighting</name>
-    <prerequisite></prerequisite>
-    <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Invocation: Bond of the Talisman</name>
-    <prerequisite>12th level, Pact of the Talisman</prerequisite>
-    <text>While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-Source: Tasha's Cauldron of Everything p. 70</text>
-    </feat>
-  <feat>
-      <name>Invocation: Brace</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Commanding Presence</name>
-    <prerequisite></prerequisite>
-    <text>When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Druidic Warrior</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-Source: Tasha's Cauldron of Everything p. 57</text>
-    </feat>
-  <feat>
-      <name>Invocation: Eldritch Mind</name>
-    <prerequisite></prerequisite>
-    <text>You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Far Scribe</name>
-    <prerequisite>5th level, Pact of the Tome</prerequisite>
-    <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
-You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
-As an action, you can magically erase a name on the page by touching it.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Gift of the Protectors</name>
-    <prerequisite>9th level, Pact of the Tome</prerequisite>
-    <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
-As an action, you can magically erase a name on the page by touching it.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Grappling Strike</name>
-    <prerequisite></prerequisite>
-    <text>Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Interception</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Invocation: Investment of the Chain Master</name>
-    <prerequisite>Pact of the Chain</prerequisite>
-    <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
-• The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.
-• As a bonus action, you can command the familiar to take the Attack action.
-• The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
-• If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-• When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Protection of the Talisman</name>
-    <prerequisite>7th level, Pact of the Talisman</prerequisite>
-    <text>When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Quick Toss</name>
-    <prerequisite></prerequisite>
-    <text>As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon's damage roll.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Rebuke of the Talisman</name>
-    <prerequisite>Pact of the Talisman</prerequisite>
-    <text>When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer.
-Source: Tasha's Cauldron of Everything p. 71</text>
-    </feat>
-  <feat>
-      <name>Invocation: Superior Technique</name>
-    <prerequisite></prerequisite>
-    <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Invocation: Tactical Assessment</name>
-    <prerequisite></prerequisite>
-    <text>When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Thrown Weapon Fighting</name>
-    <prerequisite></prerequisite>
-    <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Unarmed Fighting</name>
-    <prerequisite></prerequisite>
-    <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
-At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
-Source: Tasha's Cauldron of Everything p. 42</text>
-    </feat>
-  <feat>
-      <name>Invocation: Undying Servitude</name>
-    <prerequisite>5th level</prerequisite>
-    <text>You can cast animate dead without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
-Source: Tasha's Cauldron of Everything p. 71</text>
     </feat>
   <feat>
       <name>Infusion: Arcane Propulsion Armor</name>
@@ -165,10 +26,41 @@ The armor regains 1d6 expended charges daily at dawn.
 Source: Tasha's Cauldron of Everything p. 20</text>
     </feat>
   <feat>
+      <name>Maneuver: Bait and Switch</name>
+    <prerequisite></prerequisite>
+    <text>When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
+Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
+Source: Tasha's Cauldron of Everything p. 42</text>
+    </feat>
+  <feat>
+      <name>Invocation: Bond of the Talisman</name>
+    <prerequisite>12th level, Pact of the Talisman</prerequisite>
+    <text>While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+Source: Tasha's Cauldron of Everything p. 70</text>
+    </feat>
+  <feat>
       <name>Infusion: Boots of the Winding Path</name>
     <prerequisite>6th level, A pair of boots (requires attunement)</prerequisite>
     <text>While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
 Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Brace</name>
+    <prerequisite></prerequisite>
+    <text>When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.
+Source: Tasha's Cauldron of Everything p. 42</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Commanding Presence</name>
+    <prerequisite></prerequisite>
+    <text>When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
+Source: Tasha's Cauldron of Everything p. 42</text>
+    </feat>
+  <feat>
+      <name>Invocation: Eldritch Mind</name>
+    <prerequisite></prerequisite>
+    <text>You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
+Source: Tasha's Cauldron of Everything p. 71</text>
     </feat>
   <feat>
       <name>Infusion: Enhanced Arcane Focus</name>
@@ -192,6 +84,28 @@ The bonus increases to +2 when you reach 10th level in this class.
 Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62</text>
     </feat>
   <feat>
+      <name>Invocation: Far Scribe</name>
+    <prerequisite>5th level, Pact of the Tome</prerequisite>
+    <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+As an action, you can magically erase a name on the page by touching it.
+Source: Tasha's Cauldron of Everything p. 71</text>
+    </feat>
+  <feat>
+      <name>Invocation: Gift of the Protectors</name>
+    <prerequisite>9th level, Pact of the Tome</prerequisite>
+    <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+As an action, you can magically erase a name on the page by touching it.
+Source: Tasha's Cauldron of Everything p. 71</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Grappling Strike</name>
+    <prerequisite></prerequisite>
+    <text>Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.
+Source: Tasha's Cauldron of Everything p. 42</text>
+    </feat>
+  <feat>
       <name>Infusion: Helm of Awareness</name>
     <prerequisite>10th level, A helmet (requires attunement)</prerequisite>
     <text>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
@@ -208,10 +122,33 @@ The homunculus regains 2d6 hit points if the mending spell is cast on it. If it 
 Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62</text>
     </feat>
   <feat>
+      <name>Invocation: Investment of the Chain Master</name>
+    <prerequisite>Pact of the Chain</prerequisite>
+    <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
+• The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.
+• As a bonus action, you can command the familiar to take the Attack action.
+• The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+• If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+• When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
+Source: Tasha's Cauldron of Everything p. 71</text>
+    </feat>
+  <feat>
       <name>Infusion: Mind Sharpener</name>
     <prerequisite>A suit of armor or robes</prerequisite>
     <text>The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
 Source: Tasha's Cauldron of Everything p. 22</text>
+    </feat>
+  <feat>
+      <name>Invocation: Protection of the Talisman</name>
+    <prerequisite>7th level, Pact of the Talisman</prerequisite>
+    <text>When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+Source: Tasha's Cauldron of Everything p. 71</text>
+    </feat>
+  <feat>
+      <name>Maneuver: Quick Toss</name>
+    <prerequisite></prerequisite>
+    <text>As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon's damage roll.
+Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
       <name>Infusion: Radiant Weapon</name>
@@ -219,6 +156,12 @@ Source: Tasha's Cauldron of Everything p. 22</text>
     <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
 Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62</text>
+    </feat>
+  <feat>
+      <name>Invocation: Rebuke of the Talisman</name>
+    <prerequisite>Pact of the Talisman</prerequisite>
+    <text>When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer.
+Source: Tasha's Cauldron of Everything p. 71</text>
     </feat>
   <feat>
       <name>Infusion: Repeating Shot</name>
@@ -319,55 +262,15 @@ Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War 
 Source: Tasha's Cauldron of Everything p. 23</text>
     </feat>
   <feat>
-      <name>Maneuver: Blessed Warrior</name>
+      <name>Maneuver: Tactical Assessment</name>
     <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-Source: Tasha's Cauldron of Everything p. 52
-Source: Tasha's Cauldron of Everything p. 52</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Blind Fighting</name>
-    <prerequisite></prerequisite>
-    <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
-Source: Tasha's Cauldron of Everything p. 41
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Druidic Warrior</name>
-    <prerequisite></prerequisite>
-    <text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-Source: Tasha's Cauldron of Everything p. 57
-Source: Tasha's Cauldron of Everything p. 57</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Interception</name>
-    <prerequisite></prerequisite>
-    <text>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-Source: Tasha's Cauldron of Everything p. 41
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Superior Technique</name>
-    <prerequisite></prerequisite>
-    <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-Source: Tasha's Cauldron of Everything p. 41
-Source: Tasha's Cauldron of Everything p. 41</text>
-    </feat>
-  <feat>
-      <name>Maneuver: Thrown Weapon Fighting</name>
-    <prerequisite></prerequisite>
-    <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
-Source: Tasha's Cauldron of Everything p. 42
+    <text>When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
-      <name>Maneuver: Unarmed Fighting</name>
-    <prerequisite></prerequisite>
-    <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
-At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
-Source: Tasha's Cauldron of Everything p. 42
-Source: Tasha's Cauldron of Everything p. 42</text>
+      <name>Invocation: Undying Servitude</name>
+    <prerequisite>5th level</prerequisite>
+    <text>You can cast animate dead without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+Source: Tasha's Cauldron of Everything p. 71</text>
     </feat>
   </compendium>
