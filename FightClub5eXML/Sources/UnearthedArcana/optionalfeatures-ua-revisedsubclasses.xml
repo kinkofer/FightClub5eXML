@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Arcane Shot: Banishing Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. If the arrow hits a creature, the target must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+After you reach 18th level in this class, a target also takes 2d6 force damage when the arrow hits it.
+Source: Unearthed Arcana: Revised Subclasses p. 3</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Brute Bane Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+You weave necromantic magic into your arrow. If your arrow hits a creature, the target takes an extra 2d6 necrotic damage and must make a Constitution saving throw. On a failed save, the damage of the target's attacks is halved until the next turn.
+The necrotic damage increases to 4d6 when you reach 18th level with this class.
+Source: Unearthed Arcana: Revised Subclasses p. 3</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Bursting Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+You imbue your arrow with a blast of force energy drawn from the school of evocation. If the arrow hits a creature, the target and each creature within 10 feet of it takes 2d6 force damage.
+The force damage increases to 4d6 when you reach 18th level with this class.
+Source: Unearthed Arcana: Revised Subclasses p. 3</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Grasping Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+When this arrow strikes its target, conjuration magic creates grasping, thorny brambles that wrap around the target. If the arrow hits a creature, the target takes an extra 2d6 poison damage, its speed is reduced by 10 feet, and it takes 2d6 slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (Athletics) check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use this option again.
+The poison and slashing damage both increase to 4d6 when you reach 18th level in this class.
+Source: Unearthed Arcana: Revised Subclasses p. 3</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Mind-Scrambling Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+Your enchantment magic causes this arrow to temporarily beguile its target. Choose one of your allies within 30 feet of the target. If the arrow hits a creature, the target takes an extra 2d6 psychic damage, and it must succeed on a Wisdom saving throw or it can't attack the chosen ally or include that ally in a harmful area of effect until the start of your next turn. This effect ends early if the chosen ally deals any damage to the target.
+The psychic damage increases to 4d6 when you reach 18th level in this class.
+Source: Unearthed Arcana: Revised Subclasses p. 4</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Piercing Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+You use transmutation magic to transform your arrow into an ethereal dart that passes through its targets. You use transmutation magic to give your arrow an ethereal quality. When you use this option, you don't make an attack roll for the attack. Instead, the arrow fires forward in a line that is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw. On a failed save, a target takes damage as if it were hit by the arrow, plus an extra 1d6 piercing damage. On a successful save, a target takes half as much damage.
+The piercing damage increases to 2d6 when you reach 18th level in this class.
+Source: Unearthed Arcana: Revised Subclasses p. 4</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Seeking Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw. On a failed save, it takes damage as if it were hit by the arrow, plus an extra 1d6 force damage, and you learn the target's current location. On a successful save, the target takes half as much damage, and you don't learn its location.
+The force damage increases to 2d6 when you reach 18th level in this class.
+Source: Unearthed Arcana: Revised Subclasses p. 4</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Shadow Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V2 (UA)
+You weave illusion magic into your arrow, causing it to occlude your foe's vision with grasping shadows. If the arrow hits a creature, the target takes an extra 2d6 psychic damage, and it must succeed on a Wisdom saving throw or be unable to see anything farther than 5 feet away until the start of your next turn.
+The psychic damage increases to 4d6 when you reach 18th level in this class.
+Source: Unearthed Arcana: Revised Subclasses p. 4</text>
+    </feat>
+  </compendium>

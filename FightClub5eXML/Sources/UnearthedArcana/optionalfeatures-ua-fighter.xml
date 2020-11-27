@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <feat>
+      <name>Arcane Shot: Beguiling Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+Your enchantment magic causes this arrow to temporarily beguile its target. Choose one of your allies within 30 feet of the target. If the arrow hits the target, the target can't attack the chosen ally or include that ally in a harmful area of effect until the end of your next turn. The target ignores this effect if it is immune to the charmed condition. This effect also ends if the chosen ally deals any damage to the target.
+Source: Unearthed Arcana: Fighter p. 1</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Brute Bane Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+You weave necromantic magic into your arrow. If a creature is hit by the arrow, any bludgeoning, piercing, or slashing damage dealt by the creature's attacks is halved until the end of your next turn.
+Source: Unearthed Arcana: Fighter p. 1</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Bursting Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+You imbue your arrow with a blast of force energy drawn from the school of evocation. If you hit a creature with this arrow, each creature within 10 feet of it takes 2d6 force damage.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Defending Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+You use abjuration magic to weave a charm that disrupts your enemy's magic. A creature hit by this arrow suffers disadvantage on the next attack roll it makes before the end of your next turn.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Grasping Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+When this arrow strikes its target, conjuration magic creates grasping, thorny brambles that wrap around the target. The target hit by the arrow takes a -10 penalty to speed, and it takes 2d6 slashing damage if it moves 1 foot or more without teleporting. The target or any creature that can touch it can use its action to try to remove the brambles, which requires a successful DC 10 Strength check. Otherwise, the brambles last for 1 minute.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Piercing Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+You use transmutation magic to transform your arrow into an ethereal dart that passes through its targets. When you attack with this arrow, it fires forward in a line that is 1 foot wide and 30 feet long. You make a separate attack using your Arcane Arrow against each creature in that line.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Seeking Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. As an action, choose one creature you have seen in the past minute, and make a ranged attack against it, using the Arcane Arrow. The arrow flies around corners if necessary, and this attack ignores three-quarters cover, half cover, and disadvantage caused by the target being out of sight or being at long range. The attack automatically misses if the target is out of the weapon's range or if there is no path large enough for the arrow to travel to the target. If the arrow hits its target, you know it, but you don't learn the target's location unless it's within your line of sight.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  <feat>
+      <name>Arcane Shot: Shadow Arrow (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Arcane Shot: V1 (UA)
+You weave illusion magic into your arrow, causing it to occlude your foe's vision with grasping shadows. Until the end of your next turn, the target hit by the arrow can't see more than 30 feet away.
+Source: Unearthed Arcana: Fighter p. 2</text>
+    </feat>
+  </compendium>

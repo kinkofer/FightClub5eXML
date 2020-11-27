@@ -3,13 +3,15 @@
     <feat>
       <name>Maneuver: Ambush (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.
+    <text>Maneuver: Battle Master
+When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
       <name>Maneuver: Bait and Switch (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you're within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn't provoke opportunity attacks.
+    <text>Maneuver: Battle Master
+When you're within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn't provoke opportunity attacks.
 Roll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
@@ -22,7 +24,8 @@ Source: Unearthed Arcana: Class Feature Variants p. 11</text>
   <feat>
       <name>Maneuver: Brace (UA)</name>
     <prerequisite></prerequisite>
-    <text>When an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+When an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack's damage roll.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
@@ -70,6 +73,14 @@ Source: Unearthed Arcana: Class Feature Variants p. 11</text>
 Source: Unearthed Arcana: Class Feature Variants p. 11</text>
     </feat>
   <feat>
+      <name>Pact Boon: Pact of the Talisman (UA)</name>
+    <prerequisite></prerequisite>
+    <text>Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll.
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
+The talisman turns to ash when you die.
+Source: Unearthed Arcana: Class Feature Variants p. 11</text>
+    </feat>
+  <feat>
       <name>Invocation: Protection of the Talisman (UA)</name>
     <prerequisite>9th level, Pact of the Talisman</prerequisite>
     <text>When the wearer of your talisman makes a saving throw in which they lack proficiency, they can add a d4 to the roll.
@@ -84,25 +95,29 @@ Source: Unearthed Arcana: Class Feature Variants p. 12</text>
   <feat>
       <name>Maneuver: Restraining Strike (UA)</name>
     <prerequisite></prerequisite>
-    <text>Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.
+    <text>Maneuver: Battle Master
+Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
       <name>Maneuver: Silver Tongue (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.
+    <text>Maneuver: Battle Master
+When you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
       <name>Maneuver: Snipe (UA)</name>
     <prerequisite></prerequisite>
-    <text>As a bonus action, you can expend one superiority die and make a ranged weapon attack. You can draw a thrown weapon as part of making this attack. If you hit, add the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+As a bonus action, you can expend one superiority die and make a ranged weapon attack. You can draw a thrown weapon as part of making this attack. If you hit, add the superiority die to the attack's damage roll.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   <feat>
       <name>Maneuver: Studious Eye (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.
+    <text>Maneuver: Battle Master
+When you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.
 Source: Unearthed Arcana: Class Feature Variants p. 5</text>
     </feat>
   </compendium>
