@@ -17,7 +17,8 @@ Source: Unearthed Arcana: Revised Class Options p. 5</text>
   <feat>
       <name>Maneuver: Control Mount (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you make a Wisdom (Animal Handling) check to influence a creature that you or an ally is riding, you can expend one superiority die, roll it, and add the number rolled to the check. You can do this before or after rolling the d20, but before applying the results of the check.
+    <text>Maneuver: Cavalier V2 (UA)
+When you make a Wisdom (Animal Handling) check to influence a creature that you or an ally is riding, you can expend one superiority die, roll it, and add the number rolled to the check. You can do this before or after rolling the d20, but before applying the results of the check.
 Source: Unearthed Arcana: Revised Class Options p. 3</text>
     </feat>
   <feat>
@@ -77,7 +78,8 @@ Source: Unearthed Arcana: Revised Class Options p. 6</text>
   <feat>
       <name>Maneuver: Precision Attack (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you make a weapon attack against a creature, you can expend one superiority die, roll it, and add it to the attack roll. You can use this ability before or after rolling the d20, but before any of the effects of the attack are applied.
+    <text>Maneuver: Cavalier V2 (UA)
+When you make a weapon attack against a creature, you can expend one superiority die, roll it, and add it to the attack roll. You can use this ability before or after rolling the d20, but before any of the effects of the attack are applied.
 Source: Unearthed Arcana: Revised Class Options p. 3</text>
     </feat>
   <feat>
@@ -108,13 +110,15 @@ Source: Unearthed Arcana: Revised Class Options p. 7</text>
   <feat>
       <name>Maneuver: Trip Attack (UA)</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. Roll the die, and add it to the attack's damage roll. If the target is Large or smaller, it must also succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
+    <text>Maneuver: Cavalier V2 (UA)
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. Roll the die, and add it to the attack's damage roll. If the target is Large or smaller, it must also succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
 Source: Unearthed Arcana: Revised Class Options p. 3</text>
     </feat>
   <feat>
       <name>Maneuver: Warding Maneuver (UA)</name>
     <prerequisite></prerequisite>
-    <text>If you or a creature within 5 feet of you is hit by an attack, you can expend one superiority die as a reaction if you're wielding a weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
+    <text>Maneuver: Cavalier V2 (UA)
+If you or a creature within 5 feet of you is hit by an attack, you can expend one superiority die as a reaction if you're wielding a weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
 Source: Unearthed Arcana: Revised Class Options p. 3</text>
     </feat>
   </compendium>

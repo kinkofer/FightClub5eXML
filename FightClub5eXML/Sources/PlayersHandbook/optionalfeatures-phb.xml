@@ -45,15 +45,28 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 Source: Player's Handbook p. 110</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Breath of Winter</name>
+    <prerequisite>17th level</prerequisite>
+    <text>You can spend 6 ki points to cast cone of cold.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Invocation: Chains of Carceri</name>
     <prerequisite>15th level, Pact of the Chain</prerequisite>
     <text>You can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 Source: Player's Handbook p. 110</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Clench of the North Wind</name>
+    <prerequisite>6th level</prerequisite>
+    <text>You can spend 3 ki points to cast hold person.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Maneuver: Commander's Strike</name>
     <prerequisite></prerequisite>
-    <text>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -65,13 +78,15 @@ Source: Player's Handbook p. 110</text>
   <feat>
       <name>Maneuver: Disarming Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Maneuver: Distracting Strike</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -93,9 +108,26 @@ Source: Player's Handbook p. 110</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Elemental Attunement</name>
+    <prerequisite></prerequisite>
+    <text>You can use your action to briefly control elemental forces within 30 feet of you, causing one of the following effects of your choice:
+• Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
+• Instantaneously light or snuff out a candle, a torch, or a small campfire.
+• Chill or warm up to 1 pound of nonliving material for up to 1 hour.
+• Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you designate for 1 minute.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Eternal Mountain Defense</name>
+    <prerequisite>17th level</prerequisite>
+    <text>You can spend 5 ki points to cast stoneskin, targeting yourself.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Maneuver: Evasive Footwork</name>
     <prerequisite></prerequisite>
-    <text>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+    <text>Maneuver: Battle Master
+When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -105,9 +137,16 @@ Source: Player's Handbook p. 74</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Fangs of the Fire Snake</name>
+    <prerequisite></prerequisite>
+    <text>When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by 10 feet for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage, and if you spend 1 ki point when the attack hits, it also deals an extra 1d10 fire damage.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Maneuver: Feinting Attack</name>
     <prerequisite></prerequisite>
-    <text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll this turn against that creature. If that attack hits, add the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll this turn against that creature. If that attack hits, add the superiority die to the attack's damage roll.
 The advantage is lost if not used on the turn you gain it.
 Source: Player's Handbook p. 74</text>
     </feat>
@@ -118,6 +157,18 @@ Source: Player's Handbook p. 74</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Fist of Four Thunders</name>
+    <prerequisite></prerequisite>
+    <text>You can spend 2 ki points to cast thunderwave.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Flames of the Phoenix</name>
+    <prerequisite>11th level</prerequisite>
+    <text>You can spend 4 ki points to cast fireball.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Invocation: Gaze of Two Minds</name>
     <prerequisite></prerequisite>
     <text>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
@@ -126,8 +177,15 @@ Source: Player's Handbook p. 111</text>
   <feat>
       <name>Maneuver: Goading Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
 Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Gong of the Summit</name>
+    <prerequisite>6th level</prerequisite>
+    <text>You can spend 3 ki points to cast shatter.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Lifedrinker</name>
@@ -138,13 +196,15 @@ Source: Player's Handbook p. 111</text>
   <feat>
       <name>Maneuver: Lunging Attack</name>
     <prerequisite></prerequisite>
-    <text>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Maneuver: Maneuvering Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -162,7 +222,8 @@ Source: Player's Handbook p. 111</text>
   <feat>
       <name>Maneuver: Menacing Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -176,6 +237,12 @@ Source: Player's Handbook p. 111</text>
     <prerequisite>5th level</prerequisite>
     <text>You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Mist Stance</name>
+    <prerequisite>11th level</prerequisite>
+    <text>You can spend 4 ki points to cast gaseous form, targeting yourself.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Misty Visions</name>
@@ -196,27 +263,53 @@ Source: Player's Handbook p. 111</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Pact Boon: Pact of the Blade</name>
+    <prerequisite></prerequisite>
+    <text>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+Source: Player's Handbook p. 107</text>
+    </feat>
+  <feat>
+      <name>Pact Boon: Pact of the Chain</name>
+    <prerequisite></prerequisite>
+    <text>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+Source: Player's Handbook p. 107</text>
+    </feat>
+  <feat>
+      <name>Pact Boon: Pact of the Tome</name>
+    <prerequisite></prerequisite>
+    <text>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+Source: Player's Handbook p. 108</text>
+    </feat>
+  <feat>
       <name>Maneuver: Parry</name>
     <prerequisite></prerequisite>
-    <text>When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
+    <text>Maneuver: Battle Master
+When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Maneuver: Precision Attack</name>
     <prerequisite></prerequisite>
-    <text>When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
+    <text>Maneuver: Battle Master
+When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Maneuver: Pushing Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
       <name>Maneuver: Rally</name>
     <prerequisite></prerequisite>
-    <text>On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
+    <text>Maneuver: Battle Master
+On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
 Source: Player's Handbook p. 74</text>
     </feat>
   <feat>
@@ -226,16 +319,41 @@ Source: Player's Handbook p. 74</text>
 Source: Player's Handbook p. 111</text>
     </feat>
   <feat>
+      <name>Elemental Discipline: Ride the Wind</name>
+    <prerequisite>11th level</prerequisite>
+    <text>You can spend 4 ki points to cast fly, targeting yourself.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
       <name>Maneuver: Riposte</name>
     <prerequisite></prerequisite>
-    <text>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
+    <text>Maneuver: Battle Master
+When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: River of Hungry Flame</name>
+    <prerequisite>17th level</prerequisite>
+    <text>You can spend 5 ki points to cast wall of fire.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Rush of the Gale Spirits</name>
+    <prerequisite></prerequisite>
+    <text>You can spend 2 ki points to cast gust of wind.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Sculptor of Flesh</name>
     <prerequisite>7th level</prerequisite>
     <text>You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Shape the Flowing River</name>
+    <prerequisite></prerequisite>
+    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Sign of Ill Omen</name>
@@ -246,8 +364,15 @@ Source: Player's Handbook p. 111</text>
   <feat>
       <name>Maneuver: Sweeping Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
+    <text>Maneuver: Battle Master
+When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
 Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Sweeping Cinder Strike</name>
+    <prerequisite></prerequisite>
+    <text>You can spend 2 ki points to cast burning hands.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Thief of Five Fates</name>
@@ -264,8 +389,15 @@ Source: Player's Handbook p. 111</text>
   <feat>
       <name>Maneuver: Trip Attack</name>
     <prerequisite></prerequisite>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+    <text>Maneuver: Battle Master
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 Source: Player's Handbook p. 74</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Unbroken Air</name>
+    <prerequisite></prerequisite>
+    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Visions of Distant Realms</name>
@@ -278,6 +410,18 @@ Source: Player's Handbook p. 111</text>
     <prerequisite>Pact of the Chain</prerequisite>
     <text>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 Source: Player's Handbook p. 111</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Water Whip</name>
+    <prerequisite></prerequisite>
+    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it prone.
+Source: Player's Handbook p. 81</text>
+    </feat>
+  <feat>
+      <name>Elemental Discipline: Wave of Rolling Earth</name>
+    <prerequisite>17th level</prerequisite>
+    <text>You can spend 6 ki points to cast wall of stone.
+Source: Player's Handbook p. 81</text>
     </feat>
   <feat>
       <name>Invocation: Whispers of the Grave</name>

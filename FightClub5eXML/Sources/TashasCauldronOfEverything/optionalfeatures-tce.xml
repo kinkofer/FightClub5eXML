@@ -3,7 +3,8 @@
     <feat>
       <name>Maneuver: Ambush</name>
     <prerequisite></prerequisite>
-    <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.
+    <text>Maneuver: Battle Master
+When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
@@ -28,7 +29,8 @@ Source: Tasha's Cauldron of Everything p. 20</text>
   <feat>
       <name>Maneuver: Bait and Switch</name>
     <prerequisite></prerequisite>
-    <text>When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
+    <text>Maneuver: Battle Master
+When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
 Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
@@ -47,13 +49,22 @@ Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War 
   <feat>
       <name>Maneuver: Brace</name>
     <prerequisite></prerequisite>
-    <text>When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.
+    <text>Maneuver: Battle Master
+When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.
 Source: Tasha's Cauldron of Everything p. 42</text>
+    </feat>
+  <feat>
+      <name>Rune: Cloud Rune</name>
+    <prerequisite></prerequisite>
+    <text>This rune emulates the deceptive magic used by some cloud giants. While wearing or carrying an object inscribed with this rune, you have advantage on Dexterity (Sleight of Hand) checks and Charisma (Deception) checks.
+In addition, when you or a creature you can see within 30 feet of you is hit by an attack roll, you can use your reaction to invoke the rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 44</text>
     </feat>
   <feat>
       <name>Maneuver: Commanding Presence</name>
     <prerequisite></prerequisite>
-    <text>When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
+    <text>Maneuver: Battle Master
+When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
@@ -92,6 +103,20 @@ As an action, you can magically erase a name on the page by touching it.
 Source: Tasha's Cauldron of Everything p. 71</text>
     </feat>
   <feat>
+      <name>Rune: Fire Rune</name>
+    <prerequisite></prerequisite>
+    <text>This rune's magic channels the masterful craftsmanship of great smiths. While wearing or carrying an object inscribed with this rune, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
+In addition, when you hit a creature with an attack using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra 2d6 fire damage, and it must succeed on a Strength saving throw or be restrained for 1 minute. While restrained by the shackles, the target takes 2d6 fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 44</text>
+    </feat>
+  <feat>
+      <name>Rune: Frost Rune</name>
+    <prerequisite></prerequisite>
+    <text>This rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom (Animal Handling) checks and Charisma (Intimidation) checks.
+In addition, you can invoke the rune as a bonus action to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 45</text>
+    </feat>
+  <feat>
       <name>Invocation: Gift of the Protectors</name>
     <prerequisite>9th level, Pact of the Tome</prerequisite>
     <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
@@ -102,7 +127,8 @@ Source: Tasha's Cauldron of Everything p. 71</text>
   <feat>
       <name>Maneuver: Grappling Strike</name>
     <prerequisite></prerequisite>
-    <text>Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.
+    <text>Maneuver: Battle Master
+Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
@@ -110,6 +136,13 @@ Source: Tasha's Cauldron of Everything p. 42</text>
     <prerequisite>10th level, A helmet (requires attunement)</prerequisite>
     <text>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
 Source: Tasha's Cauldron of Everything p. 21</text>
+    </feat>
+  <feat>
+      <name>Rune: Hill Rune</name>
+    <prerequisite>7th level</prerequisite>
+    <text>This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being poisoned, and you have resistance against poison damage.
+In addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 45</text>
     </feat>
   <feat>
       <name>Infusion: Homunculus Servant</name>
@@ -139,6 +172,13 @@ Source: Tasha's Cauldron of Everything p. 71</text>
 Source: Tasha's Cauldron of Everything p. 22</text>
     </feat>
   <feat>
+      <name>Pact Boon: Pact of the Talisman</name>
+    <prerequisite></prerequisite>
+    <text>Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+Source: Tasha's Cauldron of Everything p. 71</text>
+    </feat>
+  <feat>
       <name>Invocation: Protection of the Talisman</name>
     <prerequisite>7th level, Pact of the Talisman</prerequisite>
     <text>When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
@@ -147,7 +187,8 @@ Source: Tasha's Cauldron of Everything p. 71</text>
   <feat>
       <name>Maneuver: Quick Toss</name>
     <prerequisite></prerequisite>
-    <text>As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon's damage roll.
+    <text>Maneuver: Battle Master
+As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon's damage roll.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>
@@ -262,9 +303,24 @@ Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War 
 Source: Tasha's Cauldron of Everything p. 23</text>
     </feat>
   <feat>
+      <name>Rune: Stone Rune</name>
+    <prerequisite></prerequisite>
+    <text>This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom (Insight) checks, and you have darkvision out to a range of 120 feet.
+In addition, when a creature you can see ends its turn within 30 feet of you, you can use your reaction to invoke the rune and force the creature to make a Wisdom saving throw. Unless the save succeeds, the creature is charmed by you for 1 minute. While charmed in this way, the creature has a speed of 0 and is incapacitated, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 45</text>
+    </feat>
+  <feat>
+      <name>Rune: Storm Rune</name>
+    <prerequisite>7th level</prerequisite>
+    <text>Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have advantage on Intelligence (Arcana) checks, and you can't be surprised as long as you aren't incapacitated.
+In addition, you can invoke the rune as a bonus action to enter a prophetic state for 1 minute or until you're incapacitated. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+Source: Tasha's Cauldron of Everything p. 45</text>
+    </feat>
+  <feat>
       <name>Maneuver: Tactical Assessment</name>
     <prerequisite></prerequisite>
-    <text>When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.
+    <text>Maneuver: Battle Master
+When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.
 Source: Tasha's Cauldron of Everything p. 42</text>
     </feat>
   <feat>

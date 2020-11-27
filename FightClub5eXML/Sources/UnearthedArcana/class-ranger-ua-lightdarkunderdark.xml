@@ -2,6 +2,20 @@
 <compendium version="5" auto_indent="NO">
     <class>
       <name>Ranger</name>
+    <autolevel level="2">
+        <feature optional="YES">
+          <name>Fighting Style: Close Quarters Shooter</name>
+        <text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 89</text>
+        </feature>
+      <feature optional="YES">
+          <name>Fighting Style: Tunnel Fighter</name>
+        <text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
+        <text></text>
+        <text>Source: Unearthed Arcana: Light Dark Underdark p. 89</text>
+        </feature>
+      </autolevel>
     <autolevel level="3">
         <feature optional="YES">
           <name>Deep Stalker (UA): Deep Stalker</name>
@@ -34,31 +48,6 @@
         <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
         </feature>
       </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Deep Stalker (UA): Deep Stalker</name>
-        <text>Note that this subclass is intended for use with the Ranger class presented in the Player's Handbook. It is presented here for convenience, and may be unsuitable for use as a Spell-less Ranger subclass.</text>
-        <text>Many Deep Stalkers are elves, as those folk know all too well the threat posed by the drow. Deep Stalkers scout for new passages into the Underdark, carefully mapping them and working to ensure they remain watched at all times. They venture into the depths on long, dangerous patrols, disappearing for months at a time. Many of them never return. Deep Stalkers master spells useful in navigating the Underdark, and their combat tactics focus on ambush, surprise, and stealth. They fight alone or in small groups in hostile territory, relying on clever tactics to carry the day.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <feature optional="YES">
-          <name>Deep Stalker (UA): Underdark Scout</name>
-        <text>At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed. If you use the attack action on that turn, you can make one additional attack. You gain an additional benefit on all turns after your first turn. At the end of each such turn, you can attempt to hide as a bonus action if you meet the normal requirements for hiding.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <feature optional="YES">
-          <name>Deep Stalker (UA): Iron Mind</name>
-        <text>At 7th level, you gain proficiency in Wisdom saving throws.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
-        </feature>
-      </autolevel>
     <autolevel level="7">
         <feature optional="YES">
           <name>Deep Stalker (UA): Iron Mind</name>
@@ -71,22 +60,6 @@
         <feature optional="YES">
           <name>Deep Stalker (UA): Stalker's Flurry</name>
         <text>Starting at 11th level, you have the ability to ensure that your attacks count. If you miss with an attack during your turn, you can immediately make an additional attack. You can gain one additional attack during your turn with this ability.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <feature optional="YES">
-          <name>Deep Stalker (UA): Stalker's Flurry</name>
-        <text>Starting at 11th level, you have the ability to ensure that your attacks count. If you miss with an attack during your turn, you can immediately make an additional attack. You can gain one additional attack during your turn with this ability.</text>
-        <text></text>
-        <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <feature optional="YES">
-          <name>Deep Stalker (UA): Stalker's Dodge</name>
-        <text>At 15th level, you master the ability to disrupt an opponent's attacks. If a creature attacks you and does not have advantage on the attack roll, you can use your reaction to grant it disadvantage on the attack roll. You must use this ability before you know the result of the attack.</text>
         <text></text>
         <text>Source: Unearthed Arcana: Light Dark Underdark p. 1</text>
         </feature>
