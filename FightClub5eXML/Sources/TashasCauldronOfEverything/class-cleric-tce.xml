@@ -10,6 +10,16 @@
         <text>Law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.</text>
         <text>At each indicated cleric level, you add the listed spells to your spells prepared.</text>
         <text></text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 31</text>
+        </feature>
+      </autolevel>
+      <autolevel level="1">
+        <feature optional="YES">
+          <name>Order Domain: Domain Spells</name>
+        <text>1st-level Order Domain feature</text>
+        <text>You gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
+        <text></text>
         <text>Order Domain Spells</text>
         <text>Cleric Level | Spells</text>
         <text>1st | command, heroism</text>
@@ -54,9 +64,15 @@
         <text>Gaerdal | Ironhand Gnomish</text>
         <text>Paladine | Dragonlance</text>
         <text>Rao | Greyhawk</text>
-        <name>Peace Domain: Domain Spells</name>
-        <text>   1st-level Peace Domain feature</text>
-        <text>   You gain domain spells at the cleric levels listed in the Peace Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 32</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Peace Domain: Domain Spells</name>
+        <text>1st-level Peace Domain feature</text>
+        <text>You gain domain spells at the cleric levels listed in the Peace Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
         <text></text>
         <text>Peace Domain Spells</text>
         <text>Cleric Level | Spells</text>
@@ -104,9 +120,15 @@
         <text>Mishakal | Dragonlance</text>
         <text>Selûne | Forgotten Realms</text>
         <text>Yondalla | Halfling</text>
-        <name>Twilight Domain: Domain Spells</name>
-        <text>   1st-level Twilight Domain feature</text>
-        <text>   You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
+        <text></text>
+        <text>Source: Tasha's Cauldron of Everything p. 34</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Twilight Domain: Domain Spells</name>
+        <text>1st-level Twilight Domain feature</text>
+        <text>You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.</text>
         <text></text>
         <text>Twilight Domain Spells</text>
         <text>Cleric Level | Spells</text>
