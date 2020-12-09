@@ -485,6 +485,10 @@
     <classes>Artificer</classes>
     </spell>
   <spell>
+      <name>Power Word Heal</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
       <name>Prestidigitation</name>
     <classes>Artificer</classes>
     </spell>
@@ -603,6 +607,14 @@
   <spell>
       <name>Stoneskin</name>
     <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Sunbeam</name>
+    <classes>Cleric</classes>
+    </spell>
+  <spell>
+      <name>Sunburst</name>
+    <classes>Cleric</classes>
     </spell>
   <spell>
       <name>Telekinesis</name>
