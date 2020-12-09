@@ -25,6 +25,10 @@
     <classes>Artificer</classes>
     </spell>
   <spell>
+      <name>Antipathy/Sympathy</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
       <name>Arcane Eye</name>
     <classes>Artificer, Ranger (Swarmkeeper)</classes>
     </spell>
@@ -103,6 +107,10 @@
   <spell>
       <name>Cloudkill</name>
     <classes>Druid (Spores), Artificer (Alchemist)</classes>
+    </spell>
+  <spell>
+      <name>Color Spray</name>
+    <classes>Bard</classes>
     </spell>
   <spell>
       <name>Command</name>
@@ -325,6 +333,10 @@
     <classes>Cleric (Order), Artificer (Battle Smith), Paladin (Glory), Cleric (Peace)</classes>
     </spell>
   <spell>
+      <name>Heroes' Feast</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
       <name>Hold Monster</name>
     <classes>Paladin (Watchers)</classes>
     </spell>
@@ -487,6 +499,14 @@
   <spell>
       <name>Prestidigitation</name>
     <classes>Artificer</classes>
+    </spell>
+  <spell>
+      <name>Prismatic Spray</name>
+    <classes>Bard</classes>
+    </spell>
+  <spell>
+      <name>Prismatic Wall</name>
+    <classes>Bard</classes>
     </spell>
   <spell>
       <name>Protection from Energy</name>
