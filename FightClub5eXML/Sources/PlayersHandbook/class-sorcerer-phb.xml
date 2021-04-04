@@ -1,471 +1,790 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <class>
-      <name>Sorcerer</name>
-    <hd>6</hd>
-    <proficiency>Constitution, Charisma, Arcana, Deception, Insight, Intimidation, Persuasion, Religion</proficiency>
-    <numSkills>2</numSkills>
-    <spellAbility>Charisma</spellAbility>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Starting Sorcerer</name>
-        <text>As a 1st-level Sorcerer, you begin play with 6+your Constitution modifier hit points.</text>
-        <text></text>
-        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
-        <text>• Armor: none</text>
-        <text>• Weapons: daggers, darts, slings, quarterstaffs, light crossbows</text>
-        <text>• Tools: none</text>
-        <text>• Skills: Choose 2 from Arcana, Deception, Insight, Intimidation, Persuasion, Religion</text>
-        <text></text>
-        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
-        <text>• (a) a light crossbow and crossbow bolts (20) or (b) any simple weapon</text>
-        <text>• (a) a component pouch or (b) an arcane focus</text>
-        <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
-        <text>• Two dagger</text>
-        <text></text>
-        <text>Alternatively, you may start with 3d4 x 10 gp and choose your own equipment.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Multiclass Sorcerer</name>
-        <text>To multiclass as a Sorcerer, you must meet the following prerequisites:</text>
-        <text>• Charisma 13</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <armor>none</armor>
-    <weapons>daggers, darts, slings, quarterstaffs, light crossbows</weapons>
-    <tools>none</tools>
-    <wealth>3d4x10</wealth>
-    <autolevel level="1">
-        <slots>4, 2</slots>
-      </autolevel>
-    <autolevel level="1">
-        <feature>
-          <name>Spellcasting</name>
-        <text>An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.</text>
-        <text></text>
-        <text>Cantrips:</text>
-        <text>   At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level.</text>
-        <text></text>
-        <text>Spell Slots:</text>
-        <text>   The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</text>
-        <text>   For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.</text>
-        <text></text>
-        <text>Spells Known of 1st Level and Higher:</text>
-        <text>   You know two 1st-level spells of your choice from the sorcerer spell list.</text>
-        <text>   You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</text>
-        <text>   Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.</text>
-        <text></text>
-        <text>Spellcasting Ability:</text>
-        <text>   Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.</text>
-        <text></text>
-        <text>Spellcasting Focus:</text>
-        <text>   You can use an arcane focus as a spellcasting focus for your sorcerer spells.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature>
-          <name>Sorcerous Origin</name>
-        <text>Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins.</text>
-        <text>Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Sorcerous Origin: Draconic Bloodline</name>
-        <text>Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Draconic Bloodline: Draconic Resilience</name>
-        <text>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</text>
-        <text>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Draconic Bloodline: Dragon Ancestor</name>
-        <text>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</text>
-        <text></text>
-        <text>Draconic Ancestry</text>
-        <text>Dragon | Damage Type</text>
-        <text>Black | Acid</text>
-        <text>Blue | Lightning</text>
-        <text>Brass | Fire</text>
-        <text>Bronze | Lightning</text>
-        <text>Copper | Acid</text>
-        <text>Gold | Fire</text>
-        <text>Green | Poison</text>
-        <text>Red | Fire</text>
-        <text>Silver | Cold</text>
-        <text>White | Cold</text>
-        <text>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Sorcerous Origin: Wild Magic</name>
-        <text>Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Wild Magic: Tides of Chaos</name>
-        <text>Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.</text>
-        <text>Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="1">
-        <feature optional="YES">
-          <name>Wild Magic: Wild Magic Surge</name>
-        <text>Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.</text>
-        <text>If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration.</text>
-        <text></text>
-        <text>Wild Magic Surge</text>
-        <text>d100 | Effect</text>
-        <text>01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.</text>
-        <text>03-04 | For the next minute, you can see any invisible creature if you have line of sight to it.</text>
-        <text>05-06 | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.</text>
-        <text>07-08 | You cast fireball as a 3rd-level spell centered on yourself.</text>
-        <text>09-10 | You cast magic missile as a 5th-level spell.</text>
-        <text>11-12 | Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.</text>
-        <text>13-14 | You cast confusion centered on yourself.</text>
-        <text>15-16 | For the next minute, you regain 5 hit points at the start of each of your turns.</text>
-        <text>17-18 | You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.</text>
-        <text>19-20 | You cast grease centered on yourself.</text>
-        <text>21-22 | Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw.</text>
-        <text>23-24 | Your skin turns a vibrant shade of blue. A remove curse spell can end this effect.</text>
-        <text>25-26 | An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.</text>
-        <text>27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.</text>
-        <text>29-30 | You teleport up to 60 feet to an unoccupied space of your choice that you can see.</text>
-        <text>31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.</text>
-        <text>33-34 | Maximize the damage of the next damaging spell you cast within the next minute.</text>
-        <text>35-36 | Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.</text>
-        <text>37-38 | 1d6 flumph controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute.</text>
-        <text>39-40 | You regain 2d10 hit points.</text>
-        <text>41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts.</text>
-        <text>43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.</text>
-        <text>45-46 | You cast levitate on yourself.</text>
-        <text>47-48 | A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later.</text>
-        <text>49-50 | You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.</text>
-        <text>51-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to magic missile.</text>
-        <text>53-54 | You are immune to being intoxicated by alcohol for the next 5d6 days.</text>
-        <text>55-56 | Your hair falls out but grows back within 24 hours.</text>
-        <text>57-58 | For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame.</text>
-        <text>59-60 | You regain your lowest-level expended spell slot.</text>
-        <text>61-62 | For the next minute, you must shout when you speak.</text>
-        <text>63-64 | You cast fog cloud centered on yourself.</text>
-        <text>65-66 | Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.</text>
-        <text>67-68 | You are frightened by the nearest creature until the end of your next turn.</text>
-        <text>69-70 | Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell.</text>
-        <text>71-72 | You gain resistance to all damage for the next minute.</text>
-        <text>73-74 | A random creature within 60 feet of you becomes poisoned for 1d4 hours.</text>
-        <text>75-76 | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn.</text>
-        <text>77-78 | You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration.</text>
-        <text>79-80 | Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.</text>
-        <text>81-82 | You can take one additional action immediately.</text>
-        <text>83-84 | Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.</text>
-        <text>85-86 | You cast mirror image.</text>
-        <text>87-88 | You cast fly on a random creature within 60 feet of you.</text>
-        <text>89-90 | You become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.</text>
-        <text>91-92 | If you die within the next minute, you immediately come back to life as if by the reincarnate spell.</text>
-        <text>93-94 | Your size increases by one size category for the next minute.</text>
-        <text>95-96 | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute.</text>
-        <text>97-98 | You are surrounded by faint, ethereal music for the next minute.</text>
-        <text>99-00 | You regain all expended sorcery points.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="2">
-        <slots>4, 3</slots>
-      </autolevel>
-    <autolevel level="2">
-        <feature>
-          <name>Font of Magic</name>
-        <text>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</text>
-        <text></text>
-        <text>Sorcery Points:</text>
-        <text>   You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="3">
-        <slots>4, 4, 2</slots>
-      </autolevel>
-    <autolevel level="3">
-        <feature>
-          <name>Metamagic</name>
-        <text>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.</text>
-        <text>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Careful Spell</name>
-        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Distant Spell</name>
-        <text>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.</text>
-        <text>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Empowered Spell</name>
-        <text>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</text>
-        <text>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Extended Spell</name>
-        <text>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Heightened Spell</name>
-        <text>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Quickened Spell</name>
-        <text>When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Subtle Spell</name>
-        <text>When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      <feature optional="YES">
-          <name>Metamagic: Twinned Spell</name>
-        <text>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).</text>
-        <text>To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="4">
-        <slots>5, 4, 3</slots>
-      </autolevel>
-    <autolevel level="4" scoreImprovement="YES">
-        <feature>
-          <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-        <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="5">
-        <slots>5, 4, 3, 2</slots>
-      </autolevel>
-    <autolevel level="6">
-        <slots>5, 4, 3, 3</slots>
-      </autolevel>
-    <autolevel level="6">
-        <feature>
-          <name>Sorcerous Origin feature</name>
-        <text>At 6th level, you gain a feature granted by your Sorcerous Origin.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
-          <name>Draconic Bloodline: Elemental Affinity</name>
-        <text>Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="6">
-        <feature optional="YES">
-          <name>Wild Magic: Bend Luck</name>
-        <text>Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="7">
-        <slots>5, 4, 3, 3, 1</slots>
-      </autolevel>
-    <autolevel level="8">
-        <slots>5, 4, 3, 3, 2</slots>
-      </autolevel>
-    <autolevel level="8" scoreImprovement="YES">
-        <feature>
-          <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-        <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="9">
-        <slots>5, 4, 3, 3, 3, 1</slots>
-      </autolevel>
-    <autolevel level="10">
-        <slots>6, 4, 3, 3, 3, 2</slots>
-      </autolevel>
-    <autolevel level="10">
-        <feature>
-          <name>Metamagic</name>
-        <text>At 10th level, you learn an additional metamagic option.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="11">
-        <slots>6, 4, 3, 3, 3, 2, 1</slots>
-      </autolevel>
-    <autolevel level="12">
-        <slots>6, 4, 3, 3, 3, 2, 1</slots>
-      </autolevel>
-    <autolevel level="12" scoreImprovement="YES">
-        <feature>
-          <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-        <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="13">
-        <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
-      </autolevel>
-    <autolevel level="14">
-        <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
-      </autolevel>
-    <autolevel level="14">
-        <feature>
-          <name>Sorcerous Origin feature</name>
-        <text>At 14th level, you gain a feature granted by your Sorcerous Origin.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="14">
-        <feature optional="YES">
-          <name>Draconic Bloodline: Dragon Wings</name>
-        <text>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.</text>
-        <text>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="14">
-        <feature optional="YES">
-          <name>Wild Magic: Controlled Chaos</name>
-        <text>At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="15">
-        <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
-      </autolevel>
-    <autolevel level="16">
-        <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
-      </autolevel>
-    <autolevel level="16" scoreImprovement="YES">
-        <feature>
-          <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-        <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="17">
-        <slots>6, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
-      </autolevel>
-    <autolevel level="17">
-        <feature>
-          <name>Metamagic</name>
-        <text>At 17th level, you learn an additional metamagic option.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="18">
-        <slots>6, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-      </autolevel>
-    <autolevel level="18">
-        <feature>
-          <name>Sorcerous Origin feature</name>
-        <text>At 18th level, you gain a feature granted by your Sorcerous Origin.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="18">
-        <feature optional="YES">
-          <name>Draconic Bloodline: Draconic Presence</name>
-        <text>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 102</text>
-        </feature>
-      </autolevel>
-    <autolevel level="18">
-        <feature optional="YES">
-          <name>Wild Magic: Spell Bombardment</name>
-        <text>Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 103</text>
-        </feature>
-      </autolevel>
-    <autolevel level="19">
-        <slots>6, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
-      </autolevel>
-    <autolevel level="19" scoreImprovement="YES">
-        <feature>
-          <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-        <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
-    <autolevel level="20">
-        <slots>6, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
-      </autolevel>
-    <autolevel level="20">
-        <feature>
-          <name>Sorcerous Restoration</name>
-        <text>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.</text>
-        <text></text>
-        <text>Source: Player's Handbook p. 99</text>
-        </feature>
-      </autolevel>
+        <name>Sorcerer</name>
+        <hd>6</hd>
+        <proficiency>Constitution, Charisma, Arcana, Deception, Insight, Intimidation, Persuasion, Religion
+        </proficiency>
+        <numSkills>2</numSkills>
+        <spellAbility>Charisma</spellAbility>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Starting Sorcerer</name>
+                <text>As a 1st-level Sorcerer, you begin play with 6+your Constitution modifier hit points.</text>
+                <text></text>
+                <text>You are proficient with the following items, in addition to any proficiencies provided by your
+                    race or background.
+                </text>
+                <text>• Armor: none</text>
+                <text>• Weapons: daggers, darts, slings, quarterstaffs, light crossbows</text>
+                <text>• Tools: none</text>
+                <text>• Skills: Choose 2 from Arcana, Deception, Insight, Intimidation, Persuasion, Religion</text>
+                <text></text>
+                <text>You begin play with the following equipment, in addition to any equipment provided by your
+                    background.
+                </text>
+                <text>• (a) a light crossbow and crossbow bolts (20) or (b) any simple weapon</text>
+                <text>• (a) a component pouch or (b) an arcane focus</text>
+                <text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
+                <text>• Two dagger</text>
+                <text></text>
+                <text>Alternatively, you may start with 3d4 x 10 gp and choose your own equipment.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Multiclass Sorcerer</name>
+                <text>To multiclass as a Sorcerer, you must meet the following prerequisites:</text>
+                <text>• Charisma 13</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <armor>none</armor>
+        <weapons>daggers, darts, slings, quarterstaffs, light crossbows</weapons>
+        <tools>none</tools>
+        <wealth>3d4x10</wealth>
+        <autolevel level="1">
+            <slots>4, 2</slots>
+        </autolevel>
+        <autolevel level="1">
+            <feature>
+                <name>Spellcasting</name>
+                <text>An event in your past, or in the life of a parent or ancestor, left an indelible mark on you,
+                    infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See
+                    chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.
+                </text>
+                <text></text>
+                <text>Cantrips:</text>
+                <text>At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an
+                    additional sorcerer cantrip of your choice at 4th level and another at 10th level.
+                </text>
+                <text></text>
+                <text>Spell Slots:</text>
+                <text>The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level
+                    and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or
+                    higher. You regain all expended spell slots when you finish a long rest.
+                </text>
+                <text>For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level
+                    spell slot available, you can cast burning hands using either slot.
+                </text>
+                <text></text>
+                <text>Spells Known of 1st Level and Higher:</text>
+                <text>You know two 1st-level spells of your choice from the sorcerer spell list.</text>
+                <text>You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th,
+                    19th, and 20th. Each of these spells must be of a level for which you have spell slots. For
+                    instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+                </text>
+                <text>Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you
+                    know and replace it with another spell from the sorcerer spell list, which also must be of a level
+                    for which you have spell slots.
+                </text>
+                <text></text>
+                <text>Spellcasting Ability:</text>
+                <text>Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic
+                    relies on your ability to project your will into the world. You use your Charisma whenever a spell
+                    refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the
+                    saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+                </text>
+                <text></text>
+                <text>Spellcasting Focus:</text>
+                <text>You can use an arcane focus as a spellcasting focus for your sorcerer spells.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature>
+                <name>Sorcerous Origin</name>
+                <text>Choose a sorcerous origin, which describes the source of your innate magical power, from the list
+                    of available origins.
+                </text>
+                <text>Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th
+                    level.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Sorcerous Origin: Draconic Bloodline</name>
+                <text>Your innate magic comes from draconic magic that was mingled with your blood or that of your
+                    ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of
+                    ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some
+                    of these bloodlines are well established in the world, but most are obscure. Any given sorcerer
+                    could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Draconic Bloodline: Draconic Resilience</name>
+                <text>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At
+                    1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level
+                    in this class.
+                </text>
+                <text>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you
+                    aren't wearing armor, your AC equals 13 + your Dexterity modifier.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Draconic Bloodline: Dragon Ancestor</name>
+                <text>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each
+                    dragon is used by features you gain later.
+                </text>
+                <text></text>
+                <text>Draconic Ancestry</text>
+                <text>Dragon | Damage Type</text>
+                <text>Black | Acid</text>
+                <text>Blue | Lightning</text>
+                <text>Brass | Fire</text>
+                <text>Bronze | Lightning</text>
+                <text>Copper | Acid</text>
+                <text>Gold | Fire</text>
+                <text>Green | Poison</text>
+                <text>Red | Fire</text>
+                <text>Silver | Cold</text>
+                <text>White | Cold</text>
+                <text>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when
+                    interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Sorcerous Origin: Wild Magic</name>
+                <text>Your innate magic comes from the wild forces of chaos that underlie the order of creation. You
+                    might have endured exposure to some form of raw magic, perhaps through a planar portal leading to
+                    Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey
+                    creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause
+                    or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Wild Magic: Tides of Chaos</name>
+                <text>Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one
+                    attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you
+                    can use this feature again.
+                </text>
+                <text>Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic
+                    Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the
+                    use of this feature.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="1">
+            <feature optional="YES">
+                <name>Wild Magic: Wild Magic Surge</name>
+                <text>Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed
+                    magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll
+                    a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild
+                    Magic Surge can happen once per turn.
+                </text>
+                <text>If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally
+                    requires concentration, it doesn't require concentration in this case; the spell lasts for its full
+                    duration.
+                </text>
+                <text></text>
+                <text>Wild Magic Surge</text>
+                <text>d100 | Effect</text>
+                <text>01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this
+                    result on subsequent rolls.
+                </text>
+                <text>03-04 | For the next minute, you can see any invisible creature if you have line of sight to it.
+                </text>
+                <text>05-06 | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of
+                    you, then disappears 1 minute later.
+                </text>
+                <text>07-08 | You cast fireball as a 3rd-level spell centered on yourself.</text>
+                <text>09-10 | You cast magic missile as a 5th-level spell.</text>
+                <text>11-12 | Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is
+                    odd, you shrink. If the roll is even, you grow.
+                </text>
+                <text>13-14 | You cast confusion centered on yourself.</text>
+                <text>15-16 | For the next minute, you regain 5 hit points at the start of each of your turns.</text>
+                <text>17-18 | You grow a long beard made of feathers that remains until you sneeze, at which point the
+                    feathers explode out from your face.
+                </text>
+                <text>19-20 | You cast grease centered on yourself.</text>
+                <text>21-22 | Creatures have disadvantage on saving throws against the next spell you cast in the next
+                    minute that involves a saving throw.
+                </text>
+                <text>23-24 | Your skin turns a vibrant shade of blue. A remove curse spell can end this effect.</text>
+                <text>25-26 | An eye appears on your forehead for the next minute. During that time, you have advantage
+                    on Wisdom (Perception) checks that rely on sight.
+                </text>
+                <text>27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time
+                    of 1 bonus action.
+                </text>
+                <text>29-30 | You teleport up to 60 feet to an unoccupied space of your choice that you can see.</text>
+                <text>31-32 | You are transported to the Astral Plane until the end of your next turn, after which time
+                    you return to the space you previously occupied or the nearest unoccupied space if that space is
+                    occupied.
+                </text>
+                <text>33-34 | Maximize the damage of the next damaging spell you cast within the next minute.</text>
+                <text>35-36 | Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd,
+                    you get younger (minimum 1 year old). If the roll is even, you get older.
+                </text>
+                <text>37-38 | 1d6 flumph controlled by the DM appear in unoccupied spaces within 60 feet of you and are
+                    frightened of you. They vanish after 1 minute.
+                </text>
+                <text>39-40 | You regain 2d10 hit points.</text>
+                <text>41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are
+                    incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks,
+                    and your form reverts.
+                </text>
+                <text>43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your
+                    turns.
+                </text>
+                <text>45-46 | You cast levitate on yourself.</text>
+                <text>47-48 | A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1
+                    minute later.
+                </text>
+                <text>49-50 | You can't speak for the next minute. Whenever you try, pink bubbles float out of your
+                    mouth.
+                </text>
+                <text>51-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and
+                    immunity to magic missile.
+                </text>
+                <text>53-54 | You are immune to being intoxicated by alcohol for the next 5d6 days.</text>
+                <text>55-56 | Your hair falls out but grows back within 24 hours.</text>
+                <text>57-58 | For the next minute, any flammable object you touch that isn't being worn or carried by
+                    another creature bursts into flame.
+                </text>
+                <text>59-60 | You regain your lowest-level expended spell slot.</text>
+                <text>61-62 | For the next minute, you must shout when you speak.</text>
+                <text>63-64 | You cast fog cloud centered on yourself.</text>
+                <text>65-66 | Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.</text>
+                <text>67-68 | You are frightened by the nearest creature until the end of your next turn.</text>
+                <text>69-70 | Each creature within 30 feet of you becomes invisible for the next minute. The
+                    invisibility ends on a creature when it attacks or casts a spell.
+                </text>
+                <text>71-72 | You gain resistance to all damage for the next minute.</text>
+                <text>73-74 | A random creature within 60 feet of you becomes poisoned for 1d4 hours.</text>
+                <text>75-76 | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends
+                    its turn within 5 feet of you is blinded until the end of its next turn.
+                </text>
+                <text>77-78 | You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for
+                    the spell's duration.
+                </text>
+                <text>79-80 | Illusory butterflies and flower petals flutter in the air within 10 feet of you for the
+                    next minute.
+                </text>
+                <text>81-82 | You can take one additional action immediately.</text>
+                <text>83-84 | Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points
+                    equal to the sum of the necrotic damage dealt.
+                </text>
+                <text>85-86 | You cast mirror image.</text>
+                <text>87-88 | You cast fly on a random creature within 60 feet of you.</text>
+                <text>89-90 | You become invisible for the next minute. During that time, other creatures can't hear
+                    you. The invisibility ends if you attack or cast a spell.
+                </text>
+                <text>91-92 | If you die within the next minute, you immediately come back to life as if by the
+                    reincarnate spell.
+                </text>
+                <text>93-94 | Your size increases by one size category for the next minute.</text>
+                <text>95-96 | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the
+                    next minute.
+                </text>
+                <text>97-98 | You are surrounded by faint, ethereal music for the next minute.</text>
+                <text>99-00 | You regain all expended sorcery points.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="2">
+            <slots>4, 3</slots>
+        </autolevel>
+        <autolevel level="2">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>2</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="2">
+            <feature>
+                <name>Font of Magic</name>
+                <text>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is
+                    represented by sorcery points, which allow you to create a variety of magical effects.
+                </text>
+                <text></text>
+                <text>Sorcery Points:</text>
+                <text>You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum
+                    of 20 at level 20. You can never have more sorcery points than shown on the table for your level.
+                    You regain all spent sorcery points when you finish a long rest.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="3">
+            <slots>4, 4, 2</slots>
+        </autolevel>
+        <autolevel level="3">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>3</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="3">
+            <feature>
+                <name>Metamagic</name>
+                <text>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the
+                    following Metamagic options of your choice. You gain another one at 10th and 17th level.
+                </text>
+                <text>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Careful Spell</name>
+                <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of
+                    those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number
+                    of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature
+                    automatically succeeds on its saving throw against the spell.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Distant Spell</name>
+                <text>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to
+                    double the range of the spell.
+                </text>
+                <text>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range
+                    of the spell 30 feet.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Empowered Spell</name>
+                <text>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage
+                    dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+                </text>
+                <text>You can use Empowered Spell even if you have already used a different Metamagic option during the
+                    casting of the spell.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Extended Spell</name>
+                <text>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to
+                    double its duration, to a maximum duration of 24 hours.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Heightened Spell</name>
+                <text>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can
+                    spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made
+                    against the spell.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Quickened Spell</name>
+                <text>When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to
+                    change the casting time to 1 bonus action for this casting.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Subtle Spell</name>
+                <text>When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal
+                    components.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+            <feature optional="YES">
+                <name>Metamagic: Twinned Spell</name>
+                <text>When you cast a spell that targets only one creature and doesn't have a range of self, you can
+                    spend a number of sorcery points equal to the spell's level to target a second creature in range
+                    with the same spell (1 sorcery point if the spell is a cantrip).
+                </text>
+                <text>To be eligible, a spell must be incapable of targeting more than one creature at the spell's
+                    current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and
+                    chromatic orb are.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="4">
+            <slots>5, 4, 3</slots>
+        </autolevel>
+        <autolevel level="4">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>4</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="4" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can
+                    increase two ability scores of your choice by 1. As normal, you can't increase an ability score
+                    above 20 using this feature.
+                </text>
+                <text>If your DM allows the use of feats, you may instead take a feat.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="5">
+            <slots>5, 4, 3, 2</slots>
+        </autolevel>
+        <autolevel level="5">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>5</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="6">
+            <slots>5, 4, 3, 3</slots>
+        </autolevel>
+        <autolevel level="6">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>6</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="6">
+            <feature>
+                <name>Sorcerous Origin feature</name>
+                <text>At 6th level, you gain a feature granted by your Sorcerous Origin.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Draconic Bloodline: Elemental Affinity</name>
+                <text>Starting at 6th level, when you cast a spell that deals damage of the type associated with your
+                    draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same
+                    time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Wild Magic: Bend Luck</name>
+                <text>Starting at 6th level, you have the ability to twist fate using your wild magic. When another
+                    creature you can see makes an attack roll, an ability check, or a saving throw, you can use your
+                    reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty
+                    (your choice) to the creature's roll. You can do so after the creature rolls but before any effects
+                    of the roll occur.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="7">
+            <slots>5, 4, 3, 3, 1</slots>
+        </autolevel>
+        <autolevel level="7">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>7</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="8">
+            <slots>5, 4, 3, 3, 2</slots>
+        </autolevel>
+        <autolevel level="8">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>8</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="8" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can
+                    increase two ability scores of your choice by 1. As normal, you can't increase an ability score
+                    above 20 using this feature.
+                </text>
+                <text>If your DM allows the use of feats, you may instead take a feat.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="9">
+            <slots>5, 4, 3, 3, 3, 1</slots>
+        </autolevel>
+        <autolevel level="9">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>9</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="10">
+            <slots>6, 4, 3, 3, 3, 2</slots>
+        </autolevel>
+        <autolevel level="10">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>10</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="10">
+            <feature>
+                <name>Metamagic</name>
+                <text>At 10th level, you learn an additional metamagic option.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="11">
+            <slots>6, 4, 3, 3, 3, 2, 1</slots>
+        </autolevel>
+        <autolevel level="11">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>11</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="12">
+            <slots>6, 4, 3, 3, 3, 2, 1</slots>
+        </autolevel>
+        <autolevel level="12">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>12</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="12" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can
+                    increase two ability scores of your choice by 1. As normal, you can't increase an ability score
+                    above 20 using this feature.
+                </text>
+                <text>If your DM allows the use of feats, you may instead take a feat.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="13">
+            <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
+        </autolevel>
+        <autolevel level="13">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>13</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="14">
+            <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
+        </autolevel>
+        <autolevel level="14">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>14</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="14">
+            <feature>
+                <name>Sorcerous Origin feature</name>
+                <text>At 14th level, you gain a feature granted by your Sorcerous Origin.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Draconic Bloodline: Dragon Wings</name>
+                <text>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a
+                    flying speed equal to your current speed. You can create these wings as a bonus action on your turn.
+                    They last until you dismiss them as a bonus action on your turn.
+                </text>
+                <text>You can't manifest your wings while wearing armor unless the armor is made to accommodate them,
+                    and clothing not made to accommodate your wings might be destroyed when you manifest them.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="14">
+            <feature optional="YES">
+                <name>Wild Magic: Controlled Chaos</name>
+                <text>At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll
+                    on the Wild Magic Surge table, you can roll twice and use either number.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="15">
+            <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+        </autolevel>
+        <autolevel level="15">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>15</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="16">
+            <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
+        </autolevel>
+        <autolevel level="16">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>16</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="16" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can
+                    increase two ability scores of your choice by 1. As normal, you can't increase an ability score
+                    above 20 using this feature.
+                </text>
+                <text>If your DM allows the use of feats, you may instead take a feat.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="17">
+            <slots>6, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
+        </autolevel>
+        <autolevel level="17">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>17</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="17">
+            <feature>
+                <name>Metamagic</name>
+                <text>At 17th level, you learn an additional metamagic option.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <slots>6, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
+        </autolevel>
+        <autolevel level="18">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>18</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="18">
+            <feature>
+                <name>Sorcerous Origin feature</name>
+                <text>At 18th level, you gain a feature granted by your Sorcerous Origin.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Draconic Bloodline: Draconic Presence</name>
+                <text>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those
+                    around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw
+                    on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute
+                    or until you lose your concentration (as if you were casting a concentration spell), each hostile
+                    creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if
+                    you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on
+                    this saving throw is immune to your aura for 24 hours.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 102</text>
+            </feature>
+        </autolevel>
+        <autolevel level="18">
+            <feature optional="YES">
+                <name>Wild Magic: Spell Bombardment</name>
+                <text>Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a
+                    spell and roll the highest number possible on any of the dice, choose one of those dice, roll it
+                    again and add that roll to the damage. You can use the feature only once per turn.
+                </text>
+                <text></text>
+                <text>Source: Player's Handbook p. 103</text>
+            </feature>
+        </autolevel>
+        <autolevel level="19">
+            <slots>6, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
+        </autolevel>
+        <autolevel level="19">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>19</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="19" scoreImprovement="YES">
+            <feature>
+                <name>Ability Score Improvement</name>
+                <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can
+                    increase two ability scores of your choice by 1. As normal, you can't increase an ability score
+                    above 20 using this feature.
+                </text>
+                <text>If your DM allows the use of feats, you may instead take a feat.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
+        <autolevel level="20">
+            <slots>6, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
+        </autolevel>
+        <autolevel level="20">
+            <counter>
+                <name>Sorcery Points</name>
+                <value>20</value>
+                <reset>L</reset>
+            </counter>
+        </autolevel>
+        <autolevel level="20">
+            <feature>
+                <name>Sorcerous Restoration</name>
+                <text>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.</text>
+                <text></text>
+                <text>Source: Player's Handbook p. 99</text>
+            </feature>
+        </autolevel>
     </class>
-  </compendium>
+</compendium>
