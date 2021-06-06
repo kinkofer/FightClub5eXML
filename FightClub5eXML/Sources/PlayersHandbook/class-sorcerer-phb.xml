@@ -45,6 +45,13 @@
         <slots>4, 2</slots>
       </autolevel>
     <autolevel level="1">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>1</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
+    <autolevel level="1">
         <feature>
           <name>Spellcasting</name>
         <text>An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.</text>
@@ -201,6 +208,13 @@
         <slots>4, 3</slots>
       </autolevel>
     <autolevel level="2">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>2</value>
+            <reset>L</reset>
+            </counter>
+    </autolevel>
+    <autolevel level="2">
         <feature>
           <name>Font of Magic</name>
         <text>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</text>
@@ -214,6 +228,13 @@
     <autolevel level="3">
         <slots>4, 4, 2</slots>
       </autolevel>
+    <autolevel level="3">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>3</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="3">
         <feature>
           <name>Metamagic</name>
@@ -277,6 +298,13 @@
     <autolevel level="4">
         <slots>5, 4, 3</slots>
       </autolevel>
+    <autolevel level="4">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>4</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="4" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -289,9 +317,23 @@
     <autolevel level="5">
         <slots>5, 4, 3, 2</slots>
       </autolevel>
+    <autolevel level="5">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>5</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="6">
         <slots>5, 4, 3, 3</slots>
       </autolevel>
+    <autolevel level="6">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>6</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="6">
         <feature>
           <name>Sorcerous Origin feature</name>
@@ -319,9 +361,23 @@
     <autolevel level="7">
         <slots>5, 4, 3, 3, 1</slots>
       </autolevel>
+    <autolevel level="7">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>7</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="8">
         <slots>5, 4, 3, 3, 2</slots>
       </autolevel>
+    <autolevel level="8">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>8</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="8" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -334,9 +390,23 @@
     <autolevel level="9">
         <slots>5, 4, 3, 3, 3, 1</slots>
       </autolevel>
+    <autolevel level="9">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>9</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="10">
         <slots>6, 4, 3, 3, 3, 2</slots>
       </autolevel>
+    <autolevel level="10">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>10</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="10">
         <feature>
           <name>Metamagic</name>
@@ -348,9 +418,23 @@
     <autolevel level="11">
         <slots>6, 4, 3, 3, 3, 2, 1</slots>
       </autolevel>
+    <autolevel level="11">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>11</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="12">
         <slots>6, 4, 3, 3, 3, 2, 1</slots>
       </autolevel>
+    <autolevel level="12">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>12</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="12" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -363,9 +447,23 @@
     <autolevel level="13">
         <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
       </autolevel>
+    <autolevel level="13">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>13</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="14">
         <slots>6, 4, 3, 3, 3, 2, 1, 1</slots>
       </autolevel>
+    <autolevel level="14">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>14</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="14">
         <feature>
           <name>Sorcerous Origin feature</name>
@@ -394,9 +492,23 @@
     <autolevel level="15">
         <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
       </autolevel>
+    <autolevel level="15">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>15</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="16">
         <slots>6, 4, 3, 3, 3, 2, 1, 1, 1</slots>
       </autolevel>
+    <autolevel level="16">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>16</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="16" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -410,6 +522,13 @@
         <slots>6, 4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
       </autolevel>
     <autolevel level="17">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>17</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
+    <autolevel level="17">
         <feature>
           <name>Metamagic</name>
         <text>At 17th level, you learn an additional metamagic option.</text>
@@ -420,6 +539,13 @@
     <autolevel level="18">
         <slots>6, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
       </autolevel>
+    <autolevel level="18">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>18</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="18">
         <feature>
           <name>Sorcerous Origin feature</name>
@@ -447,6 +573,13 @@
     <autolevel level="19">
         <slots>6, 4, 3, 3, 3, 3, 2, 1, 1, 1</slots>
       </autolevel>
+    <autolevel level="19">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>19</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="19" scoreImprovement="YES">
         <feature>
           <name>Ability Score Improvement</name>
@@ -459,6 +592,13 @@
     <autolevel level="20">
         <slots>6, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
       </autolevel>
+    <autolevel level="20">
+        <counter>
+            <name>Sorcery Points</name>
+            <value>20</value>
+            <reset>L</reset>
+        </counter>
+    </autolevel>
     <autolevel level="20">
         <feature>
           <name>Sorcerous Restoration</name>
