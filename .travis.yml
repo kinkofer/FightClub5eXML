@@ -5,7 +5,7 @@ addons:
       - xmlstarlet
       - xsltproc
 before_install:
-    - rvm install 2.3.8
+    - rvm install 2.4.5
     - gem install dropbox-deployment
 script:
     - xmlstarlet val -e FightClub5eXML/Sources/*.xml
