@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2021-08-04
+
+Removed deployment to Dropbox.
+
 ### 2020-11-16
 
 Replaced old sources with new sources.
