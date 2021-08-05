@@ -6,12 +6,9 @@ addons:
       - xsltproc
 before_install:
     - rvm install 2.3.8
-    - gem install dropbox-deployment
 script:
     - xmlstarlet val -e FightClub5eXML/Sources/*.xml
     - xmlstarlet val -e Collections/*.xml
     - xmlstarlet val -e -s Utilities/collection.xsd Collections/*.xml
     - xmlstarlet val -e -s Utilities/compendium.xsd FightClub5eXML/Sources/*.xml
     - for i in Collections/*.xml; do xsltproc -o FightClub5eXML/$i Utilities/merge.xslt $i; done
-after_success:
-    - if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then dropbox-deployment; else echo "Skip deploy for PR or Branch Validation"; fi
