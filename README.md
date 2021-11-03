@@ -14,7 +14,7 @@ This repository contains several collection files which can be found within the 
 
 Click on the green "Code" button towards the top of the page, and then click on the "Download ZIP" button on the subsequent modal popup. Extract the ZIP archive to your `Documents` folder. On Windows, this will be `C:\Users\YOUR_USER_NAME\Documents`; on macOS, this will be `/Users/YOUR_USER_NAME/Documents`.
 
-The location on yoru computer that you extract this repository to will be referred to as the **repository root** folder. The path to the repository root should be something like `C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-master` or `/Users/YOUR_USER_NAME/Documents/FightClub5eXML-master`.
+The location on your computer that you extract this repository to will be referred to as the **repository root** folder. The path to the repository root should be something like `C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-master` or `/Users/YOUR_USER_NAME/Documents/FightClub5eXML-master`.
 
 ### Install `xsltproc`
 
