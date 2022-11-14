@@ -76,21 +76,21 @@ You can find an online XML Linter or use xmllint in the command line. The schema
 Here is an example, running xmllint at the top level of the repo, using the compendium schema to validate an xml file in Sources:
 
 ```bash
-xmllint --noout --schema Utilities/compendium.xsd FightClub5eXML/Sources/CoreRulebooks.xml
+xmllint --noout --schema Utilities/compendium.xsd Sources/CoreRulebooks.xml
 ```
 
 ## Build Your Own Compendium
 
 ### Create a collection file
 
-A collection file is an XML file that lists which sources you would like to merge into your custom Compendium. It must follow this format:
+A collection file is an XML file that lists which sources you would like to merge into your custom Compendium. It must follow this format (assuming you create your file within the `Collections` directory):
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
-    <doc href="../FightClub5eXML/Sources/PlayersHandbook.xml" />
-    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide.xml" />
-    <doc href="../FightClub5eXML/Sources/MonsterManual.xml" />
+    <doc href="../Sources/PlayersHandbook.xml" />
+    <doc href="../Sources/DungeonMastersGuide.xml" />
+    <doc href="../Sources/MonsterManual.xml" />
 </collection>
 ```
 You can have one or more `<doc>` tags. Each doc must reference an xml file with a `<compendium>` root element. 
@@ -101,8 +101,4 @@ The name of the collection file will be the name of the final Compendium.
 
 With your collection in place, you're ready to build your Compendium by merging the sources together.
 
-Execute this line in your shell at the top level of the repo:
-
-```bash
-for i in Collections/*.xml; do xsltproc -o $i Utilities/merge.xslt $i; done
-```
+See the instructions to `Compile a Collection Into a Compendium` in the root-level [README](/README.md).

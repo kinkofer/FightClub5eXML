@@ -1,12 +1,14 @@
 ## CHANGE LOG
 
-### 2021-11-02
+### 2022-11-14
 
 Update the root-level README to provide clear instructions on how to use this repository to import data into Fight Club 5e.
 
 Reorganize the READMEs across the repo to better reflect the purpose of their containing directories.
 
 Rename the FightClub5eXML folder to Sources to better reflect its given purpose.
+
+Add build-collections.bat for Windows users.
 
 ### 2021-08-04
 

@@ -14,7 +14,7 @@ This repository contains several collection files which can be found within the 
 
 Click on the green "Code" button towards the top of the page, and then click on the "Download ZIP" button on the subsequent modal popup. Extract the ZIP archive to your `Documents` folder. On Windows, this will be `C:\Users\YOUR_USER_NAME\Documents`; on macOS, this will be `/Users/YOUR_USER_NAME/Documents`.
 
-The location on your computer that you extract this repository to will be referred to as the **repository root** folder. The path to the repository root should be something like `C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-master` or `/Users/YOUR_USER_NAME/Documents/FightClub5eXML-master`.
+The location on your computer that you extract this repository to will be referred to as the **repository root** folder. The path to the repository root should be something like `C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-main` or `/Users/YOUR_USER_NAME/Documents/FightClub5eXML-main`.
 
 ### Install `xsltproc`
 
@@ -36,7 +36,7 @@ You should be able to use your distro's official package manager to install eith
 
 ### Compile a Collection Into a Compendium
 
-Open a command-line terminal (such as PowerShell on Windows or Terminal on macOS) and navigate to the repository root. You can do so by executing `cd C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-master` on Windows, or `cd /Users/YOUR_USER_NAME/Documents/FightClub5eXML-master` on macOS.
+Open a command-line terminal (such as PowerShell on Windows or Terminal on macOS) and navigate to the repository root. You can do so by executing `cd C:\Users\YOUR_USER_NAME\Documents\FightClub5eXML-main` on Windows, or `cd /Users/YOUR_USER_NAME/Documents/FightClub5eXML-main` on macOS.
 
 Next, execute the `xsltproc` program to compile a collection file into a compendium file. For example, if you wanted to compile the `CoreOnly.xml` collection, you would execute the following command:
 
@@ -45,6 +45,14 @@ xsltproc -o Compendiums/CoreOnly.xml Utilities/merge.xslt Collections/CoreOnly.x
 ```
 
 After that command has completed, you should see a file called `Compendium.xml` in the newly created `Compendiums` folder. You can then download that file onto your smartphone and import it into Fight Club 5e.
+
+#### Batching
+
+The build-collection files are provided for your convenience to compile all collections within your Collections directory into compendiums.
+
+## Custom Content
+
+See the [Sources README](Sources/README.md) to learn how to add your own homebrew content or build your own compendium from select source material.
 
 ## Contributing
 
@@ -63,3 +71,5 @@ If you'd like to contribute, feel free to fork the repository and submit pull re
 `@fightclub5exml` and `@dragonahcas` for carrying the mantle.
 
 `@zcdziura` for answering user's questions.
+
+`@sheppe` for the Widows bat file.
