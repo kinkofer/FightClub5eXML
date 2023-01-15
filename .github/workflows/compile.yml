@@ -1,0 +1,42 @@
+name: Compile all collections into compendiums
+on: 
+  push:
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  compile_collections:
+    name: Compile collections
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install xsltproc
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: xsltproc
+          version: 1.0
+
+      - name: Compile collections into compendiums
+        run: |
+          cd Collections
+          for f in *.xml; do
+            xsltproc -o "../Compendiums/$f" "../Utilities/merge.xslt" "$f"
+          done
+          cd ..
+
+      - name: Zip up compendiums
+        run: zip -r compendiums.zip Compendiums/*.xml
+
+      - name: Store resulting compendiums as artifact
+        uses: actions/upload-artifact@v3
+        with: 
+          name: compendiums
+          path: compendiums.zip
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: Compendiums/*
