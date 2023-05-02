@@ -26,7 +26,7 @@
         <text></text>
         <text>Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -40,7 +40,7 @@
         <text>• Weapons: none</text>
         <text>• Tools: none</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <armor>light, medium, shields</armor>
@@ -73,7 +73,7 @@
         <text>Spellcasting Focus:</text>
         <text>   You can use a holy symbol as a spellcasting focus for your cleric spells.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 58</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -85,7 +85,7 @@
         <text>   Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</text>
         <text>   If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -169,7 +169,7 @@
           <name>Light Domain: Bonus Cantrip</name>
         <text>When you choose this domain at 1st level, you gain the light cantrip if you don't already know it.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -178,7 +178,7 @@
         <text>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</text>
         <text>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -203,7 +203,7 @@
           <name>Nature Domain: Acolyte of Nature</name>
         <text>At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -211,7 +211,7 @@
           <name>Nature Domain: Bonus Proficiency</name>
         <text>Also at 1st level, you gain proficiency with heavy armor.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -270,7 +270,7 @@
           <name>Trickery Domain: Blessing of the Trickster</name>
         <text>Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 62</text>
+        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="1">
@@ -317,7 +317,16 @@
         <text>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</text>
         <text>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 58</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Channel Divinity: Turn Undead</name>
+        <text>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
+        <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.</text>
+        <text></text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -325,7 +334,7 @@
           <name>Divine Domain feature</name>
         <text>At 2nd level, you gain a feature from your Divine Domain.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -351,7 +360,7 @@
         <text>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</text>
         <text>As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -360,7 +369,7 @@
         <text>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</text>
         <text>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -379,7 +388,7 @@
         <text>As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</text>
         <text>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 62</text>
+        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="2">
@@ -402,7 +411,7 @@
         <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="5">
@@ -413,7 +422,7 @@
           <name>Destroy Undead (CR 1/2)</name>
         <text>Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -424,7 +433,7 @@
           <name>Channel Divinity (2/rest)</name>
         <text>Beginning at 6th level, you can use your Channel Divinity twice between rests.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 58</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -432,7 +441,7 @@
           <name>Divine Domain feature</name>
         <text>At 6th level, you gain a feature from your Divine Domain.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -459,7 +468,7 @@
           <name>Light Domain: Improved Flare</name>
         <text>Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -467,7 +476,7 @@
           <name>Nature Domain: Dampen Elements</name>
         <text>Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -484,7 +493,7 @@
         <text>Starting at 6th level, you can use your Channel Divinity to vanish.</text>
         <text>As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 62</text>
+        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="6">
@@ -507,7 +516,7 @@
         <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -515,7 +524,7 @@
           <name>Destroy Undead (CR 1)</name>
         <text>Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -523,7 +532,7 @@
           <name>Divine Domain feature</name>
         <text>At 8th level, you gain a feature from your Divine Domain.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -531,7 +540,7 @@
           <name>Knowledge Domain: Potent Spellcasting</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 59</text>
+        <text>Source: Player's Handbook p. 60</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -547,7 +556,7 @@
           <name>Light Domain: Potent Spellcasting</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -555,7 +564,7 @@
           <name>Nature Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -571,7 +580,7 @@
           <name>Trickery Domain: Divine Strike</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 62</text>
+        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="8">
@@ -595,7 +604,7 @@
         <text>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.</text>
         <text>At 20th level, your call for intervention succeeds automatically, no roll required.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="11">
@@ -606,7 +615,7 @@
           <name>Destroy Undead (CR 2)</name>
         <text>Starting at 11th level, when an undead of CR 2 or lower or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="12">
@@ -618,7 +627,7 @@
         <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="13">
@@ -632,7 +641,7 @@
           <name>Destroy Undead (CR 3)</name>
         <text>Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="15">
@@ -647,7 +656,7 @@
         <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -658,7 +667,7 @@
           <name>Destroy Undead (CR 4)</name>
         <text>Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -666,7 +675,7 @@
           <name>Divine Domain feature</name>
         <text>At 17th level, you gain a feature from your Divine Domain.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -679,7 +688,7 @@
         <name>Knowledge Domain: Area Reading</name>
         <text>   As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 59</text>
+        <text>Source: Player's Handbook p. 60</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -695,7 +704,7 @@
           <name>Light Domain: Corona of Light</name>
         <text>Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 60</text>
+        <text>Source: Player's Handbook p. 61</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -703,7 +712,7 @@
           <name>Nature Domain: Master of Nature</name>
         <text>At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 61</text>
+        <text>Source: Player's Handbook p. 62</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -719,7 +728,7 @@
           <name>Trickery Domain: Improved Duplicity</name>
         <text>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 62</text>
+        <text>Source: Player's Handbook p. 63</text>
         </feature>
       </autolevel>
     <autolevel level="17">
@@ -738,7 +747,7 @@
           <name>Channel Divinity (3/rest)</name>
         <text>Beginning at 18th level, you can use your Channel Divinity three times between rests.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 58</text>
         </feature>
       </autolevel>
     <autolevel level="19">
@@ -750,7 +759,7 @@
         <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 57</text>
         </feature>
       </autolevel>
     <autolevel level="20">
@@ -761,7 +770,7 @@
           <name>Divine Intervention Improvement</name>
         <text>At 20th level, your call for intervention succeeds automatically, no roll required.</text>
         <text></text>
-        <text>Source: Player's Handbook p. 36</text>
+        <text>Source: Player's Handbook p. 59</text>
         </feature>
       </autolevel>
     </class>
