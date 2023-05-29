@@ -1,96 +1,368 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
+<!-- Tieflings -->
+	<race>
+		<name>Tiefling (BAALZEBUL)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Maladomini</name>
+			<text>You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the crown of madness spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Tiefling (DISPATER)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Dex 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Dis</name>
+			<text>You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the disguise self spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the detect throughts spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Tiefling (FIERNA)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Wis 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>A master manipulator, Fierna grants tieflings tied to her forceful personalities.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Phlegethos</name>
+			<text>You know the friends cantrip. Once you reach 3rd level, you can cast the charm person spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the suggestion spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Glasya)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Dex 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Glasya, Hell's criminal mastermind, grants her tieflings magic that is useful for committing heists.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Malbolge</name>
+			<text>You know the minor illusion cantrip. Once you reach 3rd level, you can cast the disguise self spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the invisibility spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (LEVISTUS)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Con 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Stygia</name>
+			<text>You know the ray of frost cantrip. Once you reach 3rd level, you can cast the armor of agathys spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the darkness spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (MAMMON)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Minauros</name>
+			<text>You know the mage hand cantrip. Once you reach 3rd level, you can cast the Tenser's floating disk spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the arcane lock spell, requiring no material component; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (MEPHISTOPHELES)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Cania</name>
+			<text>You know the mage hand cantrip. Once you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the branding smite spell, requiring no material component; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+<!-- Gith -->
     <race>
-      <name>Gith (Githyanki)</name>
-    <size>M</size>
-    <speed>30</speed>
-    <ability>Int 1, Str 2</ability>
-    <proficiency></proficiency>
-    <spellAbility>Intelligence</spellAbility>
-    <trait>
-        <name>Description</name>
-      <text>Source: Mordenkainen's Tome of Foes p. 96</text>
-      </trait>
-    <trait>
-        <name>Alignment</name>
-      <text>Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos.
-</text>
-      </trait>
-    <trait>
-        <name>Decadent Mastery</name>
-      <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge.
-</text>
-      </trait>
-    <trait>
-        <name>Martial Prodigy</name>
-      <text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.
-</text>
-      </trait>
-    <trait>
-        <name>Githyanki Psionics</name>
-      <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
-When you reach 3rd level, you can cast jump once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.
-Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
-</text>
-      </trait>
-    <trait>
-        <name>Age</name>
-      <text>Gith reach adulthood in their late teens and live for about a century.
-</text>
-      </trait>
-    <trait>
-        <name>Size</name>
-      <text>Gith are taller and leaner than humans, with most a slender 6 feet in height.
-</text>
-      </trait>
-    <trait>
-        <name>Languages</name>
-      <text>You can speak, read, and write Common and Gith.
-</text>
-      </trait>
+		<name>Gith (Githyanki)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Int 1, Str 2</ability>
+		<proficiency></proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Source: Mordenkainen's Tome of Foes p. 96</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+		<text>Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos.</text>
+		</trait>
+		<trait>
+			<name>Decadent Mastery</name>
+			<text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge.</text>
+		</trait>
+		<trait>
+			<name>Martial Prodigy</name>
+			<text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.</text>
+		</trait>
+		<trait>
+			<name>Githyanki Psionics</name>
+			<text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait. When you reach 3rd level, you can cast jump once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Gith reach adulthood in their late teens and live for about a century.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Gith are taller and leaner than humans, with most a slender 6 feet in height.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Gith.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Gith (Githzerai)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Int 1, Wis 2</ability>
+		<proficiency></proficiency>
+		<spellAbility>Wisdom</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Source: Mordenkainen's Tome of Foes p. 96</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.</text>
+		</trait>
+		<trait>
+			<name>Mental Discipline</name>
+			<text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.</text>
+		</trait>
+		<trait>
+			<name>Githzerai Psionics</name>
+			<text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.When you reach 3rd level, you can cast shield once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Gith reach adulthood in their late teens and live for about a century.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Gith are taller and leaner than humans, with most a slender 6 feet in height.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Gith.</text>
+		</trait>
     </race>
-  <race>
-      <name>Gith (Githzerai)</name>
-    <size>M</size>
-    <speed>30</speed>
-    <ability>Int 1, Wis 2</ability>
-    <proficiency></proficiency>
-    <spellAbility>Wisdom</spellAbility>
-    <trait>
-        <name>Description</name>
-      <text>Source: Mordenkainen's Tome of Foes p. 96</text>
-      </trait>
-    <trait>
-        <name>Alignment</name>
-      <text>Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.
-</text>
-      </trait>
-    <trait>
-        <name>Mental Discipline</name>
-      <text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
-</text>
-      </trait>
-    <trait>
-        <name>Githzerai Psionics</name>
-      <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
-When you reach 3rd level, you can cast shield once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.
-Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
-</text>
-      </trait>
-    <trait>
-        <name>Age</name>
-      <text>Gith reach adulthood in their late teens and live for about a century.
-</text>
-      </trait>
-    <trait>
-        <name>Size</name>
-      <text>Gith are taller and leaner than humans, with most a slender 6 feet in height.
-</text>
-      </trait>
-    <trait>
-        <name>Languages</name>
-      <text>You can speak, read, and write Common and Gith.
-</text>
-      </trait>
-    </race>
-  </compendium>
+</compendium>
