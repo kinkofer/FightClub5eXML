@@ -1,96 +1,700 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
+<!-- Tieflings -->
+	<race>
+		<name>Tiefling (Baalzebul)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Maladomini</name>
+			<text>You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the crown of madness spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Tiefling (Dispater)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Dex 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Dis</name>
+			<text>You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the disguise self spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the detect throughts spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Tiefling (Fierna)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Wis 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>A master manipulator, Fierna grants tieflings tied to her forceful personalities.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 21</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Phlegethos</name>
+			<text>You know the friends cantrip. Once you reach 3rd level, you can cast the charm person spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the suggestion spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Glasya)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Dex 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Glasya, Hell's criminal mastermind, grants her tieflings magic that is useful for committing heists.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Malbolge</name>
+			<text>You know the minor illusion cantrip. Once you reach 3rd level, you can cast the disguise self spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the invisibility spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Levistus)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Con 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Stygia</name>
+			<text>You know the ray of frost cantrip. Once you reach 3rd level, you can cast the armor of agathys spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the darkness spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Mammon)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Minauros</name>
+			<text>You know the mage hand cantrip. Once you reach 3rd level, you can cast the Tenser's floating disk spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the arcane lock spell, requiring no material component; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Mephistopheles)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Int 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Cania</name>
+			<text>You know the mage hand cantrip. Once you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the flame blade spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Tiefling (Zariel)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Cha 2, Str 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Charisma</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Tieflings with a blood tie to Zariel are stronger than the typical tiefling and receive magical abilities that aid them in battle.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 22</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Tieflings mature at the same rate as humans but live a few years longer.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Tieflings are about the same size and build as humans. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Hellish Resistance</name>
+			<text>You have resistance to fire damage.</text>
+		</trait>
+		<trait>
+			<name>Legacy of Avernus</name>
+			<text>You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the branding smite spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Infernal.</text>
+		</trait>
+    </race>
+<!-- Elves -->
+	<race>
+		<name>Elf (Eladrin)(MTF)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Dex 2, Cha 1</ability>
+		<proficiency>Perception</proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated witb one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin's mood:</text>
+			<text>Autumn is the season of peace and goodwill, when summer's harvest is shared with all.</text>
+			<text>Winter is the season of contemplation and dolor, when the vibrant energy of the world slumbers.</text>
+			<text>Spring is the season of cheerfulness and celebration, marked by merriment as winter's sorrow passes.</text>
+			<text>Summer is the season of boldness and aggression. a time of unfettered energy.</text>
+			<text>Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season.</text>
+			<text>When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin's current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 61</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Keen Senses</name>
+			<text>You have proficiency in the Perception skill.</text>
+		</trait>
+		<trait>
+			<name>Fey Ancestry</name>
+			<text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+		</trait>
+		<trait>
+			<name>Trance</name>
+			<text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep. If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+		</trait>
+		<trait>
+			<name>Fey Step</name>
+			<text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.</text>
+			<text>When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:</text>
+			<text>Autumn. Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.</text>
+			<text>Winter. When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</text>
+			<text>Spring. When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.</text>
+			<text>Summer. Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).</text>
+		</trait>
+    </race>
+	<race>
+		<name>Elf (Sea)(MTF)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Dex 2, Con 1</ability>
+		<proficiency>Perception</proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, the sea elves navigated the deepest currents and explored the waters across a hundred worlds. Today, they live in small, hidden communities in the ocean shallows and on the Elemental Plane of Water.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 62</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Keen Senses</name>
+			<text>You have proficiency in the Perception skill.</text>
+		</trait>
+		<trait>
+			<name>Fey Ancestry</name>
+			<text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+		</trait>
+		<trait>
+			<name>Trance</name>
+			<text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep. If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+		</trait>
+		<trait>
+			<name>Sea Elf Training</name>
+			<text>You have proficiency with the spear, trident, light crossbow, and net.</text>
+		</trait>
+		<trait>
+			<name>Child of the Sea</name>
+			<text>You have a swimming speed of 30 feet, and you can breathe air and water.</text>
+		</trait>
+		<trait>
+			<name>Friend of the Sea</name>
+			<text>Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.</text>
+		</trait>
+		<trait>
+			<name>Extra Language</name>
+			<text>You can speak, read, and write Aquan.</text>
+		</trait>
+    </race>
+	<race>
+		<name>Elf (Shadar-Kai)(MTF)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Dex 2, Con 1</ability>
+		<proficiency>Perception</proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 62</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Keen Senses</name>
+			<text>You have proficiency in the Perception skill.</text>
+		</trait>
+		<trait>
+			<name>Fey Ancestry</name>
+			<text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+		</trait>
+		<trait>
+			<name>Trance</name>
+			<text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep. If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
+		</trait>
+		<trait>
+			<name>Necrotic Resistance</name>
+			<text>You have resistance to necrotic damage.</text>
+		</trait>
+		<trait>
+			<name>Blessing of the Raven Queen</name>
+			<text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest.</text>
+			<text>Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
+		</trait>
+    </race>
+<!-- Dwarves -->
+	<race>
+		<name>Dwarf (Duergar)(MTF)</name>
+		<size>M</size>
+		<speed>25</speed>
+		<ability>Con 2, Str 1</ability>
+		<proficiency></proficiency>
+		<spellAbility></spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>The gray dwarves, or duergar, live deep in the Underdark. After delving deeper than any other dwarves, they were enslaved by mind flayers for eons. Although they eventually won their freedom, these grim, ashen-skinned dwarves now take slaves of their own and are as tyrannical as their former masters.</text>
+			<text>Physically similar to other dwarves in some ways, duergar are wiry and lean, with black eyes and bald heads, with the males growing long, unkempt, gray beards.</text>
+			<text>Duergar value toil above all else. Showing emotions other than grim determination or wrath is frowned on in their culture, but they can sometimes seem joyful when at work. They have the typical dwarven appreciation for order, tradition, and impeccable craftsmanship, but their goods are purely utilitarian, disdaining aesthetic or artistic value.</text>
+			<text>Few duergar become adventurers, fewer still on the surface world, because they are a hidebound and suspicious race. Those who leave their subterranean cities are usually exiles. Check with your Dungeon Master to see if you can play a gray dwarf character.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 81</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</text>
+		</trait>
+		<trait>
+			<name>Speed</name>
+			<text>Your speed is not reduced by wearing heavy armor.</text>
+		</trait>
+		<trait>
+			<name>Superior Darkvision</name>
+			<text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Duergar Resilience</name>
+			<text>You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being charmed or paralyzed.</text>
+		</trait>
+		<trait>
+			<name>Dwarven Combat Training</name>
+			<text>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</text>
+		</trait>
+		<trait>
+			<name>Tool Proficiency</name>
+			<text>You gain proficiency with the artisan's tools of your choice: Smith's tools, brewer's supplies, or mason's tools.</text>
+		</trait>
+		<trait>
+			<name>Stonecunning</name>
+			<text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common, Dwarvish, and Undercommon. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</text>
+		</trait>
+		<trait>
+			<name>Duergar Magic</name>
+			<text>When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
+		</trait>
+		<trait>
+			<name>Sunlight Sensitivity</name>
+			<text>You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
+		</trait>
+    </race>
+<!-- Gith -->
     <race>
-      <name>Gith (Githyanki)</name>
-    <size>M</size>
-    <speed>30</speed>
-    <ability>Int 1, Str 2</ability>
-    <proficiency></proficiency>
-    <spellAbility>Intelligence</spellAbility>
-    <trait>
-        <name>Description</name>
-      <text>Source: Mordenkainen's Tome of Foes p. 96</text>
-      </trait>
-    <trait>
-        <name>Alignment</name>
-      <text>Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos.
-</text>
-      </trait>
-    <trait>
-        <name>Decadent Mastery</name>
-      <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge.
-</text>
-      </trait>
-    <trait>
-        <name>Martial Prodigy</name>
-      <text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.
-</text>
-      </trait>
-    <trait>
-        <name>Githyanki Psionics</name>
-      <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
-When you reach 3rd level, you can cast jump once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.
-Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
-</text>
-      </trait>
-    <trait>
-        <name>Age</name>
-      <text>Gith reach adulthood in their late teens and live for about a century.
-</text>
-      </trait>
-    <trait>
-        <name>Size</name>
-      <text>Gith are taller and leaner than humans, with most a slender 6 feet in height.
-</text>
-      </trait>
-    <trait>
-        <name>Languages</name>
-      <text>You can speak, read, and write Common and Gith.
-</text>
-      </trait>
+		<name>Gith (Githyanki)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Int 1, Str 2</ability>
+		<proficiency></proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Source: Mordenkainen's Tome of Foes p. 96</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+		<text>Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos.</text>
+		</trait>
+		<trait>
+			<name>Decadent Mastery</name>
+			<text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge.</text>
+		</trait>
+		<trait>
+			<name>Martial Prodigy</name>
+			<text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.</text>
+		</trait>
+		<trait>
+			<name>Githyanki Psionics</name>
+			<text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait. When you reach 3rd level, you can cast jump once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Gith reach adulthood in their late teens and live for about a century.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Gith are taller and leaner than humans, with most a slender 6 feet in height.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Gith.</text>
+		</trait>
+	</race>
+	<race>
+		<name>Gith (Githzerai)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Int 1, Wis 2</ability>
+		<proficiency></proficiency>
+		<spellAbility>Wisdom</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Source: Mordenkainen's Tome of Foes p. 96</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.</text>
+		</trait>
+		<trait>
+			<name>Mental Discipline</name>
+			<text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.</text>
+		</trait>
+		<trait>
+			<name>Githzerai Psionics</name>
+			<text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.When you reach 3rd level, you can cast shield once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Gith reach adulthood in their late teens and live for about a century.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Gith are taller and leaner than humans, with most a slender 6 feet in height.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common and Gith.</text>
+		</trait>
     </race>
-  <race>
-      <name>Gith (Githzerai)</name>
-    <size>M</size>
-    <speed>30</speed>
-    <ability>Int 1, Wis 2</ability>
-    <proficiency></proficiency>
-    <spellAbility>Wisdom</spellAbility>
-    <trait>
-        <name>Description</name>
-      <text>Source: Mordenkainen's Tome of Foes p. 96</text>
-      </trait>
-    <trait>
-        <name>Alignment</name>
-      <text>Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.
-</text>
-      </trait>
-    <trait>
-        <name>Mental Discipline</name>
-      <text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
-</text>
-      </trait>
-    <trait>
-        <name>Githzerai Psionics</name>
-      <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
-When you reach 3rd level, you can cast shield once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.
-Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
-</text>
-      </trait>
-    <trait>
-        <name>Age</name>
-      <text>Gith reach adulthood in their late teens and live for about a century.
-</text>
-      </trait>
-    <trait>
-        <name>Size</name>
-      <text>Gith are taller and leaner than humans, with most a slender 6 feet in height.
-</text>
-      </trait>
-    <trait>
-        <name>Languages</name>
-      <text>You can speak, read, and write Common and Gith.
-</text>
-      </trait>
+<!-- Gnomes -->
+	<race>
+		<name>Gnome (Deep)(MTF)</name>
+		<size>S</size>
+		<speed>25</speed>
+		<ability>Int 2, Dex 1</ability>
+		<proficiency></proficiency>
+		<spellAbility>Intelligence</spellAbility>
+		<trait>
+			<name>Description</name>
+			<text>Forest gnomes and rock gnomes are the gnomes most commonly encountered in the lands of the surface world. There is another subrace of gnomes rarely seen by any surface-dweller: deep gnomes, also known as svirfneblin. Guarded, and suspicious of outsiders, svirfneblin are cunning and taciturn, but can be just as kind-hearted, loyal, and compassionate as their surface cousins.</text>
+			<text>Source: Mordenkainen's Tome of Foes p. 113</text>
+		</trait>
+		<trait>
+			<name>Natural Illusionist</name>
+			<text>You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.</text>
+		</trait>
+		<trait>
+			<name>Speak with Small Beasts</name>
+			<text>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</text>
+		</trait>
+		<trait>
+			<name>Age</name>
+			<text>Short-lived compared to other gnomes, deep gnomes mature at the same rate humans do and are considered full-grown adults by age 25. They live 200 to 250 years, although toil and the dangers of the Underdark often claim them before their time.</text>
+		</trait>
+		<trait>
+			<name>Alignment</name>
+			<text>Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others, except those dearest to them.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>Unlike other gnomes, svirfneblin tend to weigh 80 to 120 pounds. Your size is Small.</text>
+		</trait>
+		<trait>
+			<name>Superior Darkvision</name>
+			<text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Gnome Cunning</name>
+			<text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
+		</trait>
+		<trait>
+			<name>Languages</name>
+			<text>You can speak, read, and write Common, Gnomish and Undercommon. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</text>
+		</trait>
+		<trait>
+			<name>Stone Camouflage</name>
+			<text>You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.</text>
+		</trait>
     </race>
-  </compendium>
+</compendium>
